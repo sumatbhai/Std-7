@@ -1356,3 +1356,161 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "3 કિમી નો 300 મીટર સાથેનો ગુણોત્તર કેટલો થાય?\n(A) 1 : 10\n(B) 10 : 1\n(C) 1 : 100\n(D) 100 : 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10 : 1</p><p>3 કિમી = 3000 મીટર. તેથી, 3000 : 300 = 10 : 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર શોધતા પહેલા એકમો સમાન કરવા જરૂરી છે (1 કિમી = 1000 મીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "1/4 ને ટકામાં ફેરવતા શું મળે?\n(A) 20%\n(B) 25%\n(C) 40%\n(D) 50%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 25%</p><p>1/4 × 100 = 25%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકને ટકામાં ફેરવવા માટે હંમેશા 100 વડે ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "0.75 ને ટકામાં ફેરવો.\n(A) 7.5%\n(B) 0.75%\n(C) 75%\n(D) 750%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 75%</p><p>0.75 × 100 = 75%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્નને બે સ્થળ જમણી બાજુ ખસેડો એટલે ટકા મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો 25 માંથી 15 બાળકોને ક્રિકેટ ગમતું હોય, તો કેટલા ટકા બાળકોને ક્રિકેટ ગમે છે?\n(A) 15%\n(B) 40%\n(C) 60%\n(D) 75%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 60%</p><p>(15/25) × 100 = 15 × 4 = 60%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની ટકાવારી શોધવાની હોય તે સંખ્યા ઉપર અને કુલ સંખ્યા નીચે લખી 100 વડે ગુણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "3 : 4 નો ટકાવારીમાં ગુણોત્તર કેટલો થાય?\n(A) 75%\n(B) 34%\n(C) 43%\n(D) 80%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 75%</p><p>3/4 × 100 = 75%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે 25%, તો 3/4 એટલે 25 × 3 = 75% મોઢે યાદ રાખી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "250 ના 15% કેટલા થાય?\n(A) 37.5\n(B) 40\n(C) 35\n(D) 42.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 37.5</p><p>250 × 15/100 = 37.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ના' એટલે ગુણાકાર અને 'ટકા' એટલે છેદમાં 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કઈ સંખ્યાના 25% એટલે 9 થાય?\n(A) 30\n(B) 36\n(C) 40\n(D) 45",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 36</p><p>x ના 25% = 9 => x × 25/100 = 9 => x = 9 × 4 = 36.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25% એટલે ચોથો ભાગ. કઈ સંખ્યાનો ચોથો ભાગ 9 થાય? 9 × 4 = 36!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક વસ્તુ ₹ 200 માં ખરીદી ₹ 250 માં વેચતા કેટલા ટકા નફો થાય?\n(A) 20%\n(B) 25%\n(C) 50%\n(D) 10%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 25%</p><p>નફો = 250 - 200 = 50. નફો % = (50/200) × 100 = 25%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નફો કે ખોટ હંમેશા મૂળકિંમત પર જ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાદા વ્યાજનું સૂત્ર કયું છે?\n(A) I = PRT/100\n(B) I = P + R + T\n(C) I = PR/100\n(D) I = 100/PRT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) I = PRT/100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PRT' યાદ રાખો - Principal (મુદ્દલ), Rate (વ્યાજનો દર), Time (મુદત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "₹ 500 નું 10% લેખે 2 વર્ષનું સાદું વ્યાજ કેટલું થાય?\n(A) ₹ 50\n(B) ₹ 100\n(C) ₹ 150\n(D) ₹ 200",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ₹ 100</p><p>I = (500 × 10 × 2) / 100 = 100.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 વર્ષનું 10% એટલે 50, તો 2 વર્ષનું 100!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો મૂળકિંમત > વેચાણકિંમત હોય, તો શું થાય?\n(A) નફો\n(B) ખોટ\n(C) નફો પણ નહીં અને ખોટ પણ નહીં\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખોટ</p><p>જ્યારે ખરીદ ભાવ કરતા વેચાણ ભાવ ઓછો હોય ત્યારે નુકસાન (ખોટ) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઘું લાવ્યા (મૂ.કિ.) અને સસ્તું વેચ્યું (વે.કિ.) = ખોટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "5 : 100 ને અતિસંક્ષિપ્ત સ્વરૂપમાં લખતા શું મળે?\n(A) 1 : 20\n(B) 1 : 5\n(C) 1 : 10\n(D) 5 : 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1 : 20</p><p>5/100 = 1/20.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને સંખ્યાને સમાન અંક વડે ભાગી શકાય ત્યાં સુધી ભાગતા રહો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "એક શહેરની વસ્તી 25,000 થી ઘટીને 24,500 થઈ, તો કેટલા ટકા ઘટાડો થયો?\n(A) 1%\n(B) 2%\n(C) 3%\n(D) 5%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2%</p><p>ઘટાડો = 500. ઘટાડો % = (500/25000) × 100 = 2%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાવારીમાં ફેરફાર = (તફાવત / મૂળ કિંમત) × 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "₹ 1200 માં ખરીદેલી સાયકલ ₹ 1500 માં વેચતા કેટલા ટકા નફો થાય?\n(A) 20%\n(B) 25%\n(C) 30%\n(D) 15%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 25%</p><p>નફો = 300. નફો % = (300/1200) × 100 = 25%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 300 એ 1200 નો ચોથો ભાગ છે, એટલે કે 25%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વ્યાજમૂદલ શોધવાનું સૂત્ર કયું છે?\n(A) A = P + I\n(B) A = P - I\n(C) A = P × I\n(D) A = P / I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) A = P + I</p><p>વ્યાજમૂદલ = મુદ્દલ + વ્યાજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' એટલે Amount (કુલ રકમ), જે વ્યાજ અને મુદ્દલનો સરવાળો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "0.02 ને ટકામાં ફેરવતા શું મળે?\n(A) 20%\n(B) 0.2%\n(C) 2%\n(D) 200%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2%</p><p>0.02 × 100 = 2%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ પછી જેટલા આંકડા હોય તેટલા મીંડા નીચે મૂકી 100 સાથે ઉડાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "2 : 3 અને 4 : 6 એ સમાન ગુણોત્તર છે? \n(A) હા\n(B) ના\n(C) કહી શકાય નહીં\n(D) અશક્ય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હા</p><p>4/6 = 2/3 (બે વડે ભાગતા). તેથી બંને સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરને અતિસંક્ષિપ્ત રૂપમાં ફેરવો, જો જવાબ સરખો આવે તો તે સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "₹ 8000 નું 9% લેખે 1 વર્ષનું વ્યાજ કેટલું થાય?\n(A) ₹ 72\n(B) ₹ 720\n(C) ₹ 800\n(D) ₹ 900",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ₹ 720</p><p>I = (8000 × 9 × 1) / 100 = 720.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 80 × 9 કરો (8000 ના બે મીંડા 100 સાથે ઉડી ગયા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "25% નું દશાંશ સ્વરૂપ શું થાય?\n(A) 2.5\n(B) 0.25\n(C) 0.025\n(D) 25.0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.25</p><p>25/100 = 0.25.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: % દૂર કરવા માટે ડાબી બાજુ બે દશાંશ સ્થળ ખસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો 10 પેનની કિંમત ₹ 50 હોય, તો 15 પેનની કિંમત કેટલી?\n(A) ₹ 60\n(B) ₹ 70\n(C) ₹ 75\n(D) ₹ 80",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹ 75</p><p>1 પેન = 50/10 = ₹ 5. 15 પેન = 15 × 5 = ₹ 75.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આને પદની રીતે ઉકેલો: 10 -> 50, તો 15 -> ? (15 × 50 / 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "60% ને અપૂર્ણાંકના અતિસંક્ષિપ્ત સ્વરૂપમાં લખો.\n(A) 3/5\n(B) 6/10\n(C) 1/5\n(D) 2/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3/5</p><p>60/100 = 6/10 = 3/5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20% = 1/5, તો 60% = 3/5 (20 ના 3 ગણા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રૂપિયા 5 નો 50 પૈસા સાથેનો ગુણોત્તર શોધો.\n(A) 1 : 10\n(B) 10 : 1\n(C) 1 : 5\n(D) 5 : 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10 : 1</p><p>₹ 5 = 500 પૈસા. 500 : 50 = 10 : 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા મોટી રકમને નાના એકમમાં ફેરવી દેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "8.4 ને ટકામાં ફેરવતા શું મળે?\n(A) 84%\n(B) 0.84%\n(C) 840%\n(D) 8.4%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 840%</p><p>8.4 × 100 = 840%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકા હંમેશા 100 ના આધારે હોય, એટલે 100 થી ગુણવાનું ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો એક રમકડાની કાર ₹ 200 માં ખરીદી ₹ 180 માં વેચવામાં આવે, તો કેટલા ટકા ખોટ થાય?\n(A) 10%\n(B) 20%\n(C) 15%\n(D) 5%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 10%</p><p>ખોટ = 20. ખોટ % = (20/200) × 100 = 10%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 200 ના 10% એટલે 20 થાય, સીધું જ ખ્યાલ આવી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચોકલેટના એક પેકેટમાં 20 ચોકલેટ છે. જો રીનાએ 25% ચોકલેટ ખાધી હોય, તો તેણે કેટલી ચોકલેટ ખાધી?\n(A) 4\n(B) 5\n(C) 10\n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><p>20 ના 25% = 20 × 1/4 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25% એટલે ચોથો ભાગ (20 ÷ 4 = 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "1 કલાકના 1% એટલે કેટલી સેકન્ડ થાય?\n(A) 36 સેકન્ડ\n(B) 60 સેકન્ડ\n(C) 1 સેકન્ડ\n(D) 10 સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 36 સેકન્ડ</p><p>1 કલાક = 3600 સેકન્ડ. 3600 ના 1% = 36.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કલાકની સેકન્ડ (3600) માંથી છેલ્લા બે મીંડા કાઢી નાખો (1% શોધવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "0.1 ને ટકામાં ફેરવતા શું મળે?\n(A) 1%\n(B) 10%\n(C) 100%\n(D) 0.1%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10%</p><p>0.1 × 100 = 10%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.1 એટલે દસમો ભાગ, અને 100 નો દસમો ભાગ એટલે 10%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો P = ₹ 1000, R = 5%, T = 1 વર્ષ હોય તો વ્યાજમૂદલ શોધો.\n(A) ₹ 1050\n(B) ₹ 50\n(C) ₹ 1100\n(D) ₹ 1500",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ₹ 1050</p><p>I = 1000 × 5 / 100 = 50. A = 1000 + 50 = 1050.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાજમૂદલ એટલે વ્યાજ ઉમેર્યા પછીની રકમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "1/2 ને ટકામાં ફેરવતા શું મળે?\n(A) 20%\n(B) 50%\n(C) 25%\n(D) 100%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50%</p><p>1/2 × 100 = 50%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 એટલે અડધું, અને 100 ના અડધા એટલે 50!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "2 : 5 ને ટકામાં ફેરવતા શું મળે?\n(A) 20%\n(B) 40%\n(C) 50%\n(D) 25%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40%</p><p>2/5 × 100 = 2 × 20 = 40%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/5 = 20%, તો 2/5 = 40%.</p></div>"
+    }
+  ]
+}
