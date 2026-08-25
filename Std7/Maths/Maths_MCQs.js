@@ -1993,3 +1993,191 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "2^5 (બે ની પાંચ ઘાત) ની કિંમત શું થાય?",
+      "options": "A) 10, B) 25, C) 32, D) 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 32 (2 × 2 × 2 × 2 × 2 = 32)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત એટલે ગુણાકારનું પુનરાવર્તન. 2 ને 5 વખત ગુણતા 32 આવે, 2 x 5 = 10 નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોઈપણ શૂન્ય સિવાયની સંખ્યાની 'ઝીરો' (0) ઘાત એટલે કેટલી કિંમત?",
+      "options": "A) 0, B) 1, C) તે સંખ્યા પોતે, D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથે મીંડું (0) તો જવાબ 'એકડો' (1)! ગમે તેટલી મોટી સંખ્યા હોય, જો ઘાત 0 હોય તો જવાબ હંમેશા 1 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "(-1) ની એકી સંખ્યામાં ઘાત હોય તો જવાબ શું આવે?",
+      "options": "A) 1, B) 0, C) -1, D) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી ઘાત = માઈનસ (-), બેકી ઘાત = પ્લસ (+). આ નિયમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "a^m × a^n = _______",
+      "options": "A) a^(m-n), B) a^(m+n), C) a^(mn), D) (2a)^(m+n)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) a^(m+n)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર સરખો અને વચ્ચે 'ગુણાકાર' હોય, તો ઘાતનો 'સરવાળો' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "81 ને 3 ના ઘાત સ્વરૂપે કેવી રીતે લખાય?",
+      "options": "A) 3^2, B) 3^3, C) 3^4, D) 3^5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 3^4 (3 × 3 × 3 × 3 = 81)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ પાડો: 81 = 9 x 9 = (3x3) x (3x3). કુલ ચાર તગડા એટલે 3^4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "10,00,000 ને 10 ના ઘાત સ્વરૂપે દર્શાવો.",
+      "options": "A) 10^5, B) 10^6, C) 10^7, D) 10^4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10^6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા મીંડા (zeros) હોય, તેટલી જ 10 ની ઘાત મૂકી દેવી. અહીં 6 મીંડા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "a^m ÷ a^n (જ્યાં m > n) = _______",
+      "options": "A) a^(m+n), B) a^(mn), C) a^(m-n), D) a^(n-m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) a^(m-n)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર સરખો અને વચ્ચે 'ભાગાકાર' હોય, તો ઘાતની 'બાદબાકી' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "(5^2)^3 ની કિંમત શું થાય?",
+      "options": "A) 5^5, B) 5^6, C) 5^1, D) 25^2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 5^6 (2 × 3 = 6)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતની ઉપર ઘાત હોય તો તેનો ગુણાકાર થાય. (Power to the Power = Multiply!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "10^2 × 10^5 = ______",
+      "options": "A) 10^10, B) 100^7, C) 10^7, D) 10^3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 10^7 (2 + 5 = 7)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં ઘાતનો સરવાળો: 2 + 5 = 7. આધાર 10 જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "(-3)^4 ની કિંમત શું થાય?",
+      "options": "A) -81, B) 81, C) -12, D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 81</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 'બેકી' (4) છે, તેથી માઈનસ ચિન્હ નીકળી જશે અને જવાબ પ્લસ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "125 ને 5 ના ઘાત સ્વરૂપે લખો.",
+      "options": "A) 5^2, B) 5^4, C) 5^3, D) 25^5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 5^3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 x 5 = 25; 25 x 5 = 125. કુલ 3 વાર 5 આવ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રમાણિત સ્વરૂપમાં લખો: 3,90,878",
+      "options": "A) 3.90878 × 10^5, B) 39.0878 × 10^4, C) 3.90878 × 10^4, D) 3.90878 × 10^6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 3.90878 × 10^5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ અંક પછી દશાંશ ચિન્હ મૂકો અને પછી જેટલા અંક પાછળ વધે તેટલી 10 ની ઘાત ચડાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "2^3 અને 3^2 માંથી કયું મોટું છે?",
+      "options": "A) 2^3, B) 3^2, C) બંને સરખા છે, D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 3^2 (કારણ કે 2^3 = 8 અને 3^2 = 9)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા કિંમત શોધીને સરખામણી કરવી, મોટા આંકડા જોઈને અંદાજો ન મારવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "7^2 × 2^2 = ______",
+      "options": "A) 14^2, B) 9^2, C) 14^4, D) 49^4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 14^2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘાત સરખી હોય, તો આધારનો ગુણાકાર કરી શકાય (7 x 2 = 14) અને ઘાત એની એ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "100^0 + 20^0 + 5^0 = ____",
+      "options": "A) 125, B) 0, C) 3, D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 + 1 + 1 = 3. કારણ કે કોઈપણ સંખ્યાની 0 ઘાત એટલે 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "10^4 માં 'આધાર' કયો છે?",
+      "options": "A) 4, B) 10, C) 40, D) 10000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નીચે બેઠો હોય તે 'આધાર' (Base) અને જે માથે હોય તે 'ઘાતાંક' (Exponent).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "(2^2 × 2^3)^2 = ____",
+      "options": "A) 2^7, B) 2^10, C) 2^12, D) 2^8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 2^10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની અંદર સરવાળો (2+3=5), પછી બહારની ઘાત સાથે ગુણાકાર (5x2=10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "300000000 m/s ને પ્રમાણિત સ્વરૂપે લખો.",
+      "options": "A) 3 × 10^8, B) 3 × 10^7, C) 30 × 10^7, D) 0.3 × 10^9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 3 × 10^8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 પછી 8 શૂન્ય છે, એટલે સીધું 3 x 10^8 લખી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો 2^x = 16 હોય, તો x ની કિંમત શોધો.",
+      "options": "A) 2, B) 3, C) 4, D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 4 (કારણ કે 2^4 = 16)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ને ત્યાં સુધી ગુણો જ્યાં સુધી 16 ન આવે (2-4-8-16). 4 સ્ટેપ એટલે x = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "(-2)^3 ની કિંમત શું થાય?",
+      "options": "A) 8, B) -8, C) 6, D) -6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) -8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 3 (એકી) છે, એટલે જવાબમાં માઈનસ ચિન્હ રહેશે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "a^m / b^m = _______",
+      "options": "A) (a/b)^m, B) (a-b)^m, C) (ab)^m, D) a/b^m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) (a/b)^m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘાતાંક સરખા હોય, તો આધારનો ભાગાકાર કરી આખા કૌંસ પર ઘાત લગાડી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "5^4 ÷ 5^4 = ____",
+      "options": "A) 5, B) 0, C) 1, D) 5^8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખી સંખ્યાનો ભાગાકાર હંમેશા 1 થાય (અથવા 5^(4-4) = 5^0 = 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "64 ને 2 ના ઘાત તરીકે દર્શાવો.",
+      "options": "A) 2^5, B) 2^6, C) 2^7, D) 2^8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 2^6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2-4-8-16-32-64. આ રીતે આંગળીના વેઢે ગણો, 6 સ્ટેપ એટલે 2^6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "10^3 × 10^0 = ____",
+      "options": "A) 0, B) 10^3, C) 10^0, D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10^3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાને 10^0 (એટલે કે 1) વડે ગુણતા સંખ્યા પોતે જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પ્રમાણિત સ્વરૂપ: 0.00007 ને કેવી રીતે લખાય? (ધોરણ 7 મુજબ)",
+      "options": "A) 7 × 10^-5, B) 7 × 10^5, C) 0.7 × 10^-4, D) 70 × 10^-6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 7 × 10^-5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિન્હ જમણી બાજુ જેટલા સ્ટેપ ખસે, તેટલી 10 ની 'ઋણ' ઘાત આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "4^3 ની કિંમત ______ છે.",
+      "options": "A) 12, B) 64, C) 16, D) 81",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 64</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 x 4 = 16, 16 x 4 = 64. વર્ગ અને ઘન મોઢે રાખવા ફાયદાકારક છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "(10^2)^4 = ____",
+      "options": "A) 10^6, B) 10^16, C) 10^8, D) 10^24",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 10^8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતનો ગુણાકાર: 2 x 4 = 8. જવાબ 10^8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "1,000 ને ઘાત સ્વરૂપે દર્શાવતા કયો વિકલ્પ સાચો છે?",
+      "options": "A) 10^2, B) 10^3, C) 10^4, D) 10^1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10^3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 મીંડા = 3 ઘાત. Simple!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "(-1)^20 = ____",
+      "options": "A) -1, B) 1, C) 20, D) -20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 એ 'બેકી' (even) સંખ્યા છે, તેથી ઋણ સંખ્યાની બેકી ઘાત ધન (+) થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "2^0 + 3^0 + 4^0 + 5^0 = ____",
+      "options": "A) 0, B) 14, C) 4, D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 + 1 + 1 + 1 = 4. દરેક પદની કિંમત 1 છે.</p></div>"
+    }
+  ]
+}
