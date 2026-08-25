@@ -1860,3 +1860,136 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિ (Algebraic Expressions)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચલ 'x' અને અચલ '5' ના સરવાળાને બીજગણિતીય રીતે કેવી રીતે લખાય?\n(A) 5x\n(B) x + 5\n(C) x - 5\n(D) x / 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x + 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સરવાળો' શબ્દ આવે એટલે પદોની વચ્ચે '+' ની નિશાની જ મુકવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પદાવલિ 4x - 3y માં 'y' નો સહગુણક શું છે?\n(A) 4\n(B) 3\n(C) -3\n(D) -3y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહગુણક એટલે ચલની આગળની સંખ્યા, નિશાની સાથે જ લેવી (નિશાની ભૂલવી નહીં!). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેનામાંથી કઈ પદાવલિ 'એકપદી' છે?\n(A) 5x + 2\n(B) 7xy\n(C) a + b + c\n(D) x^2 - 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7xy</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં સુધી વચ્ચે + કે - ની નિશાની ન આવે ત્યાં સુધી તે એક જ પદ ગણાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પદાવલિ 3x^2 - 5x + 8 માં અચલ પદ કયું છે?\n(A) 3\n(B) -5\n(C) 8\n(D) x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચલ એટલે જેની સાથે કોઈ ABCD (ચલ) જોડાયેલ ન હોય તે એકલો આંકડો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "7x અને 4y એ કેવા પ્રકારના પદો છે?\n(A) સજાતીય પદો\n(B) વિજાતીય પદો\n(C) સમાન પદો\n(D) અચલ પદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિજાતીય પદો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ચલ (અક્ષર) અલગ-અલગ હોય, તો તે વિજાતીય પદો જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો x = 2 હોય, તો 3x + 5 ની કિંમત શું થાય?\n(A) 10\n(B) 11\n(C) 13\n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ની જગ્યાએ 2 મૂકો: 3(2)+5 = 6+5 = 11. પદાવલિમાં કિંમત મૂકતા કૌંસનો ઉપયોગ કરો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પદાવલિ 12x^2y માં x^2 નો સહગુણક જણાવો.\n(A) 12\n(B) 12y\n(C) y\n(D) 12x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો સહગુણક પૂછ્યો હોય તેને ઢાંકી દો, બાકી જે વધે તે તેનો સહગુણક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેનામાંથી સજાતીય પદોની જોડી કઈ છે?\n(A) 3x, 3y\n(B) 5ab, -2ba\n(C) 4x^2, 4x\n(D) 2z, 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5ab, -2ba</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ બદલાય તો ચાલે (ab = ba), પણ અક્ષરો અને તેની ઘાત સરખી હોવી જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દ્વિપદી પદાવલિમાં કુલ કેટલા પદો હોય છે?\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્વિ' એટલે બે. જેમ સાયકલના બે પૈડાં હોય તેમ દ્વિપદીમાં બે પદો હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "x + x + x ને ટૂંકમાં કેવી રીતે લખાય?\n(A) x^3\n(B) 3x\n(C) 3 + x\n(D) 3^x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3x</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો હોય તો આગળ ગુણાય (3x), અને ગુણાકાર હોય તો માથે ઘાત ચડે (x³). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પદાવલિ 5x - 10 માંથી 5 સામાન્ય કાઢતા શું વધે?\n(A) x - 10\n(B) 5(x - 5)\n(C) 5(x - 2)\n(D) x - 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5(x - 2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય કાઢવું એટલે તે સંખ્યા વડે દરેક પદને ભાગવા. 10 ÷ 5 = 2. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "-x નો અર્થ શું થાય?\n(A) 0 - x\n(B) (-1) × x\n(C) x - 1\n(D) -1 + x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (-1) × x</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈ સંખ્યા ન દેખાય ત્યારે ત્યાં '1' છુપાયેલો હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "3x^2y અને -5xy^2 એ સજાતીય પદો છે?\n(A) હા\n(B) ના\n(C) કહી શકાય નહીં\n(D) માત્ર x માટે હા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષર સરખા છે પણ ઘાત અલગ છે (પહેલામાં x² છે, બીજામાં x છે), એટલે વિજાતીય કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો n = 5 હોય, તો 10 - n ની કિંમત શોધો.\n(A) 15\n(B) 5\n(C) -5\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 માંથી 5 બાદ કરતા 5 વધે. સાદું બાદબાકીનું ગણિત! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પદાવલિ (x + y) - (x - y) નું સાદું રૂપ શું થાય?\n(A) 0\n(B) 2x\n(C) 2y\n(D) x + y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની બહાર '-' હોય તો અંદરની નિશાની બદલાય. x + y - x + y = 2y. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ત્રિપદી પદાવલિનું ઉદાહરણ કયું છે?\n(A) x + y\n(B) 3x^2 + 2x + 5\n(C) 7abc\n(D) x^4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3x^2 + 2x + 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ પદોને જુદા પાડવા માટે બે નિશાનીઓ (+ અથવા -) હોવી જરૂરી છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'y ના 3 ગણામાંથી 2 બાદ કરતા' - આ વિધાનને પદાવલિ રૂપે લખો.\n(A) 3 - 2y\n(B) 2y - 3\n(C) 3y - 2\n(D) y/3 - 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3y - 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગણા' એટલે ગુણાકાર અને 'બાદ' એટલે ઓછા (-). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "-4x અને 7x નો સરવાળો કેટલો થાય?\n(A) 11x\n(B) -3x\n(C) 3x\n(D) -11x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3x</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલગ-અલગ નિશાની હોય તો બાદબાકી થાય અને મોટા પદની નિશાની આવે. 7 - 4 = 3. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પદાવલિ 1 + x + x^2 માં x નો સહગુણક શું છે?\n(A) 0\n(B) 1\n(C) 2\n(D) x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની આગળ કોઈ આંકડો ન હોય તેની આગળ હંમેશા 'એકડો' (1) હોય જ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો a = 1 અને b = -1 હોય, તો a + b ની કિંમત શું થાય?\n(A) 2\n(B) -2\n(C) 0\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી સંખ્યાઓનો સરવાળો હંમેશા શૂન્ય (0) જ થાય. 1 + (-1) = 0. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "x^2 - y^2 એ કેવી પદાવલિ છે?\n(A) એકપદી\n(B) દ્વિપદી\n(C) ત્રિપદી\n(D) અચલ પદાવલિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દ્વિપદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં બે પદો (x² અને y²) 'માઈનસ' થી જોડાયેલા છે, તેથી દ્વિપદી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "3ab માં અવયવો કયા કયા છે?\n(A) 3, a, b\n(B) 3, ab\n(C) 3a, b\n(D) 3b, a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3, a, b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદના દરેક હિસ્સાને અલગ કરો એટલે તેના અવયવો મળી જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પદાવલિ 4x - 5 માંથી 5 બાદ કરતા શું મળે?\n(A) 4x\n(B) 4x - 10\n(C) 4x + 10\n(D) -x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4x - 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4x - 5 - 5. સમાન નિશાની એટલે સરવાળો: 5 + 5 = 10, નિશાની માઈનસની. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેનામાંથી કયું પદ 2x^2y ને સજાતીય છે?\n(A) 2xy^2\n(B) 5x^2y\n(C) 2x^2\n(D) 2y^2x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5x^2y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળની સંખ્યા ગમે તે હોય, પાછળના અક્ષરો અને તેની ઘાત 'બેઠઠી' હોવી જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો x = 0 હોય, તો 5x^2 + 3x + 7 ની કિંમત શું થાય?\n(A) 0\n(B) 15\n(C) 7\n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો x = 0 હોય, તો જે પદોમાં x હોય તે બધા 'ઝીરો' થઈ જાય, માત્ર અચલ પદ વધે. (NJ Classes)</p></div>"
+    }
+  ]
+}
