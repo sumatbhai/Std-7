@@ -1672,3 +1672,191 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પરિમિતિ અને ક્ષેત્રફળ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બાજુનું માપ 'a' હોય તેવા ચોરસની પરિમિતિ શોધવાનું સૂત્ર કયું છે?",
+      "options": "A) a²  B) 4a  C) 2a  D) 4+a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 4a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની ચારેય બાજુ સરખી હોય, તેથી પરિમિતિ એટલે 4 ગુણ્યા બાજુ (4 × a).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક લંબચોરસની લંબાઈ 10 સેમી અને પહોળાઈ 5 સેમી છે, તો તેનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": "A) 15 ચો.સેમી  B) 30 ચો.સેમી  C) 50 ચો.સેમી  D) 25 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 50 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ = લંબાઈ × પહોળાઈ (10 × 5 = 50).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાંતરબાજુ ચતુષ્કોણના ક્ષેત્રફળનું સૂત્ર શું છે?",
+      "options": "A) 1/2 × આધાર × ઊંચાઈ  B) લંબાઈ × પહોળાઈ  C) આધાર × ઊંચાઈ  D) 2 × (લંબાઈ + પહોળાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) આધાર × ઊંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુમાં માત્ર 'પાયો' અને 'વેધ' (આધાર અને ઊંચાઈ) નો ગુણાકાર જ કરવાનો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ત્રિકોણનું ક્ષેત્રફળ = 1/2 × ______ × ઊંચાઈ. ખાલી જગ્યા પૂરો.",
+      "options": "A) પરિમિતિ  B) ત્રિજ્યા  C) આધાર (પાયો)  D) કર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) આધાર (પાયો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ એ સમાંતરબાજુ ચતુષ્કોણથી અડધો ભાગ છે, એટલે ક્ષેત્રફળમાં પણ અડધું (1/2) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "7 સેમી ત્રિજ્યાવાળા વર્તુળનો પરિધ કેટલો થાય? (π = 22/7 લો)",
+      "options": "A) 22 સેમી  B) 44 સેમી  C) 154 સેમી  D) 88 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 44 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળનો પરિધ = 2πr. જો r = 7 હોય, તો 2 × (22/7) × 7 = 44. યાદ રાખો: r=7 તો પરિધ=44 અને ક્ષેત્રફળ=154.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વર્તુળના ક્ષેત્રફળનું સૂત્ર કયું છે?",
+      "options": "A) 2πr  B) πd  C) πr²  D) 2πr²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) πr²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ હંમેશા 'વર્ગ' (Square) માં હોય, એટલે સૂત્રમાં r² આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "1 m² બરાબર કેટલા cm² થાય?",
+      "options": "A) 100  B) 1,000  C) 10,000  D) 100,000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 10,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1m = 100cm, તો 1 m² = 100 × 100 = 10,000 cm².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક ચોરસની પરિમિતિ 40 સેમી છે, તો તેની બાજુની લંબાઈ કેટલી હશે?",
+      "options": "A) 20 સેમી  B) 10 સેમી  C) 5 સેમી  D) 160 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિને 4 વડે ભાગી નાખો (40 ÷ 4 = 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો વર્તુળનો વ્યાસ 14 સેમી હોય, તો તેની ત્રિજ્યા કેટલી થાય?",
+      "options": "A) 28 સેમી  B) 7 સેમી  C) 14 સેમી  D) 21 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 7 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિજ્યા એ હંમેશા વ્યાસની અડધી હોય (14 ÷ 2 = 7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "1 હેક્ટર બરાબર કેટલા મીટર² થાય?",
+      "options": "A) 100  B) 1,000  C) 10,000  D) 100,000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 10,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100m લંબાઈ અને 100m પહોળાઈ ધરાવતા ચોરસ ખેતરને 1 હેક્ટર કહેવાય (100 × 100 = 10,000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમાંતરબાજુ ચતુષ્કોણનો આધાર 8 સેમી અને ઊંચાઈ 3 સેમી હોય તો ક્ષેત્રફળ કેટલું?",
+      "options": "A) 11 ચો.સેમી  B) 24 ચો.સેમી  C) 12 ચો.સેમી  D) 16 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 24 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધો ગુણાકાર કરો: 8 × 3 = 24.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાટકોણ ત્રિકોણમાં પાયો 6 સેમી અને વેધ (ઊંચાઈ) 4 સેમી હોય તો ક્ષેત્રફળ કેટલું?",
+      "options": "A) 24 ચો.સેમી  B) 12 ચો.સેમી  C) 10 ચો.સેમી  D) 48 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 12 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર કરીને અડધું કરી નાખો! (6 × 4 = 24, 24 ના અડધા 12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વર્તુળની ત્રિજ્યા બમણી કરવામાં આવે તો પરિધમાં શું ફેરફાર થાય?",
+      "options": "A) અડધો થાય  B) ચાર ગણો થાય  C) બમણો થાય  D) કોઈ ફેરફાર ન થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) બમણો થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિધ એ r ના સમપ્રમાણમાં છે, એટલે જો r બમણો તો પરિધ પણ બમણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "π (પાઈ) ની કિંમત આશરે કેટલી લેવામાં આવે છે?",
+      "options": "A) 22/7  B) 7/22  C) 3.41  D) 21/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 22/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: π = 22/7 અથવા 3.14 આ બે કિંમતો યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અર્ધવર્તુળની પરિમિતિ (ચાપની લંબાઈ + વ્યાસ) માં ચાપની લંબાઈનું સૂત્ર શું છે?",
+      "options": "A) 2πr  B) πr  C) πr²  D) 2π",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) πr</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું વર્તુળ 2πr હોય, તો અડધું πr થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો કોઈ વર્તુળનો પરિધ 88 સેમી હોય, તો તેનો વ્યાસ કેટલો હશે?",
+      "options": "A) 14 સેમી  B) 28 સેમી  C) 44 સેમી  D) 7 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 28 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિધ 44 હોય તો r=7 (d=14). પરિધ 88 હોય તો r=14 (d=28). બમણું કરતા શીખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચોરસનું ક્ષેત્રફળ 64 ચો.સેમી છે, તો તેની બાજુની લંબાઈ કેટલી હશે?",
+      "options": "A) 16 સેમી  B) 32 સેમી  C) 8 સેમી  D) 4 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 8 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઈ સંખ્યાનો વર્ગ 64 થાય? 8 × 8 = 64. તેથી બાજુ = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લંબચોરસની પરિમિતિ 30 સેમી અને લંબાઈ 10 સેમી હોય, તો પહોળાઈ કેટલી હશે?",
+      "options": "A) 20 સેમી  B) 10 સેમી  C) 5 સેમી  D) 15 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 5 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિના અડધા (30/2=15) માંથી લંબાઈ (10) બાદ કરો = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એક ત્રિકોણનું ક્ષેત્રફળ 20 ચો.સેમી અને આધાર 5 સેમી છે, તો તેની ઊંચાઈ કેટલી હશે?",
+      "options": "A) 4 સેમી  B) 8 સેમી  C) 10 સેમી  D) 2 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 8 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (ક્ષેત્રફળ × 2) ÷ આધાર = ઊંચાઈ. (20 × 2 = 40, 40 / 5 = 8).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વર્તુળની ત્રિજ્યા 10 સેમી હોય તો વ્યાસ કેટલો થાય?",
+      "options": "A) 5 સેમી  B) 10 સેમી  C) 20 સેમી  D) 100 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 20 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાસ એ ત્રિજ્યાનો ડબલ હોય (10 × 2 = 20).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ 50 ચો.સેમી અને ઊંચાઈ 5 સેમી હોય તો પાયો (આધાર) કેટલો?",
+      "options": "A) 25 સેમી  B) 10 સેમી  C) 45 સેમી  D) 5 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળને ઊંચાઈ વડે ભાગો (50 / 5 = 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વર્તુળની ત્રિજ્યા 14 સેમી હોય, તો તેનું ક્ષેત્રફળ કેટલું થાય?",
+      "options": "A) 616 ચો.સેમી  B) 154 ચો.સેમી  C) 308 ચો.સેમી  D) 44 ચો.સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 616 ચો.સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો r=7 હોય તો Area=154. અહીં r=14 (બમણી) છે, તો ક્ષેત્રફળ 4 ગણું થાય (154 × 4 = 616).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કયો વિકલ્પ ક્ષેત્રફળનો એકમ નથી?",
+      "options": "A) ચો.સેમી  B) મીટર²  C) હેક્ટર  D) કિલોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) કિલોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિલોમીટર એ લંબાઈનો એકમ છે, ક્ષેત્રફળમાં હંમેશા 'ચોરસ' (Square) લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "2 સેમી બાજુવાળા ચોરસનું ક્ષેત્રફળ અને તેની પરિમિતિના મૂલ્યો કેવા હશે?",
+      "options": "A) અલગ અલગ  B) ક્ષેત્રફળ વધુ  C) પરિમિતિ વધુ  D) સમાન (આંકડાકીય રીતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પરિમિતિ વધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ=2; ક્ષેત્રફળ = 2×2=4; પરિમિતિ = 4×2=8. (નોંધ: 4 સેમી બાજુ હોય તો બંને 16 થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક લંબચોરસ પ્લોટની લંબાઈ 20 મીટર અને ક્ષેત્રફળ 200 ચો.મીટર છે, તો તેની પરિમિતિ કેટલી?",
+      "options": "A) 10 મીટર  B) 60 મીટર  C) 40 મીટર  D) 30 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 60 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા પહોળાઈ શોધો (200/20 = 10). હવે પરિમિતિ = 2(20+10) = 2(30) = 60.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો વર્તુળની ત્રિજ્યા 21 સેમી હોય, તો તેનો પરિધ કેટલો?",
+      "options": "A) 66 સેમી  B) 132 સેમી  C) 44 સેમી  D) 154 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 132 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r=7 માટે પરિધ=44. અહીં r=21 (3 ગણી), તો પરિધ 44 × 3 = 132.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ચોરસની બાજુ 5 સેમી માંથી 10 સેમી કરવામાં આવે તો ક્ષેત્રફળ કેટલા ગણું થાય?",
+      "options": "A) 2 ગણું  B) 4 ગણું  C) 8 ગણું  D) સમાન રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 4 ગણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુ બમણી (2x) થાય, તો ક્ષેત્રફળ 2 નો વર્ગ એટલે કે 4 ગણું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "એક ત્રિકોણની ઊંચાઈ 10 સેમી અને ક્ષેત્રફળ 50 ચો.સેમી છે. પાયો શોધો.",
+      "options": "A) 5 સેમી  B) 10 સેમી  C) 20 સેમી  D) 15 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 10 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (2 × 50) / 10 = 100 / 10 = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "1 cm² = _______ mm²",
+      "options": "A) 10  B) 100  C) 1000  D) 0.1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1cm = 10mm, તો 1 cm² = 10 × 10 = 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જે વર્તુળનું ક્ષેત્રફળ 154 ચો.સેમી હોય તેની ત્રિજ્યા કેટલી?",
+      "options": "A) 14 સેમી  B) 21 સેમી  C) 7 સેમી  D) 3.5 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 7 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r=7, પરિધ=44, ક્ષેત્રફળ=154 - આ જોડી યાદ જ રાખી લેવી!</p></div>"
+    }
+  ]
+}
