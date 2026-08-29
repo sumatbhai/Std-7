@@ -2844,3 +2844,211 @@ var Std7_Maths_FillBlanks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ઘન આકારોનું પ્રત્યક્ષીકરણ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વર્તુળ એ ____ પરિમાણીય આકૃતિ છે. (દ્વિ, ત્રિ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિ (2D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આકૃતિને કાગળ પર સપાટ દોરી શકાય અને જેને જાડાઈ ન હોય તેને 2D (દ્વિ-પરિમાણીય) કહેવાય. (વર્તુળ, ચોરસ, લંબચોરસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમઘન એ ____ પરિમાણીય આકાર છે. (એક, બે, ત્રણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ (3D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુને લંબાઈ, પહોળાઈ અને ઊંચાઈ (જાડાઈ) ત્રણેય હોય તે 3D આકાર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એક સમઘનને કુલ ____ શિરોબિંદુઓ હોય છે. (6, 8, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂમના ખૂણા ગણો - ઉપરના 4 ખૂણા અને નીચેના 4 ખૂણા = કુલ 8 શિરોબિંદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લંબઘનને કુલ ____ ધાર (Edges) હોય છે. (6, 8, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવાસળીની પેટીની કિનારીઓ ગણો. ઉપરની 4, નીચેની 4 અને ઉભી 4 = 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગોલક (Sphere) ને ____ શિરોબિંદુ હોય છે. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દડો ગોળ હોય છે, તેને ક્યાંય ખૂણો (શિરોબિંદુ) હોતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શંકુ (Cone) નો પાયો ____ આકારનો હોય છે. (ચોરસ, વર્તુળ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈસ્ક્રીમનો કોન કે બર્થડે કેપ નીચેથી જુઓ, તે ગોળ (વર્તુળ) દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નળાકાર (Cylinder) ને કુલ ____ સપાટ ફલક હોય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવડરના ડબ્બામાં ઉપર અને નીચે એમ બે ગોળ સપાટ ભાગ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નળાકારને કુલ ____ વક્ર સપાટી હોય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબ્બાની ફરતી વળેલી એક જ સપાટી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ત્રિકોણીય પિરામિડને ____ ફલક (Faces) હોય છે. (3, 4, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે 1 ત્રિકોણ અને આજુબાજુ 3 ત્રિકોણ = 1 + 3 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ત્રિકોણીય પ્રિઝમને કુલ ____ શિરોબિંદુઓ હોય છે. (5, 6, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ત્રિકોણીય છેડા હોય, દરેકને 3 ખૂણા, એટલે 3 + 3 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચોરસ પાયાવાળા પિરામિડને કુલ ____ ધાર હોય છે. (5, 8, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયાની 4 અને ટોચ તરફ જતી 4 = કુલ 8 ધાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ત્રિ-પરિમાણીય આકારોનું માળખું (જાળ) એ ____ પરિમાણીય હોય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળ (Net) કાગળ પર દોરાય છે, માટે તે હંમેશા 2D હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમઘન બનાવવા માટેની જાળમાં કુલ ____ ચોરસ હોય છે. (4, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘનને 6 ફલક હોય, તો તેને ખોલતા 6 ચોરસ જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક પાસા (Dice) માં સામસામેની સપાટીના અંકોનો સરવાળો હંમેશા ____ થાય. (5, 6, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 1 ની સામે 6, 2 ની સામે 5 અને 3 ની સામે 4 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો પાસાની ઉપરની સપાટી પર 3 હોય, તો નીચેની સપાટી પર ____ હશે. (3, 4, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો 7 કરવા માટે 7 - 3 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તિર્યક રેખાકૃતિ (Oblique Sketch) માં લંબાઈ ____ લેવામાં આવતી નથી. (વધુ, ઓછી, સચોટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સચોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તિર્યક' એટલે ત્રાસી, જેમાં માપ સાચું દેખાતું નથી પણ આકાર સમજાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આઈસોમેટ્રિક (Isometric) પેપર પર ટપકાંઓથી બનેલા ____ હોય છે. (ચોરસ, સમબાજુ ત્રિકોણ, લંબચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમબાજુ ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈસોમેટ્રિક ડૉટ પેપર પર ટપકાંઓ એવી રીતે હોય છે કે તે સમબાજુ ત્રિકોણ જેવી જાળ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક ઘન આકારને ઊભો (Vertical) કાપવાથી મળતા આડછેદને ____ કહેવાય. (સપાટી, છેદ, આડછેદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આડછેદ (Cross-section)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેડની સ્લાઈસ એટલે બ્રેડનો આડછેદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નળાકાર પાઈપને ઊભી (Vertical) કાપતા તેનો આડછેદ ____ આકારનો મળે. (વર્તુળ, લંબચોરસ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈપને ઉભી ચીરો તો તેની સપાટી લંબચોરસ જેવી દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સફરજનને આડું (Horizontal) કાપતા તેનો આડછેદ લગભગ ____ આકારનો હોય છે. (ચોરસ, વર્તુળ, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફળ કે શાકભાજી ગોળ હોય તેને કાપતા અંદરથી ગોળ જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્રકાશના સ્ત્રોત નીચે બોલ રાખતા તેનો પડછાયો ____ આકારનો મળે છે. (વર્તુળ, ચોરસ, ગોલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D વસ્તુનો પડછાયો હંમેશા 2D આકારમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમઘનનો ઉપરનો દેખાવ (Top View) ____ હોય છે. (લંબચોરસ, ચોરસ, ઘન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘન બધી બાજુથી ચોરસ જ દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શંકુનો સામેનો દેખાવ (Front View) ____ આકારનો હોય છે. (વર્તુળ, ત્રિકોણ, ચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈસ્ક્રીમ કોનને સામેથી જુઓ તો તે ત્રિકોણ જેવો દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઈંટોનો આકાર ____ હોય છે. (સમઘન, લંબઘન, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ વધુ હોય એટલે તે 'લંબ'-ઘન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઓઇલના ડબ્બાનો આકાર ____ જેવો હોય છે. (શંકુ, નળાકાર, ગોલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબો અને ગોળ આકાર એટલે નળાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જે ઘન આકારને માત્ર એક જ વક્ર સપાટી હોય તેને ____ કહેવાય. (નળાકાર, ગોલક, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોલક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દડા (ગોલક) ને કોઈ સપાટ સપાટી હોતી નથી, માત્ર વક્ર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "યુલરના સૂત્ર (Euler's formula) મુજબ F + V - E = ____. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો F+V = E+2 (Face + Vertex = Edge + 2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "એક ઘન આકારને 6 ફલક અને 8 શિરોબિંદુ હોય, તો તેને ____ ધાર હશે. (10, 12, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F+V - 2 = E એટલે કે 6+8 - 2 = 12. (આ સમઘન કે લંબઘન જ હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વર્તુળાકાર પાઈપનો ઉપરનો દેખાવ (Top View) ____ હોય છે. (લંબચોરસ, વર્તુળ, નળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈપના કાણામાંથી જુઓ તો ગોળ જ દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ત્રિકોણીય પિરામિડને ____ ધાર (Edges) હોય છે. (4, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયાના ત્રિકોણની 3 અને ઉપર શિરોબિંદુ સુધી જતી 3 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક ચોરસ પાયાવાળા પ્રિઝમને ____ ફલક હોય છે. (4, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ પાયાવાળો પ્રિઝમ એટલે બીજું કાંઈ નહીં પણ લંબઘન અથવા સમઘન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નળાકારને કુલ ____ કિનારીઓ (Edges) હોય છે. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરનું ગોળ અને નીચેનું ગોળ - બે વક્ર કિનારીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શંકુને કુલ ____ શિરોબિંદુ હોય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચનો એક જ અણીદાર ખૂણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ફલક, શિરોબિંદુ અને ધારની સંખ્યા વચ્ચેનો સંબંધ ____ ગણિતશાસ્ત્રીએ આપ્યો હતો. (પાયથાગોરસ, યુક્લિડ, યુલર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુલર (Euler)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફલક-શિરોબિંદુ-ધાર માટે 'યુલરનું સૂત્ર' જ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "Isometric પેપર પર દોરેલા સમઘનની બધી કિનારીઓના માપ ____ હોય છે. (જુદા, સમાન, અડધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isometric એટલે જ 'સરખા માપવાળું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એક ચોરસને બાજુમાંથી જોતા તે ____ જેવું દેખાય છે. (ચોરસ, રેખાખંડ, લંબચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખાખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળ (2D) ને બાજુમાંથી જુઓ તો તે માત્ર લીટી (રેખાખંડ) જ દેખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કોઈપણ બહુફલક (Polyhedron) ને ઓછામાં ઓછા ____ ફલક હોય છે. (3, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણીય પિરામિડ સૌથી નાનો બહુફલક છે જેને 4 ફલક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નળાકારની જાળ (Net) માં બે વર્તુળ અને એક ____ હોય છે. (ચોરસ, લંબચોરસ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળને ગોળ વાળવાથી નળાકાર બને, એટલે ખોલતા લંબચોરસ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જે બહુફલકના પાયા અને ટોચ એકરૂપ બહુકોણ હોય તેને ____ કહેવાય. (પિરામિડ, પ્રિઝમ, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રિઝમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયો અને મથાળું સેમ = પ્રિઝમ. પાયો બહુકોણ અને ટોચ અણીદાર = પિરામિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "છ-બાજુવાળા પાસામાં 5 ની વિરુદ્ધ બાજુએ ____ હોય છે. (1, 2, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામસામેનો સરવાળો 7 કરવા માટે 5 + 2 = 7.</p></div>"
+    }
+  ]
+}
