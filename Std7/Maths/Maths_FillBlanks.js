@@ -1654,3 +1654,211 @@ var Std7_Maths_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "સંમેય સંખ્યાઓ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જે સંખ્યાને p/q સ્વરૂપમાં દર્શાવી શકાય (જ્યાં q ≠ 0) તેવી સંખ્યાને ________ સંખ્યા કહેવાય છે. (સંમેય, પ્રાકૃતિક, પૂર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંમેય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમેય સંખ્યા એટલે 'ગુણોત્તર' (Ratio), જેમાં અંશ અને છેદ હોય. છેદ ક્યારેય શૂન્ય ન હોવો જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંમેય સંખ્યા p/q માં, 'q' ની કિંમત ક્યારેય ________ હોઈ શકે નહીં. (1, -1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેદમાં શૂન્ય (0) આવે, તો ગણિતમાં તે 'અવ્યાખ્યાયિત' થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "-3/5 એ ________ સંમેય સંખ્યા છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અથવા છેદ પૈકી ગમે તે એકમાં '-' નિશાની હોય, તો આખી સંખ્યા ઋણ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "-2/-7 એ ________ સંમેય સંખ્યા છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર-નીચે બંને જગ્યાએ '-' હોય તો તે ઊડી જાય અને સંખ્યા ધન (+) બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંખ્યારેખા પર '0' ની ડાબી બાજુએ બધી ________ સંમેય સંખ્યાઓ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબે એટલે 'ડૂબવું' (ઘટાડો/ઋણ) અને જમણે એટલે 'જમવું' (વધારો/ધન)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો p અને q બંને ધન પૂર્ણાંકો હોય, તો p/q એ ________ સંમેય સંખ્યા છે. (ઋણ, ધન, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં કોઈ નિશાની ન હોય ત્યાં ધન (+) છુપાયેલ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "15/20 નું પ્રમાણિત (Standard) સ્વરૂપ ________ છે. (3/4, 5/4, 3/5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ ઉડાડો! 15 = 5×3 અને 20 = 5×4. 5-5 ઊડી જાય, વધ્યા 3/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બધી જ પ્રાકૃતિક સંખ્યાઓ એ ________ સંખ્યાઓ પણ છે. (સંમેય, અસંમેય, એકપણ નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંમેય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ આખી સંખ્યાના છેદમાં '1' લખી શકાય (જેમ કે 5 = 5/1), માટે તે સંમેય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોઈપણ બે સંમેય સંખ્યાઓ વચ્ચે ________ સંમેય સંખ્યાઓ આવેલી હોય છે. (ફક્ત એક, 10, અગણિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગણિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સંમેય સંખ્યાઓ વચ્ચે એટલી બધી સંખ્યાઓ છે કે જેની ગણતરી શક્ય જ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "4/5 + (-4/5) = ________. (1, 0, 8/5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યામાં તેની વિરોધી સંખ્યા ઉમેરવામાં આવે તો જવાબ હંમેશા 'શૂન્ય' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "3/7 ની વિરોધી સંમેય સંખ્યા ________ છે. (-3/7, 7/3, -7/3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -3/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી સંખ્યા શોધવા માટે માત્ર નિશાની બદલો (+ હોય તો - કરો, - હોય તો + કરો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "2/3 ની વ્યસ્ત સંમેય સંખ્યા ________ છે. (-2/3, 3/2, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત સંખ્યા એટલે 'ઉલટ-પુલટ'! અંશ છેદમાં જાય અને છેદ અંશમાં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "________ સંમેય સંખ્યાની વ્યસ્ત સંખ્યાનું અસ્તિત્વ નથી. (1, -1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 ના છેદમાં 1 હોય, તેને ઉલટાવો તો 1/0 થાય જે શક્ય નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બે સંમેય સંખ્યાઓનો ગુણાકાર હંમેશા ________ સંખ્યા જ હોય છે. (પૂર્ણાંક, પ્રાકૃતિક, સંમેય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંમેય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમેય × સંમેય = સંમેય. આને ગણિતમાં 'સંવૃતતાનો ગુણધર્મ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "(-3/4) × (4/3) = ________. (1, -1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સંખ્યા અને તેની વ્યસ્ત સંખ્યાનો ગુણાકાર થાય, ત્યારે 1 આવે. અહીં '-' એકવાર છે એટલે -1!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંખ્યારેખા પર શૂન્યની જમણી બાજુએ ________ સંમેય સંખ્યાઓ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણી બાજુ હંમેશા 'સારું' અને 'વધારે' (Positive) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંમેય સંખ્યા 7/-11 ને પ્રમાણિત સ્વરૂપમાં ________ લખાય. (-7/11, 11/7, -11/7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -7/11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણિત સ્વરૂપમાં '-' ની નિશાની હંમેશા અંશમાં જ રાખવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "5/9 અને 2/9 નો સરવાળો ________ થાય. (7/18, 7/9, 3/9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7/9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદ સમાન હોય, ત્યારે ફક્ત અંશનો જ સરવાળો કરવો, છેદ એનો એજ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સંમેય સંખ્યાઓ 1/2 અને 2/4 એ ________ સંમેય સંખ્યાઓ છે. (વિરોધી, સમાન, વ્યસ્ત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2/4 ના છેદ ઉડાડો તો 1/2 જ મળે. દેખાવમાં અલગ પણ કિંમતમાં સરખી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "(-6/13) ÷ (6/13) = ________. (1, -1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ સંખ્યાને તે જ સંખ્યા વડે ભાગો તો 1 આવે. જો નિશાની વિરોધી હોય તો -1 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "0 એ ________ સંમેય સંખ્યા છે. (ધન, ઋણ, ધન કે ઋણ પૈકી એકપણ નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન કે ઋણ પૈકી એકપણ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય એ 'તટસ્થ' ખેલાડી છે, તે કોઈ પણ ટીમમાં (ધન કે ઋણ) હોતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંમેય સંખ્યા 1/3 ની પાંચ સમાન સંમેય સંખ્યાઓ મેળવવા અંશ અને છેદને ________ વડે ગુણવા પડે. (સમાન સંખ્યા, અલગ સંખ્યા, ફક્ત અંશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પણ કરો તે 'ન્યાયી' હોવું જોઈએ! જે અંશને આપો તે જ છેદને આપવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સંખ્યારેખા પર -5/4 એ 0 ની કઈ બાજુએ આવશે? (ડાબી, જમણી, ઉપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '-' દેખાય એટલે આંખો બંધ કરીને ડાબી બાજુએ જવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "8/3 એ ________ સંમેય સંખ્યા છે. (શુદ્ધ, અશુદ્ધ, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અશુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે માથું (અંશ) પેટ (છેદ) કરતા મોટું હોય, તો તે અશુદ્ધ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો બે સંમેય સંખ્યાઓના છેદ અલગ હોય, તો સરવાળો કરવા માટે ________ લેવો પડે. (ગુસાઅ, લસાઅ, તફાવત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લસાઅ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ અલગ હોય તો તેમને 'એક સમાન' કરવા માટે લસાઅ (LCM) લેવો જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "(-2/3) × 0 = ________. (-2/3, 0, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેવી મોટી સંખ્યા હોય, જો તેને 0 સાથે ગુણો તો બધું જ 0 થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંમેય સંખ્યાના સરવાળા માટેની તટસ્થ સંખ્યા ________ છે. (1, 0, -1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એવી સંખ્યા જે ઉમેરવાથી કોઈ ફરક ન પડે તે '0'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સંમેય સંખ્યાના ગુણાકાર માટેની તટસ્થ સંખ્યા ________ છે. (0, 1, -1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એવી સંખ્યા જે ગુણવાથી સંખ્યામાં કોઈ બદલાવ ન આવે તે '1'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સંમેય સંખ્યા -1/2 અને 1/2 માંથી મોટી સંખ્યા ________ છે. (-1/2, 1/2, બંને સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધન સંખ્યા હંમેશા ઋણ સંખ્યા કરતા મોટી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "(-5/7) + (2/7) = ________. (-3/7, 3/7, -7/7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -3/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સરખા છે, અંશમાં -5 + 2 = -3 વધે. મોટી સંખ્યાની નિશાની મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સંખ્યારેખા પર શૂન્ય એ બધી ઋણ સંમેય સંખ્યાઓ કરતા ________ હોય છે. (નાનું, મોટું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યારેખા પર જેમ જમણી બાજુ જઈએ તેમ કિંમત વધે. શૂન્ય એ ઋણની જમણી બાજુએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "-2/3 નો વ્યસ્ત ________ છે. (3/2, -3/2, 2/3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -3/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્તમાં નિશાની બદલાતી નથી, ફક્ત અંશ અને છેદની જગ્યા બદલાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સંમેય સંખ્યા p/q માં 'p' ________ હોઈ શકે. (માત્ર ધન, માત્ર ઋણ, કોઈપણ પૂર્ણાંક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ પૂર્ણાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ (p) માં 0, ધન કે ઋણ બધું જ ચાલે, પણ છેદ (q) માં 0 ન હોવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો સંમેય સંખ્યાનો અંશ અને છેદ બંને ઋણ હોય, તો તે ________ સંમેય સંખ્યા બને. (ઋણ, ધન, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ઋણ નિશાનીઓનો ગુણાકાર કે ભાગાકાર હંમેશા ધન (+) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "-1/2 અને -1/4 માંથી ________ સંખ્યા મોટી છે. (-1/2, -1/4, બંને સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યાઓમાં જે દેખાવમાં 'નાની' હોય તે હકીકતમાં 'મોટી' હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "3/10 ને દશાંશ સ્વરૂપમાં ________ લખાય. (0.3, 0.03, 3.0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે એક શૂન્ય હોય, તો જમણી બાજુથી એક અંક પછી પોઈન્ટ મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કોઈપણ પૂર્ણાંક સંખ્યા 'a' ને સંમેય સંખ્યા સ્વરૂપે ________ લખી શકાય. (a/0, a/1, 1/a)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> a/1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક સંખ્યાનો 'ભગવાન' એક છે, જે છેદમાં હંમેશા હાજર હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "7/8 - 5/8 = ________. (2/8, 12/8, 2/0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સમાન હોય ત્યારે અંશની સીધી બાદબાકી (7-5=2) કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "(-2/5) × (-5/2) = ________. (1, -1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ-માઈનસ પ્લસ થાય અને સંખ્યા તેના વ્યસ્ત સાથે ગુણાતા 1 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સંમેય સંખ્યાઓનું નિરૂપણ ________ પર થઈ શકે છે. (માત્ર વર્તુળ, સંખ્યારેખા, આલેખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંખ્યારેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક સંમેય સંખ્યા માટે સંખ્યારેખા પર એક નિશ્ચિત બિંદુ હોય જ છે.</p></div>"
+    }
+  ]
+}
