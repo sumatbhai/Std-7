@@ -1246,3 +1246,136 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે રાશિઓની સરખામણી કરવા માટે તેમના એકમો સમાન હોવા જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે બે રાશિઓની તુલના કે ગુણોત્તર શોધવા માટે બંનેના એકમો સમાન હોવા ફરજિયાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર એટલે 'સરખા એકમોની સરખામણી'. જો એકમ અલગ હોય, તો પહેલા તેને સમાન બનાવો (દા.ત. કિગ્રા ને ગ્રામમાં ફેરવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગુણોત્તરને કોઈ એકમ હોતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ગુણોત્તર એ બે સમાન એકમોવાળી રાશિઓનો ભાગાકાર હોવાથી એકમો ઉડી જાય છે, તેથી તે એકમ રહિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર એટલે માત્ર સંખ્યા, તેની પાછળ મીટર કે ગ્રામ ક્યારેય ન લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "3 કિમી અને 300 મીટરનો ગુણોત્તર 10 : 1 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (3 કિમી = 3000 મીટર; હવે 3000 : 300 = 10 : 1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર લેતા પહેલા મોટી રાશિને નાની રાશિમાં ફેરવો (1 કિમી = 1000 મીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટકા એ એવા અપૂર્ણાંકનો અંશ છે જેનો છેદ 100 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ટકા એટલે 'પ્રતિ સો' (Per Cent).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકા (%) એટલે છેદમાં હંમેશા 100 હોવો જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અપૂર્ણાંકને ટકામાં ફેરવવા માટે તેને 100 વડે ભાગવા પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અપૂર્ણાંકને ટકામાં ફેરવવા માટે તેને 100 વડે ગુણવા પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકામાં ફેરવવું હોય તો × 100 કરો, અને ટકા કાઢવા હોય તો ÷ 100 કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "1/4 ને ટકામાં 25% તરીકે લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1/4 × 100 = 25%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે પા ભાગ, અને 100 નો પા ભાગ એટલે 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "0.75 ને ટકામાં ફેરવતા 7.5% મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 0.75 × 100 = 75% મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશને ટકામાં ફેરવતી વખતે પોઈન્ટને બે ડગલાં જમણી બાજુ ખસેડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો વેચાણ કિંમત (SP) એ મૂળ કિંમત (CP) કરતા વધારે હોય, તો ખોટ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જો વેચાણ કિંમત > મૂળ કિંમત હોય, તો નફો થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેચાણ કિંમત મોટી એટલે ખિસ્સામાં પૈસા વધુ આવ્યા, તો 'નફો' જ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નફો કે ખોટ હંમેશા મૂળ કિંમત (CP) પર ગણવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. નફા કે ખોટની ટકાવારીનો આધાર હંમેશા ખરીદ કિંમત કે મૂળ કિંમત પર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયો હંમેશા મૂળ કિંમત (CP) જ હોય, વેચાણ કિંમત નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાદા વ્યાજનું સૂત્ર I = (P × R × T) / 100 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જ્યાં P = મુદ્દલ, R = વ્યાજનો દર અને T = સમય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PRT' યાદ રાખો અને છેદમાં '100' મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વ્યાજમુદ્દલ (Amount) = મુદ્દલ + વ્યાજ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. કુલ રકમ એ વ્યાજ અને મુદ્દલનો સરવાળો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = P + I (આપેલા વત્તા ઇન્ટરેસ્ટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "2 : 3 અને 4 : 6 એ સમાન ગુણોત્તર નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 4 : 6 નું અતિસંક્ષિપ્ત સ્વરૂપ 2 : 3 થાય છે, તેથી તેઓ સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરને હંમેશા છેદ ઉડાડીને ચેક કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "25% ને અપૂર્ણાંકમાં ફેરવતા 1/4 મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (25/100 = 1/4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાની નિશાની દૂર કરો એટલે છેદમાં 100 મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કોઈપણ વસ્તુની મૂળ કિંમત 100 હોય અને 20% નફો લેવો હોય, તો તેની વેચાણ કિંમત 120 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (100 ના 20% = 20; 100 + 20 = 120).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પર નફો હોય તો સરવાળો કરો, ખોટ હોય તો બાદબાકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "80% અને 0.8 બંને સમાન કિંમતો દર્શાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (80% = 80/100 = 0.8).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકામાંથી દશાંશમાં જવા માટે પોઈન્ટ ડાબી બાજુ બે સ્થાન ખસેડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો વ્યાજનો દર (R) વધે, તો સાદું વ્યાજ (I) ઘટે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વ્યાજનો દર વધવાથી સાદું વ્યાજ પણ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાજ એ દરના સમપ્રમાણમાં હોય, એટલે દર વધે તો વ્યાજ પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગુણોત્તર 1:2 ને ટકામાં 50% લખી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1/2 × 100 = 50%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1:2 એટલે અડધો ભાગ, અને 100 ના અડધા એટલે 50.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વસ્તુની ખરીદ કિંમત પર કરવામાં આવતા વધારાના ખર્ચ (મજૂરી, ભાડું વગેરે) ને ખરાજાત કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ખરીદી પછીના વધારાના ખર્ચને ખરાજાત કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ કિંમત + ખરાજાત = પડતર કિંમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટકાવારી હંમેશા 100 થી ઓછી જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ટકાવારી 100 થી વધારે પણ હોઈ શકે છે (દા.ત. 150%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈ રાશિ તેની અસલ કિંમત કરતા બમણી થાય, ત્યારે તે 200% કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "40 ના 50% એ 20 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (40 × 50/100 = 20).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50% એટલે હંમેશા આપેલી સંખ્યાનું 'અડધું' કરી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગુણોત્તરમાં પદોનો ક્રમ અગત્યનો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ગુણોત્તરમાં પદોનો ક્રમ ખૂબ જ મહત્વનો છે; 2:3 અને 3:2 અલગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું નામ પહેલા હોય તેની સંખ્યા પહેલા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો CP = SP હોય, તો નફો કે ખોટ કંઈ જ ન થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ખરીદ કિંમત અને વેચાણ કિંમત સરખી હોય તો વ્યાપાર તટસ્થ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ભાવે લાવ્યા તે જ ભાવે આપ્યું, તો ખિસ્સામાં ન વધારો ન ઘટાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "150% ને દશાંશ સ્વરૂપમાં 1.5 લખી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (150/100 = 1.5).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે શૂન્ય છેદમાં હોવાથી બે આંકડા પછી પોઈન્ટ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ખર્ચમાં થતો 10% નો વધારો એટલે અસલ કિંમતના 110/100 ગણો વધારો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. મૂળ 100% માં 10% વધતા 110% થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારો હોય તો 100 માં પ્લસ (+) કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મુદ્દત (Time) હંમેશા મહિનામાં જ લેવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વ્યાજ ગણતરીમાં સામાન્ય રીતે સમય (T) વર્ષમાં લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સમય મહિનામાં હોય, તો તેને 12 વડે ભાગી વર્ષમાં ફેરવો.</p></div>"
+    }
+  ]
+}
