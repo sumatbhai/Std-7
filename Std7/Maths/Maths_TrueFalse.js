@@ -206,3 +206,161 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "અપૂર્ણાંક અને દશાંશ સંખ્યાઓ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "શુદ્ધ અપૂર્ણાંકમાં અંશ હંમેશા છેદ કરતાં નાનો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (દા.ત. 2/3 માં 2 < 3 છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ એટલે 'સીધું' - જેમાં નાનું બાળક (અંશ) મોટા માણસ (છેદ) ના ખભા પર બેઠું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અશુદ્ધ અપૂર્ણાંકની કિંમત હંમેશા 1 કરતાં ઓછી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અશુદ્ધ અપૂર્ણાંકની કિંમત હંમેશા 1 અથવા 1 થી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશુદ્ધ એટલે 'ઉંધું' - મોટો અંશ ઉપર હોય તો તે 1 થી મોટો જ ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોઈપણ સંખ્યાનો તેના વ્યસ્ત સાથેનો ગુણાકાર હંમેશા 1 થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (દા.ત. 2/3 × 3/2 = 1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા અને તેનો 'પલ્ટી મારેલો' વ્યસ્ત મળે ત્યારે બધું જ ઉડી જાય અને વધે માત્ર 1!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "0.1 × 0.1 = 0.1 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 0.1 × 0.1 = 0.01 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં દશાંશ સ્થળનો સરવાળો કરો. અહીં 1 + 1 = 2 સ્થળ પછી પોઈન્ટ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1/2 નો વ્યસ્ત 2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (1/2 ને ઉલટાવતા 2/1 એટલે કે 2 મળે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત એટલે સંખ્યાને શીર્ષાસન કરાવી દેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "0.5 અને 0.50 બંને સમાન સંખ્યાઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. દશાંશ સંખ્યાની પાછળ શૂન્ય લગાવવાથી કિંમત બદલાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીની સંખ્યાના છેડે ગમે તેટલા મીંડા મૂકો, વેલ્યુ એની એ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "3/4 ને 0.75 તરીકે લખી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (3 ÷ 4 = 0.75)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 રૂપિયો એટલે 100 પૈસા, તો 3/4 ભાગ એટલે 75 પૈસા (0.75).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શૂન્ય (0) નો વ્યસ્ત મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. શૂન્યનો વ્યસ્ત વ્યાખ્યાયિત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યને ક્યારેય છેદમાં ન રખાય, નહિતર ગણિતમાં વિસ્ફોટ (Not Defined) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મિશ્ર સંખ્યાને અશુદ્ધ અપૂર્ણાંકમાં ફેરવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદનો પૂર્ણાંક સાથે ગુણાકાર + અંશ = નવો અંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "0.07 એ 0.7 કરતાં મોટી સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 0.7 = 0.70 થાય, જે 0.07 કરતાં મોટી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીના પહેલા અંકની સરખામણી કરો. 7 એ 0 કરતા મોટા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "7/10 ને દશાંશ સ્વરૂપમાં 0.07 લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 7/10 = 0.7 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં 1 શૂન્ય હોય તો પોઈન્ટ ડાબી બાજુ 1 ડગલું ખસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બે શુદ્ધ અપૂર્ણાંકોનો ગુણાકાર તે દરેક અપૂર્ણાંક કરતાં નાનો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (દા.ત. 1/2 × 1/4 = 1/8, જ્યાં 1/8 એ 1/2 અને 1/4 બંનેથી નાના છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ અપૂર્ણાંક એ 'ટુકડો' છે. ટુકડાનો પણ ટુકડો કરો તો એ તો નાનો જ થવાનો ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "2/3 ના 3 એટલે 2 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (2/3 × 3 = 2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ના' એટલે ગુણાકાર. ઉપરના 3 અને નીચેના 3 કેન્સલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દશાંશ સંખ્યાને 100 વડે ભાગતા દશાંશ ચિહ્ન જમણી બાજુ બે અંક ખસે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભાગાકાર કરવાથી પોઈન્ટ ડાબી બાજુ ખસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં 'ડાબું' (Division-Left) અને ગુણાકારમાં 'જમણું' (Multiplication-Right).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "1 કિલોગ્રામ = 1000 ગ્રામ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કિલો' એટલે જ 1000.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "5 પૈસા = 0.05 રૂપિયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (5/100 = 0.05)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપિયામાં ફેરવવા 100 વડે ભાગો એટલે 2 આંકડા પછી પોઈન્ટ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "1.2 / 0.3 નો જવાબ 4 મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (12/3 = 4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બંનેમાં સમાન દશાંશ સ્થળ હોય તો પોઈન્ટ ભૂલીને સીધો ભાગાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "2/5 એ 4/10 ને સમાન અપૂર્ણાંક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (2/5 ના અંશ અને છેદને 2 વડે ગુણતા 4/10 મળે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન અપૂર્ણાંક એટલે 'એક જ ચહેરો પણ અલગ મેકઅપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દરેક પ્રાકૃતિક સંખ્યાનો છેદ 1 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (દા.ત. 5 = 5/1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો કોઈ નથી એનો ભગવાન છે, અને ગણિતમાં જેનો છેદ નથી એનો 'એકડો' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "0.3 × 100 = 3 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 0.3 × 100 = 30 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં 2 મીંડા છે, તો પોઈન્ટને જમણી બાજુ 2 ડગલાં કૂદાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "1/3 અને 3 એકબીજાના વ્યસ્ત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ છેદ બની જાય અને છેદ અંશ બની જાય એટલે વ્યસ્ત જોડી તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "1.5 કિમી = 150 મીટર.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 1.5 કિમી = 1500 મીટર થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિમી = 1000 મીટર, તો 1.5 × 1000 કરો એટલે 1500 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અશુદ્ધ અપૂર્ણાંકને મિશ્ર સંખ્યામાં ફેરવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (દા.ત. 7/2 = 3 પૂર્ણાંક 1/2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર કરો: ભાગફળ બાજુમાં, શેષ ઉપર અને ભાજક નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "0.2 / 100 = 0.002.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં 2 મીંડા છે, તો પોઈન્ટ ડાબી બાજુ 2 ડગલાં ખસેડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "1/2 ÷ 2 = 1 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 1/2 ÷ 2 = 1/2 × 1/2 = 1/4 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારનું ગુણાકાર કરો અને પાછળની સંખ્યાને ઉલટાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દશાંશ સંખ્યામાં પોઈન્ટ પછી આવતા શૂન્યોની કિંમત હોતી નથી જો તેના પછી કોઈ અંક ન હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2.50000 લખો કે 2.5, બંને છે તો સરખા જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બે અશુદ્ધ અપૂર્ણાંકોનો ગુણાકાર 1 થી મોટો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (દા.ત. 3/2 × 5/4 = 15/8, જે 1 થી મોટો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે મોટા ભાઈઓનો ગુણાકાર હંમેશા મોટો જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "1/5 ÷ 1/5 = 1 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. સમાન સંખ્યાનો ભાગાકાર હંમેશા 1 જ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાને પોતાની જાત વડે ભાગો એટલે જવાબ 'એકડો' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "0.8 / 0.2 = 0.4.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 0.8 / 0.2 = 4 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 ચોકલેટ 2 જણા વચ્ચે વહેંચો તો દરેકને 4 મળે, 0.4 નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "2/7 ના 14 એટલે 4 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (2/7 × 14 = 2 × 2 = 4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 ના ઘડિયામાં 14 ક્યારે આવે? 2 એ! 2 × 2 = 4.</p></div>"
+    }
+  ]
+}
