@@ -364,3 +364,311 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "માહિતીનું નિયમન",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માહિતીની સરાસરી એ હંમેશા માહિતીમાંની જ એક સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, સરાસરી એ માહિતીના સરવાળાને અવલોકનોની સંખ્યા વડે ભાગતા મળે છે, જે માહિતીમાં ન પણ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, સરાસરી (Mean) એ ગણતરીની કિંમત છે, તે માહિતીની બહારની પણ હોઈ શકે (દા.ત. 2 અને 3 ની સરાસરી 2.5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "માહિતીનો વિસ્તાર એટલે સૌથી મોટા અવલોકન અને સૌથી નાના અવલોકન વચ્ચેનો તફાવત.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તાર (Range) = Maximum - Minimum. બસ, મોટામાંથી નાનું બાદ કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બહુલક એ હંમેશા માહિતીમાંની જ એક સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુલક (Mode) એટલે 'બહુ' વખત આવતું અવલોકન. જે અંદર હોય તે જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મધ્યસ્થ એ હંમેશા માહિતીમાંની જ એક સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ધોરણ 7 ના સ્તર મુજબ એકી સંખ્યામાં અવલોકનો હોય ત્યારે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યસ્થ એટલે 'મધ્ય'માં રહેલું 'સ્થ'ાન. ક્રમમાં ગોઠવી વચ્ચેનું પદ પકડી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માહિતી 6, 4, 3, 8, 9, 12, 13 નો મધ્યસ્થ 8 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. માહિતીને ચડતા ક્રમમાં ગોઠવતા: 3, 4, 6, 8, 9, 12, 13. અહીં વચ્ચેનું પદ 8 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યસ્થ શોધવા પહેલા 'ચડતો ક્રમ' લખવો ફરજિયાત છે, ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કોઈપણ ઘટનાની સંભાવના 1 થી વધુ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કોઈપણ ઘટનાની સંભાવના 0 અને 1 ની વચ્ચે અથવા 0 કે 1 જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંભાવના ક્યારેય માઈનસ ન હોય અને 1 થી મોટી ન હોય. (0 ≤ P ≤ 1)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિશ્ચિત ઘટતી ઘટનાની સંભાવના 1 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાક્કું થવાનું જ છે, તેની સંભાવના પૂરેપૂરી એટલે કે 1!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અશક્ય ઘટનાની સંભાવના 0 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કદી થવાનું જ નથી, તેના ચાન્સ 'ઝીરો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "માહિતી 1, 2, 2, 3, 4 નો બહુલક 2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અહીં 2 સૌથી વધુ વખત (બે વાર) આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો 'વટ' વધુ (વધુ વખત આવે), તે જ 'બહુલક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સરાસરી હંમેશા માહિતીના દરેક અવલોકન કરતા મોટી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સરાસરી હંમેશા સૌથી મોટા અને સૌથી નાના અવલોકનની વચ્ચે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરાસરી ક્યારેય બોર્ડર ઓળંગી ન શકે, તે અંદર જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માહિતી 2, 4, 6, 8, 10 ની સરાસરી 6 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (2+4+6+8+10)/5 = 30/5 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો તફાવત સરખો હોય, તો બરાબર વચ્ચેની સંખ્યા જ સરાસરી બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લંબ આલેખમાં દરેક સ્તંભની પહોળાઈ સમાન હોવી જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. લંબ આલેખમાં દરેક સ્તંભની પહોળાઈ એકસરખી રાખવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખમાં 'પહોળાઈ' સરખી અને 'ઊંચાઈ' કિંમત મુજબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માહિતી 5, 5, 5, 5 નો વિસ્તાર 0 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 5 - 5 = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બધી સંખ્યા સરખી, તો વિસ્તાર હંમેશા શૂન્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કોઈપણ માહિતીમાં એકથી વધુ બહુલક હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જો બે સંખ્યાઓ સરખી મહત્તમ વખત આવતી હોય તો બે બહુલક મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુલક એટલે 'બહુ'વચન પણ હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સિક્કાને ઉછાળતા 'છાપ' મળવાની સંભાવના 1/2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. કુલ પરિણામ 2 (છાપ, કાંટો) અને સાનુકૂળ 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કાની બે બાજુ, એટલે છેદમાં હંમેશા 2 આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાસાને ફેંકતા ઉપરના ભાગે 7 અંક આવવાની સંભાવના 1 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પાસા પર માત્ર 1 થી 6 અંક જ હોય છે, તેથી 7 આવવું અશક્ય છે (સંભાવના 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસાનો ખેલ 6 સુધી જ હોય, 7 તો સપનામાં પણ ન આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દ્વિ-લંબ આલેખનો ઉપયોગ બે માહિતીની તુલના કરવા માટે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્વિ' એટલે બે, બે ની સરખામણી એટલે દ્વિ-લંબ આલેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પ્રથમ પાંચ પ્રાકૃતિક સંખ્યાઓની સરાસરી 3 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1+2+3+4+5)/5 = 15/5 = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક સંખ્યાઓમાં મધ્યની સંખ્યા જ સરાસરી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "માહિતી 10, 20, 30, 40 નો વિસ્તાર 40 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વિસ્તાર = 40 - 10 = 30 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી માઈનસ પેહલી (જો લાઈનમાં હોય તો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આવતીકાલે વરસાદ પડશે જ, તે નિશ્ચિત ઘટના છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે થઈ પણ શકે અથવા ન પણ થઈ શકે (શક્યતા છે, નિશ્ચિતતા નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી ઘટનાઓ મોટે ભાગે 'થઈ શકે પણ નિશ્ચિત નહીં' માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સરાસરીને મધ્યક પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરાસરી અને મધ્યક બંને એક જ સિક્કાની બે બાજુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માહિતી 8, 5, 2, 11, 8 નો મધ્યસ્થ 2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ચડતો ક્રમ: 2, 5, 8, 8, 11. મધ્યસ્થ 8 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉતાવળમાં સીધું વચ્ચેનું પદ ન લેવું, પહેલા ગોઠવવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શૂન્ય એ કોઈપણ અશક્ય ઘટનાની સંભાવના છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશક્ય = 0, ચોક્કસ = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લંબ આલેખમાં સ્તંભોની ઊંચાઈ અવલોકનોના મૂલ્યના સમપ્રમાણમાં હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની કિંમત મોટી, તેનો સ્તંભ ઊંચો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માહિતી 1, 2, 3, 4, 5 નો બહુલક 3 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અહીં કોઈ પણ અવલોકન એકથી વધુ વખત આવતું નથી, તેથી બહુલક નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બધું એક-એક વાર જ હોય, તો બહુલક 'કોઈ નથી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જે ઘટના ચોક્કસપણે બનવાની છે તેની સંભાવના 100 હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સંભાવનાનો મહત્તમ આંકડો 1 જ હોય (ટકામાં 100% હોઈ શકે પણ આંકડામાં 1 જ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી મોટો જવાબ સંભાવનામાં ક્યારેય ન આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પ્રથમ પાંચ એકી સંખ્યાઓની સરાસરી 5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1+3+5+7+9)/5 = 25/5 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ 'n' એકી સંખ્યાની સરાસરી હંમેશા 'n' જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મધ્યસ્થ માહિતીના બે સરખા ભાગ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અડધા અવલોકનો તેનાથી નાના અને અડધા મોટા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યસ્થ એટલે 'સીમાડાનો પથ્થર' - અડધું આ બાજુ, અડધું પેલી બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પાસાને ફેંકતા 8 આવવાની સંભાવના શૂન્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લુડોના પાસામાં 6 સુધી જ હોય, 8 અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "માહિતી 7, 7, 7, 7, 7 ની સરાસરી 7 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બધા અવલોકન સમાન હોય, તો સરાસરી, મધ્યસ્થ અને બહુલક બધું એ જ સંખ્યા થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સૂર્ય પૂર્વમાં ઉગે તેની સંભાવના 0 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સૂર્ય પૂર્વમાં જ ઉગે છે, તે નિશ્ચિત ઘટના છે, તેથી સંભાવના 1 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સનાતન સત્ય હોય તેની સંભાવના આંખ મીંચીને 1 લખી દેવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "આલેખ દોરવા માટે પ્રમાણમાપ લેવું જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. યોગ્ય માપ વગર આલેખ સાચો ન બની શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણમાપ એટલે આલેખનો 'પાયો'. પાયો વગર ઈમારત ન બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "માહિતી 2, 3, 4 નો મધ્યસ્થ 3 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ક્રમમાં જ છે અને વચ્ચે 3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 પદ હોય તો 2જું પદ મધ્યસ્થ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ગઈકાલ કરતા આજે તમારી ઉંમર વધુ હશે, તે નિશ્ચિત ઘટના છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ઉંમર હંમેશા વધે જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય કોઈની રાહ જોતો નથી, ઉંમર વધવી 100% ફાઈનલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બે માહિતીના સમૂહને એકસાથે દર્શાવવા માટે દ્વિ-લંબ આલેખ અનુકૂળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમ્પેરીઝન (તુલના) કરવી હોય તો ડબલ બાર ગ્રાફ બેસ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "માહિતી 15, 2, 8, 20 નો વિસ્તાર 18 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 20 - 2 = 18.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટું 20, સૌથી નાનું 2. બાદબાકી કરો એટલે કામ પૂરું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સરેરાશ એ હંમેશા સૌથી નાના અવલોકનથી નાની હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સરેરાશ ક્યારેય નાનામાં નાના અવલોકનથી નાની ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ તો હંમેશા 'વચ્ચે' જ રહેવાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "બહુલક એકથી વધુ હોઈ શકે પણ મધ્યસ્થ એક જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરબામાં સ્ટેપ ઘણા હોય (બહુલક), પણ કેન્દ્ર એક જ હોય (મધ્યસ્થ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પાસાને ફેંકતા બેકી સંખ્યા આવવાની સંભાવના 1/2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. બેકી સંખ્યાઓ 2, 4, 6 (કુલ 3). સંભાવના = 3/6 = 1/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધી એકી અને અડધી બેકી, એટલે જવાબ હંમેશા અડધો (1/2) જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "માહિતી 4, 3, 2, 1 ની સરાસરી 2.5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (4+3+2+1)/4 = 10/4 = 2.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરાસરી પોઈન્ટમાં આવી શકે, તે ગભરાવું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "મધ્યસ્થ શોધવા માટે અવલોકનોને ક્રમમાં ગોઠવવા જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ વગર મધ્યસ્થ અધૂરો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પ્રથમ પાંચ બેકી સંખ્યાઓની સરાસરી 6 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (2+4+6+8+10)/5 = 30/5 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ 'n' બેકી સંખ્યાની સરાસરી 'n+1' થાય. 5+1=6!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સંભાવનાનું મૂલ્ય ઋણ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સંભાવના હંમેશા ધન (0 કે તેથી વધુ) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંભાવના ક્યારેય ઉધાર (Negative) ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "માહિતીના સૌથી વધુ વખત પુનરાવર્તન પામતા અવલોકનને સરાસરી કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેને 'બહુલક' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનરાવર્તન = બહુલક, સરવાળો/સંખ્યા = સરાસરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "માહિતી 10, 20, 30 નો વિસ્તાર 20 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 30 - 10 = 20.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તાર એટલે ગેપ (Gap) શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "લંબ આલેખમાં x-અક્ષ પર સામાન્ય રીતે ગુણાત્મક માહિતી દર્શાવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (દા.ત. નામ, વાર, વિષય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X પર નામ, Y પર કામ (સંખ્યા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "એક થેલામાં 5 લાલ દડા છે, તેમાંથી પીળો દડો નીકળવાની સંભાવના 0 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અંદર પીળો દડો જ નથી, તો નીકળશે ક્યાંથી?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ હાજર નથી, તેની સંભાવના ઝીરો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "મધ્યસ્થ એ માહિતીની બરાબર વચ્ચે આવેલી કિંમત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (જો ક્રમમાં હોય તો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યસ્થ એટલે 'મિડલ વેલ્યુ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "માહિતી 5, 8, 10, 15 ની સરાસરી 10 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (5+8+10+15)/4 = 38/4 = 9.5 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો કરીને ચેક કરી લેવું, આશરે જવાબ ન આપવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "આલેખપત્ર પર ઊભી રેખાને Y-અક્ષ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભો વાય (Y) અને આડો એક્સ (X).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જે ઘટના બની શકે પણ નિશ્ચિત ન હોય તેની સંભાવના 0 અને 1 ની વચ્ચે હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શક્યતાઓ હંમેશા 0 થી 1 ની રેન્જમાં રમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "માહિતી 12, 14, 12, 16, 12 નો બહુલક 12 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 12 ત્રણ વખત આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અંક સૌથી વધુ દેખાય તે બહુલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "કોઈપણ માહિતી માટે સરાસરી, મધ્યસ્થ અને બહુલક હંમેશા સમાન જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અલગ-અલગ માહિતી માટે આ ત્રણેય કિંમતો અલગ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ત્રણેય અલગ માપ છે, તે કાયમ સરખા ન જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પ્રમાણમાપ 1 એકમ = 10 વિદ્યાર્થી હોય, તો 50 વિદ્યાર્થી માટે સ્તંભની ઊંચાઈ 5 એકમ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 50 / 10 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ કિંમત / પ્રમાણમાપ = સ્તંભની ઊંચાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "સિક્કાને ઉછાળતા કાંટો (T) મળવો એ અશક્ય ઘટના છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કાંટો મળવો એ શક્ય ઘટના છે (સંભાવના 1/2).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કાની બે જ તો બાજુ હોય, એક તો પડે જ ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "માહિતી 100, 200, 300 ની સરાસરી 200 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (100+200+300)/3 = 600/3 = 200.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેપ સરખો, એટલે મિડલ નંબર જ સરાસરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "બહુલક એ માહિતીની પ્રતિનિધિ કિંમત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સરાસરી, મધ્યસ્થ અને બહુલક ત્રણેય પ્રતિનિધિ મૂલ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ત્રણેય માહિતીના 'મેઈન લીડર' (Representative) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વધુમાં વધુ અને ઓછામાં ઓછા અવલોકનો સરાસરીથી સમાન અંતરે હોવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે માહિતીના વિતરણ પર આધાર રાખે છે, આવું હંમેશા જરૂરી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરાસરી માત્ર કેન્દ્ર છે, સંતુલન ગમે તે બાજુ નમી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ચોક્કસ ઘટનાની સંભાવના હંમેશા 1 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોક્કસ એટલે 100%, અને 100% એટલે ગણિતમાં 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "માહિતીનું નિયમન આપણને નિર્ણય લેવામાં મદદરૂપ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેટા હોય તો જ પ્લાનિંગ થાય!</p></div>"
+    }
+  ]
+}
