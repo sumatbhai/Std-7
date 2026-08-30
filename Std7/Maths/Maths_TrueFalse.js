@@ -672,3 +672,161 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સમીકરણમાં હંમેશા સમાનતા ( = ) ના ચિહ્નનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમીકરણ' શબ્દમાં જ 'સમાન' છુપાયેલું છે. જો '=' ન હોય, તો તે સમીકરણ નથી પણ પદાવલિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચલની કિંમત હંમેશા ચોક્કસ (સ્થિર) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ચલની કિંમત બદલાઈ શકે છે, જ્યારે અચલની કિંમત સ્થિર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલ એટલે 'ચાલતું' (બદલાતું) અને અચલ એટલે 'અડગ' (સ્થિર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમીકરણ x + 3 = 10 નો ઉકેલ x = 7 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (7 + 3 = 10)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુ x ની કિંમત મૂકીને જુઓ, જો જમણી બાજુ જેટલો જવાબ આવે તો તે સાચો ઉકેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમીકરણમાં ડાબી બાજુ (LHS) અને જમણી બાજુ (RHS) ની અદલાબદલી કરવાથી સમીકરણ બદલાઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સમીકરણની બંને બાજુઓ બદલવાથી સમીકરણની સ્થિતિમાં કોઈ ફેર પડતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાજવાના બંને પલ્લાની અદલાબદલી કરવાથી વજનમાં કોઈ ફેર પડતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમીકરણ 4x = 20 માં x ની કિંમત 5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (4 × 5 = 20)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સંખ્યા ગુણાકારમાં હોય તે સામે જાય તો ભાગાકારમાં જાય. (20 ÷ 4 = 5)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમીકરણ x - 5 = 0 માં x = -5 એ ઉકેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સાચો ઉકેલ x = 5 થાય (-5 - 5 = -10 થાય, 0 નહીં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બોર્ડર' ( = ) ઓળંગતા નિશાની બદલાઈ જાય. -5 સામે જાય તો +5 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો 3n + 7 = 25 હોય, તો 3n = 18 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (25 - 7 = 18)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળામાં હોય તે પદ બરાબરની સામે જાય ત્યારે બાદબાકી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "m / 2 = 10 નો ઉકેલ m = 5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સાચો ઉકેલ m = 20 થાય (20/2 = 10).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે છેદમાં (ભાગાકારમાં) હોય તે સામેની બાજુએ ગુણાકારમાં જાય. 10 × 2 = 20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોઈ સંખ્યાના 3 ગણામાં 5 ઉમેરતા 20 મળે, તેને સમીકરણ સ્વરૂપે 3x + 5 = 20 લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગણા' એટલે ગુણાકાર અને 'ઉમેરવા' એટલે સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણ 10p = 100 માં p = 10 એ સમીકરણનું સમાધાન કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (10 × 10 = 100)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબા = જબા થાય તો જ તે સમાધાન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો 2q + 6 = 12 હોય, તો q = 9 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: 2q = 12 - 6 = 6, તેથી q = 6/2 = 3 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાં સરવાળા-બાદબાકી વાળા પદને ખસેડો, પછી જ ગુણાકાર-ભાગાકાર વાળાને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમીકરણમાં ચલ તરીકે માત્ર 'x' જ લઈ શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ચલ તરીકે a થી z સુધીના કોઈપણ મૂળાક્ષરનો ઉપયોગ કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલ એટલે મનગમતો અક્ષર! x, y, z, p, n... ગમે તે વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "3x - 2 = 4 અને 3x = 6 આ બંને સમીકરણો સમાન ઉકેલ ધરાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. કારણ: બંનેમાં x = 2 ઉકેલ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા સમીકરણમાં -2 ને જમણી બાજુ લાવો એટલે તે 4+2=6 થઈ જશે, જે બીજું સમીકરણ જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કોઈ સંખ્યાના ચોથા ભાગમાંથી 4 બાદ કરતા 4 મળે, તો તે સંખ્યા 32 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (x/4 - 4 = 4 => x/4 = 8 => x = 32)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊલટી પ્રોસેસ કરો: 4 મળ્યા + 4 બાદ કર્યા હતા એટલે 8 થયા, ચોથો ભાગ હતો એટલે 8 × 4 = 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમીકરણ 0 = 4 + 5(p - 1) માં p = 1/5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (0 = 4 + 5p - 5 => 0 = 5p - 1 => 1 = 5p => p = 1/5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ છોડતી વખતે બહારની સંખ્યાને અંદરના દરેક પદ સાથે ગુણવાનું ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમીકરણ 5t + 28 = 10 માં t ની કિંમત ધન સંખ્યા મળશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: 5t = 10 - 28 = -18, તેથી t = -18/5 (ઋણ સંખ્યા) મળશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની સંખ્યામાંથી મોટી સંખ્યા બાદ થાય ત્યારે જવાબ હંમેશા ઋણ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો 7m + 19/2 = 13 હોય, તો m = 1/2 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (7m = 13 - 9.5 = 3.5 => m = 3.5/7 = 1/2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક હોય ત્યારે લસાઅ લઈને અથવા દશાંશમાં ફેરવીને ગણતરી સહેલી બનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમીકરણની બંને બાજુએ સરખી સંખ્યા વડે ભાગાકાર કરવાથી સમીકરણની ક્ષમતા જળવાતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: શૂન્ય સિવાયની સમાન સંખ્યા વડે બંને બાજુ ભાગતા સમીકરણ સંતુલિત જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમીકરણ એ ત્રાજવું છે, બંને પલ્લામાં સરખો ફેરફાર કરો તો સંતુલન જળવાય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "4(m + 3) = 18 માં m = 1.5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (4m + 12 = 18 => 4m = 6 => m = 6/4 = 1.5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 ના અડધા 3 અને 3 ના અડધા 1.5. (6/4 એટલે બે વાર અડધા કરવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "x / 5 = 0 નો ઉકેલ x = 5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: x = 0 × 5 = 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સાથે કોઈપણ સંખ્યાનો ગુણાકાર હંમેશા 'ઝીરો' જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "3x = 0 માં x ની કિંમત શક્ય નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: x = 0/3 = 0 એ ઉકેલ શક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ની કિંમત 0 હોઈ શકે છે, 0 એ એક સંખ્યા જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક સંખ્યાના 6 ગણામાંથી 5 બાદ કરતા 7 મળે, તો તે સંખ્યા 2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (6x - 5 = 7 => 6x = 12 => x = 2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 માં 5 ઉમેરો (12) અને તેને 6 વડે ભાગો (2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો 2x - 1 = 5 હોય, તો x = 3 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (2 × 3 - 1 = 6 - 1 = 5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપ્શન અથવા ધારેલી કિંમત સીધી સમીકરણમાં મૂકીને ચેક કરી લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "x = 5 થી શરૂ કરીને 3x + 2 = 17 સમીકરણ બનાવી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (3 × 5 + 2 = 15 + 2 = 17)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉકેલ પરથી સમીકરણ બનાવવા માટે બંને બાજુ સરખી ક્રિયાઓ (ગુણાકાર, સરવાળો વગેરે) કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમીકરણ 3l / 2 = 2/3 માં l = 1 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: l = (2/3) × (2/3) = 4/9 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુનો અપૂર્ણાંક જમણી બાજુ જાય ત્યારે ઉલટાઈ જાય (વ્યસ્ત થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો x + 4 = 2 હોય, તો x એ ઋણ પૂર્ણાંક સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (x = 2 - 4 = -2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જવાબમાં મોટી સંખ્યાની નિશાની આવે (4 મોટા છે અને તે ઋણ બનશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમીકરણમાં ચલની મહત્તમ ઘાત 1 હોય તેને સાદું સમીકરણ (સુરેખ) કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોરણ 7 માં આપણે માત્ર 1 ઘાતવાળા જ સમીકરણો ભણવાના છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "3p + 4 = 25 માં p = 7 ઉકેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (3 × 7 + 4 = 21 + 4 = 25)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયા પાકા હશે તો સમીકરણના ઉકેલ મૌખિક આવડશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સમીકરણ 2(x + 4) = 12 નો ઉકેલ x = 8 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: x + 4 = 12/2 = 6, તેથી x = 6 - 4 = 2 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કૌંસની બહાર ગુણાકારમાં સંખ્યા હોય, તો તેને પહેલા જ સામે ભાગાકારમાં મોકલી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો -4(2 + x) = 8 હોય, તો x = -4 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (2 + x = 8 / -4 = -2 => x = -2 - 2 = -4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યા સાથે ભાગાકાર કરતી વખતે નિશાનીનું ખાસ ધ્યાન રાખવું.</p></div>"
+    }
+  ]
+}
