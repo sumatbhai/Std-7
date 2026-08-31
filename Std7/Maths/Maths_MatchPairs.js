@@ -355,3 +355,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રેખાઓ અને ખૂણાઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) બે ખૂણાના માપનો સરવાળો 90° \n(2) બે ખૂણાના માપનો સરવાળો 180° \n\n વિભાગ B: \n(i) પૂરકકોણ \n(ii) કોટિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કો' એટલે નાનો (90°) અને 'પૂ' એટલે પૂરો મોટો (180°). કોટિકોણ = 90°, પૂરકકોણ = 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 40° નો કોટિકોણ \n(2) 50° નો કોટિકોણ \n\n વિભાગ B: \n(i) 40° \n(ii) 50°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોટિકોણ શોધવા માટે આપેલ ખૂણાને 90 માંથી બાદ કરો (90 - 40 = 50).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 110° નો પૂરકકોણ \n(2) 70° નો પૂરકકોણ \n\n વિભાગ B: \n(i) 110° \n(ii) 70°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરકકોણ શોધવા માટે આપેલ ખૂણાને 180 માંથી બાદ કરો (180 - 110 = 70).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) અભિકોણો \n(2) રૈખિક જોડના ખૂણા \n\n વિભાગ B: \n(i) હંમેશા પૂરક હોય (180°) \n(ii) હંમેશા સમાન હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાતર (X) એટલે અભિકોણ (સરખા), સીધી લાઈન (T) એટલે રૈખિક જોડ (180°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (ખૂણાની આકૃતિ) ને વિભાગ B (નામ) સાથે જોડો: \n(1) 'F' આકારથી બનતા ખૂણા \n(2) 'Z' આકારથી બનતા ખૂણા \n\n વિભાગ B: \n(i) અંત:યુગ્મકોણ \n(ii) અનુકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = અનુકોણ (Funny), Z = યુગ્મકોણ (Zig-Zag).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 90° નો કોટિકોણ \n(2) 90° નો પૂરકકોણ \n\n વિભાગ B: \n(i) 90° \n(ii) 0°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 માંથી 90 જાય તો 0 (કોટિકોણ), 180 માંથી 90 જાય તો 90 (પૂરકકોણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) છેદિકાની એક જ બાજુના અંત:કોણ \n(2) છેદિકાથી બનતા અભિકોણ \n\n વિભાગ B: \n(i) સમાન હોય \n(ii) સરવાળો 180° થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદિકાનો 'C' આકાર એટલે અંત:કોણ, જે હંમેશા પૂરક (180°) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) લઘુકોણનો કોટિકોણ \n(2) ગુરુકોણનો પૂરકકોણ \n\n વિભાગ B: \n(i) લઘુકોણ \n(ii) લઘુકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુકોણ કે ગુરુકોણના કિસ્સામાં બાદબાકી કરતા જવાબ હંમેશા લઘુકોણ જ મળે (જો સરવાળો 90 કે 180 હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કાટકોણનો પૂરકકોણ \n(2) કાટકોણનો કોટિકોણ \n\n વિભાગ B: \n(i) 0° \n(ii) કાટકોણ (90°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 + 90 = 180 (પૂરક) અને 90 + 0 = 90 (કોટિકોણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) આસન્નકોણ માટે શરત \n(2) રૈખિક જોડ માટે શરત \n\n વિભાગ B: \n(i) સામાન્ય ભુજ સિવાયના કિરણો વિરુદ્ધ દિશામાં \n(ii) એક ભુજ સામાન્ય હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસન્નકોણ એટલે પાડોશી ખૂણા, રૈખિક જોડ એટલે સીધી રેખા પરના પાડોશી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 45° નો કોટિકોણ \n(2) 135° નો પૂરકકોણ \n\n વિભાગ B: \n(i) 45° \n(ii) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 45 એ 90 ના અડધા છે, અને 135 માં 45 ઉમેરતા 180 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) યુગ્મકોણની જોડ \n(2) અનુકોણની જોડ \n\n વિભાગ B: \n(i) સમાંતર રેખાઓમાં સમાન \n(ii) સમાંતર રેખાઓમાં સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો રેખાઓ સમાંતર હોય, તો Z, F અને X આકારોમાં બનતા ખૂણા સમાન જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 80° અને 100° \n(2) 30° અને 60° \n\n વિભાગ B: \n(i) કોટિકોણની જોડ \n(ii) પૂરકકોણની જોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો કરો! 180 આવે તો પૂરક, 90 આવે તો કોટિકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) બે લઘુકોણો \n(2) બે ગુરુકોણો \n\n વિભાગ B: \n(i) ક્યારેય પૂરકકોણ ન હોઈ શકે \n(ii) કોટિકોણ હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે નાના (લઘુ) 180 ન કરી શકે, બે મોટા (ગુરુ) 180 થી વધી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) જે ખૂણો તેના કોટિકોણ જેટલો હોય \n(2) જે ખૂણો તેના પૂરકકોણ જેટલો હોય \n\n વિભાગ B: \n(i) 90° \n(ii) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 ના અડધા 45 (કોટિકોણ), 180 ના અડધા 90 (પૂરકકોણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) છેદિકા દ્વારા બનતા કુલ ખૂણા \n(2) છેદિકા દ્વારા બનતા અંત:કોણોની જોડ \n\n વિભાગ B: \n(i) 2 જોડ \n(ii) 8 ખૂણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 રેખા + 1 છેદિકા = 8 ખૂણા. અંદરની બાજુના 'C' આકાર બે જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 0° નો પૂરકકોણ \n(2) 180° નો પૂરકકોણ \n\n વિભાગ B: \n(i) 0° \n(ii) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 180 માંથી બાદબાકી કરો, જવાબ તમારી સામે હશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) બાહ્ય યુગ્મકોણ \n(2) અંત: યુગ્મકોણ \n\n વિભાગ B: \n(i) અંદરના 'Z' આકારના ખૂણા \n(ii) બહારના 'Z' આકારના ખૂણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્મકોણ એટલે 'Z'. અંદર હોય તો અંત:, બહાર હોય તો બાહ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) લઘુકોણ + લઘુકોણ = 180° \n(2) કાટકોણ + કાટકોણ = 180° \n\n વિભાગ B: \n(i) શક્ય છે \n(ii) અશક્ય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90+90=180 થાય, પણ 89+89=178 (180 થી ઓછું) જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) શિરોબિંદુ અને એક ભુજ સામાન્ય \n(2) બે છેદતી રેખાઓથી બનતા સામસામેના ખૂણા \n\n વિભાગ B: \n(i) અભિકોણ \n(ii) આસન્નકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાડોશી એટલે આસન્નકોણ, સામસામે એટલે અભિકોણ.</p></div>"
+    }
+  ]
+}
