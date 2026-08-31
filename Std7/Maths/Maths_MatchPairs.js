@@ -164,3 +164,86 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "માહિતીનું નિયમન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) સરાસરી (મધ્યક) <br> (2) બહુલક <br> (3) મધ્યસ્થ <br> --- <br> (A) સૌથી વધુ વખત આવતું અવલોકન <br> (B) અવલોકનોનો સરવાળો / અવલોકનોની સંખ્યા <br> (C) બરોબર વચ્ચે આવેલું અવલોકન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સરાસરી અને સરવાળો, 'બ' થી બહુલક અને બહુ વખત, 'મ' થી મધ્યસ્થ અને મધ્ય (વચ્ચે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' માં આપેલ માહિતી માટે વિભાગ 'બ' માંથી સાચો 'વિસ્તાર' શોધો: <br> (1) 2, 5, 8, 10 <br> (2) 15, 20, 25, 30 <br> --- <br> (A) 15 <br> (B) 8 <br> (C) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) [10-2=8], (2) - (A) [30-15=15]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તાર એટલે 'મોટું માઇનસ નાનું' (Max - Min)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘટનાની સંભાવના માટે યોગ્ય જોડી બનાવો: <br> (1) સૂર્ય પશ્ચિમમાં ઊગે <br> (2) સૂર્ય પૂર્વમાં ઊગે <br> (3) સિક્કો ઉછાળતા છાપ મળે <br> --- <br> (A) ચોક્કસ ઘટના (સંભાવના 1) <br> (B) અશક્ય ઘટના (સંભાવના 0) <br> (C) થઈ શકે પણ ચોક્કસ નહીં (સંભાવના 1/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ક્યારેય ન બને તે 0 (ઝીરો), જે પાકું બને તે 1 (એક)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "માહિતી: 5, 7, 5, 3, 5 માટે યોગ્ય વિકલ્પ જોડો: <br> (1) બહુલક <br> (2) સરાસરી <br> (3) વિસ્તાર <br> --- <br> (A) 4 <br> (B) 5 <br> (C) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) [5 ત્રણ વાર], (2) - (C) [25/5=5], (3) - (A) [7-3=4]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતરી કરતી વખતે માહિતીને ચડતા ક્રમમાં ગોઠવી દેવી, ભૂલ નહિ પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચોક્કસ પરિસ્થિતિ માટે સંભાવનાના મૂલ્યો જોડો: <br> (1) પાસા પર 7 અંક આવે <br> (2) પાસા પર 1 થી 6 માંથી કોઈ અંક આવે <br> --- <br> (A) 1 <br> (B) 0 <br> (C) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસા પર 6 થી મોટો અંક હોય જ નહીં એટલે તેની સંભાવના લાડવો (0) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "માહિતીના આલેખ માટેની વિગતો જોડો: <br> (1) લંબ આલેખ <br> (2) દ્વિ-લંબ આલેખ <br> --- <br> (A) બે માહિતીની સરખામણી કરવા <br> (B) એક જ પ્રકારની માહિતી દર્શાવવા <br> (C) વર્તુળમાં માહિતી દર્શાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્વિ' એટલે બે, તો બે માહિતીની સરખામણી માટે દ્વિ-લંબ આલેખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માહિતી 10, 20, 30, 40, 50 માટે: <br> (1) મધ્યસ્થ <br> (2) સરાસરી <br> --- <br> (A) 30 <br> (B) 30 <br> (C) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સંખ્યાઓ વચ્ચેનો તફાવત સમાન હોય, તો બરોબર વચ્ચેની સંખ્યા જ સરાસરી અને મધ્યસ્થ બંને બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંભાવનાની રેન્જ (સીમા) માટે જોડો: <br> (1) સંભાવનાનું ન્યૂનતમ મૂલ્ય <br> (2) સંભાવનાનું મહત્તમ મૂલ્ય <br> --- <br> (A) 1 <br> (B) 0 <br> (C) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંભાવના હંમેશા 0 અને 1 ની વચ્ચે જ રમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિદ્યાર્થીઓના ગુણ: 25, 25, 25, 25 માટે: <br> (1) સરાસરી <br> (2) વિસ્તાર <br> --- <br> (A) 0 <br> (B) 25 <br> (C) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બધા અવલોકનો સરખા હોય ત્યારે વિસ્તાર હંમેશા શૂન્ય જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માહિતીનું પ્રતિનિધિત્વ કરતા મૂલ્યો: <br> (1) અંકગણિતીય મધ્યક <br> (2) સૌથી વધુ પુનરાવર્તિત સંખ્યા <br> (3) માહિતીનું વિસ્તરણ <br> --- <br> (A) વિસ્તાર <br> (B) સરાસરી <br> (C) બહુલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મધ્યક' અને 'સરાસરી' એક જ સિક્કાની બે બાજુ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રથમ પાંચ પ્રાકૃતિક સંખ્યાઓ માટે (1, 2, 3, 4, 5): <br> (1) સરાસરી <br> (2) મધ્યસ્થ <br> --- <br> (A) 3 <br> (B) 3 <br> (C) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી સંખ્યામાં અવલોકનો હોય ત્યારે વચ્ચેની સંખ્યા જ મધ્યસ્થ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તક અને સંભાવના: <br> (1) એક સિક્કાને ઉછાળતા મળતા કુલ પરિણામો <br> (2) એક પાસાને ફેંકતા મળતા કુલ પરિણામો <br> --- <br> (A) 6 <br> (B) 2 <br> (C) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કાને બે મોઢા (H, T) અને પાસાને છ બાજુ (1 to 6)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માહિતી 1, 2, 3, 4 માટે યોગ્ય મધ્યસ્થ માટે પદ જોડો: <br> (1) અવલોકનોની સંખ્યા (n) <br> (2) જો n એકી હોય તો મધ્યસ્થ <br> --- <br> (A) (n+1)/2 મું અવલોકન <br> (B) 4 <br> (C) n/2 મું અવલોકન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી હોય તો 1 ઉમેરીને અડધા કરવાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આલેખપત્ર પર સ્કેલમાપ: <br> (1) Y-અક્ષ પર 1 સેમી = 10 એકમ <br> (2) લંબની પહોળાઈ <br> --- <br> (A) હંમેશા સમાન રાખવી <br> (B) માહિતીના પ્રમાણમાં પસંદ કરવું <br> (C) ગમે તે રાખી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખમાં થાંભલા (લંબ) ની જાડાઈ સરખી હોવી જોઈએ, નહીંતર આલેખ જાડો-પાતળો લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માહિતીના પ્રકાર અને શોધવાની રીત: <br> (1) સૌથી મોટું અવલોકન - સૌથી નાનું અવલોકન <br> (2) સરેરાશ મૂલ્ય <br> --- <br> (A) વિસ્તાર <br> (B) મધ્યક <br> (C) બહુલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સરેરાશ' એટલે જ 'સરાસરી'!</p></div>"
+    }
+  ]
+}
