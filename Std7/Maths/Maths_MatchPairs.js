@@ -247,3 +247,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. x + 5 = 12 <br> 2. x - 3 = 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. x = 7 <br>2. x = 13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘બાજુ બદલો તો નિશાની બદલો’. +5 જમણી બાજુ જાય તો -5 થાય, અને -3 જમણી બાજુ જાય તો +3 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. 3x = 15 <br> 2. x/4 = 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. x = 5 <br>2. x = 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણાકારમાં હોય તે ભાગાકારમાં જાય (15/3 = 5) અને ભાગાકારમાં હોય તે ગુણાકારમાં જાય (5 × 4 = 20).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિધાનને સમીકરણ સાથે જોડો: <br> 1. x ના 3 ગણા 12 છે. <br> 2. x માં 4 ઉમેરતા 10 મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 3x = 12 <br>2. x + 4 = 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગણા' એટલે ગુણાકાર (×) અને 'ઉમેરતા' એટલે સરવાળો (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. 2x + 1 = 7 <br> 2. 2x - 1 = 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. x = 3 <br>2. x = 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા સરવાળા-બાદબાકીને દૂર કરો, પછી ગુણાકાર-ભાગાકારને. (7-1)/2 = 3 અને (7+1)/2 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. x ના ચોથા ભાગમાંથી 2 બાદ કરતા 6 મળે. <br> 2. x ના અડધામાં 3 ઉમેરતા 10 મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. (x/4) - 2 = 6 <br>2. (x/2) + 3 = 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભાગ' શબ્દ આવે ત્યારે હંમેશા છેદમાં (ભાગાકારમાં) સંખ્યા મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમતોને સમીકરણના ઉકેલ સાથે જોડો: <br> 1. 5m = 60 <br> 2. 10p = 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. m = 12 <br>2. p = 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડાબી બાજુનો 'ઝીરો' કે સંખ્યા ઉડાડવાથી સીધો જવાબ મળે. 10p = 100 માંથી એક એક મીંડું ઉડાડો તો p=10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. -4x = 16 <br> 2. -4x = -16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. x = -4 <br>2. x = 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો બંને બાજુ 'માઈનસ' હોય તો ઉડી જાય (+ થઈ જાય). જો એક જ બાજુ હોય તો જવાબમાં 'માઈનસ' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જોડકાં જોડો: <br> 1. x/3 + 5 = 8 <br> 2. x/3 - 5 = 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. x = 9 <br>2. x = 39</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): (8-5)×3 = 9 અને (8+5)×3 = 39. ગણતરી ઉલટા ક્રમમાં કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિધાન માટે સાચું સમીકરણ: <br> 1. x ના 7 ગણામાં 7 ઉમેરતા 77 મળે. <br> 2. x ના 6 ગણામાંથી 6 બાદ કરતા 60 મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 7x + 7 = 77 <br>2. 6x - 6 = 60</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગણા' અને 'ઉમેરતા' બંને શબ્દો ક્રમ મુજબ લખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. 3(n - 2) = 21 <br> 2. 3n - 2 = 19",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. n = 9 <br>2. n = 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસ હોય તો પહેલા કૌંસ બહારની સંખ્યા વડે ભાગાકાર કરી શકાય: 21/3 = 7, પછી 7+2 = 9.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચલની કિંમત શોધો: <br> 1. 4 + 5(p - 1) = 34 <br> 2. 0 = 16 + 4(m - 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. p = 7 <br>2. m = 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારની સંખ્યાને પહેલા ડાબી બાજુ લઈ જાવ. 34-4=30, પછી 30/5=6, પછી 6+1=7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જોડકાં જોડો: <br> 1. લક્ષ્મીની ઉંમરના 3 ગણામાં 4 ઉમેરતા 49 થાય. <br> 2. મુન્નાએ તેની પાસેની નોટબુકના 3 ગણા 50 માંથી બાદ કર્યા તો 8 મળ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 3x + 4 = 49 <br>2. 50 - 3x = 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જેમાંથી બાદ કરવાનું હોય' તેને પહેલા લખો (જેમ કે 50).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમીકરણનો ઉકેલ: <br> 1. q/4 + 7 = 5 <br> 2. q/4 - 7 = 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. q = -8 <br>2. q = 48</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5-7 = -2 અને -2 × 4 = -8. જ્યારે નાની સંખ્યામાંથી મોટી બાદ થાય ત્યારે જવાબ ઋણ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. 2y + 5/2 = 37/2 <br> 2. 5t + 28 = 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. y = 8 <br>2. t = -18/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો છેદ સમાન હોય, તો અંશની સીધી બાદબાકી કરી શકાય. (37-5)/2 = 32/2 = 16. પછી 16/2 = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમીકરણ બનાવો: <br> 1. એક સંખ્યાના 6 ગણામાંથી 5 બાદ કરતા 7 મળે. <br> 2. એક સંખ્યાના ચોથા ભાગમાં 3 ઉમેરતા 5 મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 6x - 5 = 7 <br>2. x/4 + 3 = 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમીકરણ એ ત્રાજવું છે, 'મળે' એટલે બરાબર (=) ની નિશાની મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જોડકાં જોડો: <br> 1. 10y + 10 = 100 <br> 2. 10y = 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. y = 9 <br>2. y = 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): (100-10)/10 = 90/10 = 9. સાદું લોજિક વાપરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (સમીકરણ) અને વિભાગ B (ચલની કિંમત): <br> 1. 3s = -9 <br> 2. 3s + 12 = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. s = -3 <br>2. s = -4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 0 માંથી 12 જાય તો -12 વધે. -12 ને 3 વડે ભાગો એટલે -4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જોડકાં જોડો: <br> 1. x/2 = 7 <br> 2. 2x = 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. x = 14 <br>2. x = 3.5 (અથવા 7/2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં હોય તો ગુણાકાર, અંશમાં હોય તો ભાગાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમીકરણ ઉકેલો: <br> 1. 2q + 6 = 12 <br> 2. 2q + 6 = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. q = 3 <br>2. q = -3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો જવાબ શૂન્ય લાવવો હોય, તો ચલની કિંમત વિરોધી જ હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જોડકાં જોડો: <br> 1. ઇરફાને કહ્યું કે તેની પાસે પરમિતની લખોટીના 5 ગણા કરતા 7 વધારે લખોટી છે. (કુલ 37) <br> 2. ઇરફાને કહ્યું કે તેની પાસે પરમિતની લખોટીના 5 ગણા કરતા 7 ઓછી લખોટી છે. (કુલ 33)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. 5x + 7 = 37 <br>2. 5x - 7 = 33</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વધારે' માટે + અને 'ઓછી' માટે - વાપરો.</p></div>"
+    }
+  ]
+}
