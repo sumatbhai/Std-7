@@ -712,3 +712,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પરિમિતિ અને ક્ષેત્રફળ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) ચોરસની પરિમિતિ, (2) ચોરસનું ક્ષેત્રફળ <br> વિભાગ B: (A) લંબાઈ × લંબાઈ, (B) 4 × લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં 4 બાજુ હોય એટલે પરિમિતિમાં 4 વડે ગુણવા અને ક્ષેત્રફળ એટલે અંદરની જગ્યા એટલે લંબાઈનો બે વાર ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) લંબચોરસની પરિમિતિ, (2) લંબચોરસનું ક્ષેત્રફળ <br> વિભાગ B: (A) લંબાઈ × પહોળાઈ, (B) 2 × (લંબાઈ + પહોળાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસમાં બે લંબાઈ અને બે પહોળાઈ હોય એટલે સરવાળાને 2 વડે ગુણવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ, (2) ત્રિકોણનું ક્ષેત્રફળ <br> વિભાગ B: (A) 1/2 × પાયો × વેધ, (B) પાયો × વેધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ એ સમાંતરબાજુ ચતુષ્કોણ કરતા અડધો હોય, એટલે તેના સૂત્રમાં 1/2 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) વર્તુળનો પરિઘ, (2) વર્તુળનું ક્ષેત્રફળ <br> વિભાગ B: (A) πr², (B) 2πr",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિઘમાં 2 આગળ આવે (2πr) અને ક્ષેત્રફળમાં 2 ઉપર (ઘાતમાં) આવે (πr²).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) 1 cm², (2) 1 m² <br> વિભાગ B: (A) 10,000 cm², (B) 100 mm²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 cm = 10 mm તો 1 cm² = 10 × 10 = 100 mm². તેવી જ રીતે મીટરમાં 100 × 100 = 10,000.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) અર્ધવર્તુળની પરિમિતિ (માત્ર વક્ર ભાગ), (2) અર્ધવર્તુળનું ક્ષેત્રફળ <br> વિભાગ B: (A) 1/2 πr², (B) πr",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું વર્તુળ 2πr હોય તો અડધું πr થાય. ક્ષેત્રફળમાં પણ અડધું એટલે 1/2 લગાવી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) π ની આશરે કિંમત, (2) વર્તુળનો વ્યાસ <br> વિભાગ B: (A) 2 × ત્રિજ્યા, (B) 22/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈ (π) એટલે 22 ના છેદમાં 7, અને વ્યાસ હંમેશા ત્રિજ્યા કરતા બમણો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) 1 હેક્ટર, (2) 1 m² <br> વિભાગ B: (A) 1,00,00,00 mm², (B) 10,000 m²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેક્ટર મોટું માપ છે જે ખેતર માટે વપરાય. 100m × 100m એટલે 10,000 m².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) ત્રિજ્યા 7 cm હોય તો પરિઘ, (2) ત્રિજ્યા 7 cm હોય તો ક્ષેત્રફળ <br> વિભાગ B: (A) 154 cm², (B) 44 cm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r = 7 હોય ત્યારે પરિઘ 44 અને ક્ષેત્રફળ 154 થાય, આ ગણતરી મોઢે યાદ રાખવી પરીક્ષામાં બહુ કામ લાગશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) પાયો = 5 cm, વેધ = 4 cm (સમાંતરબાજુ ચતુષ્કોણ), (2) પાયો = 5 cm, વેધ = 4 cm (ત્રિકોણ) <br> વિભાગ B: (A) 10 cm², (B) 20 cm²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચતુષ્કોણમાં સીધો ગુણાકાર (5×4=20) અને ત્રિકોણમાં ગુણાકારનું અડધું (20/2=10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) પરિમિતિનો એકમ, (2) ક્ષેત્રફળનો એકમ <br> વિભાગ B: (A) સેમી², (B) સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે લંબાઈ (1D) તો એકમ સાદો, ક્ષેત્રફળ એટલે સપાટી (2D) તો એકમનો વર્ગ (સ્ક્વેર) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) વ્યાસ = 14 cm તો ત્રિજ્યા, (2) ત્રિજ્યા = 10 cm તો વ્યાસ <br> વિભાગ B: (A) 20 cm, (B) 7 cm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાસ મોટો હોય (D = 2r) અને ત્રિજ્યા નાની (r = D/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) વર્તુળના પરિઘ અને વ્યાસનો ગુણોત્તર, (2) વર્તુળના ક્ષેત્રફળ અને ત્રિજ્યાના વર્ગનો ગુણોત્તર <br> વિભાગ B: (A) π (પાઈ), (B) π (પાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર યાદ કરો: C = πd અને A = πr². બંનેમાં અચળાંક π જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) લંબચોરસની લંબાઈ (ક્ષેત્રફળ/પહોળાઈ), (2) ચોરસની બાજુ (પરિમિતિ/4) <br> વિભાગ B: (A) બાજુની લંબાઈ, (B) લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ક્ષેત્રફળ ખબર હોય તો ભાગાકાર કરવાથી બીજી બાજુ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) ત્રિકોણનો વેધ, (2) સમાંતરબાજુ ચતુષ્કોણનો પાયો <br> વિભાગ B: (A) (ક્ષેત્રફળ/વેધ), (B) (2 × ક્ષેત્રફળ)/પાયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમાં સૂત્રમાં 1/2 હોય છે, એટલે તેને સામે લઈ જતા 2 ગુણાકારમાં જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) અર્ધવર્તુળની કુલ પરિમિતિ, (2) પૂર્ણ વર્તુળનો પરિઘ <br> વિભાગ B: (A) 2πr, (B) πr + 2r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધવર્તુળની કુલ પરિમિતિ એટલે વક્ર ભાગ (πr) + સીધો ભાગ એટલે કે વ્યાસ (2r).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) ચોરસની બાજુ બમણી કરતા ક્ષેત્રફળ, (2) લંબચોરસની લંબાઈ બમણી કરતા ક્ષેત્રફળ <br> વિભાગ B: (A) બમણું થાય, (B) 4 ગણું થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં બંને બાજુ બદલાય એટલે 2 × 2 = 4 ગણું, લંબચોરસમાં એક જ લંબાઈ બદલાય તો માત્ર 2 ગણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) વર્તુળની ત્રિજ્યા બમણી કરતા પરિઘ, (2) વર્તુળની ત્રિજ્યા બમણી કરતા ક્ષેત્રફળ <br> વિભાગ B: (A) 4 ગણું થાય, (B) બમણો થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિઘ r પર આધારિત છે (બમણો), ક્ષેત્રફળ r² પર આધારિત છે (2² = 4 ગણું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) પાયો = 10 cm, વેધ = 6 cm ધરાવતો ત્રિકોણ, (2) પાયો = 10 cm, વેધ = 6 cm ધરાવતો સમાંતરબાજુ ચતુષ્કોણ <br> વિભાગ B: (A) 60 cm², (B) 30 cm²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ હંમેશા સમાંતરબાજુ ચતુષ્કોણ કરતા અડધો જ હોય જો પાયો અને વેધ સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) π ની કિંમત દશાંશમાં, (2) 22/7 ની કિંમત <br> વિભાગ B: (A) 3.14 (આશરે), (B) 3.14 (આશરે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: π એ અસંમેય છે પણ આપણે ગણતરી માટે 3.14 અથવા 22/7 લઈએ છીએ.</p></div>"
+    }
+  ]
+}
