@@ -546,3 +546,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) 1/4, (2) 1/2, (3) 3/4, (4) 1/5 \nવિભાગ B: (A) 50%, (B) 75%, (C) 25%, (D) 20%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-B, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકને ટકામાં ફેરવવા માટે તેને 100 વડે ગુણી નાખો. જેમ કે, 1/4 × 100 = 25%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દશાંશ સંખ્યાને ટકામાં ફેરવવા માટે યોગ્ય જોડ બનાવો: \nવિભાગ A: (1) 0.75, (2) 0.02, (3) 0.1, (4) 1.25 \nવિભાગ B: (A) 2%, (B) 10%, (C) 125%, (D) 75%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-A, (3)-B, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્નને જમણી બાજુ બે અંક ખસેડો એટલે ટકા મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નફા-ખોટની શરતોને ઓળખો: \nવિભાગ A: (1) વેચાણ કિંમત > મૂળ કિંમત, (2) મૂળ કિંમત > વેચાણ કિંમત, (3) વેચાણ કિંમત = મૂળ કિંમત, (4) નફાની ટકાવારી \nવિભાગ B: (A) ખોટ, (B) (નફો / મૂ.કિં.) × 100, (C) નફો, (D) નફો પણ નહીં, ખોટ પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-D, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વે' એટલે વેચાણ, જો 'વે' મોટો હોય તો હંમેશા 'વે'-પારીને નફો જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાદા વ્યાજના સૂત્રના પદો જોડો: \nવિભાગ A: (1) P, (2) R, (3) T, (4) I \nવિભાગ B: (A) વ્યાજનો દર, (B) સમય (વર્ષમાં), (C) મુદ્દલ, (D) સાદું વ્યાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-B, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર યાદ રાખો: I = PRT / 100. (પ્રીત / 100)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુણોત્તર અને તેની ટકાવારી જોડો: \nવિભાગ A: (1) 1 : 1, (2) 1 : 3, (3) 1 : 4, (4) 3 : 2 \nવિભાગ B: (A) 25% અને 75%, (B) 60% અને 40%, (C) 50% અને 50%, (D) 20% અને 80%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-D, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરના પદોનો સરવાળો કરી તેને છેદમાં મૂકી 100 વડે ગુણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમતો અને વ્યાજ જોડો (T=1 વર્ષ માટે): \nવિભાગ A: (1) P=1000, R=10%, (2) P=500, R=10%, (3) P=2000, R=5%, (4) P=100, R=5% \nવિભાગ B: (A) રૂ. 50, (B) રૂ. 100, (C) રૂ. 5, (D) રૂ. 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B/D, (2)-A, (3)-B/D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10% શોધવા માટે પાછળથી એક મીંડું કાઢી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટકાવારીનું અતિસંક્ષિપ્ત રૂપ આપો: \nવિભાગ A: (1) 25%, (2) 50%, (3) 75%, (4) 20% \nવિભાગ B: (A) 1/2, (B) 1/5, (C) 1/4, (D) 3/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-D, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકા એટલે છેદમાં 100 મૂકીને છેદ ઉડાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વ્યાજમુદ્દલના સંબંધો જોડો: \nવિભાગ A: (1) વ્યાજમુદ્દલ (A), (2) સાદું વ્યાજ (I), (3) નફો, (4) ખોટ \nવિભાગ B: (A) A - P, (B) P + I, (C) મૂ.કિં. - વે.કિં., (D) વે.કિં. - મૂ.કિં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાજમુદ્દલ એટલે 'મુદ્દલ' માં 'વ્યાજ' નો 'ઉમેરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુણોત્તરનું પ્રમાણ માપ જોડો: \nવિભાગ A: (1) 1 મીટર થી 100 સેમી, (2) 1 કિલોગ્રામ થી 500 ગ્રામ, (3) 1 રૂપિયો થી 25 પૈસા, (4) 1 કલાક થી 30 મિનિટ \nવિભાગ B: (A) 2 : 1, (B) 1 : 1, (C) 2 : 1, (D) 4 : 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર લેતા પહેલા એકમો સમાન કરવા ફરજિયાત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંખ્યાના ટકા શોધો: \nવિભાગ A: (1) 2500 ના 20%, (2) 1000 ના 15%, (3) 100 ના 1%, (4) 500 ના 10% \nવિભાગ B: (A) 150, (B) 500, (C) 50, (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકા એટલે 'ગુણાકાર ભાગ્યા 100'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અપૂર્ણાંક અને ટકાવારી (વિશેષ): \nવિભાગ A: (1) 1/8, (2) 3/8, (3) 5/8, (4) 7/8 \nવિભાગ B: (A) 62.5%, (B) 87.5%, (C) 12.5%, (D) 37.5%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 ના 25% હોય, તો તેના અડધા 1/8 ના 12.5% થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નફા-ખોટની ગણતરી (મૂ.કિં. 100 હોય ત્યારે): \nવિભાગ A: (1) વે.કિં. 120, (2) વે.કિં. 80, (3) વે.કિં. 150, (4) વે.કિં. 95 \nવિભાગ B: (A) 20% ખોટ, (B) 5% ખોટ, (C) 20% નફો, (D) 50% નફો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-D, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મૂળ કિંમત 100 હોય, ત્યારે તફાવત એ જ ટકાવારી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમય (T) અને વ્યાજ (I) (P=100, R=10% માટે): \nવિભાગ A: (1) T = 1 વર્ષ, (2) T = 2 વર્ષ, (3) T = 5 વર્ષ, (4) T = 10 વર્ષ \nવિભાગ B: (A) રૂ. 50, (B) રૂ. 10, (C) રૂ. 100, (D) રૂ. 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-D, (3)-A, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદું વ્યાજ દર વર્ષે સમાન રહે છે, તેથી વર્ષ વધતા વ્યાજ પણ તેટલું જ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વધારા અને ઘટાડાની ટકાવારી: \nવિભાગ A: (1) 50 માં 10 નો વધારો, (2) 50 માં 10 નો ઘટાડો, (3) 100 માં 10 નો વધારો, (4) 100 માં 10 નો ઘટાડો \nવિભાગ B: (A) 20% વધારો, (B) 10% વધારો, (C) 20% ઘટાડો, (D) 10% ઘટાડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-A, (2)-C, (3)-B, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાવારી ફેરફાર = (તફાવત / મૂળ કિંમત) × 100.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટકાવારીનું દશાંશ સ્વરૂપ: \nવિભાગ A: (1) 20%, (2) 2%, (3) 200%, (4) 0.2% \nવિભાગ B: (A) 2.0, (B) 0.002, (C) 0.2, (D) 0.02",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાનું નિશાન કાઢી દશાંશ ચિહ્નને ડાબી બાજુ બે અંક ખસેડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વ્યાજના સૂત્રોમાંથી કર્તા બનાવો: \nવિભાગ A: (1) સાદું વ્યાજ (I), (2) દર (R), (3) મુદ્દલ (P), (4) સમય (T) \nવિભાગ B: (A) (100 × I) / (P × T), (B) PRT / 100, (C) (100 × I) / (P × R), (D) (100 × I) / (R × T)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે P, R કે T શોધવાના હોય, ત્યારે 100 × I હંમેશા અંશમાં જ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વસ્તુની કિંમત અને નફાની ટકાવારી: \nવિભાગ A: (1) મૂ.કિં. 400, નફો 40, (2) મૂ.કિં. 250, નફો 50, (3) મૂ.કિં. 80, નફો 20, (4) મૂ.કિં. 1000, નફો 500 \nવિભાગ B: (A) 25%, (B) 50%, (C) 10%, (D) 20%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નફો એ મૂ.કિં.નો કેટલામો ભાગ છે તે જુઓ (જેમ કે, 40 એ 400 નો 10મો ભાગ છે એટલે 10%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અપૂર્ણાંક અને ટકાવારી (છેદમાં 100 લાવવા): \nવિભાગ A: (1) 3/10, (2) 2/5, (3) 4/25, (4) 1/20 \nવિભાગ B: (A) 16%, (B) 5%, (C) 30%, (D) 40%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદને એવી સંખ્યા વડે ગુણો કે 100 થાય, પછી અંશને પણ તે જ સંખ્યા વડે ગુણી ટકા મેળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચોક્કસ ગુણોત્તર અને તેના ટકાવારી પદ: \nવિભાગ A: (1) 2 : 3 (પહેલું પદ), (2) 1 : 4 (બીજું પદ), (3) 3 : 7 (પહેલું પદ), (4) 1 : 1 (કોઈપણ પદ) \nવિભાગ B: (A) 80%, (B) 30%, (C) 50%, (D) 40%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-A, (3)-B, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદના છેદમાં કુલ સરવાળો મૂકીને ટકા શોધો. (દા.ત. 1:4 માં બીજું પદ 4/5 છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વ્યાજમુદ્દલની ગણતરી (P=1000 માટે): \nવિભાગ A: (1) I = રૂ. 100, (2) I = રૂ. 200, (3) I = રૂ. 500, (4) I = રૂ. 50 \nવિભાગ B: (A) A = રૂ. 1500, (B) A = રૂ. 1050, (C) A = રૂ. 1100, (D) A = રૂ. 1200",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = P + I. મુદ્દલમાં વ્યાજ ઉમેરતા જ જાઓ.</p></div>"
+    }
+  ]
+}
