@@ -820,3 +820,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બૈજિક પદાવલિઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \n(1) 4x²y \n(2) 3x + 5 \n(3) a + b + c \n\nવિભાગ B: (a) દ્વિપદી (b) ત્રિપદી (c) એકપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદોની સંખ્યા ગણો! 1 પદ = એકપદી, 2 પદ = દ્વિપદી, 3 પદ = ત્રિપદી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પદાવલિમાં પદોના સહગુણક ઓળખો: \n(1) -7xy \n(2) 15z \n(3) -x \n\nવિભાગ B: (a) 15 (b) -1 (c) -7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલની આગળ જે સંખ્યા હોય (નિશાની સાથે) તે સહગુણક કહેવાય. જો કંઈ ન હોય તો 1 ગણવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સજાતીય પદોની જોડી બનાવો: \n(1) 12x \n(2) -25y² \n(3) 7ab \n\nવિભાગ B: (a) 10y² (b) -5ba (c) 5x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સજાતીય એટલે 'ચલ' અને 'ચલની ઘાત' બંને સરખા હોવા જોઈએ. ક્રમ બદલાય તો ચાલે (ab = ba). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો x = 2 હોય, તો કિંમત શોધો: \n(1) x + 3 \n(2) 4x - 2 \n(3) x² \n\nવિભાગ B: (a) 6 (b) 4 (c) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાવલિમાં x ની જગ્યાએ કૌંસમાં 2 મૂકી સાદું રૂપ આપો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પદના અવયવો ઓળખો: \n(1) 5xy \n(2) 12a² \n(3) -3n \n\nવિભાગ B: (a) 12, a, a (b) -3, n (c) 5, x, y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ એટલે પદના ટુકડા કરવા. ઘાત હોય એટલી વાર ચલ લખવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પદાવલિના પ્રકાર જણાવો: \n(1) 100 \n(2) 7x + y \n(3) x² + 2x + 1 \n\nવિભાગ B: (a) દ્વિપદી (b) એકપદી (c) ત્રિપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a), (3) - (c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર અંક હોય તો પણ તે એકપદી પદાવલિ જ કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પદાવલિનો સરવાળો કરો: \n(1) x + x \n(2) 2x + 3x \n(3) 5x - 2x \n\nવિભાગ B: (a) 5x (b) 3x (c) 2x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સજાતીય પદોના સહગુણકોનો જ સરવાળો કે બાદબાકી થાય, ચલ એનો એ જ રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અચલ પદ ઓળખો: \n(1) 4x + 7 \n(2) y² - 9 \n(3) 2a + 3b + 5 \n\nવિભાગ B: (a) -9 (b) 5 (c) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદ સાથે કોઈ ચલ (x, y, z વગેરે) ન હોય તેને અચલ પદ કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો m = -2 હોય, તો કિંમત શોધો: \n(1) m + 5 \n(2) 2m \n(3) m - 3 \n\nવિભાગ B: (a) -4 (b) -5 (c) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યા મૂકતી વખતે નિશાનીના નિયમો (ઓછે ઓછે વત્તા) યાદ રાખવા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સહગુણક અને ચલ અલગ પાડો: \n(1) -y \n(2) 2/3 x \n(3) 0.5z \n\nવિભાગ B: (a) 0.5 (b) -1 (c) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (c), (3) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહગુણક પૂર્ણાંક, અપૂર્ણાંક કે દશાંશ સંખ્યા હોઈ શકે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પદાવલિની ઓળખ: \n(1) x + y \n(2) xy \n(3) x + y - 5 \n\nવિભાગ B: (a) એકપદી (b) ત્રિપદી (c) દ્વિપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારથી જોડાયેલા ચલ એક જ પદ બનાવે, સરવાળા-બાદબાકીથી પદ છૂટા પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરૂદ્ધ પદો (Negative terms) ઓળખો: \n(1) 5x નો વિરોધી \n(2) -3y નો વિરોધી \n(3) -xy નો વિરોધી \n\nવિભાગ B: (a) xy (b) -5x (c) 3y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (c), (3) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી પદ એટલે માત્ર નિશાની બદલવી (+ નું - અને - નું +). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો a = 1, b = 2 હોય તો કિંમત: \n(1) a + b \n(2) ab \n(3) 2a - b \n\nવિભાગ B: (a) 2 (b) 0 (c) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ચલ હોય ત્યારે બંનેની કિંમત સાવચેતીથી મૂકવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પદના અવયવ વૃક્ષ (Tree Factor) મુજબ: \n(1) 8x² \n(2) 7xy \n(3) -4x \n\nવિભાગ B: (a) 7, x, y (b) -4, x (c) 8, x, x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદના દરેક અંક અને ચલને છૂટા પાડીને લખો એ જ એના અવયવ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચલની ઓળખ: \n(1) પદાવલિ 4x + 5 માં ચલ \n(2) પદાવલિ 3y² - 2 માં ચલ \n(3) પદાવલિ 7 માં ચલ \n\nવિભાગ B: (a) y (b) કોઈ નથી (c) x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી મૂળાક્ષરો (a to z) ને ચલ કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પદાવલિની બાદબાકી: \n(1) 7x માંથી 3x \n(2) 3x માંથી 7x \n(3) -3x માંથી -7x \n\nવિભાગ B: (a) 4x (b) 4x (c) -4x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (c), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકીમાં બીજા પદની નિશાની બદલીને સરવાળો કરવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચલના ઘાતાંક ઓળખો: \n(1) x² \n(2) x³ \n(3) x \n\nવિભાગ B: (a) 3 (b) 1 (c) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલની ઉપર લખેલી સંખ્યા એ ઘાતાંક છે. કંઈ ન હોય તો 1 સમજવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાન પદો શોધો: \n(1) 3x²y \n(2) 3xy² \n(3) 3xyz \n\nવિભાગ B: (a) zxy (b) yx² (c) xy²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (c), (3) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષરોનો ક્રમ ગમે તે હોય, પણ દરેક અક્ષરની ઘાત સમાન હોવી જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પદાવલિનું મૂલ્ય (n = -1 માટે): \n(1) 5n \n(2) n + 1 \n(3) n - 1 \n\nવિભાગ B: (a) 0 (b) -2 (c) -5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ 1 વડે ગુણતા નિશાની બદલાય, અને -1 -1 = -2 થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પદાવલિની રચના: \n(1) x અને y ના સરવાળાના બમણા \n(2) x ના બમણા માંથી 3 બાદ \n(3) x અને y ના ગુણાકારમાં 5 ઉમેરતા \n\nવિભાગ B: (a) 2x - 3 (b) xy + 5 (c) 2(x + y)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a), (3) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાક્યને ટુકડે-ટુકડે સમજો અને ગણિતની ભાષામાં ફેરવો. (NJ Classes)</p></div>"
+    }
+  ]
+}
