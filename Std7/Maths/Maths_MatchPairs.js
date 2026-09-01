@@ -463,3 +463,86 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ અને તેના ગુણધર્મો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: <br> 1. ત્રિકોણના શિરોબિંદુ અને સામેની બાજુના મધ્યબિંદુને જોડતો રેખાખંડ <br> 2. શિરોબિંદુથી સામેની બાજુ પર દોરેલો લંબ રેખાખંડ <br> વિભાગ B: (A) વેધ, (B) મધ્યગા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) મધ્યગા, 2 - (A) વેધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યબિંદુ દેખાય તો 'મધ્ય'ગા અને લંબ (90°) દેખાય તો 'વેધ' (ઊંચાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય રીતે જોડો: <br> 1. સમબાજુ ત્રિકોણ <br> 2. સમદ્વિબાજુ ત્રિકોણ <br> વિભાગ B: (A) બે બાજુઓ સમાન, (B) ત્રણેય બાજુઓ સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) ત્રણેય બાજુઓ સમાન, 2 - (A) બે બાજુઓ સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ-બાજુ' એટલે બધી સરખી, 'સમ-દ્વિ' એટલે જેમાં 'બે' (દ્વિ) સરખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખૂણાઓના માપ મુજબ જોડો: <br> 1. ત્રિકોણના ત્રણેય ખૂણાનો સરવાળો <br> 2. કાટકોણ ત્રિકોણનો એક ખૂણો <br> વિભાગ B: (A) 90°, (B) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) 180°, 2 - (A) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણના ત્રણ ખૂણાનો સરવાળો હંમેશા 180° જ થાય, યાદ રાખી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બહિષ્કોણના ગુણધર્મ મુજબ જોડો: <br> 1. ત્રિકોણનો બહિષ્કોણ <br> 2. રૈખિક જોડના ખૂણાનો સરવાળો <br> વિભાગ B: (A) 180°, (B) અંતઃસંમુખકોણનો સરવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) અંતઃસંમુખકોણનો સરવાળો, 2 - (A) 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિષ્કોણ = અંદરના સામેના બે ખૂણાનો પ્લસ (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બાજુઓના માપ મુજબ જોડો: <br> 1. વિષમબાજુ ત્રિકોણ <br> 2. સમબાજુ ત્રિકોણનો દરેક ખૂણો <br> વિભાગ B: (A) 60°, (B) બધી બાજુઓ અસમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) બધી બાજુઓ અસમાન, 2 - (A) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિષમ' એટલે બધું અલગ, અને સમબાજુમાં બધું જ 60-60-60!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાયથાગોરસના ગુણધર્મ માટે જોડો: <br> 1. કાટકોણની સામેની બાજુ <br> 2. પાયથાગોરસ પ્રમેય <br> વિભાગ B: (A) કર્ણ, (B) $a^2 + b^2 = c^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A) કર્ણ, 2 - (B) $a^2 + b^2 = c^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90° ની સામેની બાજુ સૌથી મોટી હોય અને તેને 'કર્ણ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ત્રિકોણની બાજુઓના સંબંધ મુજબ જોડો: <br> 1. કોઈપણ બે બાજુનો સરવાળો <br> 2. કોઈપણ બે બાજુનો તફાવત <br> વિભાગ B: (A) ત્રીજી બાજુથી નાનો, (B) ત્રીજી બાજુથી મોટો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) ત્રીજી બાજુથી મોટો, 2 - (A) ત્રીજી બાજુથી નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો > ત્રીજી બાજુ અને બાદબાકી < ત્રીજી બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાયથાગોરિયન ત્રિપુટીઓ જોડો: <br> 1. 3, 4, ... <br> 2. 6, 8, ... <br> વિભાગ B: (A) 10, (B) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) 5, 2 - (A) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $3^2+4^2=5^2$ અને તેના ડબલ 6-8-10 પણ ત્રિપુટી જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ત્રિકોણના પ્રકારો (ખૂણા મુજબ) જોડો: <br> 1. ત્રણેય ખૂણા 90° થી નાના <br> 2. એક ખૂણો 90° થી મોટો <br> વિભાગ B: (A) ગુરુકોણ ત્રિકોણ, (B) લઘુકોણ ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) લઘુકોણ ત્રિકોણ, 2 - (A) ગુરુકોણ ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો ખૂણો એટલે 'લઘુ' (Small) અને મોટો ખૂણો એટલે 'ગુરુ' (Big).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આકૃતિના ગુણધર્મો જોડો: <br> 1. એક ત્રિકોણમાં વધુમાં વધુ કાટખૂણા <br> 2. એક ત્રિકોણમાં મધ્યગાની સંખ્યા <br> વિભાગ B: (A) 3, (B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) 1, 2 - (A) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમાં બે કાટખૂણા શક્ય નથી કારણ કે સરવાળો 180° થી વધી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિશિષ્ટ ત્રિકોણ માટે જોડો: <br> 1. જે ત્રિકોણના વેધ અને મધ્યગા સમાન હોય <br> 2. કાટકોણ સમદ્વિબાજુ ત્રિકોણના લઘુકોણનું માપ <br> વિભાગ B: (A) 45°, (B) સમબાજુ ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) સમબાજુ ત્રિકોણ, 2 - (A) 45°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમબાજુ એટલે 'Perfect' ત્રિકોણ, જેમાં વેધ-મધ્યગા બધું જ એક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "માપ અને શક્યતા જોડો: <br> 1. બાજુઓ 2 સેમી, 3 સેમી, 5 સેમી <br> 2. બાજુઓ 3 સેમી, 4 સેમી, 5 સેમી <br> વિભાગ B: (A) ત્રિકોણ શક્ય છે, (B) ત્રિકોણ શક્ય નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) ત્રિકોણ શક્ય નથી, 2 - (A) ત્રિકોણ શક્ય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2+3 = 5 થાય, પણ ત્રિકોણ માટે સરવાળો ત્રીજી બાજુથી 'મોટો' જ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બહિષ્કોણની ગણતરી જોડો: <br> 1. અંતઃસંમુખકોણ 60° અને 70° હોય તો બહિષ્કોણ <br> 2. બહિષ્કોણ 110° અને એક અંતઃસંમુખકોણ 50° હોય તો બીજો ખૂણો <br> વિભાગ B: (A) 60°, (B) 130°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) 130°, 2 - (A) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિષ્કોણ = સરવાળો; જો અંદરનો શોધવો હોય તો બાદબાકી (110 - 50 = 60).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ત્રિકોણના ભાગો જોડો: <br> 1. ત્રિકોણની બાજુઓની સંખ્યા <br> 2. ત્રિકોણના વેધની સંખ્યા <br> વિભાગ B: (A) 3, (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A) 3, 2 - (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમાં શિરોબિંદુ, બાજુ, ખૂણા, મધ્યગા કે વેધ - બધું જ '3' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાયથાગોરસ અને કર્ણ જોડો: <br> 1. $5^2 + 12^2 = ?$ <br> 2. $8^2 + 15^2 = ?$ <br> વિભાગ B: (A) $17^2$, (B) $13^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B) $13^2$, 2 - (A) $17^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5-12-13 અને 8-15-17 આ ફેમસ પાયથાગોરસની ફેમિલી છે!</p></div>"
+    }
+  ]
+}
