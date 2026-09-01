@@ -928,3 +928,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $a^m \\times a^n$<br>2. $a^m \\div a^n$<br>---<br>A: $a^{m-n}$<br>B: $a^{m+n}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર હોય તો ઘાતાંકનો 'સરવાળો' અને ભાગાકાર હોય તો ઘાતાંકની 'બાદબાકી' (જો આધાર સરખા હોય તો જ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $(a^m)^n$<br>2. $a^0$<br>---<br>A: 1<br>B: $a^{mn}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતની ઘાતનો હંમેશા ગુણાકાર થાય, અને કોઈપણ સંખ્યાની 0 ઘાત એટલે જવાબ હંમેશા '1' જ આવે (0 સિવાયની સંખ્યા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $a^m \\times b^m$<br>2. $a^m \\div b^m$<br>---<br>A: $(a \\div b)^m$<br>B: $(ab)^m$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘાત સરખી હોય, તો આધારનો ગુણાકાર કે ભાગાકાર કરીને આખી કૌંસ પર એક જ વાર ઘાત લગાડી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $2^3$<br>2. $3^2$<br>---<br>A: 9<br>B: 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2^3 = 2 \\times 2 \\times 2 = 8$ અને $3^2 = 3 \\times 3 = 9$. ઉતાવળમાં $2 \\times 3=6$ ન કરી દેતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $(-1)^{બેકી સંખ્યા}$<br>2. $(-1)^{એકી સંખ્યા}$<br>---<br>A: -1<br>B: 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યાની બેકી ઘાત ધન (+) થાય અને એકી ઘાત ઋણ (-) જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $10,000$ નું ઘાત સ્વરૂપ (આધાર 10)<br>2. $1,00,000$ નું ઘાત સ્વરૂપ (આધાર 10)<br>---<br>A: $10^5$<br>B: $10^4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ની પાછળ જેટલા મીંડા હોય, 10 ની ઉપર તેટલી ઘાત મૂકી દેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $5^4 \\div 5^2$<br>2. $5^2 \\times 5^2$<br>---<br>A: $5^4$<br>B: $5^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં $4-2=2$ ઘાત વધે, ગુણાકારમાં $2+2=4$ ઘાત થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $3^4$<br>2. $4^3$<br>---<br>A: 64<br>B: 81",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $3 \\times 3 \\times 3 \\times 3 = 81$ અને $4 \\times 4 \\times 4 = 64$. કિંમત શોધવામાં ગુણાકારમાં ભૂલ ન કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. 5900 (પ્રમાણિત સ્વરૂપ)<br>2. 590 (પ્રમાણિત સ્વરૂપ)<br>---<br>A: $5.9 \\times 10^2$<br>B: $5.9 \\times 10^3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટને જેટલા ડાબી બાજુ ખસેડો, તેટલી 10 ની ધન ઘાત વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $2^0 + 3^0 + 4^0$<br>2. $2^0 \\times 3^0 \\times 4^0$<br>---<br>A: 1<br>B: 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, $1+1+1=3$ થાય પણ $1 \\times 1 \\times 1=1$ જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $10^{10} \\div 10^{8}$<br>2. $10^{2} \\times 10^{0}$<br>---<br>A: $10^2$<br>B: $100$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A અથવા B, (2) - A અથવા B (બંને સમાન છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $10^2$ અને 100 બંને એક જ છે. ઘાતાંકના નિયમો વાપરી સાદું રૂપ આપવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. 64 નું 2 ના આધારમાં ઘાત સ્વરૂપ<br>2. 81 નું 3 ના આધારમાં ઘાત સ્વરૂપ<br>---<br>A: $3^4$<br>B: $2^6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવિભાજ્ય અવયવ પાડીને ચેક કરો કે સંખ્યા કેટલી વાર ગુણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $7^2 \\times 7^3$<br>2. $(7^2)^3$<br>---<br>A: $7^6$<br>B: $7^5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ હોય ત્યારે ઘાતનો 'ગુણાકાર' કરો, કૌંસ વગર ગુણાકાર હોય તો 'સરવાળો' કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $2^5$<br>2. $5^2$<br>---<br>A: 25<br>B: 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યાઓને ઉલટાવવાથી જવાબ બદલાઈ જાય છે, ધ્યાન રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. 1 મિલિયન (પ્રમાણિત સ્વરૂપ)<br>2. 1 બિલિયન (પ્રમાણિત સ્વરૂપ)<br>---<br>A: $10^9$<br>B: $10^6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મિલિયન એટલે 10 લાખ (6 મીંડા) અને 1 બિલિયન એટલે 1 અબજ (9 મીંડા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $x^a \\cdot x^b \\cdot x^c$<br>2. $(x^a)^b \\cdot x^c$<br>---<br>A: $x^{ab+c}$<br>B: $x^{a+b+c}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકેતોમાં પણ નિયમો એ જ રહેશે - ઘાતનો સરવાળો કે ગુણાકાર ઓળખતા શીખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $(-2)^3$<br>2. $(-2)^4$<br>---<br>A: 16<br>B: -8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી ઘાત (3) હોય તો ઋણ ચિહ્ન રહે, બેકી ઘાત (4) હોય તો ધન થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $10^5 \\div 10^5$<br>2. $10^5 - 10^5$<br>---<br>A: 0<br>B: 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સંખ્યાનો ભાગાકાર 1 થાય અને બાદબાકી 0 થાય. કન્ફ્યુઝ ન થતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. 1.234 x $10^3$<br>2. 1.234 x $10^2$<br>---<br>A: 123.4<br>B: 1234",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની જેટલી ધન ઘાત હોય, પોઈન્ટને તેટલા ડગલાં 'જમણી' બાજુ ખસેડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>1. $2^{10}$<br>2. $10^2$<br>---<br>A: 100<br>B: 1024",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2^{10}$ એ ગણિતમાં ખૂબ જાણીતી કિંમત છે (મેમરી બાઈટની જેમ), તે 1024 થાય.</p></div>"
+    }
+  ]
+}
