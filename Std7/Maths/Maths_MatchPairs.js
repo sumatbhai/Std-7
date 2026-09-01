@@ -654,3 +654,61 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "પરિમેય સંખ્યાઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે સાચી રીતે જોડો:<br>1. $\\frac{2}{3}$ ની વિરોધી સંખ્યા<br>2. $-\\frac{5}{4}$ ની વિરોધી સંખ્યા<br>3. $0$ ની વિરોધી સંખ્યા<br>4. $1$ ની વિરોધી સંખ્યા<br><br>વિભાગ 'B': (A) $0$, (B) $-1$, (C) $-\\frac{2}{3}$, (D) $\\frac{5}{4}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) $-\\frac{2}{3}$<br>2 - (D) $\\frac{5}{4}$<br>3 - (A) $0$<br>4 - (B) $-1$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી સંખ્યા એટલે માત્ર 'નિશાની બદલો'. પ્લસ હોય તો માઇનસ અને માઇનસ હોય તો પ્લસ. શૂન્યની કોઈ નિશાની બદલાતી નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' માં આપેલી સંખ્યાઓને વિભાગ 'B' માં તેના 'વ્યસ્ત' સાથે જોડો:<br>1. $\\frac{4}{5}$<br>2. $-6$<br>3. $-\\frac{3}{2}$<br>4. $1$<br><br>વિભાગ 'B': (A) $1$, (B) $-\\frac{2}{3}$, (C) $\\frac{5}{4}$, (D) $-\\frac{1}{6}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) $\\frac{5}{4}$<br>2 - (D) $-\\frac{1}{6}$<br>3 - (B) $-\\frac{2}{3}$<br>4 - (A) $1$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત સંખ્યા એટલે 'ઉલટું-પુલટું'. અંશને છેદમાં અને છેદને અંશમાં લઈ જાઓ. નિશાની બદલવાની નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ની પરિમેય સંખ્યાઓને વિભાગ 'B' માં તેના 'પ્રમાણિત સ્વરૂપ' સાથે જોડો:<br>1. $\\frac{10}{15}$<br>2. $-\\frac{12}{18}$<br>3. $\\frac{25}{50}$<br>4. $-\\frac{44}{77}$<br><br>વિભાગ 'B': (A) $\\frac{1}{2}$, (B) $-\\frac{4}{7}$, (C) $\\frac{2}{3}$, (D) $-\\frac{2}{3}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C) $\\frac{2}{3}$ (5 વડે ભાગતા)<br>2 - (D) $-\\frac{2}{3}$ (6 વડે ભાગતા)<br>3 - (A) $\\frac{1}{2}$ (25 વડે ભાગતા)<br>4 - (B) $-\\frac{4}{7}$ (11 વડે ભાગતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણિત સ્વરૂપ એટલે છેદ ઉડાડીને સંખ્યાને સાદામાં સાદા રૂપમાં ફેરવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પરિમેય સંખ્યાઓના પ્રકાર મુજબ જોડો:<br>1. $-\\frac{3}{7}$<br>2. $\\frac{5}{8}$<br>3. $\\frac{-2}{-9}$<br>4. $0$<br><br>વિભાગ 'B': (A) ધન પરિમેય, (B) ઋણ પરિમેય, (C) ધન કે ઋણ પૈકી એકપણ નહીં, (D) ધન પરિમેય (કારણ કે બંને માઇનસ પ્લસ થઈ જશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) ઋણ પરિમેય<br>2 - (A) ધન પરિમેય<br>3 - (D) ધન પરિમેય<br>4 - (C) ધન કે ઋણ પૈકી એકપણ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ અને છેદ બંનેની નિશાની સમાન હોય તો તે ધન (+), અને જો અલગ હોય તો તે ઋણ (-) સંખ્યા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ની ગણતરીને વિભાગ 'B' ના પરિણામ સાથે જોડો:<br>1. $\\frac{1}{4} + \\frac{3}{4}$<br>2. $\\frac{1}{2} - \\frac{1}{2}$<br>3. $\\frac{2}{3} \\times \\frac{3}{2}$<br>4. $\\frac{5}{7} \\div \\frac{5}{7}$<br><br>વિભાગ 'B': (A) $0$, (B) $1$, (C) $1$, (D) $1$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) $1$<br>2 - (A) $0$<br>3 - (C) $1$<br>4 - (D) $1$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાને તેના વ્યસ્ત સાથે ગુણવાથી હંમેશા જવાબ 1 આવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંખ્યા રેખા પર સ્થાન મુજબ જોડો:<br>1. ધન પરિમેય સંખ્યા<br>2. ઋણ પરિમેય સંખ્યા<br>3. શૂન્ય ($0$)<br>4. $-\\frac{1}{2}$ અને $\\frac{1}{2}$ ની વચ્ચે<br><br>વિભાગ 'B': (A) 0 ની ડાબી બાજુ, (B) 0 ની જમણી બાજુ, (C) બરાબર મધ્યમાં, (D) શૂન્ય (0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) 0 ની જમણી બાજુ<br>2 - (A) 0 ની ડાબી બાજુ<br>3 - (C) બરાબર મધ્યમાં<br>4 - (D) શૂન્ય (0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા રેખા પર 'જ'મણી બાજુ 'જ'મા (ધન) અને 'ડા'બી બાજુ 'ડા'કણ (ઋણ - જે સંખ્યા ઘટાડે) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ની ક્રિયાઓને વિભાગ 'B' ના સાચા જવાબ સાથે જોડો:<br>1. $\\frac{3}{5} \\times 0$<br>2. $\\frac{3}{5} + 0$<br>3. $\\frac{3}{5} - \\frac{3}{5}$<br>4. $\\frac{3}{5} \\div 1$<br><br>વિભાગ 'B': (A) $\\frac{3}{5}$, (B) $0$, (C) $0$, (D) $\\frac{3}{5}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) $0$<br>2 - (A) $\\frac{3}{5}$<br>3 - (C) $0$<br>4 - (D) $\\frac{3}{5}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સાથે ગુણાકાર એટલે 'હીરો માંથી ઝીરો' અને સરવાળો એટલે 'જેસે થે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેના ગુણાકાર માટે સાચા જવાબ જોડો:<br>1. $\\frac{-2}{3} \\times \\frac{3}{2}$<br>2. $\\frac{-1}{4} \\times (-4)$<br>3. $\\frac{5}{6} \\times \\frac{6}{5}$<br>4. $0 \\times \\frac{-7}{8}$<br><br>વિભાગ 'B': (A) $1$, (B) $-1$, (C) $1$, (D) $0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) $-1$<br>2 - (A) $1$<br>3 - (C) $1$<br>4 - (D) $0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં બે માઇનસ ભેગા થાય તો પ્લસ (+) થઈ જાય, પણ એક જ માઇનસ હોય તો જવાબ માઇનસ (-) માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' (સમાન પરિમેય સંખ્યાઓ) સાથે જોડો:<br>1. $\\frac{1}{2}$<br>2. $\\frac{2}{3}$<br>3. $\\frac{3}{4}$<br>4. $\\frac{1}{5}$<br><br>વિભાગ 'B': (A) $\\frac{4}{6}$, (B) $\\frac{5}{10}$, (C) $\\frac{2}{10}$, (D) $\\frac{9}{12}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) $\\frac{5}{10}$<br>2 - (A) $\\frac{4}{6}$<br>3 - (D) $\\frac{9}{12}$<br>4 - (C) $\\frac{2}{10}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન પરિમેય સંખ્યા શોધવા માટે અંશ અને છેદને સરખી સંખ્યા વડે ગુણો અથવા ભાગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચિહ્નોના આધારે જોડો ($>$, $<$, $=$):<br>1. $\\frac{1}{2} \\dots \\dots \\frac{1}{3}$<br>2. $-\\frac{1}{2} \\dots \\dots -\\frac{1}{3}$<br>3. $0 \\dots \\dots -\\frac{5}{6}$<br>4. $\\frac{4}{8} \\dots \\dots \\frac{1}{2}$<br><br>વિભાગ 'B': (A) $<$, (B) $>$, (C) $>$, (D) $=$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B) $>$, 2 - (A) $<$, 3 - (C) $>$, 4 - (D) $=$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યામાં જે નાની દેખાય તે મોટી હોય! (દા.ત. $-1 > -10$).</p></div>"
+    }
+  ]
+}
