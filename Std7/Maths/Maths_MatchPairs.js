@@ -1036,3 +1036,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સંમિતતા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) ચોરસ, (2) લંબચોરસ <br>વિભાગ B: (i) 2 સંમિતની રેખા, (ii) 4 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં બધી બાજુ સરખી એટલે 4 રેખા, લંબચોરસમાં સામસામેની જ સરખી એટલે 2 રેખા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) સમબાજુ ત્રિકોણ, (2) સમદ્વિબાજુ ત્રિકોણ <br>વિભાગ B: (i) 1 સંમિતની રેખા, (ii) 3 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી બાજુ સમાન, તેટલી સંમિતની રેખા! સમબાજુમાં 3 બાજુ સમાન એટલે 3 રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) વર્તુળ, (2) અર્ધવર્તુળ <br>વિભાગ B: (i) 1 સંમિતની રેખા, (ii) અસંખ્ય સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ વર્તુળને ગમે ત્યાંથી કાપો સરખું જ દેખાય એટલે અસંખ્ય, પણ અડધાને તો વચ્ચેથી જ કાપવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) નિયમિત પંચકોણ, (2) નિયમિત ષટ્કોણ <br>વિભાગ B: (i) 5 સંમિતની રેખા, (ii) 6 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિયમિત' શબ્દ આવે એટલે જેટલા ખૂણા એટલી રેખા. પંચકોણમાં 5 અને ષટ્કોણમાં 6!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (પરિભ્રમણીય સંમિતતાનો ક્રમ): <br>વિભાગ A: (1) ચોરસ, (2) સમબાજુ ત્રિકોણ <br>વિભાગ B: (i) ક્રમ 3, (ii) ક્રમ 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત આકૃતિમાં જેટલી બાજુ હોય, તેટલો જ પરિભ્રમણીય ક્રમ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (પરિભ્રમણ કોણ): <br>વિભાગ A: (1) ચોરસ, (2) લંબચોરસ <br>વિભાગ B: (i) 180°, (ii) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360° ને ક્રમ વડે ભાગો! ચોરસમાં 360/4 = 90°, લંબચોરસમાં 360/2 = 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (અંગ્રેજી મૂળાક્ષરોની રેખિત સંમિતતા): <br>વિભાગ A: (1) અક્ષર 'H', (2) અક્ષર 'M' <br>વિભાગ B: (i) 1 રેખા, (ii) 2 રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H ને આડો અને ઊભો બંને રીતે કાપી શકાય, M ને માત્ર ઊભો જ કાપી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) વિષમબાજુ ત્રિકોણ, (2) સમાંતરબાજુ ચતુષ્કોણ <br>વિભાગ B: (i) 0 સંમિતની રેખા, (ii) 0 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આકૃતિ વાંકી-ચૂકી હોય અથવા બધી બાજુ અલગ હોય તેમાં રેખિત સંમિતતા 0 હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પરિભ્રમણ કેન્દ્ર, (2) પરિભ્રમણ કોણ <br>વિભાગ B: (i) નિશ્ચિત બિંદુ, (ii) ભ્રમણ માટેનું માપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર એટલે પોઈન્ટ (બિંદુ) અને કોણ એટલે ખૂણો (માપ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) સમબાજુ ત્રિકોણનો પરિભ્રમણ કોણ, (2) નિયમિત ષટ્કોણનો પરિભ્રમણ કોણ <br>વિભાગ B: (i) 60°, (ii) 120°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ને બાજુની સંખ્યા વડે ભાગી નાખો. 360/3 = 120 અને 360/6 = 60.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (પરિભ્રમણીય સંમિતતા ધરાવતા અક્ષરો): <br>વિભાગ A: (1) અક્ષર 'S', (2) અક્ષર 'Z' <br>વિભાગ B: (i) ક્રમ 2, (ii) ક્રમ 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S અને Z ને અડધું ફેરવો (180°) તો તે ફરીથી તેવા જ દેખાશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) સમલંબ ચતુષ્કોણ (સામાન્ય), (2) પતંગાકાર ચતુષ્કોણ <br>વિભાગ B: (i) 1 સંમિતની રેખા, (ii) 0 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગને વચ્ચેથી ઊભો કાપો તો જ બે સરખા ભાગ થાય, એટલે 1 રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) રેખિત સંમિતતા, (2) પરિભ્રમણીય સંમિતતા <br>વિભાગ B: (i) અરીસામાં પ્રતિબિંબ જેવું, (ii) કેન્દ્રની આસપાસ ફેરવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખિત = અરીસો (Mirror), પરિભ્રમણીય = પંખાની જેમ ગોળ ફેરવવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (ક્રમ અને ખૂણો): <br>વિભાગ A: (1) પરિભ્રમણ ક્રમ 5, (2) પરિભ્રમણ ક્રમ 8 <br>વિભાગ B: (i) 45°, (ii) 72°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ÷ 5 = 72 અને 360 ÷ 8 = 45. બસ ભાગાકાર કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) અક્ષર 'O', (2) અક્ષર 'X' <br>વિભાગ B: (i) અસંખ્ય સંમિતની રેખા (વર્તુળ આકાર મુજબ), (ii) 2 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'O' એ વર્તુળ જેવો છે એટલે અસંખ્ય, 'X' માં એક આડી અને એક ઊભી રેખા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (નિયમિત બહુકોણની બાજુઓ અને રેખાઓ): <br>વિભાગ A: (1) 10 બાજુ વાળો નિયમિત બહુકોણ, (2) 12 બાજુ વાળો નિયમિત બહુકોણ <br>વિભાગ B: (i) 12 સંમિતની રેખા, (ii) 10 સંમિતની રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત બહુકોણમાં 'બાજુની સંખ્યા = સંમિતની રેખાની સંખ્યા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (રંગોળી અને કુદરત): <br>વિભાગ A: (1) ફૂલની પાંખડીઓ (5 સમાન), (2) સમુદ્ર તારા (Starfish - 5 ભૂજા) <br>વિભાગ B: (i) પરિભ્રમણ ક્રમ 5, (ii) પરિભ્રમણ ક્રમ 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી વસ્તુઓમાં પણ જો ભાગ સમાન હોય તો તેટલો જ ક્રમ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પંખાના 3 પાંખિયા, (2) પંખાના 4 પાંખિયા <br>વિભાગ B: (i) પરિભ્રમણ કોણ 90°, (ii) પરિભ્રમણ કોણ 120°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 પાંખિયા એટલે 360/3=120, 4 પાંખિયા એટલે 360/4=90.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) રોમ્બસ (સમબાજુ ચતુષ્કોણ), (2) સમાંતરબાજુ ચતુષ્કોણ <br>વિભાગ B: (i) પરિભ્રમણ ક્રમ 2, (ii) પરિભ્રમણ ક્રમ 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બંને આકૃતિઓને 180° ફેરવતા તે મૂળ જેવી જ દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) વર્તુળનું પરિભ્રમણ કેન્દ્ર, (2) ચોરસનું પરિભ્રમણ કેન્દ્ર <br>વિભાગ B: (i) વર્તુળનું કેન્દ્ર, (ii) વિકર્ણોનું છેદબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકૃતિની બરાબર મધ્યમાં આવેલું બિંદુ જ તેનું પરિભ્રમણ કેન્દ્ર હોય.</p></div>"
+    }
+  ]
+}
