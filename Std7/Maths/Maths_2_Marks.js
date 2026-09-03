@@ -56,3 +56,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "અપૂર્ણાંક અને દશાંશ સંખ્યાઓ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કિંમત શોધો: $2 \frac{2}{3} \times \frac{1}{4}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સૌ પ્રથમ મિશ્ર અપૂર્ણાંકને અશુદ્ધ અપૂર્ણાંકમાં ફેરવો: $2 \frac{2}{3} = \\frac{(2 \\times 3) + 2}{3} = \\frac{8}{3}$ <br>2. હવે ગુણાકાર કરો: $\\frac{8}{3} \\times \\frac{1}{4}$ <br>3. અંશનો અંશ સાથે અને છેદનો છેદ સાથે ગુણાકાર: $\\frac{8 \\times 1}{3 \\times 4} = \\frac{8}{12}$ <br>4. અતિસંક્ષિપ્ત રૂપ આપતા: $\\frac{2}{3}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર કરતી વખતે જો છેદ ઉડતા હોય તો પહેલા જ ઉડાડી દેવા (અહીં 8 અને 4), જેથી ગણતરી નાની અને સરળ બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શોધો: $\\frac{4}{9} \\div \\frac{2}{3}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ભાગાકારને ગુણાકારમાં ફેરવવા માટે બીજી સંખ્યાનો વ્યસ્ત લેવો પડે.<br>2. $\\frac{4}{9} \\times \\frac{3}{2}$ <br>3. અંશ અને છેદમાં છેદ ઉડાડતા: $\\frac{4 \\times 3}{9 \\times 2} = \\frac{12}{18}$ <br>4. સાદું રૂપ આપતા: $\\frac{2}{3}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર એટલે 'ઉલટ-પુલટ'! ભાગાકારના ચિહ્નને ગુણાકાર બનાવો અને પછીની સંખ્યાને ઉલ્ટાવી દો (વ્યસ્ત કરો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એક લંબચોરસની લંબાઈ 5.7 સેમી અને પહોળાઈ 3 સેમી છે, તો તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>લંબચોરસનું ક્ષેત્રફળ = લંબાઈ $\\times$ પહોળાઈ <br>= $5.7 \\times 3$ <br>= $17.1$ ચોરસ સેમી <br>અહીં $57 \\times 3 = 171$, દશાંશ ચિહ્ન એક સ્થળ પછી હોવાથી જવાબ 17.1 મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ ભૂલીને સાદો ગુણાકાર કરો અને પછી રકમમાં જેટલા પોઈન્ટ હોય તેટલા જવાબમાં પાછળથી કાપો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "7 પૈસાને દશાંશનો ઉપયોગ કરીને રૂપિયામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>આપણે જાણીએ છીએ કે, 100 પૈસા = 1 રૂપિયો <br>તેથી, 1 પૈસો = $\\frac{1}{100}$ રૂપિયો <br>7 પૈસા = $\\frac{7}{100}$ રૂપિયા = $0.07$ રૂપિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદમાં 100 હોય, ત્યારે પાછળથી બે અંક ખસીને દશાંશ ચિહ્ન મૂકવું. જો એક જ અંક હોય તો આગળ શૂન્ય મૂકવું (જેમ કે 0.07).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુણાકાર કરો: $0.2 \\times 0.3 \\times 0.1$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સંખ્યાઓનો ગુણાકાર: $2 \\times 3 \\times 1 = 6$ <br>2. દશાંશ સ્થળોની ગણતરી: 1 (0.2 માં) + 1 (0.3 માં) + 1 (0.1 માં) = કુલ 3 દશાંશ સ્થળ. <br>3. જવાબ: $0.006$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ સંખ્યાઓના ગુણાકારમાં પોઈન્ટ પછીના કુલ અંકોનો સરવાળો કરી જવાબમાં તેટલા પોઈન્ટ કાપવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમત શોધો: $30.94 \\div 0.7$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>$\\frac{3094}{100} \\div \\frac{7}{10}$ <br>= $\\frac{3094}{100} \\times \\frac{10}{7}$ <br>= $\\frac{3094}{10 \\times 7} = \\frac{442}{10}$ <br>= $44.2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્ન દૂર કરવા છેદમાં 10 કે 100 મૂકીને ગણતરી કરો, ભૂલ પડવાની શક્યતા 0% થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાદબાકી કરો: $4 \\frac{2}{5} - 2 \\frac{1}{5}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. અશુદ્ધ અપૂર્ણાંકમાં ફેરવતા: $\\frac{22}{5} - \\frac{11}{5}$ <br>2. છેદ સમાન હોવાથી અંશની બાદબાકી: $\\frac{22 - 11}{5}$ <br>3. જવાબ: $\\frac{11}{5} = 2 \\frac{1}{5}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેદ સમાન હોય અને મિશ્ર સંખ્યા હોય, તો પૂર્ણાંકમાંથી પૂર્ણાંક (4-2) અને અપૂર્ણાંકમાંથી અપૂર્ણાંક (2/5-1/5) સીધી બાદબાકી પણ કરી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક કાર 1 લિટર પેટ્રોલમાં 16 કિમી અંતર કાપે છે, તો તે કાર $2 \\frac{3}{4}$ લિટર પેટ્રોલમાં કેટલું અંતર કાપશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કુલ અંતર = $16 \\times 2 \\frac{3}{4}$ કિમી <br>= $16 \\times \\frac{11}{4}$ <br>= $4 \\times 11$ (કારણ કે $16 \\div 4 = 4$) <br>= $44$ કિમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ માંડતી વખતે 'લિટર' ની નીચે 'લિટર' અને 'કિમી' ની નીચે 'કિમી' આવે તે રીતે રાશિઓ ગોઠવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શોધો: $1.3 \\times 10$ અને $1.3 \\times 100$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. $1.3 \\times 10 = 13$ (દશાંશ ચિહ્ન એક સ્થળ જમણી બાજુ ખસે)<br>2. $1.3 \\times 100 = 130$ (દશાંશ ચિહ્ન બે સ્થળ જમણી બાજુ ખસે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10, 100 કે 1000 વડે ગુણાકાર કરતી વખતે દશાંશ ચિહ્ન જેટલા મીંડા હોય તેટલા કદમ જમણી બાજુ કૂદકો મારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$2.03$ અને $2.30$ માં કઈ સંખ્યા મોટી છે? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>બંનેમાં પૂર્ણાંક ભાગ '2' સમાન છે. <br>દશાંશના સ્થાન સરખાવતા: $2.03$ માં દશાંશના સ્થાને '0' છે, જ્યારે $2.30$ માં દશાંશના સ્થાને '3' છે. <br>ચોક્કસપણે $3 > 0$ હોવાથી, $2.30$ એ $2.03$ કરતા મોટી સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યાઓને સરખાવતી વખતે પોઈન્ટ પછી તરત આવતા પહેલા અંકને જુઓ, જે અંક મોટો તે સંખ્યા મોટી!</p></div>"
+    }
+  ]
+}
