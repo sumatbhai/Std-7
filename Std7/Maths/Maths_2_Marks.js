@@ -172,3 +172,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેના વિધાનને સમીકરણ સ્વરૂપે લખો: 'x ના ત્રણ ગણા અને 11 નો સરવાળો 32 છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>અહીં, x ના ત્રણ ગણા એટલે 3x થાય.</li><li>તેમાં 11 ઉમેરતા (સરવાળો કરતા) 3x + 11 મળે.</li><li>પરિણામ 32 આપેલ હોવાથી, માંગેલ સમીકરણ <b>3x + 11 = 32</b> થશે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગણા' શબ્દ દેખાય એટલે ગુણાકાર કરવો અને 'સરવાળો' શબ્દ દેખાય એટલે '+' ની નિશાની મૂકવી. 'છે' એટલે '=' સમજવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમીકરણ 3p + 4 = 25 ને વિધાન સ્વરૂપે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>આપેલ સમીકરણ 3p + 4 = 25 ને નીચે મુજબ વિધાન સ્વરૂપે લખી શકાય:</p><ul><li><b>'p ના ત્રણ ગણામાં 4 ઉમેરતા 25 મળે છે.'</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમીકરણને ડાબેથી જમણે વાંચતા જાઓ અને ગુજરાતીમાં શબ્દો લખતા જાઓ. 3p (ત્રણ ગણા), + (ઉમેરતા), 25 (મળે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચકાસો કે p = -4 એ સમીકરણ 4p - 3 = 13 નો ઉકેલ છે કે નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ડાબી બાજુ (LHS) = 4p - 3</li><li>p = -4 મુકતા, LHS = 4(-4) - 3 = -16 - 3 = -19</li><li>જમણી બાજુ (RHS) = 13</li><li>અહીં, LHS ≠ RHS હોવાથી p = -4 એ <b>ઉકેલ નથી.</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો કિંમત મુકતા ડાબી બાજુ અને જમણી બાજુનો જવાબ સરખો ન આવે, તો તે કિંમત ઉકેલ નથી જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમીકરણ ઉકેલો: 3n - 2 = 46",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>3n - 2 = 46</li><li>3n = 46 + 2 (-2 ને જમણી બાજુ લેતા તે +2 થશે)</li><li>3n = 48</li><li>n = 48 / 3 (3 ગુણાકારમાં હોવાથી ભાગાકારમાં જશે)</li><li><b>n = 16</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બરાબરની પહેલી બાજુ જાય ત્યારે 'માઈનસ' નું 'પ્લસ' થાય અને 'ગુણાકાર' નો 'ભાગાકાર' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમીકરણ ઉકેલો: 5/2 x = 25/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>5/2 x = 25/4</li><li>x = (25/4) × (2/5) (અપૂર્ણાંક સામે જતાં ઉલટાઈ જાય)</li><li>x = (25 × 2) / (4 × 5)</li><li>x = 50 / 20 = 5/2</li><li><b>x = 2.5 અથવા 5/2</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અપૂર્ણાંકને સામેની બાજુ લઈ જતી વખતે અંશને છેદમાં અને છેદને અંશમાં મૂકી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમીકરણ ઉકેલો: 4(2 + x) = 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>4(2 + x) = 8</li><li>2 + x = 8 / 4 (4 ગુણાકારમાં છે, સામે ભાગાકારમાં જશે)</li><li>2 + x = 2</li><li>x = 2 - 2</li><li><b>x = 0</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસની બહારની સંખ્યા જો સામેની સંખ્યાને ભાગી શકતી હોય, તો પહેલા ભાગાકાર કરી નાખવો, ગણતરી સરળ થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લક્ષ્મીના પિતા 49 વર્ષના છે. તે લક્ષ્મીની ઉંમરના ત્રણ ગણાથી 4 વર્ષ મોટા છે. લક્ષ્મીની ઉંમર શોધવા માટે સમીકરણ બનાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ધારો કે લક્ષ્મીની ઉંમર x વર્ષ છે.</li><li>ઉંમરના ત્રણ ગણા = 3x થાય.</li><li>ત્રણ ગણાથી 4 વર્ષ મોટા એટલે 3x + 4 થાય.</li><li>પિતાની ઉંમર 49 આપેલ છે, તેથી: <b>3x + 4 = 49</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની સરખામણી થતી હોય (અહીં લક્ષ્મી), તેને હંમેશા x ધારી લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમીકરણ ઉકેલો: 10p + 10 = 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>10p + 10 = 100</li><li>10p = 100 - 10</li><li>10p = 90</li><li>p = 90 / 10</li><li><b>p = 9</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્ય વાળા પદ હોય ત્યારે બાદબાકી કર્યા પછી શૂન્ય-શૂન્ય ઉડાડી દેવા, જવાબ જલ્દી મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "0 = 16 + 4(m - 6) સમીકરણનો ઉકેલ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>0 = 16 + 4(m - 6)</li><li>-16 = 4(m - 6) (16 ને ડાબી બાજુ લાવતા)</li><li>-16 / 4 = m - 6</li><li>-4 = m - 6</li><li>-4 + 6 = m</li><li><b>m = 2</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો શૂન્ય એક બાજુ હોય, તો અચલ પદને સામે લઈ જઈને ચિહ્ન બદલી નાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણ 2y + 5/2 = 37/2 નો ઉકેલ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>2y = 37/2 - 5/2</li><li>2y = (37 - 5) / 2</li><li>2y = 32 / 2</li><li>2y = 16</li><li>y = 16 / 2</li><li><b>y = 8</b></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે છેદ સરખા હોય, ત્યારે અંશની સીધી બાદબાકી કરી શકાય. છેદને લસાઅ લેવાની ચિંતા ન કરવી!</p></div>"
+    }
+  ]
+}
