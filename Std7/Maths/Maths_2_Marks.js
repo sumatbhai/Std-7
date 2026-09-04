@@ -578,3 +578,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાતાંક અને ઘાત",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "256 ને 2 ના આધાર તરીકે ઘાત સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>256 ના અવિભાજ્ય અવયવો પાડતા:<br>256 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2<br>અહીં 2 એ 8 વખત ગુણાયેલ છે.<br>તેથી, 256 = 2<sup>8</sup></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સંખ્યા મોટી હોય ત્યારે તેના અડધા કરતા જાવ (જો બેકી હોય તો) અને ગણતા જાવ કે કેટલી વાર 2 થી ભાગ ચાલે છે. 256 -> 128 -> 64 -> 32 -> 16 -> 8 -> 4 -> 2 -> 1 (કુલ 8 સ્ટેપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઘાતાંકના નિયમનો ઉપયોગ કરી સાદું રૂપ આપો અને જવાબને ઘાત સ્વરૂપે લખો: 3² × 3⁴ × 3⁸",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>નિયમ મુજબ: a<sup>m</sup> × a<sup>n</sup> = a<sup>m+n</sup><br>અહીં આધાર '3' સમાન છે, તેથી ઘાતાંકોનો સરવાળો થશે.<br>3² × 3⁴ × 3⁸ = 3<sup>(2 + 4 + 8)</sup><br>= 3<sup>14</sup></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આધાર સમાન અને ગુણાકાર, તો ઘાતનો સરવાળો' - આ સૂત્ર યાદ રાખો. NJ Classes Trick: ગુણાકારમાં ઘાત ભેગી થાય (સરવાળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કિંમત શોધો: (2⁰ + 3⁰ + 4⁰)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ઘાતાંકના નિયમ મુજબ, કોઈપણ શૂન્યતર સંખ્યાની શૂન્ય ઘાત એટલે 1 થાય. (a⁰ = 1)<br>તેથી, 2⁰ = 1, 3⁰ = 1 અને 4⁰ = 1<br>= 1 + 1 + 1<br>= 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેવી મોટી સંખ્યા હોય, જો માથે મીંડું (0) હોય તો જવાબ હંમેશા '1' જ આવે! પણ અહીં સરવાળો છે એટલે 1+1+1=3 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાદું રૂપ આપી ઘાત સ્વરૂપે લખો: (2⁵)³ ÷ 2⁴",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પહેલા ઘાતની ઘાતનો ગુણાકાર કરો: (a<sup>m</sup>)<sup>n</sup> = a<sup>mn</sup><br>(2⁵)³ = 2<sup>5×3</sup> = 2<sup>15</sup><br>હવે ભાગાકારનો નિયમ: 2<sup>15</sup> ÷ 2⁴ = 2<sup>15-4</sup><br>= 2<sup>11</sup></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ હોય તો ઘાતનો ગુણાકાર કરો અને ભાગાકાર હોય તો ઘાતની બાદબાકી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંખ્યા 1,20,00,00,000 ને પ્રમાણિત સ્વરૂપમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પ્રમાણિત સ્વરૂપમાં લખવા માટે દશાંશ ચિહ્ન ડાબી બાજુ ખસેડવું પડે.<br>અહીં 1 પછી 9 અંકો છે.<br>1,20,00,00,000 = 1.2 × 10<sup>9</sup></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા અંક પછી ટપકું (point) મૂકી દો અને તેની પાછળ જેટલા આંકડા હોય તેટલી 10 ની ઘાત ચડાવી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "729 ને 3 ના ઘાત સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>729 ના અવિભાજ્ય અવયવ:<br>729 = 3 × 3 × 3 × 3 × 3 × 3<br>અહીં 3 નો 6 વખત ગુણાકાર છે.<br>તેથી, 729 = 3<sup>6</sup></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 નો વર્ગ 9, ઘન 27... એમ ગુણતા જાવ. 27 × 27 = 729 થાય, અને 27 એટલે 3 ની 3 ઘાત, તેથી 3+3 = 6 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કઈ સંખ્યા મોટી છે તે નક્કી કરો: 5² કે 2⁵",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>5² ની કિંમત = 5 × 5 = 25<br>2⁵ ની કિંમત = 2 × 2 × 2 × 2 × 2 = 32<br>અહીં 32 > 25 હોવાથી,<br>2⁵ એ 5² કરતાં મોટી સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્યારેય ઘાત જોઈને અંદાજ ન લગાવો, હંમેશા સાદી કિંમત શોધીને સરખામણી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કિંમત શોધો: (-4)³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(-4)³ = (-4) × (-4) × (-4)<br>= 16 × (-4)<br>= -64</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર ઋણ (-) હોય અને ઘાત એકી (1, 3, 5...) હોય તો જવાબ હંમેશા ઋણ (-) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાદું રૂપ આપો: (2³ × a⁵) / (2² × a²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ભાગાકારના નિયમ (a<sup>m</sup> ÷ a<sup>n</sup> = a<sup>m-n</sup>) મુજબ:<br>= 2<sup>3-2</sup> × a<sup>5-2</sup><br>= 2¹ × a³<br>= 2a³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર-નીચે સમાન આધાર દેખાય તો સીધી ઘાતની બાદબાકી કરી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "3.43 × 10⁶ ને સામાન્ય સ્વરૂપમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>અહીં 10 ની 6 ઘાત છે, તેથી દશાંશ ચિહ્નને 6 અંક જમણી બાજુ ખસેડવું પડશે.<br>3.43 × 10,00,000<br>= 34,30,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની જેટલી ઘાત હોય એટલા ડગલાં જમણી બાજુ ચાલવાનું. પોઈન્ટ પછી બે આંકડા (43) તો છે જ, બાકીના 4 મીંડા પાછળ લગાડી દો.</p></div>"
+    }
+  ]
+}
