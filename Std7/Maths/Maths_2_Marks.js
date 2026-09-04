@@ -462,3 +462,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પરિમિતિ અને ક્ષેત્રફળ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એક સમાંતરબાજુ ચતુષ્કોણનો પાયો 7 સેમી અને ઊંચાઈ 4 સેમી છે, તો તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ = પાયો (b) × ઊંચાઈ (h)<br>= 7 સેમી × 4 સેમી<br>= 28 ચો.સેમી (અથવા સેમી²)<br>આમ, સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ 28 સેમી² થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ ચતુષ્કોણમાં કોઈ '1/2' ન આવે, બસ પાયો અને ઊંચાઈનો સીધો ગુણાકાર કરી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક ત્રિકોણનો પાયો 6 સેમી અને ઊંચાઈ 3 સેમી છે, તો તે ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ત્રિકોણનું ક્ષેત્રફળ = 1/2 × પાયો (b) × ઊંચાઈ (h)<br>= 1/2 × 6 × 3<br>= 3 × 3 = 9 ચો.સેમી<br>આમ, ત્રિકોણનું ક્ષેત્રફળ 9 સેમી² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ એટલે અડધું! પાયો અને ઊંચાઈનો ગુણાકાર કરીને તેને 2 વડે ભાગી નાખવાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "14 સેમી ત્રિજ્યાવાળા વર્તુળનો પરિઘ શોધો. (π = 22/7 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>વર્તુળની ત્રિજ્યા (r) = 14 સેમી<br>વર્તુળનો પરિઘ = 2πr<br>= 2 × (22/7) × 14<br>= 2 × 22 × 2 = 88 સેમી<br>આમ, વર્તુળનો પરિઘ 88 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિઘ એટલે વર્તુળની બોર્ડર. જો ત્રિજ્યા 7 ના ગુણાંકમાં હોય, તો 7 અને 14 ને છેદ ઉડાડીને ગણતરી સરળ બનાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક વર્તુળાકાર પ્લેટની ત્રિજ્યા 7 સેમી છે, તો તેનું ક્ષેત્રફળ શોધો. (π = 22/7 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>વર્તુળની ત્રિજ્યા (r) = 7 સેમી<br>વર્તુળનું ક્ષેત્રફળ = πr²<br>= (22/7) × 7 × 7<br>= 22 × 7 = 154 ચો.સેમી<br>આમ, પ્લેટનું ક્ષેત્રફળ 154 સેમી² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં ત્રિજ્યાનો વર્ગ (r²) થાય, એટલે કે ત્રિજ્યા બે વાર લખવાની ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો એક સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ 24 સેમી² અને પાયો 4 સેમી હોય, તો તેની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ક્ષેત્રફળ = પાયો × ઊંચાઈ<br>24 = 4 × h<br>h = 24 / 4<br>h = 6 સેમી<br>આમ, સમાંતરબાજુ ચતુષ્કોણની ઊંચાઈ 6 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ક્ષેત્રફળ આપેલું હોય, ત્યારે તેને પાયા વડે ભાગવાથી ઊંચાઈ મળે અને ઊંચાઈ વડે ભાગવાથી પાયો મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વર્તુળનો પરિઘ 44 સેમી હોય તો તેની ત્રિજ્યા શોધો. (π = 22/7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પરિઘ = 2πr<br>44 = 2 × (22/7) × r<br>44 = (44/7) × r<br>r = (44 × 7) / 44 = 7 સેમી<br>આમ, વર્તુળની ત્રિજ્યા 7 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, જો પરિઘ 44 હોય તો ત્રિજ્યા હંમેશા 7 જ આવે. આ ગણિતનો મેજિક નંબર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક ચોરસની પરિમિતિ 20 સેમી છે, તો તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ચોરસની પરિમિતિ = 4 × બાજુ<br>20 = 4 × બાજુ => બાજુ = 20/4 = 5 સેમી<br>ચોરસનું ક્ષેત્રફળ = બાજુ × બાજુ<br>= 5 × 5 = 25 ચો.સેમી<br>આમ, ક્ષેત્રફળ 25 સેમી² થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા પરિમિતિને 4 થી ભાગો એટલે બાજુ મળે, પછી તે બાજુનો તે જ સંખ્યા સાથે ગુણાકાર કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો એક ત્રિકોણનું ક્ષેત્રફળ 36 સેમી² અને તેની ઊંચાઈ 9 સેમી હોય, તો તેનો પાયો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ક્ષેત્રફળ = 1/2 × b × h<br>36 = 1/2 × b × 9<br>b = (36 × 2) / 9<br>b = 72 / 9 = 8 સેમી<br>આમ, ત્રિકોણનો પાયો 8 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમાં ક્ષેત્રફળને પહેલા 2 વડે ગુણી નાખો, પછી આપેલી બીજી કિંમત (ઊંચાઈ કે પાયા) વડે ભાગો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "10 સેમી વ્યાસ ધરાવતા અર્ધવર્તુળની પરિમિતિ શોધો. (π = 3.14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>વ્યાસ (d) = 10 સેમી, ત્રિજ્યા (r) = 5 સેમી<br>અર્ધવર્તુળની પરિમિતિ = πr + d<br>= (3.14 × 5) + 10<br>= 15.7 + 10 = 25.7 સેમી<br>આમ, અર્ધવર્તુળની પરિમિતિ 25.7 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધવર્તુળમાં વક્ર ભાગ (πr) અને સીધો ભાગ (વ્યાસ) બંનેનો સરવાળો કરવાનું ભૂલશો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "21 સેમી ત્રિજ્યાવાળા પૈડાંએ એક આંટામાં કાપેલું અંતર શોધો. (π = 22/7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પૈડાંએ એક આંટામાં કાપેલું અંતર = પૈડાંનો પરિઘ<br>પરિઘ = 2πr<br>= 2 × (22/7) × 21<br>= 2 × 22 × 3<br>= 132 સેમી<br>આમ, પૈડાંએ 132 સેમી અંતર કાપ્યું હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈડું એટલે વર્તુળ અને 'એક આંટો' એટલે હંમેશા 'પરિઘ' શોધવાનો હોય!</p></div>"
+    }
+  ]
+}
