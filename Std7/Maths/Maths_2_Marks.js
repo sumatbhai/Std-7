@@ -520,3 +520,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિઓ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાવલિ 4x - 3y + 7 માં પદો અને તે પદોના અવયવો ટ્રી-ડાયાગ્રામ (Tree Diagram) વગર ઓળખી બતાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>અહીં પદાવલિ 4x - 3y + 7 છે.<br>1. પદ: 4x, તેના અવયવો: 4 અને x<br>2. પદ: -3y, તેના અવયવો: -3 અને y<br>3. પદ: 7, તેનો અવયવ: 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાવલિમાં '+' કે '-' નિશાની પદોને અલગ પાડે છે. હંમેશા પદની સાથે તેની નિશાની ધ્યાનમાં લેવી (જેમ કે -3y).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેની પદાવલિમાં સંખ્યાત્મક સહગુણક લખો: (i) 5 - 3t² (ii) 1.2a + 0.8b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(i) પદાવલિ 5 - 3t² માં ચલ વાળું પદ -3t² છે, તેથી તેનો સંખ્યાત્મક સહગુણક -3 છે.<br>(ii) પદાવલિ 1.2a + 0.8b માં પદ 1.2a નો સહગુણક 1.2 છે અને પદ 0.8b નો સહગુણક 0.8 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહગુણક એટલે 'ચલની સાથે ગુણાયેલી સંખ્યા'. અચળ પદ (જેમ કે 5) નો સહગુણક લખવાની જરૂર હોતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેનાનું એકપદી, દ્વિપદી અને ત્રિપદીમાં વર્ગીકરણ કરો: (i) y² (ii) 5 - 3t (iii) 4p²q - 4pq² (iv) 7 + m + n",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(i) y² → એકપદી (માત્ર એક જ પદ છે)<br>(ii) 5 - 3t → દ્વિપદી (બે પદ છે)<br>(iii) 4p²q - 4pq² → દ્વિપદી (બે પદ છે)<br>(iv) 7 + m + n → ત્રિપદી (ત્રણ પદ છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદોની સંખ્યા ગણો! 1 પદ = એકપદી, 2 પદ = દ્વિપદી, 3 પદ = ત્રિપદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પદાવલિનું સાદું રૂપ આપો: 21b - 32 + 7b - 20b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સજાતીય પદોને સાથે લાવતા:<br>= 21b + 7b - 20b - 32<br>= (21 + 7 - 20)b - 32<br>= (28 - 20)b - 32<br>= 8b - 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સજાતીય પદો એટલે કે જેમના ચલ અને ઘાત સરખા હોય તેને જ ભેગા કરી શકાય. અચળ પદને અલગ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સરવાળો કરો: 3mn, -5mn, 8mn, -4mn",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>= 3mn + (-5mn) + 8mn + (-4mn)<br>= (3 - 5 + 8 - 4)mn<br>= (11 - 9)mn<br>= 2mn</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા ધન (+) પદોનો સરવાળો અલગ કરો અને ઋણ (-) પદોનો સરવાળો અલગ કરો, પછી બાદબાકી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાદબાકી કરો: y² માંથી -5y² બાદ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>= y² - (-5y²)<br>= y² + 5y² (કારણ કે - × - = +)<br>= 6y²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ બાદબાકી કરવાની હોય ત્યારે જે પદ બાદ કરવાનું હોય તેની નિશાની ઉલટાવી નાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો m = 2 હોય, તો 3m - 5 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પદાવલિ 3m - 5 માં m = 2 મુકતા:<br>= 3(2) - 5<br>= 6 - 5<br>= 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલની જગ્યાએ ખાલી કૌંસ ( ) બનાવી તેમાં કિંમત મૂકો, જેથી નિશાનીની ભૂલ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો z = 10 હોય, તો z³ - 3(z - 10) ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>z = 10 મુકતા:<br>= (10)³ - 3(10 - 10)<br>= 1000 - 3(0)<br>= 1000 - 0<br>= 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા કૌંસનું સાદું રૂપ આપો, પછી ગુણાકાર કરો. અહીં 10-10=0 થવાથી આખું પદ 0 થઈ ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પદાવલિમાં સજાતીય પદો ઓળખો: -xy², -4yx², 8x², 2xy², 7y, -11x², -100x, -11yx, 20x²y, -6x², y, 2xy, 3x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સજાતીય પદોની જોડીઓ:<br>1. -xy² અને 2xy²<br>2. -4yx² અને 20x²y<br>3. 8x², -11x² અને -6x²<br>4. 7y અને y<br>5. -100x અને 3x<br>6. -11yx અને 2xy</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલનો ક્રમ બદલાય તો ચાલે (જેમ કે xy = yx), પણ તેમની ઘાત સરખી હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાદું રૂપ આપી કિંમત શોધો જો x = 2 હોય: 3(x + 2) + 5x - 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પહેલા સાદું રૂપ આપીએ:<br>3x + 6 + 5x - 7<br>= (3x + 5x) + (6 - 7)<br>= 8x - 1<br>હવે x = 2 મુકતા:<br>= 8(2) - 1 = 16 - 1 = 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી પદાવલિમાં કિંમત મૂકવા કરતા પહેલા પદાવલિને નાની (simplify) કરો, ગણતરી સહેલી બનશે.</p></div>"
+    }
+  ]
+}
