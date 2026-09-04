@@ -230,3 +230,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રેખા અને ખૂણા",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો બે ખૂણાઓ પરસ્પર કોટિકોણ હોય અને તે પૈકી એક ખૂણાનું માપ 47° હોય, તો બીજા ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>કોટિકોણના બે ખૂણાના માપનો સરવાળો 90° થાય છે.</p><p>ધારો કે બીજા ખૂણાનું માપ x છે.</p><p>તેથી, x + 47° = 90°</p><p>x = 90° - 47°</p><p>x = 43°</p><p>આમ, બીજા ખૂણાનું માપ 43° હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિકોણ એટલે 'કાટકોણ' (90°) માંથી આપેલો ખૂણો બાદ કરી દેવો. કોટિ = 90 - આપેલ માપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "105° ના માપના ખૂણાના પૂરકકોણનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>પૂરકકોણના બે ખૂણાના માપનો સરવાળો 180° થાય છે.</p><p>પૂરકકોણનું માપ = 180° - આપેલ ખૂણાનું માપ</p><p>પૂરકકોણનું માપ = 180° - 105°</p><p>પૂરકકોણનું માપ = 75°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂરકકોણ એટલે 'પૂરેપૂરી' સીધી લીટી (180°). પૂરક = 180 - આપેલ માપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એવો ખૂણો શોધો જે તેના પૂરકકોણ જેટલો જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ધારો કે ખૂણાનું માપ x છે. હવે શરત મુજબ તેનો પૂરકકોણ પણ x જ થાય.</p><p>આપણે જાણીએ છીએ કે, ખૂણો + પૂરકકોણ = 180°</p><p>x + x = 180°</p><p>2x = 180°</p><p>x = 180° / 2 = 90°</p><p>આમ, 90° નો ખૂણો તેના પૂરકકોણ જેટલો જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે 'સમાન' શબ્દ આવે ત્યારે કુલ સરવાળાના અડધા કરી દેવા. (180 ના અડધા 90).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રેખિક જોડના ખૂણા એટલે શું? તેની મુખ્ય શરત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>એવા આસન્નકોણ કે જેની સામાન્ય ન હોય તેવી બાજુઓ પરસ્પર વિરુદ્ધ કિરણો હોય, તેને રૈખિક જોડના ખૂણા કહે છે.</p><p><strong>મુખ્ય શરત:</strong> રૈખિક જોડના બે ખૂણાના માપનો સરવાળો હંમેશા 180° થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'રેખા' એટલે સીધી લાઈન, અને સીધી લાઈન પર બનતા ખૂણાનો સરવાળો હંમેશા 180° જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો બે રેખાઓ પરસ્પર એક બિંદુમાં છેદે અને એક અભિકોણનું માપ 65° હોય, તો તેની સામેના અભિકોણનું માપ કેટલું થાય? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>સામેના અભિકોણનું માપ 65° જ થાય.</p><p><strong>કારણ:</strong> ભૂમિતિના નિયમ મુજબ, જ્યારે બે રેખાઓ પરસ્પર છેદે ત્યારે બનતા સામસામેના ખૂણા એટલે કે 'અભિકોણો' હંમેશા સમાન માપના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અભિકોણ એટલે 'X' આકાર. X માં સામસામેના ખૂણા હંમેશા 'જોડિયા ભાઈ' જેવા (સરખા) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બે કોટિકોણના માપનો તફાવત 12° છે, તો તે ખૂણાઓના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ધારો કે એક ખૂણો x છે, તો બીજો ખૂણો (x + 12) થાય.</p><p>કોટિકોણ હોવાથી: x + (x + 12) = 90°</p><p>2x + 12 = 90° => 2x = 78° => x = 39°</p><p>પ્રથમ ખૂણો = 39°, બીજો ખૂણો = 39 + 12 = 51°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): (90 + તફાવત)/2 કરવાથી મોટો ખૂણો મળે અને (90 - તફાવત)/2 કરવાથી નાનો ખૂણો મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "છેદિકાની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>જે રેખા બે અથવા બેથી વધુ રેખાઓને ભિન્ન બિંદુઓમાં છેદતી હોય, તે રેખાને આપેલી રેખાઓની છેદિકા કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદિકા એટલે 'કાપનારી' રેખા. જે બે પાટા (રેખાઓ) ને અલગ અલગ જગ્યાએ કાપે તે છેદિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો બે સમાંતર રેખાઓને એક છેદિકા છેદે, તો અનુકોણની જોડ વિશે શું કહી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>જો બે સમાંતર રેખાઓને એક છેદિકા છેદે, તો અનુકોણની પ્રત્યેક જોડના ખૂણાનાં માપ સમાન (સરખા) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અનુકોણ માટે 'F' આકાર યાદ રાખો. F માં બનતા ખૂણા હંમેશા સરખા હોય જો રેખાઓ સમાંતર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અંતઃયુગ્મકોણ એટલે શું? તેના આકાર વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>બે રેખાઓની અંદરના ભાગમાં આવેલા અને છેદિકાની વિરુદ્ધ બાજુએ આવેલા ખૂણાઓની જોડીને અંતઃયુગ્મકોણ કહે છે.</p><p>તે અંગ્રેજી અક્ષર 'Z' (અથવા ઊંધો Z) જેવો આકાર બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યુગ્મકોણ એટલે 'Z' પકડવાનો. Z ના ખૂણા હંમેશા સરખા (જો સમાંતર રેખા હોય તો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શું બે ગુરુકોણ પૂરકકોણ હોઈ શકે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ના, બે ગુરુકોણ ક્યારેય પૂરકકોણ હોઈ શકે નહીં.</p><p><strong>કારણ:</strong> ગુરુકોણનું માપ 90° થી વધુ હોય છે. જો બે ખૂણા 90° થી મોટા હોય, તો તેમનો સરવાળો હંમેશા 180° થી વધી જશે. જ્યારે પૂરકકોણનો સરવાળો ફિક્સ 180° જ થવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 91 + 91 = 182 થઈ જાય, જે 180 કરતા વધી જાય. એટલે ગુરુકોણની જોડી પૂરક ન બને.</p></div>"
+    }
+  ]
+}
