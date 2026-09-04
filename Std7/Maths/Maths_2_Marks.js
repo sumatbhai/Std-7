@@ -404,3 +404,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "પરિમેય સંખ્યાઓ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પરિમેય સંખ્યા -36/54 ને તેના પ્રમાણિત સ્વરૂપમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણિત સ્વરૂપમાં ફેરવવા માટે અંશ અને છેદનો ગુ.સા.અ. લેવો પડે.<br>36 અને 54 નો ગુ.સા.અ. 18 છે.<br>તેથી, (-36 ÷ 18) / (54 ÷ 18) = -2 / 3.<br>આમ, પ્રમાણિત સ્વરૂપ -2/3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદ બંને જે મોટામાં મોટા ઘડિયામાં આવતા હોય તેના વડે છેદ ઉડાડી દો. અહીં 18 x 2 = 36 અને 18 x 3 = 54 હોવાથી સીધો જવાબ -2/3 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "-2 અને -1 વચ્ચે આવતી કોઈપણ બે પરિમેય સંખ્યાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -2 અને -1 ને છેદ 3 હોય તેવી સંખ્યામાં ફેરવતા:<br>-2 = -6/3 અને -1 = -3/3.<br>હવે -6/3 અને -3/3 વચ્ચેની સંખ્યાઓ: -5/3 અને -4/3 મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી સંખ્યા શોધવી હોય તેના કરતાં એક મોટી સંખ્યા (દા.ત. 3) વડે અંશ અને છેદમાં ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સરવાળો શોધો: 5/4 + (-11/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં છેદ સમાન છે (4).<br>તેથી, (5 + (-11)) / 4 = (5 - 11) / 4 = -6/4.<br>અતિસંક્ષિપ્ત રૂપ આપતા: -3/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સમાન હોય ત્યારે છેદને અડક્યા વગર માત્ર અંશનો જ વક્રીભવન (સરવાળો-બાદબાકી) કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કિંમત શોધો: (-4) ÷ 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાગાકારને ગુણાકારમાં ફેરવવા માટે બીજી સંખ્યાનો વ્યસ્ત લેવો પડે.<br>(-4) × 3/2 = (-12) / 2 = -6.<br>જવાબ: -6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારનું કરો ગુણાકાર અને પાછળની સંખ્યાને કરી દો ઉલટી (વ્યસ્ત)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુણાકાર શોધો: 9/2 × (-7/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુણાકાર માટે અંશનો અંશ સાથે અને છેદનો છેદ સાથે ગુણાકાર થાય.<br>અંશ: 9 × (-7) = -63<br>છેદ: 2 × 4 = 8<br>જવાબ: -63/8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમેય સંખ્યાના ગુણાકારમાં લસાઅ લેવાની જરૂર નથી, સીધો જ સામે-સામે ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "-5/7 અને -3/8 માંથી કઈ સંખ્યા મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદ સમાન કરતા (લસાઅ 56):<br>-5/7 = (-5×8)/(7×8) = -40/56<br>-3/8 = (-3×7)/(8×7) = -21/56<br>-21 > -40 હોવાથી, -21/56 મોટી છે. એટલે કે -3/8 એ -5/7 કરતા મોટી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોસ ગુણાકાર કરો! (-5x8 = -40) અને (7x-3 = -21). -21 મોટા છે, માટે તેની બાજુની સંખ્યા મોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "7/24 - 17/36 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24 અને 36 નો લસાઅ 72 થાય.<br>(7 × 3)/(24 × 3) - (17 × 2)/(36 × 2)<br>= 21/72 - 34/72 = (21 - 34) / 72 = -13/72.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકીમાં હંમેશા છેદ સમાન કરવા માટે લસાઅ જ લેવો, જેથી ગણતરી નાની રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "-1/3 ની સમાન હોય તેવી અન્ય ત્રણ પરિમેય સંખ્યાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંશ અને છેદને સમાન સંખ્યા વડે ગુણતા:<br>1) -1×2 / 3×2 = -2/6<br>2) -1×3 / 3×3 = -3/9<br>3) -1×4 / 3×4 = -4/12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સંખ્યા શોધવા માટે માત્ર અંશ અને છેદનો ઘડિયો બોલતા જાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંખ્યા રેખા પર -3/4 કયા બે પૂર્ણાંકોની વચ્ચે આવશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -3/4 એ ઋણ સંખ્યા છે અને તેનો અંશ છેદ કરતા નાનો છે. તેથી તે 0 અને -1 ની વચ્ચે આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ < છેદ હોય, તો સંખ્યા હંમેશા 0 અને 1 (અથવા 0 અને -1) ની વચ્ચે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કિંમત શોધો: 3/7 + (-2/21)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 અને 21 નો લસાઅ 21 છે.<br>(3 × 3) / (7 × 3) + (-2 / 21) = 9/21 - 2/21 = 7/21.<br>અતિસંક્ષિપ્ત રૂપ: 1/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની છેદવાળી સંખ્યાને મોટી છેદવાળી સંખ્યામાં ફેરવી શકાય કે નહીં તે પહેલા ચેક કરી લેવું (અહીં 7x3=21).</p></div>"
+    }
+  ]
+}
