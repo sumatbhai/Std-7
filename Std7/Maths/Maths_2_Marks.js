@@ -694,3 +694,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ઘન આકારોનું પ્રત્યક્ષીકરણ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "યુલરનું સૂત્ર લખો અને તેના દરેક સંકેત શું દર્શાવે છે તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુલરનું સૂત્ર: F + V - E = 2<br>જ્યાં,<br>F = ફલક (Faces) ની સંખ્યા<br>V = શિરોબિંદુ (Vertices) ની સંખ્યા<br>E = ધાર (Edges) ની સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'Five' (F+V) માંથી 'E' બાદ કરો તો જવાબ હંમેશા '2' આવે. (F+V-E=2)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક સમઘન માટે ફલક (F), શિરોબિંદુ (V) અને ધાર (E) ની સંખ્યા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન (Cube) માટે:<br>1. ફલક (F) = 6<br>2. શિરોબિંદુ (V) = 8<br>3. ધાર (E) = 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારા રૂમની કલ્પના કરો. 4 દીવાલ + છત + ભોંતળિયું = 6 ફલક. 8 ખૂણા એટલે 8 શિરોબિંદુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો કોઈ બહુફલકને 6 શિરોબિંદુ અને 12 ધાર હોય, તો તેના ફલકની સંખ્યા યુલરના સૂત્રથી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં V = 6, E = 12 આપેલ છે.<br>સૂત્ર: F + V - E = 2<br>F + 6 - 12 = 2<br>F - 6 = 2<br>F = 2 + 6 = 8<br>તેથી, ફલકની સંખ્યા 8 હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાર (E) અને 2 નો સરવાળો કરો અને તેમાંથી શિરોબિંદુ (V) બાદ કરો એટલે ફલક મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ત્રિપરિમાણીય (3D) આકારો અને દ્વિપરિમાણીય (2D) આકારો વચ્ચેનો મુખ્ય તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2D આકારોને માત્ર લંબાઈ અને પહોળાઈ હોય છે (દા.ત. ચોરસ, વર્તુળ), જ્યારે 3D આકારોને લંબાઈ, પહોળાઈ ઉપરાંત ઊંચાઈ અથવા ઊંડાઈ હોય છે (દા.ત. નળાકાર, શંકુ, સમઘન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળ પર દોરેલું ચિત્ર 2D, પણ જે વસ્તુ તમે હાથમાં પકડી શકો તે 3D!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેના આકારો માટે શિરોબિંદુની સંખ્યા લખો: (1) નળાકાર (2) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) નળાકાર: 0 શિરોબિંદુ (તેમાં કોઈ ખૂણા હોતા નથી)<br>(2) શંકુ: 1 શિરોબિંદુ (ટોચનો અણીદાર ભાગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ વસ્તુઓને ધાર કે ખૂણા હોતા નથી, પણ શંકુને ઉપર એક 'ટોચ' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નેટ (Net) એટલે શું? સમઘનની નેટમાં કેટલા ચોરસ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેટ એ ત્રિપરિમાણીય આકારનું બે પરિમાણમાં ખોલેલું માળખું છે, જેને વાળવાથી મૂળ આકાર બને છે. સમઘનની નેટમાં કુલ 6 સમાન ચોરસ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોખું ખોલો તો જે દેખાય તે 'નેટ'. જેટલા ફલક એટલા ખાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેની વસ્તુઓને ઉપરથી જોતા (Top View) કેવો આકાર દેખાશે? (1) રમતનો પાસો (2) પાણીનો પ્યાલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) રમતનો પાસો: ચોરસ (Square)<br>(2) પાણીનો પ્યાલો: વર્તુળ (Circle)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુની બરાબર ઉપરથી ટોર્ચ પાડો, જે પડછાયો જમીન પર પડે તે Top View.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તિર્યક રેખાકૃતિ (Oblique Sketch) અને આઈસોમેટ્રિક રેખાકૃતિ વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તિર્યક રેખાકૃતિમાં માપ સપ્રમાણ હોતા નથી પણ આકાર સાચો દેખાય છે, જ્યારે આઈસોમેટ્રિક રેખાકૃતિ ટપકાંવાળા કાગળ પર દોરવામાં આવે છે અને તેમાં માપ ચોક્કસ અને સપ્રમાણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તિર્યક = રફ સ્કેચ, આઈસોમેટ્રિક = ટપકાંવાળો પરફેક્ટ સ્કેચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એક ઈંટને જો (1) ઉભી અને (2) આડી કાપવામાં આવે, તો તેના આડછેદ (Cross-section) કેવા મળશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ઉભી કાપતા (Vertical Cut): લંબચોરસ (Rectangle)<br>(2) આડી કાપતા (Horizontal Cut): લંબચોરસ (Rectangle)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબઘન વસ્તુને ગમે ત્યાંથી કાપો, તેનો અંદરનો ભાગ લંબચોરસ જ નીકળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ત્રિકોણીય પિરામિડ (Triangular Pyramid) ના ફલક અને ધારની સંખ્યા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણીય પિરામિડ માટે:<br>ફલક (F) = 4<br>ધાર (E) = 6<br>શિરોબિંદુ (V) = 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણીય પિરામિડ એટલે ટેટ્રાહેડ્રોન. બધું જ ત્રિકોણથી બનેલું હોય!</p></div>"
+    }
+  ]
+}
