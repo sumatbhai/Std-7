@@ -346,3 +346,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગુણોત્તર 3 : 1 ને ટકાવરીમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કુલ ભાગ = 3 + 1 = 4<br>પહેલો ભાગ = 3/4 × 100% = 3 × 25% = 75%<br>બીજો ભાગ = 1/4 × 100% = 25%<br>આમ, ગુણોત્તર 75% : 25% થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરના પદોનો સરવાળો કરી તેને છેદમાં મૂકો અને 100 વડે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "250 ના 15% શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>250 ના 15% = 250 × (15/100)<br>= (25 × 15) / 10<br>= 375 / 10 = 37.5<br>જવાબ: 37.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ના' એટલે ગુણાકાર અને '%' નિશાની દૂર કરવા છેદમાં 100 મૂકવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "0.75 ને ટકામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>0.75 = 75/100<br>ટકામાં ફેરવવા માટે: (75/100) × 100%<br>= 75%<br>જવાબ: 75%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્નને બે સ્થળ જમણી બાજુ ખસેડી '%' લગાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક વસ્તુ ₹ 120 માં ખરીદી ₹ 150 માં વેચતા નફો થાય કે ખોટ? કેટલા ટકા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ખરીદ કિંમત (CP) = ₹ 120, વેચાણ કિંમત (SP) = ₹ 150<br>અહીં SP > CP હોવાથી નફો થશે.<br>નફો = 150 - 120 = ₹ 30<br>નફો % = (નફો / CP) × 100 = (30/120) × 100 = 1/4 × 100 = 25%<br>જવાબ: 25% નફો થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નફો કે ખોટ હંમેશા ખરીદ કિંમત (CP) પર જ ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "₹ 5000 નું 10% લેખે 2 વર્ષનું સાદું વ્યાજ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>મુદ્દલ (P) = 5000, વ્યાજનો દર (R) = 10%, સમય (T) = 2 વર્ષ<br>સાદું વ્યાજ (I) = (P × R × T) / 100<br>I = (5000 × 10 × 2) / 100 = 50 × 20 = ₹ 1000<br>જવાબ: ₹ 1000 સાદું વ્યાજ થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદું વ્યાજ એટલે 'PRT ભાગ્યા 100' યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો 1/8 ને ટકામાં ફેરવવા હોય તો શું જવાબ આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1/8 ને ટકામાં ફેરવવા 100 વડે ગુણતા:<br>(1/8) × 100% = 100 / 8 %<br>= 12.5% અથવા 12 ½ %<br>જવાબ: 12.5%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકને ટકામાં ફેરવવા હંમેશા 100 વડે ગુણાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક વર્ગના 40 બાળકોમાંથી 25% બાળકોને ગણિત ગમે છે, તો કેટલા બાળકોને ગણિત ગમતું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કુલ બાળકો = 40<br>ગણિત ગમતા બાળકો = 40 ના 25%<br>= 40 × (25/100) = 40 × 1/4 = 10 બાળકો<br>જવાબ: 10 બાળકોને ગણિત ગમે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25% એટલે ચોથો ભાગ, સીધો 4 વડે ભાગાકાર કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કિંમત શોધો: 1 કલાકના 1% કેટલા થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 કલાક = 60 મિનિટ<br>60 મિનિટના 1% = 60 × (1/100) = 0.6 મિનિટ<br>સેકન્ડમાં ફેરવતા: 0.6 × 60 = 36 સેકન્ડ<br>જવાબ: 36 સેકન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એકમ મોટો હોય (કલાક), ત્યારે તેને નાના એકમમાં (મિનિટ/સેકન્ડ) ફેરવી ગણતરી સરળ બનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો મિતા તેના પગારમાંથી ₹ 4000 બચાવે છે, જે તેના પગારના 10% છે, તો તેનો પગાર કેટલો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ધારો કે પગાર x છે.<br>x ના 10% = 4000<br>x × (10/100) = 4000<br>x = (4000 × 100) / 10 = 40,000<br>જવાબ: મિતાનો પગાર ₹ 40,000 હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10% એ ₹ 4000 હોય તો 100% એ કેટલા? (4000 × 10 = 40,000)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "₹ 2500 નું 5% વાર્ષિક વ્યાજના દરે 1 વર્ષનું વ્યાજ અને વ્યાજમુદ્દલ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>વ્યાજ I = (2500 × 5 × 1) / 100 = ₹ 125<br>વ્યાજમુદ્દલ (A) = મુદ્દલ + વ્યાજ = 2500 + 125 = ₹ 2625<br>જવાબ: વ્યાજ ₹ 125 અને વ્યાજમુદ્દલ ₹ 2625 થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાજમુદ્દલ એટલે 'ખિસ્સાના રૂપિયા + વધારાનું વ્યાજ'!</p></div>"
+    }
+  ]
+}
