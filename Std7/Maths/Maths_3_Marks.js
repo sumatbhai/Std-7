@@ -172,3 +172,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણો",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેના સમીકરણનો ઉકેલ શોધો અને સ્ટેપ સમજાવો: 3n - 2 = 46",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>આપેલ સમીકરણ: 3n - 2 = 46</p><ol><li><strong>પગલું 1:</strong> બંને બાજુ 2 ઉમેરતા (અથવા -2 ને જમણી બાજુ લઈ જતા તે +2 થશે).<br>3n = 46 + 2<br>3n = 48</li><li><strong>પગલું 2:</strong> બંને બાજુ 3 વડે ભાગતા (અથવા ગુણાકારમાં રહેલા 3 ને છેદમાં લઈ જતા).<br>n = 48 / 3<br>n = 16</li></ol><p>આમ, ચલ n ની કિંમત 16 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બરાબર'ની નદી ઓળંગો ત્યારે નિશાની બદલો! માઈનસ હોય તો પ્લસ કરો અને ગુણાકાર હોય તો ભાગાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લક્ષ્મીના પિતા 49 વર્ષના છે. તે લક્ષ્મીની ઉંમરના ત્રણ ગણાથી 4 વર્ષ મોટા છે, તો લક્ષ્મીની ઉંમર શોધવા માટેનું સમીકરણ બનાવી તેનો ઉકેલ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ધારો કે લક્ષ્મીની ઉંમર = x વર્ષ</li><li>તેના પિતાની ઉંમર લક્ષ્મીના ત્રણ ગણાથી 4 વધુ છે, એટલે કે: 3x + 4</li><li>પરંતુ પિતાની ઉંમર 49 વર્ષ આપેલી છે.</li><li><strong>સમીકરણ:</strong> 3x + 4 = 49</li><li>3x = 49 - 4<br>3x = 45<br>x = 45 / 3<br>x = 15</li></ul><p>લક્ષ્મીની ઉંમર 15 વર્ષ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની ઉંમર શોધવાની હોય તેને હંમેશા 'x' ધારી લો, કામ સરળ થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના સમીકરણને સોલ્વ કરો: 4(m + 3) = 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>આપેલ સમીકરણ: 4(m + 3) = 18</p><ol><li>સૌ પ્રથમ કૌંસની બહારના 4 ને જમણી બાજુ છેદમાં લઈ જતા:<br>m + 3 = 18 / 4</li><li>m + 3 = 4.5 (અથવા 9/2)</li><li>હવે +3 ને જમણી બાજુ લઈ જતા તે -3 થશે:<br>m = 4.5 - 3<br>m = 1.5</li></ol><p>ચલ m નો ઉકેલ 1.5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ એ એક ઘર જેવું છે, પહેલા ઘરની બહાર ઉભેલા મહેમાન (4) ને દૂર કરો, પછી અંદરના સભ્ય (3) નો વારો લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક સમદ્વિબાજુ ત્રિકોણમાં શિરોબિંદુ કોણ 40° છે. પાયાના ખૂણાના માપ સરખા છે. તો પાયાના ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ધારો કે પાયાના દરેક ખૂણાનું માપ = b ડિગ્રી</li><li>ત્રિકોણના ત્રણેય ખૂણાનો સરવાળો = 180° થાય.</li><li>સમીકરણ: b + b + 40° = 180°</li><li>2b + 40° = 180°</li><li>2b = 180° - 40°<br>2b = 140°<br>b = 140° / 2 = 70°</li></ul><p>આમ, પાયાના દરેક ખૂણાનું માપ 70° હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ દેખાય એટલે મગજમાં 180° ફિક્સ કરી લેવાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો તમે કોઈ સંખ્યાના 6 ગણામાંથી 5 બાદ કરો, તો તમને 7 મળે છે. તે સંખ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ધારો કે તે સંખ્યા x છે.</li><li>સંખ્યાના 6 ગણા = 6x</li><li>તેમાંથી 5 બાદ કરતા મળતું પરિણામ = 6x - 5</li><li>શરત મુજબ: 6x - 5 = 7</li><li>6x = 7 + 5<br>6x = 12<br>x = 12 / 6<br>x = 2</li></ul><p>તે સંખ્યા 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગણા' એટલે ગુણાકાર અને 'બાદ' એટલે માઈનસ - વાક્યને ગણિતની ભાષામાં ફેરવતા શીખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમીકરણ ઉકેલો: 2y + 5/2 = 37/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li>2y = 37/2 - 5/2 (અચળ પદને જમણી બાજુ લેતા)</li><li>2y = (37 - 5) / 2 (છેદ સમાન હોવાથી અંશની બાદબાકી)</li><li>2y = 32 / 2</li><li>2y = 16</li><li>y = 16 / 2<br>y = 8</li></ol><p>આમ, y = 8 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદ સમાન હોય ત્યારે લસાઅ લેવાની માથાકૂટ ન કરવી, સીધી બાદબાકી કરી નાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સચિને કરેલા રન રાહુલના રન કરતા બમણા છે. જો તેમના રન ભેગા કરવામાં આવે, તો તે બેવડી સદી કરતા 2 રન ઓછા છે. તો બંનેએ કેટલા રન કર્યા હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ધારો કે રાહુલના રન = x</li><li>સચિનના રન = 2x</li><li>બંનેના કુલ રન = x + 2x = 3x</li><li>શરત મુજબ: 3x = 200 - 2 (બેવડી સદી એટલે 200)</li><li>3x = 198</li><li>x = 198 / 3 = 66</li></ul><p>રાહુલના રન = 66 અને સચિનના રન = 2 × 66 = 132.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રકમમાં 'બમણા' કે 'ત્રણ ગણા' હોય તેને હંમેશા x સાથે ગુણી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેના સમીકરણમાંથી x ની કિંમત શોધો: 16 = 4 + 3(t + 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li>16 - 4 = 3(t + 2)</li><li>12 = 3(t + 2)</li><li>12 / 3 = t + 2 (3 ને છેદમાં લાવતા)</li><li>4 = t + 2</li><li>t = 4 - 2<br>t = 2</li></ol><p>આમ, ચલ t ની કિંમત 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણી બાજુ ચલ હોય તો ગભરાવું નહીં, પદોની અદલા-બદલી કરીને ડાબી બાજુ જેવું જ સોલ્યુશન લાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઇરફાને કહ્યું કે તેની પાસે પરમિત પાસેની લખોટીના 5 ગણા કરતા 7 લખોટી વધુ છે. જો ઇરફાન પાસે 37 લખોટી હોય, તો પરમિત પાસે કેટલી લખોટી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ul><li>ધારો કે પરમિત પાસે x લખોટી છે.</li><li>ઇરફાન પાસેની લખોટી = 5x + 7</li><li>પરંતુ કુલ લખોટી 37 આપેલી છે.</li><li>5x + 7 = 37</li><li>5x = 37 - 7</li><li>5x = 30<br>x = 30 / 5 = 6</li></ul><p>પરમિત પાસે 6 લખોટી હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વધુ' એટલે પ્લસ (+) અને 'ઓછી' એટલે માઈનસ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણ ઉકેલો: 7m + 19/2 = 13",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><ol><li>7m = 13 - 19/2</li><li>7m = (26 - 19) / 2 (લસાઅ 2 લેતા)</li><li>7m = 7 / 2</li><li>m = 7 / (2 × 7) (7 ને છેદમાં લઈ જતા)</li><li>m = 1 / 2</li></ol><p>આમ, m = 1/2 અથવા 0.5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક વાળા સરવાળા બાદબાકીમાં લસાઅ લેતા ભૂલશો નહીં, નહીંતર જવાબ ખોટો આવશે!</p></div>"
+    }
+  ]
+}
