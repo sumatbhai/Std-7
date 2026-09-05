@@ -56,3 +56,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "અપૂર્ણાંક અને દશાંશ સંખ્યાઓ",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કિંમત શોધો: (1) 2.5 × 0.3 (2) 0.1 × 51.7 (3) 0.2 × 316.8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 2.5 × 0.3 = (25/10) × (3/10) = 75/100 = 0.75<br>(2) 0.1 × 51.7 = (1/10) × (517/10) = 517/100 = 5.17<br>(3) 0.2 × 316.8 = (2/10) × (3168/10) = 6336/100 = 63.36</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્ન ભૂલીને સાદો ગુણાકાર કરો, પછી રકમમાં કુલ જેટલા પોઈન્ટ હોય તેટલા પોઈન્ટ જવાબમાં જમણેથી ડાબી બાજુ કાપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક લંબચોરસનું ક્ષેત્રફળ શોધો જેની લંબાઈ 5.7 સેમી અને પહોળાઈ 3 સેમી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>લંબચોરસની લંબાઈ (l) = 5.7 સેમી<br>લંબચોરસની પહોળાઈ (b) = 3 સેમી<br>લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × પહોળાઈ<br>= 5.7 × 3<br>= (57/10) × 3<br>= 171 / 10<br>= 17.1 ચોરસ સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબચોરસનું ક્ષેત્રફળ એટલે 'લપો' (લંબાઈ × પહોળાઈ). દશાંશ ચિહ્ન મૂકવામાં ઉતાવળ ન કરવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શોધો: (1) 7.9 ÷ 1000 (2) 26.3 ÷ 100 (3) 3.97 ÷ 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 7.9 ÷ 1000 = 0.0079 (પોઈન્ટ 3 સ્થાન ડાબી બાજુ ખસશે)<br>(2) 26.3 ÷ 100 = 0.263 (પોઈન્ટ 2 સ્થાન ડાબી બાજુ ખસશે)<br>(3) 3.97 ÷ 10 = 0.397 (પોઈન્ટ 1 સ્થાન ડાબી બાજુ ખસશે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાગાકારમાં જેટલા શૂન્ય નીચે હોય, તેટલા ડગલાં ડાબી બાજુ 'કુદકો' મારવો (ડા-ભા: ડાબી બાજુ ભાગાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિદ્યા અને પ્રતાપ પિકનિક માટે ગયા. તેમની મમ્મીએ તેમને 5 લિટર પાણીની બોટલ આપી. વિદ્યાએ 2/5 ભાગ પાણી પીધું. પ્રતાપે બાકીનું પાણી પીધું. તો (i) વિદ્યાએ કેટલું પાણી પીધું? (ii) પ્રતાપે કેટલામાં ભાગનું પાણી પીધું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>કુલ પાણી = 5 લિટર<br>(i) વિદ્યાએ પીધેલું પાણી = 5 ના 2/5 ભાગ = 5 × (2/5) = 2 લિટર.<br>(ii) પ્રતાપે પીધેલું પાણી = 5 - 2 = 3 લિટર.<br>પ્રતાપે પીધેલ પાણીનો ભાગ = 3/5 ભાગ (અથવા 1 - 2/5 = 3/5).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ ભાગ હંમેશા '1' હોય. જો એક 2/5 પીવે, તો બીજો (5-2)/5 = 3/5 જ પીવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુણાકાર કરો અને મિશ્ર અપૂર્ણાંકમાં ફેરવો: (1) 7 × 3/5 (2) 4 × 1/3 (3) 20 × 4/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 7 × 3/5 = 21/5 = 4 પૂર્ણાંક 1/5<br>(2) 4 × 1/3 = 4/3 = 1 પૂર્ણાંક 1/3<br>(3) 20 × 4/5 = 4 × 4 = 16 (અહીં છેદ ઉડે છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંશનો અંશ સાથે ગુણાકાર કરો. જો જવાબ અશુદ્ધ અપૂર્ણાંક (અંશ મોટો) આવે તો જ મિશ્રમાં ફેરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક ગાડી 1 લિટર પેટ્રોલમાં 16 કિમી અંતર કાપે છે, તો તે ગાડી 2 પૂર્ણાંક 3/4 લિટર પેટ્રોલમાં કેટલું અંતર કાપશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>1 લિટર પેટ્રોલમાં કપાતું અંતર = 16 કિમી<br>2¾ લિટર પેટ્રોલમાં કપાતું અંતર = 16 × 2¾<br>= 16 × (11/4)<br>= 4 × 11 (કારણ કે 16 ÷ 4 = 4)<br>= 44 કિમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિશ્ર અપૂર્ણાંકને પહેલા અશુદ્ધમાં ફેરવો, પછી જ છેદ ઉડાડવાની પ્રોસેસ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શોધો: (1) 7 ÷ 3.5 (2) 36 ÷ 0.2 (3) 3.25 ÷ 0.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 7 ÷ (35/10) = 7 × (10/35) = 70/35 = 2<br>(2) 36 ÷ (2/10) = 36 × (10/2) = 18 × 10 = 180<br>(3) (325/100) ÷ (5/10) = (325/100) × (10/5) = 65/10 = 6.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાગાકારનું ગુણાકારમાં રૂપાંતર કરો ત્યારે પાછળની સંખ્યાનો વ્યસ્ત (ઉલટ-સુલટ) કરવાનું ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક મોટરસાયકલ 1 લિટર પેટ્રોલમાં 55.3 કિમી અંતર કાપે છે, તો 10 લિટર પેટ્રોલમાં કેટલું અંતર કાપશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>1 લિટર પેટ્રોલમાં કપાતું અંતર = 55.3 કિમી<br>10 લિટર પેટ્રોલમાં કપાતું અંતર = 55.3 × 10<br>= (553/10) × 10<br>= 553 કિમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે 10, 100 કે 1000 સાથે ગુણાકાર હોય, ત્યારે પોઈન્ટને જમણી બાજુ ખસેડવો (જ-ગુ: જમણી બાજુ ગુણાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શોધો: (1) 2/5 ÷ 1/2 (2) 4/9 ÷ 2/3 (3) 3/7 ÷ 8/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 2/5 × 2/1 = 4/5<br>(2) 4/9 × 3/2 = (4×3)/(9×2) = 12/18 = 2/3<br>(3) 3/7 × 7/8 = 3/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અપૂર્ણાંકનો ભાગાકાર એટલે પહેલા પદને એમનેમ રાખી બીજા પદના વ્યસ્ત સાથે ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કિંમત શોધો: (1) 2.7 ÷ 100 (2) 0.3 ÷ 100 (3) 98.53 ÷ 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 2.7 ÷ 100 = 0.027<br>(2) 0.3 ÷ 100 = 0.003<br>(3) 98.53 ÷ 100 = 0.9853</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 100 વડે ભાગાકાર એટલે પોઈન્ટને બે ઘર ડાબી બાજુ ખસેડવો. જો સંખ્યા ખૂટે તો શૂન્ય મૂકવું.</p></div>"
+    }
+  ]
+}
