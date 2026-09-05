@@ -520,3 +520,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બૈજિક પદાવલિ",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સરવાળો કરો: 3x - y + 11 અને - y - 11. આ સરવાળામાંથી 3x - y - 11 બાદ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. પ્રથમ બે પદાવલિનો સરવાળો:<br>(3x - y + 11) + (- y - 11)<br>= 3x - y - y + 11 - 11<br>= 3x - 2y + 0 = 3x - 2y<br><br>૨. હવે, આ સરવાળામાંથી ત્રીજી પદાવલિ બાદ કરતા:<br>(3x - 2y) - (3x - y - 11)<br>= 3x - 2y - 3x + y + 11 (કૌંસ ખોલતા ચિહ્નો બદલાશે)<br>= (3x - 3x) + (-2y + y) + 11<br>= 0 - y + 11 = -y + 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ પદાવલિ બાદ કરવાની હોય ત્યારે બીજા કૌંસના દરેક પદની નિશાની ઉલટાવી દેવી (+ હોય તો - અને - હોય તો +).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો a = 2 અને b = -2 હોય, તો પદાવલિ a² + ab + b² ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પદાવલિ: a² + ab + b²<br>અહીં a = 2 અને b = -2 મુકતા:<br>= (2)² + (2)(-2) + (-2)²<br>= 4 + (-4) + 4<br>= 4 - 4 + 4<br>= 0 + 4 = 4<br>આમ, પદાવલિની કિંમત 4 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઋણ સંખ્યાનો વર્ગ હંમેશા ધન જ થાય. (-2)² = 4. આ યાદ રાખશો તો ગણતરીમાં ભૂલ નહીં પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "x² + xy + y² માં શું ઉમેરવાથી 2x² + 3xy મેળવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ધારો કે ઉમેરવાની સંખ્યા 'P' છે.<br>તેથી, (x² + xy + y²) + P = 2x² + 3xy<br>P = (2x² + 3xy) - (x² + xy + y²)<br>P = 2x² + 3xy - x² - xy - y²<br>P = (2x² - x²) + (3xy - xy) - y²<br>P = x² + 2xy - y²<br>આમ, x² + 2xy - y² ઉમેરવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શું ઉમેરવું' પૂછાય ત્યારે પરિણામમાંથી આપેલી પદાવલિ બાદ કરવી. (Result - Original = Added Part).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "3a + 7b + 16 માંથી શું બાદ કરવાથી 2a + 8b + 10 મેળવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ધારો કે બાદ કરવાની સંખ્યા 'Q' છે.<br>તેથી, (3a + 7b + 16) - Q = 2a + 8b + 10<br>Q = (3a + 7b + 16) - (2a + 8b + 10)<br>Q = 3a + 7b + 16 - 2a - 8b - 10<br>Q = (3a - 2a) + (7b - 8b) + (16 - 10)<br>Q = a - b + 6<br>આમ, a - b + 6 બાદ કરવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શું બાદ કરવું' પૂછાય ત્યારે આપેલી સંખ્યામાંથી પરિણામ બાદ કરવું. (Original - Result = Subtracted Part).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પદાવલિનું સાદું રૂપ આપી કિંમત શોધો: 2(a² + ab) + 3 - ab (જ્યાં a = 5, b = -3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. સાદું રૂપ:<br>2a² + 2ab + 3 - ab<br>= 2a² + ab + 3<br><br>૨. કિંમત મુકતા (a = 5, b = -3):<br>= 2(5)² + (5)(-3) + 3<br>= 2(25) - 15 + 3<br>= 50 - 15 + 3<br>= 35 + 3 = 38</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા કિંમત ન મુકવી, પહેલા સજાતીય પદોનું સાદું રૂપ આપી દેવું, તેનાથી ગણતરી ટૂંકી અને સરળ બની જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પદાવલિ 5y² + 3y - 4 માંથી 3y² - 5y + 2 બાદ કરો અને દરેક પદના સહગુણક લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. બાદબાકી:<br>(5y² + 3y - 4) - (3y² - 5y + 2)<br>= 5y² + 3y - 4 - 3y² + 5y - 2<br>= (5y² - 3y²) + (3y + 5y) + (-4 - 2)<br>= 2y² + 8y - 6<br><br>૨. સહગુણકો:<br>y² નો સહગુણક = 2<br>y નો સહગુણક = 8<br>અચલ પદ = -6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહગુણક લખતી વખતે તેની આગળની નિશાની (+ કે -) લખવી ક્યારેય ભૂલવી નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો z = 10 હોય, તો z³ - 3(z - 10) ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પદાવલિ: z³ - 3(z - 10)<br>અહીં z = 10 મુકતા:<br>= (10)³ - 3(10 - 10)<br>= 1000 - 3(0)<br>= 1000 - 0<br>= 1000<br>આમ, પદાવલિની કિંમત 1000 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો કૌંસની અંદરની કિંમત શૂન્ય (0) થતી હોય, તો તેની સાથે ગુણાયેલું આખું પદ શૂન્ય થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સજાતીય પદો સાથે ગોઠવી સાદું રૂપ આપો: 21b - 32 + 7b - 20b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>પદાવલિ: 21b - 32 + 7b - 20b<br>૧. સજાતીય પદો (b વાળા પદો) સાથે લાવતા:<br>= 21b + 7b - 20b - 32<br>૨. ધન પદોનો સરવાળો:<br>= (21 + 7)b - 20b - 32<br>= 28b - 20b - 32<br>૩. બાદબાકી કરતા:<br>= 8b - 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પદોની અદલાબદલી કરતી વખતે તેની આગળની નિશાની સાથે જ પદને ખસેડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પદાવલિ -x² + 2x + 5 અને 3x² - 5x નો સરવાળો કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(-x² + 2x + 5) + (3x² - 5x)<br>= -x² + 3x² + 2x - 5x + 5<br>= (-1 + 3)x² + (2 - 5)x + 5<br>= 2x² - 3x + 5<br>આમ, સરવાળો 2x² - 3x + 5 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળામાં ઘાત સમાન હોય તેવા જ પદોનો સરવાળો થાય. x² અને x નો સરવાળો ક્યારેય ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "3x - 5 - x + 9 પદાવલિને સાદું રૂપ આપો અને x = 3 માટે તેની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>૧. સાદું રૂપ:<br>3x - x - 5 + 9<br>= 2x + 4<br><br>૨. x = 3 મુકતા:<br>= 2(3) + 4<br>= 6 + 4<br>= 10<br>આમ, પદાવલિનું સાદું રૂપ 2x + 4 છે અને તેની કિંમત 10 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિંમત મુકતા પહેલા પદાવલિને નાની કરી દેવાથી ગુણાકારમાં ભૂલ થવાની શક્યતા ઘટી જાય છે.</p></div>"
+    }
+  ]
+}
