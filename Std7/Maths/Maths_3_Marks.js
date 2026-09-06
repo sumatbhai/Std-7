@@ -694,3 +694,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઘાતાંકના નિયમોનો ઉપયોગ કરી સાદું રૂપ આપો અને જવાબને ઘાત સ્વરૂપે લખો: (1) (2⁵ × 2³) ÷ 2⁴ (2) (5²)³ ÷ 5³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) (2⁵ × 2³) ÷ 2⁴<br>= (2⁵⁺³) ÷ 2⁴ [નિયમ: aᵐ × aⁿ = aᵐ⁺ⁿ]<br>= 2⁸ ÷ 2⁴<br>= 2⁸⁻⁴ [નિયમ: aᵐ ÷ aⁿ = aᵐ⁻ⁿ]<br>= 2⁴<br><br>(2) (5²)³ ÷ 5³<br>= 5²ˣ³ ÷ 5³ [નિયમ: (aᵐ)ⁿ = aᵐⁿ]<br>= 5⁶ ÷ 5³<br>= 5⁶⁻³ [નિયમ: aᵐ ÷ aⁿ = aᵐ⁻ⁿ]<br>= 5³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર હોય તો ઘાતનો સરવાળો (+) અને ભાગાકાર હોય તો ઘાતની બાદબાકી (-) કરવી, પણ આધાર સરખો હોવો જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "729 ને 3 ના ઘાત સ્વરૂપે દર્શાવો અને તેની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>સૌ પ્રથમ 729 ના અવિભાજ્ય અવયવો પાડીએ:<br>729 = 3 × 243<br>729 = 3 × 3 × 81<br>729 = 3 × 3 × 3 × 27<br>729 = 3 × 3 × 3 × 3 × 9<br>729 = 3 × 3 × 3 × 3 × 3 × 3<br>અહીં 3 એ 6 વખત ગુણાય છે.<br>માટે, 729 = 3⁶<br>આમ, 729 નું 3 ના આધાર વાળું ઘાત સ્વરૂપ 3⁶ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપેલ સંખ્યાને ત્યાં સુધી ભાગતા રહો જ્યાં સુધી છેલ્લે 1 ન આવે. જેટલી વાર એ સંખ્યા આવે તેટલી તેની ઘાત ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કિંમત શોધો: (1) 2⁶ (2) 9³ (3) 11²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64<br>(2) 9³ = 9 × 9 × 9 = 729<br>(3) 11² = 11 × 11 = 121</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત એટલે જે-તે સંખ્યાનો તેટલી જ વખત ગુણાકાર. (ઉદા. 2 ની 6 ઘાત એટલે 2 નો 6 વખત ગુણાકાર, 2 × 6 = 12 ન થાય!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેના પદોને અવિભાજ્ય અવયવ પાડીને તેના ગુણાકારને ઘાત સ્વરૂપે દર્શાવો: 108 × 192",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>108 ના અવયવ: 2 × 2 × 3 × 3 × 3 = 2² × 3³<br>192 ના અવયવ: 2 × 2 × 2 × 2 × 2 × 2 × 3 = 2⁶ × 3¹<br><br>હવે, 108 × 192 = (2² × 3³) × (2⁶ × 3¹)<br>= 2²⁺⁶ × 3³⁺¹<br>= 2⁸ × 3⁴<br>આમ, 108 × 192 = 2⁸ × 3⁴</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને સંખ્યાના અલગ-અલગ અવયવો પાડો, પછી સરખા આધાર વાળા પદોની ઘાત ભેગી કરી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કઈ સંખ્યા મોટી છે તે નક્કી કરો: 2⁸ કે 8² ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>પહેલા 2⁸ ની કિંમત શોધીએ:<br>2⁸ = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 256<br><br>હવે 8² ની કિંમત શોધીએ:<br>8² = 8 × 8 = 64<br><br>અહીં, 256 > 64 છે.<br>તેથી, 2⁸ > 8²<br>આમ, 2⁸ એ મોટી સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ઘાત મોટી હોય ત્યારે કિંમત ઝડપથી વધે છે. હંમેશા ગુણાકાર કરીને ચેક કરવું શ્રેષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાદું રૂપ આપો: [ (2⁵)² × 7³ ] / [ 8³ × 7 ]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>= [ 2¹⁰ × 7³ ] / [ (2³)³ × 7¹ ] (8 = 2³ લેતા)<br>= [ 2¹⁰ × 7³ ] / [ 2⁹ × 7¹ ]<br>= 2¹⁰⁻⁹ × 7³⁻¹<br>= 2¹ × 7²<br>= 2 × 49<br>= 98</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી સંખ્યાને નાનામાં નાની અવિભાજ્ય સંખ્યાના ઘાતમાં ફેરવવાથી દાખલો એકદમ સરળ બની જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેની સંખ્યાઓને પ્રમાણિત સ્વરૂપમાં લખો: (1) 5,00,00,000 (2) 3,18,65,00,000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 5,00,00,000 = 5.0 × 10⁷<br>(અહીં દશાંશ ચિહ્ન સાત સ્થાન ડાબી બાજુ ખસે છે.)<br><br>(2) 3,18,65,00,000 = 3.1865 × 10⁹<br>(અહીં દશાંશ ચિહ્ન નવ સ્થાન ડાબી બાજુ ખસે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા અંક પછી પોઈન્ટ મૂકો અને તેની પાછળ જેટલા અંકો હોય તેટલી 10 ની ઘાત ચડાવી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાદું રૂપ આપો: (2⁰ + 3⁰) × 4⁰",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>આપણે જાણીએ છીએ કે કોઈપણ શૂન્યતર સંખ્યાની 0 ઘાત એટલે 1 થાય. (a⁰ = 1)<br>= (1 + 1) × 1<br>= 2 × 1<br>= 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેવી મોટી સંખ્યા હોય પણ જો તેની માથે 0 (ઝીરો) બેઠો હોય, તો તેનો જવાબ હંમેશા '1' જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાદું રૂપ આપી કિંમત શોધો: (-4)³ × (-1)¹⁰ × (-2)³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(-4)³ = -4 × -4 × -4 = -64 (એકી ઘાત હોવાથી ઋણ)<br>(-1)¹⁰ = 1 (બેકી ઘાત હોવાથી ધન)<br>(-2)³ = -2 × -2 × -2 = -8<br>કિંમત = (-64) × 1 × (-8)<br>= 64 × 8<br>= 512</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો માઈનસની ઘાત બેકી (2,4,6...) હોય તો જવાબ પ્લસ (+) આવે, અને જો એકી (1,3,5...) હોય તો જવાબ માઈનસ (-) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો 2ˣ = 32 હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>અહીં 2ˣ = 32 આપેલ છે.<br>સૌ પ્રથમ 32 ને 2 ના આધાર વાળા ઘાત સ્વરૂપમાં ફેરવીએ:<br>32 = 2 × 2 × 2 × 2 × 2 = 2⁵<br>હવે, 2ˣ = 2⁵<br>બંને બાજુ આધાર સરખો હોવાથી ઘાતાંકોને સરખાવતા:<br>x = 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આધાર સરખા તો ઘાત સરખી' - આ મંત્ર યાદ રાખવો. સામેની સંખ્યાને આપેલ આધારમાં ફેરવી દેવી.</p></div>"
+    }
+  ]
+}
