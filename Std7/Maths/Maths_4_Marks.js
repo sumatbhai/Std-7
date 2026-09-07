@@ -485,3 +485,61 @@ var Std7_Maths_4_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બૈજિક પદાવલિ",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો a = 2 અને b = -2 હોય, તો નીચેની પદાવલિઓની કિંમત શોધો: \n(i) a² + ab + b² \n(ii) a² - b²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> અહીં a = 2 અને b = -2 આપેલ છે.</p><p>(i) a² + ab + b² માં કિંમત મુકતા:<br>= (2)² + (2)(-2) + (-2)²<br>= 4 + (-4) + 4<br>= 4 - 4 + 4<br>= 4</p><p>(ii) a² - b² માં કિંમત મુકતા:<br>= (2)² - (-2)²<br>= 4 - (4)<br>= 4 - 4<br>= 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ ઋણ સંખ્યા (-ve) નો વર્ગ કરવાનો હોય ત્યારે જવાબ હંમેશા ધન (+ve) જ આવે તે યાદ રાખવું. જેમ કે, (-2)² = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેની પદાવલિઓનો સરવાળો કરો: \n3mn, -5mn, 8mn, -4mn",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> આપેલ પદો સજાતીય છે, તેથી તેમના સહગુણકોનો સરવાળો કરીશું.</p><p>સરવાળો = 3mn + (-5mn) + 8mn + (-4mn)<br>= (3 - 5 + 8 - 4) mn<br>= (11 - 9) mn<br>= 2mn</p><p>આમ, આપેલ પદાવલિઓનો સરવાળો 2mn થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા બધા જ ધન (+) પદોનો સરવાળો કરો અને પછી બધા જ ઋણ (-) પદોનો સરવાળો કરો, છેલ્લે બાદબાકી કરવી સહેલી પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાદબાકી કરો: \n(a - b) માંથી 3a - b + 4 બાદ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> (a - b) - (3a - b + 4)</p><p>કૌંસ છોડતા (કૌંસની બહાર માઇનસ હોવાથી અંદરના ચિહ્નો બદલાશે):<br>= a - b - 3a + b - 4<br><br>સજાતીય પદો સાથે લાવતા:<br>= (a - 3a) + (-b + b) - 4<br>= -2a + 0 - 4<br>= -2a - 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માંથી' પછીની પદાવલિમાંથી પહેલી પદાવલિ બાદ કરતી વખતે હંમેશા બીજી પદાવલિને કૌંસમાં લખો જેથી ચિહ્નોની ભૂલ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો x = 2 હોય, તો પદાવલિ 3x² - 5x + 3 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> આપેલ પદાવલિ: 3x² - 5x + 3</p><p>x = 2 મુકતા:<br>= 3(2)² - 5(2) + 3<br>= 3(4) - 10 + 3<br>= 12 - 10 + 3<br>= 2 + 3<br>= 5</p><p>આમ, પદાવલિની કિંમત 5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો - પહેલા વર્ગ કરો, પછી ગુણાકાર કરો અને છેલ્લે સરવાળા-બાદબાકી (BODMAS).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પદાવલિનું સાદુંરૂપ આપી કિંમત શોધો: \n3(x + 2) + 5x - 7 (જ્યાં x = 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> પ્રથમ પદાવલિનું સાદુંરૂપ આપતા:</p><p>= 3x + 6 + 5x - 7<br>= (3x + 5x) + (6 - 7)<br>= 8x - 1<br><br>હવે, x = 3 મુકતા:<br>= 8(3) - 1<br>= 24 - 1<br>= 23</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયરેક્ટ કિંમત મુકવા કરતા પહેલા સાદુંરૂપ આપવાથી ગણતરી ટૂંકી અને ઝડપી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "7xy + 5yz - 3zx, 4yz + 9zx - 4y અને -3xz + 5x - 2xy નો સરવાળો કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> સજાતીય પદોને એકસાથે ગોઠવીને સરવાળો કરતા:</p><p>(7xy - 2xy) + (5yz + 4yz) + (-3zx + 9zx - 3zx) + 5x - 4y<br>= 5xy + 9yz + (9zx - 6zx) + 5x - 4y<br>= 5xy + 9yz + 3zx + 5x - 4y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી પદાવલિ હોય ત્યારે સજાતીય પદો નીચે લીટી દોરતા જાવ જેથી કોઈ પદ રહી ન જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો z = 10 હોય, તો z³ - 3(z - 10) ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> આપેલ પદાવલિ: z³ - 3(z - 10)</p><p>z = 10 મુકતા:<br>= (10)³ - 3(10 - 10)<br>= 1000 - 3(0)<br>= 1000 - 0<br>= 1000</p><p>આમ, પદાવલિની કિંમત 1000 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કૌંસમાં આપેલી બાદબાકી શૂન્ય થતી હોય, તો તેની સાથે ગુણાયેલું આખું પદ શૂન્ય થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેની પદાવલિમાંથી સજાતીય પદો શોધીને તેનું સાદુંરૂપ આપો: \n12m² - 9m + 5m - 4m² - 7m + 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> સજાતીય પદોને જોડે ગોઠવતા:</p><p>= (12m² - 4m²) + (-9m + 5m - 7m) + 10<br>= 8m² + (-4m - 7m) + 10<br>= 8m² - 11m + 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સજાતીય પદો એટલે જેના ચલ (Variables) અને તેની ઘાત સરખી હોય તેવા પદો. હંમેશા મોટી ઘાતવાળા પદો પહેલા લખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો x = 0 માટે 2x² + x - a = 5 હોય, તો a ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> આપેલ છે: 2x² + x - a = 5</p><p>x = 0 મુકતા:<br>2(0)² + 0 - a = 5<br>0 + 0 - a = 5<br>-a = 5<br>તેથી, a = -5</p><p>આમ, a ની કિંમત -5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે x = 0 હોય ત્યારે પદાવલિના જે પદોમાં x હોય તે બધા પદો શૂન્ય થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાદુંરૂપ આપી કિંમત શોધો: \n2(a² + ab) + 3 - ab (જ્યાં a = 5, b = -3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> પ્રથમ પદાવલિનું સાદુંરૂપ આપતા:<br>= 2a² + 2ab + 3 - ab<br>= 2a² + ab + 3<br><br>હવે a = 5 અને b = -3 મુકતા:<br>= 2(5)² + (5)(-3) + 3<br>= 2(25) - 15 + 3<br>= 50 - 15 + 3<br>= 35 + 3<br>= 38</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિંમત મુકતા પહેલા પદાવલિ નાની કરી નાખવી જેથી ગુણાકારમાં ભૂલ પડવાની શક્યતા ઘટી જાય.</p></div>"
+    }
+  ]
+}
