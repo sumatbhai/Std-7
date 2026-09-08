@@ -1616,3 +1616,261 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "વનસ્પતિઓમાં અને પ્રાણીઓમાં વહન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રુધિરનો રંગ લાલ કોના કારણે હોય છે? (A) શ્વેતકણો (B) હિમોગ્લોબિન (C) ત્રાકકણો (D) રુધિરરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હિમોગ્લોબિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લોહી લાલ, હિમોગ્લોબિન કમાલ' - રક્તકણોમાં રહેલ હિમોગ્લોબિન રુધિરને લાલ રંગ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શરીરમાં રોગો સામે લડવાની શક્તિ કોણ આપે છે? (A) રક્તકણો (B) ત્રાકકણો (C) શ્વેતકણો (D) હિમોગ્લોબિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શ્વેતકણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શ્વેતકણો એટલે શરીરના સૈનિકો' - જે રોગના જીવાણુઓ સામે લડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રુધિર જામી જવાની (ગંઠાવાની) ક્રિયા કયા કોષોને કારણે થાય છે? (A) રક્તકણો (B) શ્વેતકણો (C) ત્રાકકણો (D) રુધિરકેશિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ત્રાકકણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રાકકણો - ત્રાટક' - વાગે ત્યારે લોહી વહેતું અટકાવવા જાળી બનાવી દે (Clotting).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હૃદયમાંથી ઓક્સિજનયુક્ત રુધિર શરીરના બધા ભાગો તરફ કોણ લઈ જાય છે? (A) શિરા (B) ધમની (C) રુધિરકેશિકા (D) જલવાહક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધમની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધમની એટલે ધમાકેદાર શુદ્ધ રુધિર' - હૃદયથી અંગો તરફ (O2 યુક્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાર્બન ડાયોક્સાઈડયુક્ત રુધિરને શરીરના બધા ભાગોમાંથી હૃદય તરફ કોણ લાવે છે? (A) ધમની (B) શિરા (C) ફુપ્ફુસીય ધમની (D) મહાધમની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શિરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિરા - પાછા ફરો' - અંગોથી હૃદય તરફ અશુદ્ધ (CO2) રુધિર લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "તંદુરસ્ત પુખ્ત વ્યક્તિનો નાડીદર સામાન્ય રીતે પ્રતિ મિનિટ કેટલો હોય છે? (A) 50 થી 60 (B) 72 થી 80 (C) 90 થી 100 (D) 120 થી 140",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 72 થી 80</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિકેટમાં જેમ ફિફ્ટી પછી એંસી તરફ જઈએ, તેમ સામાન્ય નાડીદર 72-80 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હૃદયના ધબકારા માપવા માટે કયા સાધનનો ઉપયોગ થાય છે? (A) થર્મોમીટર (B) બેરોમીટર (C) સ્ટેથોસ્કોપ (D) સ્ફિગ્મોમેનોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્ટેથોસ્કોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટરના ગળામાં લટકતું સ્ટેથોસ્કોપ 'લબ-ડબ' અવાજ સાંભળવા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મનુષ્યના હૃદયમાં કેટલા ખંડો આવેલા છે? (A) બે (B) ત્રણ (C) ચાર (D) પાંચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયમાં 2 કર્ણક + 2 ક્ષેપક = કુલ 4 ખંડો (2 Up + 2 Down).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કઈ ધમની અપવાદરૂપે કાર્બન ડાયોક્સાઈડયુક્ત રુધિરનું વહન કરે છે? (A) ફુપ્ફુસીય ધમની (B) મહાધમની (C) શિરા (D) રુધિરકેશિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ફુપ્ફુસીય ધમની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફુપ્ફુસીય' એટલે ફેફસાં સાથે જોડાયેલ, જે ધમની હોવા છતાં અશુદ્ધ લોહી લઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રુધિરના પ્રવાહી ભાગને શું કહેવામાં આવે છે? (A) હિમોગ્લોબિન (B) રુધિરરસ (પ્લાઝમા) (C) લસિકા (D) પેશીજળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રુધિરરસ (પ્લાઝમા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહીનો 'રસ' એટલે રુધિરરસ, જે પ્રવાહી સ્વરૂપે હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉત્સર્જન તંત્રનો મુખ્ય અંગ કયો છે? (A) હૃદય (B) ફેફસાં (C) મૂત્રપિંડ (D) જઠર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મૂત્રપિંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્રપિંડ એટલે કિડની, જે શરીરનો ગાળણ પ્લાન્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પુખ્ત વ્યક્તિ આશરે 24 કલાકમાં કેટલા લિટર મૂત્રનો ત્યાગ કરે છે? (A) 0.5 લિટર (B) 1 થી 1.8 લિટર (C) 5 લિટર (D) 10 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1 થી 1.8 લિટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આશરે 1 થી 2 લિટરની બોટલ જેટલું મૂત્ર રોજ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મૂત્રમાં પાણીનું પ્રમાણ કેટલા ટકા હોય છે? (A) 50% (B) 75% (C) 95% (D) 2.5%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 95%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્ર મોટેભાગે પાણી જ છે (95%), બાકી 2.5% યુરિયા અને 2.5% અન્ય ક્ષારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પરસેવામાં શું હોય છે? (A) માત્ર પાણી (B) પાણી અને ક્ષાર (C) લોહી (D) ખાંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણી અને ક્ષાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરસેવો ચાખીએ તો ખારો લાગે, કારણ કે તેમાં ક્ષાર (મીઠું) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વનસ્પતિમાં પાણી અને ખનિજ તત્વોના વહન માટે કઈ પેશી હોય છે? (A) અન્નવાહક પેશી (B) જલવાહક પેશી (C) મૃદુતક પેશી (D) રક્ષક પેશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જલવાહક પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' થી જલવાહક અને 'જ' થી જલ (પાણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વનસ્પતિના પર્ણોમાં બનેલા ખોરાકનું વહન આખા છોડમાં કોણ કરે છે? (A) જલવાહક પેશી (B) અન્નવાહક પેશી (C) મૂળરોમ (D) પર્ણરંધ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અન્નવાહક પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અન્નવાહક અને 'અ' થી અન્ન (ખોરાક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાષ્પોત્સર્જનની ક્રિયા વનસ્પતિના કયા ભાગ દ્વારા થાય છે? (A) મૂળ (B) પ્રકાંડ (C) પર્ણરંધ્ર (D) ફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પર્ણરંધ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણના નાના છિદ્રો (રંધ્ર) એટલે વનસ્પતિનું નાક, જ્યાંથી પાણી બહાર નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "માછલીઓ કયા ઉત્સર્ગ દ્રવ્યનો ત્યાગ કરે છે? (A) યુરિયા (B) એમોનિયા (C) યુરિક એસિડ (D) ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એમોનિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળચર પ્રાણીઓ (માછલી) સીધું પાણીમાં 'એમોનિયા' વાયુ ત્યાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પક્ષીઓ અને ગરોળી કયા સ્વરૂપે ઉત્સર્ગ દ્રવ્યનો ત્યાગ કરે છે? (A) પ્રવાહી યુરિયા (B) એમોનિયા વાયુ (C) સફેદ રંગનો અર્ધઘન યુરિક એસિડ (D) માત્ર પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સફેદ રંગનો અર્ધઘન યુરિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓની હગાર (ચકલીની ચરક) સફેદ હોય છે, જે 'યુરિક એસિડ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યારે મૂત્રપિંડ કામ કરવાનું બંધ કરે ત્યારે રુધિરને કૃત્રિમ રીતે ગાળવાની ક્રિયાને શું કહે છે? (A) પાચન (B) ડાયાલિસિસ (C) પરિવહન (D) સંવેદન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ડાયાલિસિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિડની ફેલ તો ડાયાલિસિસ ચાલુ (કૃત્રિમ સફાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "હૃદયના ઉપરના બે ખંડોને શું કહેવાય છે? (A) ક્ષેપકો (B) વાલ્વ (C) કર્ણકો (D) ધમની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કર્ણકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' થી કર્ણક અને 'ક' થી કપાળ (ઉપરનો ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "હૃદયના નીચેના બે ખંડોને શું કહેવાય છે? (A) કર્ણકો (B) ક્ષેપકો (C) શિરા (D) રુધિરકેશિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ક્ષેપકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્ષ' થી ક્ષેપક અને 'ક્ષ' થી ક્ષિતિજ (નીચેનો ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ધમનીની દીવાલ કેવી હોય છે? (A) પાતળી (B) સ્થિતિસ્થાપક અને જાડી (C) હોતી નથી (D) અત્યંત નાજુક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્થિતિસ્થાપક અને જાડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમનીમાં લોહી પ્રેશરથી વહે છે, એટલે પાઈપ મજબૂત અને 'જાડી' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શિરામાં શું હોવાથી રુધિર માત્ર હૃદય તરફ જ વહે છે? (A) લોખંડ (B) હિમોગ્લોબિન (C) વાલ્વ (D) ચરબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાલ્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાલ્વ એટલે 'વન-વે ટ્રાફિક' - લોહીને ઊલટું જતું અટકાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મૂળ દ્વારા પાણીનું શોષણ વધારવા માટે શું આવેલું હોય છે? (A) મૂળરોમ (B) પર્ણ (C) પુષ્પ (D) ફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મૂળરોમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળરોમ એટલે મૂળના ઝીણા વાળ, જે પાણી ખેંચવાની સપાટી વધારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રુધિરના ગાળણની પ્રક્રિયા શરીરમાં ક્યાં થાય છે? (A) હૃદયમાં (B) મૂત્રપિંડમાં (C) આંતરડામાં (D) યકૃતમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મૂત્રપિંડમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્રપિંડ એટલે નેચરલ ફિલ્ટર (ગળણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેનામાંથી કયું પ્રાણી ઉત્સર્જન માટે પાણીનો વધુ ઉપયોગ કરે છે? (A) ગરોળી (B) પક્ષી (C) માછલી (D) ઊંટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માછલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી પાણીમાં જ રહે છે, એટલે તે એમોનિયા ત્યાગવા વધુ પાણી વાપરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બાષ્પોત્સર્જનથી વનસ્પતિને શું ફાયદો થાય છે? (A) ખોરાક મળે છે (B) વનસ્પતિ ઠંડક અનુભવે છે (C) વનસ્પતિ ગરમ થાય છે (D) બીજ ફેલાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વનસ્પતિ ઠંડક અનુભવે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ આપણને પરસેવો વળવાથી ઠંડક થાય, તેમ વનસ્પતિને બાષ્પોત્સર્જનથી ઠંડક મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શરીરમાં પંપ તરીકે કાર્ય કરતું અંગ કયું છે? (A) ફેફસાં (B) હૃદય (C) મૂત્રપિંડ (D) જઠર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હૃદય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય એટલે શરીરની 'મોટર' જે આખો દિવસ રુધિર પંપ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મૂત્રપિંડમાંથી મૂત્રને મૂત્રાશય સુધી કોણ લઈ જાય છે? (A) મૂત્રમાર્ગ (B) મૂત્રવાહિની (C) મૂત્રછિદ્ર (D) ધમની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મૂત્રવાહિની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાહિની એટલે લઈ જનાર પાઈપ (કિડની થી મૂત્રાશય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રુધિરમાં રહેલા રક્તકણોમાં કયું લાલ રંજકદ્રવ્ય હોય છે? (A) મેલેનિન (B) ક્લોરોફિલ (C) હિમોગ્લોબિન (D) ઇન્સ્યુલિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હિમોગ્લોબિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમોગ્લોબિન ઓક્સિજન સાથે જોડાય છે અને લાલ રંગ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ધમનીઓ અને શિરાઓ આગળ જઈને અત્યંત પાતળી નળીઓમાં વિભાજિત થાય છે, તેને શું કહે છે? (A) મહાધમની (B) રુધિરકેશિકાઓ (C) વાલ્વ (D) સ્નાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રુધિરકેશિકાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેશ એટલે વાળ, વાળ જેવી પાતળી નળી એટલે 'રુધિરકેશિકા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઉચ્ચ કક્ષાની વનસ્પતિઓમાં વાહક પેશીઓનું જાળું કયા સ્વરૂપે હોય છે? (A) સંવહન પેશી (B) જલવાહક પેશી (C) અન્નવાહક પેશી (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિમાં પાઈપલાઈન ફિટિંગ એટલે જલવાહક અને અન્નવાહક (સંવહન પેશી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "હૃદયના ધબકારા માપવા માટે નળી જેવો ભાગ કયો હોય છે જે ડોક્ટર કાનમાં ભરાવે છે? (A) ચેસ્ટપીસ (B) ઈયરપીસ (C) ટ્યુબ (D) ડાયાફ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઈયરપીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈયર (Ear) એટલે કાન, કાનમાં ભરાવવાનું સાધન એટલે ઈયરપીસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નીચેનામાંથી કયું માનવ ઉત્સર્જન તંત્રનું અંગ નથી? (A) મૂત્રપિંડ (B) મૂત્રવાહિની (C) સ્વાદુપિંડ (D) મૂત્રાશય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્વાદુપિંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદુપિંડ પાચન તંત્રનો ભાગ છે, ઉત્સર્જન તંત્રનો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પરસેવાની ક્રિયા કયા સમયે સૌથી વધુ થાય છે? (A) શિયાળામાં (B) ઉનાળામાં (C) ચોમાસામાં (D) રાત્રે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉનાળામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધુ = પરસેવો વધુ (શરીરને ઠંડુ રાખવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વનસ્પતિમાં ઊંચાઈ સુધી પાણી પહોંચવા માટે કયું બળ જવાબદાર છે? (A) ગુરુત્વાકર્ષણ (B) શોષક બળ (C) ઘર્ષણ બળ (D) સ્નાયુ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શોષક બળ (Suction pull)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ આપણે સ્ટ્રો (Straw) થી શરબત ખેંચીએ, તેમ પર્ણો બાષ્પોત્સર્જન દ્વારા પાણી ખેંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "રુધિર કોષો કયા પ્રવાહીમાં તરતા હોય છે? (A) પાણી (B) રુધિરરસ (C) તેલ (D) લાળરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રુધિરરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી એક 'તરલ' પેશી છે, જેમાં રુધિરરસ મુખ્ય માધ્યમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "હૃદય ક્યાં આવેલું હોય છે? (A) પેટના ભાગમાં (B) મગજમાં (C) ઉરસ ગુહામાં (D) પીઠના ભાગમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉરસ ગુહામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાતીના પિંજરામાં (ઉરસ ગુહામાં) ડાબી બાજુ સહેજ નમેલું હૃદય હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "કઈ શિરા ફેફસામાંથી ઓક્સિજનયુક્ત રુધિર હૃદયમાં લાવે છે? (A) ફુપ્ફુસીય શિરા (B) મહાશિરા (C) ફુપ્ફુસીય ધમની (D) રુધિરકેશિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ફુપ્ફુસીય શિરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપવાદ યાદ રાખો! બધી શિરા CO2 લાવે પણ 'ફુપ્ફુસીય શિરા' O2 લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "હૃદયના ધબકારા અને નાડીદર વચ્ચે શું સંબંધ છે? (A) બંને અલગ હોય છે (B) બંને સમાન હોય છે (C) નાડીદર અડધો હોય (D) હૃદયના ધબકારા ઓછા હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બંને સમાન હોય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય એકવાર ધબકે ત્યારે ધમનીમાં એકવાર 'થડકારો' (નાડી) અનુભવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "મૂત્રમાં કેટલા ટકા યુરિયા હોય છે? (A) 95% (B) 2.5% (C) 50% (D) 0.5%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2.5%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 95% પાણી + 2.5% યુરિયા + 2.5% અન્ય કચરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સ્પંજ અને હાઈડ્રા જેવા પ્રાણીઓમાં પરિવહન શેના દ્વારા થાય છે? (A) રુધિર દ્વારા (B) પાણી દ્વારા (C) હવા દ્વારા (D) હાડકા દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણી દ્વારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સાદા પ્રાણીઓ છે, તેમને લોહી હોતું નથી, પાણી જ બધું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિલિયમ હાર્વે નામના વૈજ્ઞાનિકે શેની શોધ કરી હતી? (A) કોષ (B) રુધિરનું પરિવહન (C) ગુરુત્વાકર્ષણ (D) વીજળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રુધિરનું પરિવહન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાર્વે - હૃદય' - જેણે સમજાવ્યું કે લોહી શરીરમાં ગોળ ગોળ ફરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "મૂત્ર ક્યાં સંગ્રહિત થાય છે? (A) મૂત્રપિંડ (B) મૂત્રાશય (C) મૂત્રવાહિની (D) જઠર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મૂત્રાશય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આશય એટલે રહેવાનું સ્થાન, મૂત્રાશય એટલે મૂત્રની થેલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પરસેવો વળવાથી કપડાં પર સફેદ ડાઘ શાના કારણે પડે છે? (A) યુરિયા (B) એસિડ (C) ક્ષાર (D) ધૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ક્ષાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરસેવો સુકાય ત્યારે પાછળ 'મીઠા' (ક્ષાર) ના ડાઘ છોડી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વૈજ્ઞાનિક દ્રષ્ટિએ હૃદયનું કદ કેટલું હોય છે? (A) એક વેંત જેટલું (B) મુઠ્ઠી જેટલું (C) બંને હાથ જેટલું (D) અંગૂઠા જેટલું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મુઠ્ઠી જેટલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમારી ડાબા હાથની મુઠ્ઠી વાળો, બસ એટલું જ તમારું હૃદય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નાડી એ ધમનીમાં થતો ધબકાર છે, તે કોના કારણે હોય છે? (A) શ્વાસ લેવાને કારણે (B) લોહીના પંપિંગને કારણે (C) દોડવાને કારણે (D) ઊંઘવાને કારણે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોહીના પંપિંગને કારણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય ધબકે ત્યારે ધમનીમાં રુધિરનો જે 'ઝટકો' લાગે તેને નાડી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વનસ્પતિમાં જલવાહક પેશી કેવા આકારની હોય છે? (A) ગોળ (B) નળી જેવી (C) ચોરસ (D) અનિયમિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નળી જેવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીના વહન માટે પાઈપ જેવી 'નળી' જ હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પરિવહન તંત્રના મુખ્ય ઘટકો કયા છે? (A) રુધિર (B) રુધિરવાહિની (C) હૃદય (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી (રુધિર), પાઈપ (વાહિની) અને મોટર (હૃદય) - આ ત્રણેય ભેગા મળીને ટ્રાન્સપોર્ટેશન કરે.</p></div>"
+    }
+  ]
+}
