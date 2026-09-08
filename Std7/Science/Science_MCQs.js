@@ -1428,3 +1428,191 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સજીવોમાં શ્વસન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષમાં ખોરાકના કણોને તોડી શક્તિ મુક્ત કરવાની પ્રક્રિયાને શું કહે છે?",
+      "options": "A. પાચન, B. કોષીય શ્વસન, C. ઉત્સર્જન, D. રુધિરાભિસરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કોષીય શ્વસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષની અંદર શક્તિ (Energy) છૂટી પડે એટલે 'કોષીય શ્વસન' (Cell = Cellular Respiration).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જ્યારે ખોરાક (ગ્લુકોઝ) નું વિઘટન ઓક્સિજનની હાજરીમાં થાય છે, ત્યારે તેને શું કહેવાય?",
+      "options": "A. અજારક શ્વસન, B. જારક શ્વસન, C. આથવણ, D. પ્રકાશસંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જારક શ્વસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હા'જરી એટલે 'જા'રક (હા = જા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઓક્સિજનની ગેરહાજરીમાં થતા શ્વસનને શું કહે છે?",
+      "options": "A. જારક શ્વસન, B. કોષીય શ્વસન, C. અજારક શ્વસન, D. શ્વાસોચ્છવાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અજારક શ્વસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'બાવ (અભાવ) એટલે 'અ'જારક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઈસ્ટ (Yeast) જેવા સજીવો અજારક શ્વસન દ્વારા શું ઉત્પન્ન કરે છે?",
+      "options": "A. લેક્ટિક એસિડ, B. પાણી, C. આલ્કોહોલ, D. માત્ર ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આલ્કોહોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ટ = આલ્કોહોલની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વધુ પડતી કસરત દરમિયાન સ્નાયુઓમાં કયા પદાર્થના ભરાવાને કારણે સ્નાયુઓ ખેંચાઈ જાય છે?",
+      "options": "A. કાર્બન ડાયોક્સાઇડ, B. લેક્ટિક એસિડ, C. આલ્કોહોલ, D. ગ્લુકોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લેક્ટિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કસરત કરો તો 'લેક્ટિક' નો 'ઝટકો' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પ્રાણવાયુ (ઓક્સિજન) થી ભરપૂર હવા શરીરની અંદર લેવાની ક્રિયાને શું કહે છે?",
+      "options": "A. ઉચ્છવાસ, B. શ્વાસ, C. આથવણ, D. પાચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શ્વાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર લો તો 'શ્વાસ', બહાર કાઢો તો 'ઉચ્છવાસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પુખ્ત મનુષ્ય આરામની સ્થિતિમાં એક મિનિટમાં સરેરાશ કેટલી વાર શ્વાસોચ્છવાસ કરે છે?",
+      "options": "A. 15 થી 18 વાર, B. 72 થી 80 વાર, C. 20 થી 25 વાર, D. 10 થી 12 વાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 15 થી 18 વાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામથી બેસો ત્યારે સ્પીડ 15-18 ની રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શ્વાસોચ્છવાસ દરમિયાન પાંસળીઓ કઈ તરફ ગતિ કરે છે?",
+      "options": "A. ઉપર અને બહાર તરફ, B. નીચે અને અંદર તરફ, C. માત્ર નીચે તરફ, D. હલનચલન કરતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ઉપર અને બહાર તરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે હવા ભરાય ત્યારે છાતી ફૂલે (બહાર અને ઉપર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઉરોદરપટલ એ શ્વસનતંત્રનો કયો ભાગ છે?",
+      "options": "A. નાસિકા છિદ્ર, B. ફેફસાંની નીચે આવેલ સ્નાયુબદ્ધ પડદો, C. રુધિરકેશિકા, D. શ્વાસનળીનો છેડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ફેફસાંની નીચે આવેલ સ્નાયુબદ્ધ પડદો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉરોદરપટલ = શ્વસનનો ફ્લોર (પાયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઉચ્છવાસ દરમિયાન ઉરોદરપટલ કઈ તરફ ખસે છે?",
+      "options": "A. નીચે તરફ, B. ઉપર તરફ (તેની મૂળ સ્થિતિમાં), C. જમણી તરફ, D. ડાબી તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઉપર તરફ (તેની મૂળ સ્થિતિમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા બહાર (Out) તો પટલ ઉપર (Up).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વંદા જેવા કીટકોમાં ગેસ વિનિમય (હવાની અવરજવર) માટે કયા અંગો આવેલા હોય છે?",
+      "options": "A. ત્વચા, B. શ્વસન છિદ્રો (Spiracles), C. ફેફસાં, D. ઝાલરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શ્વસન છિદ્રો (Spiracles)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંદો - હોલ (છિદ્ર) માંથી શ્વાસ લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અળસિયું શેના દ્વારા શ્વસન કરે છે?",
+      "options": "A. શ્વાસનળી, B. ભીની અને ચીકણી ત્વચા, C. મુખગુહા, D. ફેફસાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ભીની અને ચીકણી ત્વચા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું = સ્કીન (Skin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માછલીમાં પાણીમાં ઓગળેલો ઓક્સિજન લેવા માટે કયું વિશિષ્ટ અંગ હોય છે?",
+      "options": "A. ત્વચા, B. ફેફસાં, C. ઝાલરો (Gills), D. નાસિકા છિદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઝાલરો (Gills)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રહેવું હોય તો 'ઝાલરો' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વનસ્પતિના પર્ણોમાં આવેલા નાના છિદ્રોને શું કહે છે, જેના દ્વારા વાયુ વિનિમય થાય છે?",
+      "options": "A. મૂળરોમ, B. પર્ણરંધ્ર (Stomata), C. પર્ણદંડ, D. શિરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પર્ણરંધ્ર (Stomata)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંદડાનું નાક એટલે 'પર્ણરંધ્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આપણે જ્યારે ઉચ્છવાસ બહાર કાઢીએ છીએ ત્યારે તે હવામાં કયો વાયુ વધુ પ્રમાણમાં હોય છે?",
+      "options": "A. ઓક્સિજન, B. નાઇટ્રોજન, C. કાર્બન ડાયોક્સાઇડ, D. હાઇડ્રોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કાર્બન ડાયોક્સાઇડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 બહાર ફેંકો (ઉચ્છવાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઉચ્છવાસમાં કેટલા ટકા કાર્બન ડાયોક્સાઇડ હોય છે?",
+      "options": "A. 0.04%, B. 4.4%, C. 21%, D. 16.4%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 4.4%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર નીકળતો CO2 = 4.4 (ચોગ્ગા પર ચોગ્ગો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દેડકો શેના દ્વારા શ્વસન કરી શકે છે?",
+      "options": "A. માત્ર ફેફસાં, B. માત્ર ત્વચા, C. ફેફસાં અને ત્વચા બંને, D. ઝાલરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ફેફસાં અને ત્વચા બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો ડબલ ગેમ રમે (જમીન પર ફેફસાં, પાણીમાં ત્વચા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કસરત કરતી વખતે આપણો શ્વસન દર શા માટે વધે છે?",
+      "options": "A. વધુ કાર્બન ડાયોક્સાઇડ લેવા, B. વધુ ઓક્સિજનની જરૂરિયાત પૂરી કરવા, C. ઊંઘવા માટે, D. ખોરાક પચાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વધુ ઓક્સિજનની જરૂરિયાત પૂરી કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ એનર્જી = વધુ ઓક્સિજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રાણીઓમાં શ્વસન નળીઓના જાળાને શું કહે છે?",
+      "options": "A. વાયુકોષ્ઠો, B. શ્વાસનળી તંત્ર (Tracheal system), C. અન્નનળી, D. ગ્લોટીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શ્વાસનળી તંત્ર (Tracheal system)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટકોમાં પાઈપલાઈનનું જાળું એટલે શ્વાસનળી તંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચૂનાના પાણીમાં ઉચ્છવાસ દ્વારા ફૂંક મારતા તે કેવું બને છે?",
+      "options": "A. લાલ, B. દુધિયું, C. વાદળી, D. કાળું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દુધિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 + ચૂનાનું પાણી = દૂધ જેવું સફેદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શ્વાસમાં લીધેલી હવામાં ઓક્સિજનનું પ્રમાણ કેટલું હોય છે?",
+      "options": "A. 0.04%, B. 16.4%, C. 21%, D. 4.4%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 21%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી હવામાં 21% ઓક્સિજન ફિક્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વનસ્પતિના મૂળ જમીનમાંથી શું શોષે છે?",
+      "options": "A. માત્ર પાણી, B. હવા (ઓક્સિજન) અને પાણી, C. માત્ર ગ્લુકોઝ, D. માત્ર નાઇટ્રોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હવા (ઓક્સિજન) અને પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળિયાં પણ 'શ્વાસ' લે છે, એટલે જમીનમાં હવા હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નાસિકા છિદ્રોમાં રહેલા વાળનું કાર્ય શું છે?",
+      "options": "A. હવા ગરમ કરવી, B. ધૂળના રજકણોને અટકાવવા, C. ઓક્સિજન ઉત્પન્ન કરવો, D. ગંધ પારખવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ધૂળના રજકણોને અટકાવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાકના વાળ = નેચરલ ફિલ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગ્લુકોઝ (ઓક્સિજનની ગેરહાજરીમાં - સ્નાયુમાં) → _____ + શક્તિ. ખાલી જગ્યા પૂરો.",
+      "options": "A. આલ્કોહોલ, B. લેક્ટિક એસિડ, C. કાર્બન ડાયોક્સાઇડ, D. પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લેક્ટિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નાયુમાં કમી તો લેક્ટિકની એન્ટ્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીચેનામાંથી કયું સજીવ હવાની ગેરહાજરીમાં પણ જીવી શકે છે?",
+      "options": "A. વંદો, B. ઈસ્ટ, C. માછલી, D. અળસિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઈસ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ટ (Yeast) છે અજારક શ્વસનનો બાદશાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઉરોદરપટલ નીચે તરફ ખસે ત્યારે ઉરસગુહાના કદમાં શું ફેરફાર થાય છે?",
+      "options": "A. કદ ઘટે છે, B. કદ વધે છે, C. કદ સમાન રહે છે, D. કદ શૂન્ય થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કદ વધે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોર નીચે જાય તો રૂમ મોટો થાય (કદ વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શ્વાસોચ્છવાસ એ કઈ પ્રક્રિયાનો એક ભાગ છે?",
+      "options": "A. પાચન, B. શ્વસન, C. ઉત્સર્જન, D. વૃદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શ્વસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસોચ્છવાસ એ શ્વસનનું પહેલું પગથિયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શ્વાસનળીઓ માત્ર કયા પ્રાણીઓમાં જોવા મળે છે?",
+      "options": "A. સસ્તન, B. કીટકો, C. પક્ષીઓ, D. ઉભયજીવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કીટકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવજંતુ (કીટકો) = શ્વાસનળીનું નેટવર્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નીચેનામાંથી કઈ ક્રિયામાં શ્વસન દર સૌથી ઓછો હોય છે?",
+      "options": "A. દોડતી વખતે, B. સૂતી વખતે, C. ઝડપથી ચાલતી વખતે, D. પર્વતારોહણ વખતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સૂતી વખતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ (ઊંઘ) = ન્યૂનતમ શક્તિ = ન્યૂનતમ શ્વાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ફેફસાં કઈ ગુહામાં આવેલા હોય છે?",
+      "options": "A. ઉદરગુહા, B. ઉરસગુહા (Chest Cavity), C. મુખગુહા, D. મસ્તિષ્કગુહા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઉરસગુહા (Chest Cavity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાતીનો ભાગ એટલે 'ઉરસગુહા'.</p></div>"
+    }
+  ]
+}
