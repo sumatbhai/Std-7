@@ -980,3 +980,451 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભૌતિક અને રાસાયણિક ફેરફારો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાર્થના આકાર, માપ, રંગ અને અવસ્થા જેવા ગુણધર્મોને કેવા ગુણધર્મો કહેવાય છે?",
+      "options": {
+        "A": "રાસાયણિક ગુણધર્મો",
+        "B": "ભૌતિક ગુણધર્મો",
+        "C": "જૈવિક ગુણધર્મો",
+        "D": "કુદરતી ગુણધર્મો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (ભૌતિક ગુણધર્મો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બહારથી દેખાય (આકાર, કદ, રંગ) તે 'ભૌતિક' (Physical) ગુણધર્મ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એવો ફેરફાર કે જેમાં પદાર્થના ભૌતિક ગુણધર્મોમાં ફેરફાર થાય તેને શું કહે છે?",
+      "options": {
+        "A": "રાસાયણિક ફેરફાર",
+        "B": "કાયમી ફેરફાર",
+        "C": "ભૌતિક ફેરફાર",
+        "D": "ઉલટાવી ન શકાય તેવો ફેરફાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (ભૌતિક ફેરફાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક ગુણધર્મ બદલાય તો 'ભૌતિક ફેરફાર' જ કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સામાન્ય રીતે ભૌતિક ફેરફારો કેવા હોય છે?",
+      "options": {
+        "A": "ઉલટાવી શકાય તેવા",
+        "B": "કાયમી",
+        "C": "નવો પદાર્થ બને તેવા",
+        "D": "ઉલટાવી ન શકાય તેવા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A (ઉલટાવી શકાય તેવા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફમાંથી પાણી અને પાણીમાંથી બરફ બને - એટલે કે 'રીવર્સ' (Reversible) કરી શકાય તે ભૌતિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જે ફેરફારમાં એક અથવા એક કરતા વધુ નવા પદાર્થો બને છે, તેને શું કહે છે?",
+      "options": {
+        "A": "ભૌતિક ફેરફાર",
+        "B": "રાસાયણિક ફેરફાર",
+        "C": "કુદરતી ફેરફાર",
+        "D": "પુનરાવર્તિત ફેરફાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (રાસાયણિક ફેરફાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નવો પદાર્થ' = 'નવી કેમિસ્ટ્રી' = રાસાયણિક ફેરફાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કયો ફેરફાર રાસાયણિક ફેરફાર છે?",
+      "options": {
+        "A": "બરફનું પીગળવું",
+        "B": "કાગળના ટુકડા કરવા",
+        "C": "લોખંડનું કટાવું",
+        "D": "પાણીનું વરાળ બનવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (લોખંડનું કટાવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટ એ લોખંડ નથી, પણ નવો પદાર્થ (આયર્ન ઓક્સાઈડ) છે, તેથી તે રાસાયણિક ફેરફાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મેગ્નેશિયમની પટ્ટીને હવામાં સળગાવતા કેવા રંગની જ્યોત જોવા મળે છે?",
+      "options": {
+        "A": "લાલ",
+        "B": "લીલી",
+        "C": "તેજસ્વી સફેદ",
+        "D": "પીળી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (તેજસ્વી સફેદ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્નેશિયમ એટલે 'મેજિક' જેવી 'સફેદ' લાઈટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મેગ્નેશિયમ ઓક્સાઈડ (MgO) ની જલીય દ્રાવણ સાથેની પ્રકૃતિ કેવી હોય છે?",
+      "options": {
+        "A": "એસિડિક",
+        "B": "બેઝિક",
+        "C": "તટસ્થ",
+        "D": "કહેવાય નહીં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (બેઝિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુના ઓક્સાઈડ હંમેશા 'બેઝિક' હોય છે. (M-O-B: Metal Oxide Basic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કોપર સલ્ફેટના દ્રાવણમાં લોખંડની ખીલી મૂકતા દ્રાવણનો રંગ વાદળીમાંથી કેવો થાય છે?",
+      "options": {
+        "A": "લાલ",
+        "B": "પીળો",
+        "C": "લીલો",
+        "D": "રંગહીન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (લીલો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોપર સલ્ફેટ (વાદળી) + લોખંડ = આયર્ન સલ્ફેટ (લીલો). વાદળીમાંથી લીલું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લોખંડની ખીલી પર જામી ગયેલો કથ્થઈ રંગનો પાવડર શેનો હોય છે?",
+      "options": {
+        "A": "લોખંડ",
+        "B": "કોપર",
+        "C": "મેગ્નેશિયમ",
+        "D": "ઝીંક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (કોપર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રાવણમાંથી છૂટું પડેલું તાંબુ (કોપર) ખીલી પર જમા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિનેગર અને બેકિંગ સોડા વચ્ચેની પ્રક્રિયાથી કયો વાયુ ઉત્પન્ન થાય છે?",
+      "options": {
+        "A": "ઓક્સિજન",
+        "B": "હાઈડ્રોજન",
+        "C": "કાર્બન ડાયોક્સાઈડ",
+        "D": "નાઈટ્રોજન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (કાર્બન ડાયોક્સાઈડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ સોડા સાથે એસિડ (વિનેગર) મળે એટલે 'બુડબુડિયા' સાથે CO2 જ નીકળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાર્બન ડાયોક્સાઈડ વાયુને ચૂનાના નિતર્યા પાણીમાંથી પસાર કરતા પાણી કેવું બને છે?",
+      "options": {
+        "A": "વાદળી",
+        "B": "દૂધિયું",
+        "C": "લાલ",
+        "D": "લીલું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (દૂધિયું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 + ચૂનાનું પાણી = કેલ્શિયમ કાર્બોનેટ (જે દૂધ જેવું સફેદ દેખાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લોખંડને કાટ લાગવા માટે કયા બે પરિબળોની હાજરી અનિવાર્ય છે?",
+      "options": {
+        "A": "માત્ર ઓક્સિજન",
+        "B": "માત્ર પાણી",
+        "C": "ઓક્સિજન અને પાણી (ભેજ)",
+        "D": "નાઈટ્રોજન અને સૂર્યપ્રકાશ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (ઓક્સિજન અને પાણી (ભેજ))</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટ = લોખંડ + હવા (O2) + પાણી (H2O). એક પણ ઓછું હોય તો કાટ ન લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લોખંડ પર ઝીંકનું પડ ચડાવવાની પ્રક્રિયાને શું કહે છે?",
+      "options": {
+        "A": "સ્ફટિકીકરણ",
+        "B": "ગેલ્વેનાઈઝેશન",
+        "C": "ઓક્સિડેશન",
+        "D": "બાષ્પીભવન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (ગેલ્વેનાઈઝેશન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝીંકનું 'Z' અને ગેલ્વેનાઈઝેશનનું 'G' - લોખંડને બચાવવાની 'Z-G' ટ્રીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્ટેઈનલેસ સ્ટીલ લોખંડમાં કઈ ધાતુઓ ભેળવીને બનાવવામાં આવે છે?",
+      "options": {
+        "A": "ક્રોમિયમ, નિકલ અને મેંગેનીઝ",
+        "B": "તાંબુ અને જસત",
+        "C": "એલ્યુમિનિયમ અને ઝીંક",
+        "D": "માત્ર ક્રોમિયમ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A (ક્રોમિયમ, નિકલ અને મેંગેનીઝ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટકટ નામ - Cr-Ni-Mn (ક્રો-ની-મેન). આ મિશ્રણ સ્ટીલને કાટ લાગવા દેતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પદાર્થના દ્રાવણમાંથી શુદ્ધ અને મોટા સ્ફટિકો મેળવવાની પ્રક્રિયાને શું કહે છે?",
+      "options": {
+        "A": "ગાળણ",
+        "B": "ગેલ્વેનાઈઝેશન",
+        "C": "સ્ફટિકીકરણ",
+        "D": "લોખંડનું કટાવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (સ્ફટિકીકરણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ફટિક (Crystals) મેળવવાની રીત એટલે 'સ્ફટિકીકરણ' (Crystallization).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેનામાંથી કયો ફેરફાર રાસાયણિક નથી?",
+      "options": {
+        "A": "દૂધનું દહીં બનવું",
+        "B": "ખોરાકનું પાચન",
+        "C": "મીઠાનું પાણીમાં ઓગળવું",
+        "D": "ફળોનું પાકવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (મીઠાનું પાણીમાં ઓગળવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓગળવું એ ભૌતિક ફેરફાર છે, કારણ કે પાણી ઉડાડી દો તો મીઠું પાછું મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વાતાવરણમાં ઓઝોન સ્તર કયા કિરણોનું શોષણ કરે છે?",
+      "options": {
+        "A": "ઇન્ફ્રારેડ કિરણો",
+        "B": "અલ્ટ્રાવાયોલેટ (UV) કિરણો",
+        "C": "એક્સ-રે",
+        "D": "ગામા કિરણો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (અલ્ટ્રાવાયોલેટ (UV) કિરણો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન એ પૃથ્વીનું 'સનસ્ક્રીન' છે, જે હાનિકારક UV કિરણોથી બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઓઝોનનું ઓક્સિજનમાં રૂપાંતર થવું એ કેવો ફેરફાર છે?",
+      "options": {
+        "A": "ભૌતિક ફેરફાર",
+        "B": "રાસાયણિક ફેરફાર",
+        "C": "ઉલટાવી શકાય તેવો ફેરફાર",
+        "D": "એક પણ નહીં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (રાસાયણિક ફેરફાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન (O3) માંથી ઓક્સિજન (O2) બનવો એટલે કે બંધારણ બદલાયું, માટે રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લોખંડના કાટનું રાસાયણિક સૂત્ર શું છે?",
+      "options": {
+        "A": "FeO",
+        "B": "Fe2O3",
+        "C": "FeSO4",
+        "D": "Fe(OH)2"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (Fe2O3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયર્ન (Fe) + ઓક્સિજન (O2) = Fe2O3 (આયર્ન ઓક્સાઈડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમુદ્ર કિનારાના વિસ્તારમાં લોખંડને કાટ ઝડપથી કેમ લાગે છે?",
+      "options": {
+        "A": "વધુ સૂર્યપ્રકાશને કારણે",
+        "B": "હવામાં ક્ષારના પ્રમાણને કારણે",
+        "C": "રેતીને કારણે",
+        "D": "ઠંડા પવનને કારણે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (હવામાં ક્ષારના પ્રમાણને કારણે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર (Salt) કાટ લાગવાની પ્રક્રિયાને સુપરફાસ્ટ બનાવી દે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મેગ્નેશિયમની રાખને પાણીમાં ઓગાળતા કયો નવો પદાર્થ બને છે?",
+      "options": {
+        "A": "મેગ્નેશિયમ સલ્ફેટ",
+        "B": "મેગ્નેશિયમ હાઈડ્રોક્સાઈડ",
+        "C": "મેગ્નેશિયમ ક્લોરાઈડ",
+        "D": "મેગ્નેશિયમ કાર્બોનેટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (મેગ્નેશિયમ હાઈડ્રોક્સાઈડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MgO + H2O = Mg(OH)2. (ઓક્સાઈડ + પાણી = હાઈડ્રોક્સાઈડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પ્રકાશસંશ્લેષણ એ કેવો ફેરફાર છે?",
+      "options": {
+        "A": "ભૌતિક ફેરફાર",
+        "B": "રાસાયણિક ફેરફાર",
+        "C": "માત્ર ભૌતિક સ્થિતિ બદલાય છે",
+        "D": "એક પણ નહીં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (રાસાયણિક ફેરફાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિમાં સૂર્યપ્રકાશની મદદથી નવો ખોરાક (ગ્લુકોઝ) બને છે, એટલે રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચૂનાનું પાણી દૂધિયું થવા માટે કયો પદાર્થ જવાબદાર છે?",
+      "options": {
+        "A": "કેલ્શિયમ ઓક્સાઈડ",
+        "B": "કેલ્શિયમ કાર્બોનેટ",
+        "C": "મેગ્નેશિયમ કાર્બોનેટ",
+        "D": "સોડિયમ કાર્બોનેટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (કેલ્શિયમ કાર્બોનેટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલ્શિયમ હાઈડ્રોક્સાઈડ + CO2 = કેલ્શિયમ કાર્બોનેટ (CaCO3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સફરજનને કાપીને થોડીવાર રાખતા તેની સપાટી કથ્થઈ રંગની કેમ થઈ જાય છે?",
+      "options": {
+        "A": "ભૌતિક ફેરફારને કારણે",
+        "B": "નવા પદાર્થના નિર્માણને કારણે",
+        "C": "માત્ર રંગ ઉડી જવાને કારણે",
+        "D": "સફરજન સુકાઈ જવાને કારણે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (નવા પદાર્થના નિર્માણને કારણે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ બદલાવો એ રાસાયણિક પ્રક્રિયાની નિશાની છે, જે હવામાંના ઓક્સિજન સાથે પ્રક્રિયાથી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મીણબત્તીનું દહન થવું એ કેવો ફેરફાર છે?",
+      "options": {
+        "A": "માત્ર ભૌતિક",
+        "B": "માત્ર રાસાયણિક",
+        "C": "ભૌતિક અને રાસાયણિક બંને",
+        "D": "એક પણ નહીં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (ભૌતિક અને રાસાયણિક બંને)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીણનું પીગળવું = ભૌતિક; મીણબત્તીના દોરાનું સળગવું = રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કોપર સલ્ફેટનું બીજું સામાન્ય નામ શું છે?",
+      "options": {
+        "A": "કળીચૂનો",
+        "B": "ધોવાનો સોડા",
+        "C": "મોરથૂથુ",
+        "D": "ખારો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (મોરથૂથુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોપર સલ્ફેટ (CuSO4) ને દેશી ભાષામાં 'મોરથૂથુ' કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેનામાંથી કયું સ્ફટિકીકરણનું ઉદાહરણ નથી?",
+      "options": {
+        "A": "દરિયાના પાણીમાંથી મીઠું મેળવવું",
+        "B": "કોપર સલ્ફેટના સ્ફટિક બનાવવા",
+        "C": "દૂધમાંથી દહીં બનાવવું",
+        "D": "ખાંડના સ્ફટિક બનાવવા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (દૂધમાંથી દહીં બનાવવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દહીં બનાવવું એ જૈવ-રાસાયણિક પ્રક્રિયા છે, જ્યારે બાકીના ભૌતિક સ્ફટિકીકરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાસાયણિક ફેરફાર દરમિયાન નીચેનામાંથી શું થઈ શકે છે?",
+      "options": {
+        "A": "ઉષ્મા કે પ્રકાશ ઉત્પન્ન થાય",
+        "B": "વાયુ ઉત્પન્ન થાય",
+        "C": "ગંધમાં પરિવર્તન આવે",
+        "D": "આપેલ તમામ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D (આપેલ તમામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાસાયણિક ફેરફાર એટલે 'ગિફ્ટ પેકેજ' - જેમાં ધડાકો, ગંધ, પ્રકાશ અને વાયુ બધું જ મળી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લોખંડને કાટથી બચાવવા તેના પર કયા ધાતુનું પડ ચડાવાય છે?",
+      "options": {
+        "A": "સોનું",
+        "B": "જસત (ઝીંક)",
+        "C": "તાંબુ",
+        "D": "પારો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (જસત (ઝીંક))</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝીંક એટલે લોખંડનો બોડીગાર્ડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જ્યારે ખોરાક બગડી જાય છે ત્યારે તેમાંથી દુર્ગંધ આવે છે, તે કેવો ફેરફાર છે?",
+      "options": {
+        "A": "ભૌતિક ફેરફાર",
+        "B": "રાસાયણિક ફેરફાર",
+        "C": "કુદરતી ફેરફાર",
+        "D": "તટસ્થીકરણ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (રાસાયણિક ફેરફાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવો પદાર્થ બન્યો એટલે 'દુર્ગંધ' આવી, માટે તે રાસાયણિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પાણીમાં ખાંડ ઓગળવી એ કેવો ફેરફાર છે?",
+      "options": {
+        "A": "રાસાયણિક",
+        "B": "ભૌતિક",
+        "C": "ઉલટાવી ન શકાય તેવો",
+        "D": "રાસાયણિક અને ભૌતિક બંને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (ભૌતિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંડના ગુણધર્મો પાણીમાં બદલાતા નથી, તે ગળી જ રહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ફટાકડાનું ફૂટવું એ કેવો ફેરફાર છે?",
+      "options": {
+        "A": "ભૌતિક ફેરફાર",
+        "B": "રાસાયણિક ફેરફાર",
+        "C": "ઉલટાવી શકાય તેવો ફેરફાર",
+        "D": "જૈવિક ફેરફાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (રાસાયણિક ફેરફાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ, અવાજ અને ધુમાડો - આ ત્રણેય રાસાયણિક ફેરફારની નિશાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "લોખંડને કટાવું અટકાવવાની બીજી કઈ રીત છે?",
+      "options": {
+        "A": "રંગ કરવો",
+        "B": "તેલ કે ગ્રીસ લગાવવું",
+        "C": "ગેલ્વેનાઈઝેશન",
+        "D": "આપેલ તમામ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D (આપેલ તમામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ અને હવા વચ્ચે 'દિવાલ' (બેરિયર) ઉભી કરવાની બધી જ રીતો કાટ અટકાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કપડાં પર પડેલા ડાઘ કાઢવા માટે વપરાતા કેમિકલ અને કપડાંનો ફેરફાર કયો છે?",
+      "options": {
+        "A": "ભૌતિક",
+        "B": "રાસાયણિક",
+        "C": "જૈવિક",
+        "D": "પર્યાવરણીય"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (રાસાયણિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાઘ અને કેમિકલ વચ્ચેની પ્રક્રિયાથી ડાઘ દૂર થાય છે, જે રાસાયણિક ફેરફાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નીચેનામાંથી કઈ પ્રક્રિયા દરમિયાન વાયુ ઉત્પન્ન થાય છે?",
+      "options": {
+        "A": "સ્ફટિકીકરણ",
+        "B": "વિનેગર અને બેકિંગ સોડાનું મિશ્રણ",
+        "C": "બરફનું પાણી બનવું",
+        "D": "મીણનું પીગળવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (વિનેગર અને બેકિંગ સોડાનું મિશ્રણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોડા + એસિડ = CO2 વાયુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લોખંડના કટાવા માટે કયા વાયુની હાજરી અનિવાર્ય છે?",
+      "options": {
+        "A": "હાઈડ્રોજન",
+        "B": "નાઈટ્રોજન",
+        "C": "ઓક્સિજન",
+        "D": "હીલિયમ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (ઓક્સિજન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા એટલે કે ઓક્સિજન વગર કાટ લાગવો અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ભૌતિક ફેરફારમાં પદાર્થનું કયું લક્ષણ બદલાતું નથી?",
+      "options": {
+        "A": "આકાર",
+        "B": "કદ",
+        "C": "રાસાયણિક બંધારણ",
+        "D": "અવસ્થા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C (રાસાયણિક બંધારણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક ફેરફારમાં ઉપરનું રૂપ બદલાય પણ અંદરનું 'ડીએનએ' (બંધારણ) ન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ચૂનાના નિતર્યા પાણીનું રાસાયણિક નામ શું છે?",
+      "options": {
+        "A": "કેલ્શિયમ હાઈડ્રોક્સાઈડ",
+        "B": "કેલ્શિયમ ઓક્સાઈડ",
+        "C": "કેલ્શિયમ કાર્બોનેટ",
+        "D": "કેલ્શિયમ ક્લોરાઈડ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A (કેલ્શિયમ હાઈડ્રોક્સાઈડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂનાનું પાણી એટલે Ca(OH)2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "નીચેનામાંથી કયો ફેરફાર ઉલટાવી ન શકાય તેવો ભૌતિક ફેરફાર હોઈ શકે?",
+      "options": {
+        "A": "કાચના ગ્લાસનું તૂટવું",
+        "B": "પાણીનું ગરમ થવું",
+        "C": "રબરને ખેંચવું",
+        "D": "બરફનું પીગળવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A (કાચના ગ્લાસનું તૂટવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચ તૂટ્યો તો એ કાચ જ રહ્યો (ભૌતિક), પણ પાછો આખો ગ્લાસ ન બને (ઉલટાવી ન શકાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મેગ્નેશિયમ પટ્ટીને સળગાવતા મળતી રાખને રાસાયણિક દ્રષ્ટિએ શું કહે છે?",
+      "options": {
+        "A": "મેગ્નેશિયમ હાઈડ્રાઈડ",
+        "B": "મેગ્નેશિયમ ઓક્સાઈડ",
+        "C": "મેગ્નેશિયમ સલ્ફાઈડ",
+        "D": "મેગ્નેશિયમ ક્લોરાઈડ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B (મેગ્નેશિયમ ઓક્સાઈડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સળગવું = ઓક્સિજન સાથે પ્રક્રિયા = ઓક્સાઈડ બનવો.</p></div>"
+    }
+  ]
+}
