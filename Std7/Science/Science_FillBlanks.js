@@ -1329,3 +1329,211 @@ var Std7_Science_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "વનસ્પતિમાં પ્રજનન",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વનસ્પતિના પ્રજનન અંગ તરીકે ............ ને ઓળખવામાં આવે છે. (મૂળ, પ્રકાંડ, પુષ્પ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુષ્પ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુષ્પ એટલે વનસ્પતિનું 'સુંદર પ્રજનન કેન્દ્ર' - આ રીતે યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જે પ્રજનનમાં માત્ર એક જ પિતૃમાંથી નવો છોડ ઉત્પન્ન થાય તેને ............ પ્રજનન કહે છે. (લિંગી, અલિંગી, દ્વિલિંગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલિંગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અ' એટલે એક જ પિતૃ - અલિંગી પ્રજનન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બટાકા પર જોવા મળતા ચાઠાઓને ............ કહે છે. (મૂળ, આંખ, પર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બટાકા આપણને 'જોઈ' શકે છે એવું યાદ રાખો એટલે 'આંખ' યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઇસ્ટ (Yeast) માં પ્રજનન ............ દ્વારા થાય છે. (બીજાણુ સર્જન, અવખંડન, કલિકાસર્જન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલિકાસર્જન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈસ્ટ = કલિકા (Budding). યાદ રાખો: ઈસ્ટની નાની ગાઠ એટલે કલિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્પાયરોગાયરા એ ............ પદ્ધતિથી પ્રજનન કરે છે. (બીજાણુ સર્જન, અવખંડન, કલિકાસર્જન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવખંડન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પાયરોગાયરા એટલે લીલના ટુકડા - ટુકડા એટલે અવખંડન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મશરૂમ અને બ્રેડ પર જોવા મળતી ફૂગ ............ દ્વારા પ્રજનન કરે છે. (બીજાણુ સર્જન, કલિકાસર્જન, અવખંડન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજાણુ સર્જન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બ્રેડ પર 'બીજ' જેવા કણો એટલે 'બીજાણુ' સર્જન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પુષ્પના નર પ્રજનન અંગને ............ કહેવાય છે. (સ્ત્રીકેસર, પુંકેસર, દલપત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુંકેસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુંકેસરમાં 'પું' એટલે પુરુષ (નર) ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પુષ્પના માદા પ્રજનન અંગને ............ કહેવાય છે. (સ્ત્રીકેસર, પુંકેસર, પરાગાશય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીકેસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ત્રીકેસર માં 'સ્ત્રી' શબ્દ જ માદા અંગ સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પરાગાશય ............ ધરાવે છે જે નર જન્યુઓ ઉત્પન્ન કરે છે. (પરાગરજ, અંડક, બીજાશય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગરજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગાશયની અંદર 'પરાગરજ' સુરક્ષિત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જે પુષ્પો માત્ર પુંકેસર અથવા માત્ર સ્ત્રીકેસર ધરાવે છે તેને ............ પુષ્પો કહે છે. (દ્વિલિંગી, એકલિંગી, બહુલીંગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકલિંગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક જ અંગ હોય તો 'એક'લિંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મકાઈ, પપૈયા અને કાકડી ............ પુષ્પો ધરાવે છે. (એકલિંગી, દ્વિલિંગી, સંપૂર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકલિંગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પપૈયાની વાડીમાં 'એકલા' હોવ એવું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સરસવ, ગુલાબ અને પેટુનિયા ............ પુષ્પો ધરાવે છે. (એકલિંગી, દ્વિલિંગી, અપૂર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિલિંગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુલાબમાં બંને (નર-માદા) અંગો સાથે હોય એટલે દ્વિલિંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પરાગરજનું પરાગાશયમાંથી પરાગાસન તરફના વહનને ............ કહે છે. (ફલન, પરાગનયન, બીજાણુ સર્જન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગરજનું 'નયન' (મુસાફરી) એટલે પરાગનયન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નર જન્યુ અને માદા જન્યુના સંયુગ્મનથી રચાતા કોષને ............ કહે છે. (પરાગરજ, અંડક, ફલિતાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફલિતાંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફલન થયા પછી જે અંડ બને તે 'ફલિતાંડ' (Zygote).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફલન પછી અંડક ............ માં વિકાસ પામે છે. (ફળ, બીજ, પર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંડક = બીજ અને બીજાશય = ફળ. આ જોડી યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પરિપક્વ થયેલું બીજાશય ............ માં ફેરવાય છે. (બીજ, ફળ, પ્રકાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બીજાશય' એ મોટું થઈને 'ફળ' બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાંખવાળા બીજ ............ માં જોવા મળે છે. (સીતાફળ, મેપલ, ઘઉં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેપલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેપલ અને ડ્રમસ્ટિકને પાંખો હોય એટલે તે હવામાં ઊડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "યુરેના અને ઝેન્થિયમમાં બીજનો ફેલાવો ............ દ્વારા થાય છે. (પવન, પાણી, પ્રાણીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝેન્થિયમમાં કાંટા હોય જે પ્રાણીઓના શરીર પર ચોંટી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નાળિયેરમાં બીજનો ફેલાવો ............ દ્વારા થાય છે. (પવન, પાણી, પ્રાણીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાળિયેરી દરિયાકાંઠે હોય, એટલે તેનું માધ્યમ 'પાણી' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાનફૂટી (Bryophyllum) માં પ્રજનન ............ દ્વારા થાય છે. (મૂળ, પ્રકાંડ, પર્ણકિનારીની કલિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્ણકિનારીની કલિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાનફૂટીના 'પાન' પર જ નવા છોડ 'ફૂટે' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "હંસરાજ (Fern) અને મોસ ............ દ્વારા પ્રજનન કરે છે. (બીજાણુ, મૂળ, કલમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજાણુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંસરાજ અને મોસ એ ફૂલ વગરના છોડ છે, એટલે તે બીજાણુથી પ્રજનન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આદુ અને હળદરમાં પ્રજનન ............ દ્વારા થાય છે. (મૂળ, પ્રકાંડ, પર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આદુ-હળદર એ જમીનની અંદર રહેલા રૂપાંતરિત 'પ્રકાંડ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "એક જ પુષ્પમાં પરાગરજ તે જ પુષ્પના પરાગાસન પર સ્થાપિત થાય તો તેને ............ પરાગનયન કહે છે. (સ્વ-પરાગનયન, પર-પરાગનયન, કૃત્રિમ પરાગનયન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વ-પરાગનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ્વ' એટલે પોતાનું, પોતાના જ ફૂલમાં થાય તો સ્વ-પરાગનયન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બીજની અંદર રક્ષાયેલો ............ નવા છોડમાં વિકાસ પામે છે. (ભ્રૂણ, અંડક, પરાગરજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભ્રૂણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજમાં રહેલું નનકડું 'બાળક' એટલે ભ્રૂણ (Embryo).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "થોર (Cactus) જેવી વનસ્પતિમાં ............ ભાગ મુખ્ય છોડથી જુદો પડી નવો છોડ બનાવે છે. (ફૂલ, મૂળ, ફાટેલો ભાગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફાટેલો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): થોરનો જે ભાગ કપાઈને નીચે પડે તેમાંથી નવો થોર ઉગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વાલ્સમ અને એરંડામાં બીજનો ફેલાવો ............ દ્વારા થાય છે. (પવન, ફળ ફાટવાથી, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફળ ફાટવાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઝટકા' સાથે ફળ ફાટે એટલે બીજ દૂર ફેંકાય - એરંડા તેનું ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પરાગાસન, પરાગવાહિની અને બીજાશય એ ............ ના ભાગો છે. (સ્ત્રીકેસર, પુંકેસર, વજ્રપત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીકેસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ-પ-બ (પરાગાસન, પરાગવાહિની, બીજાશય) = સ્ત્રીકેસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પરાગાશય અને તંતુ એ ............ ના ભાગો છે. (સ્ત્રીકેસર, પુંકેસર, પુષ્પાસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુંકેસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગાશય + તંતુ = પુંકેસર (નર અંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વનસ્પતિમાં ખોરાક સંગ્રહિત ભૂગર્ભીય પ્રકાંડનું ઉદાહરણ ............ છે. (બટાકા, સીતાફળ, જામફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બટાકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બટાકા એ જમીનની અંદર રહેતું 'પ્રકાંડ' છે, મૂળ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જ્યારે નર જન્યુ અને માદા જન્યુ ભેગા મળીને પ્રજનન કરે ત્યારે તેને ............ પ્રજનન કહેવાય. (લિંગી, અલિંગી, વનસ્પતિજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિંગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિંગી પ્રજનનમાં હંમેશા બે જન્યુઓની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પરાગનયનની પ્રક્રિયામાં પરાગરજ ............ પર સ્થાપિત થાય છે. (પરાગાશય, પરાગાસન, પરાગવાહિની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગાસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગ + આસન = પરાગરજને બેસવાનું આસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વજનમાં હલકા અને રુંવાટીવાળા બીજ ............ દ્વારા ફેલાય છે. (પાણી, પવન, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે હલકું હોય તે પવન સાથે ઊડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શક્કરિયામાં નવો છોડ ............ દ્વારા ઉત્પન્ન થાય છે. (મૂળ, પ્રકાંડ, ફૂલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શક્કરિયા અને ગાજર 'મૂળ' દ્વારા પ્રજનન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પરાગરજ નળી જેવી રચના બનાવીને ............ સુધી પહોંચે છે. (પરાગાસન, અંડક, દલપત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંડક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગનલિકાનો રસ્તો અંડક (માદા જન્યુ) સુધી જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બીજાણુઓ પર આવેલું સખત રક્ષણાત્મક કવચ તેમને ............ પરિસ્થિતિમાં ટકી રહેવામાં મદદ કરે છે. (અનુકૂળ, પ્રતિકૂળ, ભેજવાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિકૂળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સખત કવચ એટલે પ્રતિકૂળ (ખરાબ) સમયમાં જીવિત રહેવાની તૈયારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જો એક પુષ્પની પરાગરજ બીજા છોડના પુષ્પ પર પડે તો તેને ............ કહે છે. (સ્વ-પરાગનયન, પર-પરાગનયન, વનસ્પતિજ પ્રસારણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર-પરાગનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પર' એટલે બીજાના ઘરે જવું (બીજા પુષ્પ પર જવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બીજાવરણ બીજની અંદર રહેલા ............ નું રક્ષણ કરે છે. (ભ્રૂણ, મૂળ, પર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભ્રૂણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજનું કવચ (આવરણ) અંદરના 'બાળ-છોડ' (ભ્રૂણ) ને સાચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કીટકો દ્વારા થતા પરાગનયનમાં પુષ્પો સામાન્ય રીતે ............ હોય છે. (રંગહીન, આકર્ષક અને સુગંધિત, નાના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકર્ષક અને સુગંધિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કીટકોને બોલાવવા માટે ફૂલને 'મેકઅપ' (રંગ-સુગંધ) કરવો પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ડ્રમસ્ટિક (સરગવો) ના બીજ ............ દ્વારા ફેલાય છે. (પક્ષીઓ, પવન, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરગવાના બીજને પાંખો હોય, જે તેને હવામાં ઉડાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "માદા જન્યુ ............ માં ઉત્પન્ન થાય છે. (પરાગાશય, અંડક, તંતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંડક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંડક સ્ત્રીકેસરની અંદર હોય અને તે માદા જન્યુ બનાવે.</p></div>"
+    }
+  ]
+}
