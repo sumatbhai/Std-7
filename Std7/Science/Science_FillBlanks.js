@@ -1903,3 +1903,211 @@ var Std7_Science_FillBlanks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પ્રકાશ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકાશ હંમેશા ________ રેખામાં ગતિ કરે છે. (વાંકીચૂકી, સીધી, વર્તુળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રકાશ' એટલે 'પ્ર' અને 'પ્ર' એટલે 'પરફેક્ટ સીધી રેખા'. ટોર્ચ મારો તો પ્રકાશ સીધો જ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પોલિશ કરેલી કે ચળકતી સપાટી ________ તરીકે વર્તે છે. (લેન્સ, અરીસા, પ્રિઝમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરીસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં તમારું મોઢું દેખાય તે બધું જ અરીસો છે (Mirror = Shine).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમતલ અરીસા વડે મળતું પ્રતિબિંબ હંમેશા ________ હોય છે. (ઊલટું, ટૂંકું, ટટ્ટાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટટ્ટાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસા સામે ઉભા રહો ત્યારે માથું ઉપર જ રહે છે ને? એટલે કે ટટ્ટાર (Erect)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જે પ્રતિબિંબને પડદા પર મેળવી શકાય તેને ________ પ્રતિબિંબ કહે છે. (આભાસી, વાસ્તવિક, અદ્રશ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાસ્તવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ = પડદો અને વ = વાસ્તવિક. પડદો હોય તો જ વાસ્તવિકતા દેખાય (Movie Screen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જે પ્રતિબિંબને પડદા પર મેળવી શકાતું નથી તેને ________ પ્રતિબિંબ કહે છે. (આભાસી, વાસ્તવિક, ઉલટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આભાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પડદા પર ના આવે એ માત્ર 'ભાસ' (આભાસી) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્ટેનલેસ સ્ટીલની ચમચીની અંદરની સપાટી ________ અરીસા તરીકે વર્તે છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરની સપાટી એટલે ખાડો = અંતર્મુખ (Cave - ગુફા જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્ટેનલેસ સ્ટીલની ચમચીની બહારની સપાટી ________ અરીસા તરીકે વર્તે છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર ઉપસેલો ભાગ = બહિર્મુખ (B = Bahar = બહિર્મુખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અંતર્મુખ અરીસા વડે રચાતું પ્રતિબિંબ વસ્તુ કરતાં ________ હોઈ શકે છે. (માત્ર મોટું, માત્ર નાનું, નાનું અથવા મોટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું અથવા મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર્મુખ અરીસો 'ઓલરાઉન્ડર' છે, તે બધું જ કરી શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દાંતના ડોક્ટર દાંતનું મોટું પ્રતિબિંબ જોવા માટે ________ અરીસાનો ઉપયોગ કરે છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ-તે-અ : 'અં'તર્મુખ એટલે 'અં'દરના દાંત મોટા જોવા માટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્કૂટર કે કારના સાઈડ મિરરમાં ________ અરીસો વપરાય છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્મુખ = બહુ મોટું ક્ષેત્ર (પાછળનો આખો રોડ જોવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જે લેન્સ કિનારીના ભાગ કરતા વચ્ચેના ભાગમાં જાડો હોય તેને ________ લેન્સ કહે છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું પેટ બહાર (જાડું) હોય તે બહિર્મુખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મેગ્નિફાઈંગ ગ્લાસ (બિલોરી કાચ) માં ________ લેન્સ વપરાય છે. (બહિર્મુખ, અંતર્મુખ, નળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલોરી કાચ અક્ષરોને 'બહાર' ઉપસાવે એટલે બહિર્મુખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જે લેન્સ કિનારીના ભાગ કરતા વચ્ચેના ભાગમાં પાતળો હોય તેને ________ લેન્સ કહે છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચેથી 'અંદર' દબાયેલો એટલે અંતર્મુખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બહિર્મુખ લેન્સ તેની પર આપાત થતા પ્રકાશનું અભિસરણ કરતો હોવાથી તેને ________ લેન્સ કહે છે. (અભિસારી, અપસારી, સમાંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભિસારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ-અ' જોડી : બહિર્મુખ એટલે અભિસારી (ભેગું કરવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અંતર્મુખ લેન્સ પ્રકાશને ફેલાવે છે, તેથી તેને ________ લેન્સ કહે છે. (અભિસારી, અપસારી, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપસારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ-અ' જોડી : અંતર્મુખ એટલે અપસારી (છૂટું પાડવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સૂર્યપ્રકાશ ________ રંગોનું મિશ્રણ છે. (ત્રણ, પાંચ, સાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘધનુષ્યના રંગો ગણો, એટલા જ સૂર્યપ્રકાશમાં છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રિઝમ વડે સૂર્યપ્રકાશનું સાત રંગોમાં વિભાજન થવાની ઘટનાને ________ કહે છે. (પરાવર્તન, વિખેરણ, વક્રીભવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિખેરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમાંથી સાત રંગો વિખેરાઈ ગયા (Dispersion).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મેઘધનુષ્ય હંમેશા આકાશમાં સૂર્યની ________ દિશામાં દેખાય છે. (તે જ, વિરુદ્ધ, ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિરુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સૂર્ય સામે હોય તો મેઘધનુષ્ય પીઠ પાછળ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમતલ અરીસામાં વસ્તુ અને તેના પ્રતિબિંબનું અંતર ________ હોય છે. (અલગ, સમાન, અડધું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે અરીસાથી જેટલા દૂર જશો, પ્રતિબિંબ પણ એટલું જ દૂર જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાત રંગો ધરાવતી તકતીને ઝડપથી ફેરવતા તે ________ રંગની જણાય છે. (કાળા, સફેદ, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનની તકતી - સાત રંગોનો મિક્સર જ્યુસ એટલે સફેદ દૂધ જેવો રંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વસ્તુના પરિમાણ જેવડું જ પ્રતિબિંબ ________ અરીસામાં મળે છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમતલ' એટલે 'સમાન'. જેવડા તમે, તેવડું પ્રતિબિંબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "________ લેન્સ વડે હંમેશા આભાસી અને નાનું પ્રતિબિંબ જ મળે છે. (બહિર્મુખ, અંતર્મુખ, નળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર્મુખ લેન્સ = કંજૂસ લેન્સ (હંમેશા નાનું જ આપે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમતલ અરીસામાં વસ્તુની ડાબી બાજુ પ્રતિબિંબની ________ બાજુ દેખાય છે. (ડાબી, જમણી, ઉપરની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસો એટલે 'ઉલટું-પુલ્ટું' (બાજુઓની અદલાબદલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વાસ્તવિક પ્રતિબિંબ હંમેશા ________ હોય છે. (ચત્તું, ઉલટું, મોટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જ&vજવાબ:</strong> ઉલટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વા-ઉ' (વાસ્તવિક અને ઉલટું) આ પાક્કા મિત્રો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આભાસી પ્રતિબિંબ હંમેશા ________ હોય છે. (ચત્તું, ઉલટું, નાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચત્તું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ-ચ' (આભાસી અને ચત્તું/ટટ્ટાર) આ કાયમી જોડી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સૂર્યપ્રકાશનું સાત રંગોમાં વિભાજન કરતા કાચના ટુકડાને ________ કહે છે. (લેન્સ, પ્રિઝમ, અરીસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રિઝમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિઝમ એટલે સાત રંગોનું જાદુઈ બોક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "એમ્બ્યુલન્સ પર 'AMBULANCE' શબ્દ ________ રીતે લખેલો હોય છે. (સીધી, ઉલટી, અદ્રશ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉલટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેથી આગળ જતી ગાડીના અરીસામાં તે સીધું વંચાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કયો અરીસો વસ્તુનું પ્રતિબિંબ આભાસી, ટટ્ટાર અને વસ્તુ કરતાં મોટું આપી શકે? (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું પ્રતિબિંબ એટલે મોટેભાગે 'અંતર્મુખ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ટ્રેન કે કારની હેડલાઇટમાં પરાવર્તક તરીકે ________ અરીસો વપરાય છે. (બહિર્મુખ, અંતર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશના કિરણોને સીધા અને શક્તિશાળી ફેંકવા માટે ખાડાવાળો (અંતર્મુખ) ભાગ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બહિર્મુખ અરીસા વડે મળતું પ્રતિબિંબ હંમેશા વસ્તુના પરિમાણ કરતા ________ હોય છે. (મોટું, સમાન, નાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્મુખ અરીસો એટલે ગાડીનો કાચ - પાછળની આખી ટ્રક કાચમાં નાની થઈને દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પ્રકાશના સાત રંગોને ક્રમમાં યાદ રાખવા માટેનો શબ્દ ________ છે. (જાનીવાલીપીનારા, લાનિવાપીજાનારા, જાપીવાલીનીરાના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાનીવાલીપીનારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જા-ની-વા-લી-પી-ના-રા (VIBGYOR નું ગુજરાતી ભાઈ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વસ્તુને બહિર્મુખ લેન્સની એકદમ નજીક મુકવામાં આવે ત્યારે પ્રતિબિંબ ________ મળે છે. (વાસ્તવિક, આભાસી, નાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આભાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નજીક આવો તો બધું આભાસી અને મોટું દેખાય (બહિર્મુખ લેન્સમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પ્રકાશના માર્ગમાં ફેરફાર કરવાની ઘટનાને પ્રકાશનું ________ કહે છે. (પરાવર્તન, શોષણ, પ્રસરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાવર્તન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભટકાય ને પાછા આવવું એટલે 'પરાવર્તન' (Reflection).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ટોર્ચ કે સર્ચલાઇટમાં ________ અરીસો પરાવર્તક તરીકે વપરાય છે. (અંતર્મુખ, બહિર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેડલાઇટ હોય કે ટોર્ચ, અંદરનો ખાડો એટલે અંતર્મુખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "________ અરીસો વિશાળ ક્ષેત્રમાં ફેલાયેલી વસ્તુઓનું પ્રતિબિંબ આપી શકે છે. (અંતર્મુખ, બહિર્મુખ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો રોડ નાના કાચમાં જોવો હોય તો બહિર્મુખ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મેઘધનુષ્યમાં સૌથી નીચેનો રંગ કયો હોય છે? (લાલ, વાદળી, જાંબલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાંબલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાનીવાલીપીનારા' માં 'જા' સૌથી પહેલા એટલે કે નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મેઘધનુષ્યમાં સૌથી ઉપરનો રંગ કયો હોય છે? (જાંબલી, પીળો, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાનીવાલીપીનારા' માં 'રા' (રાતો/લાલ) છેલ્લે એટલે કે સૌથી ઉપર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "અરીસામાં પ્રતિબિંબ પાછળના ભાગમાં રચાતું હોય તેમ લાગે તેને ________ પ્રતિબિંબ કહેવાય. (વાસ્તવિક, આભાસી, સાચું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આભાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દેખાય પણ પકડી ન શકાય (પડદા પર ન મળે) તે આભાસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો તમે સમતલ અરીસાથી 2 મીટર દૂર ઉભા હોવ, તો તમારું પ્રતિબિંબ તમારાથી ________ મીટર દૂર હશે. (2, 4, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર ડબલ કરી દેવાનું! (તમારાથી અરીસો 2 + અરીસાથી પ્રતિબિંબ 2 = 4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ન્યુટનની તકતીમાં કુલ ________ રંગો હોય છે. (ત્રણ, આઠ, સાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યપ્રકાશના સાતે-સાત સભ્યો ન્યુટનની ટીમમાં છે!</p></div>"
+    }
+  ]
+}
