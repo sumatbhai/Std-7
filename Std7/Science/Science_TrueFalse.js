@@ -414,3 +414,136 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ઉષ્મા",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાર્થના ગરમપણાની માત્રા તાપમાન દ્વારા નક્કી કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - ગરમીની 'તીવ્રતા' એટલે જ 'તાપમાન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "માનવ શરીરનું સામાન્ય તાપમાન 35°C હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, સ્વસ્થ માનવ શરીરનું સામાન્ય તાપમાન 37°C હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - 'સાડત્રીસ' (37) એ માનવ શરીરની ફિટનેસની ફીસ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ક્લિનિકલ થર્મોમીટર 35°C થી 42°C સુધીનું તાપમાન માપી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટર પાસે જઈએ ત્યારે 35 થી 42 ની વચ્ચે જ 'સ્કેલ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉકળતા દૂધનું તાપમાન માપવા માટે ક્લિનિકલ થર્મોમીટર વાપરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, ક્લિનિકલ થર્મોમીટર માત્ર માનવ શરીર માટે છે, વધુ ગરમીથી તે તૂટી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટરનું થર્મોમીટર માત્ર માણસ માટે, દૂધ માટે તો લેબોરેટરી વાળું જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેબોરેટરી થર્મોમીટરની રેન્જ સામાન્ય રીતે -10°C થી 110°C હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેબમાં રેન્જ મોટી હોય - માઈનસ 10 થી 110 (દસ-એકસો દસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ક્લિનિકલ થર્મોમીટરમાં મર્ક્યુરીના લેવલને નીચે ઉતરી જતું અટકાવવા માટે 'ખાંચ' (Kink) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંચ = 'બ્રેક', જે પારાને જાતે નીચે પડતા રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઉષ્મા હંમેશા ઠંડા પદાર્થથી ગરમ પદાર્થ તરફ વહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, ઉષ્મા હંમેશા ગરમ પદાર્થથી ઠંડા પદાર્થ તરફ વહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીર (ગરમ) થી ગરીબ (ઠંડા) તરફ દાન (ઉષ્મા) જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘન પદાર્થોમાં ઉષ્માનું પ્રસરણ મુખ્યત્વે 'ઉષ્માવહન' (Conduction) દ્વારા થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન એટલે 'વહન' (Solid = Conduction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તાંબુ એ ઉષ્માનું અવાહક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, તાંબુ (કોપર) એ ઉષ્માનું ઉત્તમ સુવાહક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ એટલે સુવાહક, પ્લાસ્ટિક-લાકડું એટલે અવાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણી અને હવા ઉષ્માના મંદવાહક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી અને હવા 'આળસુ' છે, એટલે ઉષ્મા જલ્દી જવા દેતા નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રવાહી પદાર્થોમાં ઉષ્માનું પ્રસરણ 'ઉષ્માનયન' (Convection) દ્વારા થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી/વાયુ = નયન (નવાઈ લાગે એવું વહન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સૂર્યની ઉષ્મા આપણા સુધી 'ઉષ્માવહન' દ્વારા પહોંચે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, સૂર્યની ઉષ્મા 'ઉષ્મીય વિકિરણ' (Radiation) દ્વારા પહોંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યાવકાશમાં માત્ર 'વિકિરણ' (Radiation) જ દોડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દરિયાઈ લહેર (Sea breeze) રાત્રિના સમયે વહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, દરિયાઈ લહેર 'દિવસે' વહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયો (Sea) = દિવસે (Diy-se).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભૂ-લહેર (Land breeze) જમીનથી દરિયા તરફ વહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (તે રાત્રે વહે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નામ હોય ત્યાંથી પવન નીકળે, ભૂ-લહેર એટલે ભૂમિ (જમીન) થી દરિયા તરફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઘેરા રંગના પદાર્થો આછા રંગના પદાર્થો કરતા ઉષ્માનું શોષણ વધુ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાર્ક (કાળો) કલર ગરમીનો ભૂખ્યો હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઉનાળામાં આપણને સફેદ કે આછા રંગના સુતરાઉ કપડાં વધુ આરામદાયક લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આછો રંગ = ગરમીનું પરાવર્તન = ઠંડક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઉન (Wool) એ ઉષ્માનું સુવાહક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, ઉન એ ઉષ્માનું મંદવાહક (અવાહક જેવું) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉન ગરમીને પકડી રાખે, બહાર જવા ન દે, એટલે મંદવાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્ટેનલેસ સ્ટીલના પાત્રના તળિયે તાંબાનું સ્તર લગાવવાનું કારણ સુંદરતા વધારવાનું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, તાંબુ સ્ટીલ કરતા ઉષ્માનું વધુ સારું સુવાહક હોવાથી ખોરાક ઝડપથી રાંધવા માટે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાંબુ (Copper) = ફાસ્ટ હીટ ટ્રાન્સફર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "થર્મોમીટરમાં વપરાતો પારો (Mercury) ઝેરી પદાર્થ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, પારો એ અત્યંત ઝેરી પદાર્થ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારાથી સાવધાન! તૂટે તો અડવું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઉષ્મીય વિકિરણ માટે કોઈ માધ્યમની જરૂર હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકિરણ = વિધાઉટ મીડિયમ (No Medium needed).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જ્યારે આપણે સૂર્યના તડકામાં ઊભા હોઈએ છીએ ત્યારે આપણને ગરમી લાગે છે, જેનું કારણ ઉષ્માનયન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, આ પ્રક્રિયા ઉષ્મીય વિકિરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂરથી આવતી ગરમી હંમેશા 'વિકિરણ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક જાડા ધાબળા કરતા બે પાતળા ધાબળા ઓઢીને સૂવાથી વધુ ગરમી મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. કારણ કે, બે ધાબળા વચ્ચે રહેલી હવાનું સ્તર ઉષ્માના અવાહક તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા = બેસ્ટ અવાહક. વધુ લેયર, વધુ ગરમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ડિજિટલ થર્મોમીટરમાં પારાનો ઉપયોગ થતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિજિટલ = સેફ, કારણ કે તેમાં પારો (ઝેર) નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ક્લિનિકલ થર્મોમીટરનો ઉપયોગ કરતા પહેલા તેને એન્ટિસેપ્ટિક પ્રવાહીથી ધોવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટર હંમેશા સફાઈ રાખે, એટલે એન્ટિસેપ્ટિક જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "હવા ઉષ્માની સુવાહક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, હવા ઉષ્માની અવાહક (મંદવાહક) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો હવા સુવાહક હોત, તો આપણે શિયાળામાં કપડાં પહેરીને પણ થીજી જાત!</p></div>"
+    }
+  ]
+}
