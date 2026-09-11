@@ -705,3 +705,261 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભૌતિક અને રાસાયણિક ફેરફારો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "લાકડાને કાપીને તેના ટુકડા કરવા એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લાકડાના ટુકડા કરવાથી તેના મૂળભૂત ગુણધર્મો બદલાતા નથી, માત્ર તેનો આકાર અને કદ બદલાય છે, તેથી તે ભૌતિક ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાપવું' કે 'તોડવું' આવે એટલે હંમેશા ભૌતિક ફેરફાર જ હોય! નવો પદાર્થ ન બને ત્યાં સુધી રાસાયણિક ન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાંદડામાંથી ખાતર બનવું એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાતર બને ત્યારે મૂળ પાંદડા પાછા મેળવી શકાતા નથી (અપરિવર્તનીય), એટલે તે રાસાયણિક ફેરફાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લોખંડના પાઈપ પર જસત (ઝિંક) નું સ્તર લગાડવાથી તેને જલ્દી કાટ લાગતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રક્રિયાને 'ગેલ્વેનાઈઝેશન' કહેવાય. ઝિંકનું કવચ = કાટથી બચાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લોખંડ અને કાટ (Rust) બંને એક જ પદાર્થ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લોખંડ એ ધાતુ છે જ્યારે કાટ એ આયર્ન ઓક્સાઈડ છે. કાટ એ લોખંડ પર જામતો નવો પદાર્થ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ Fe છે અને કાટ Fe₂O₃ છે, બંને અલગ જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વરાળનું ઠારણ એ રાસાયણિક ફેરફાર નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસ્થા બદલાય (વાયુમાંથી પ્રવાહી) એ હંમેશા ભૌતિક ફેરફાર જ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મેગ્નેશિયમની પટ્ટીને હવામાં સળગાવતા તે સફેદ પ્રકાશિત જ્યોત સાથે સળગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mg + O₂ = MgO (સફેદ રાખ). મેગ્નેશિયમ હીરોની જેમ ચમકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મેગ્નેશિયમ ઓક્સાઈડના જલીય દ્રાવણની પ્રકૃતિ એસિડિક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મેગ્નેશિયમ ઓક્સાઈડ પાણી સાથે પ્રક્રિયા કરીને મેગ્નેશિયમ હાઈડ્રોક્સાઈડ બનાવે છે, જે બેઝિક પ્રકૃતિ ધરાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધાતુ' ના ઓક્સાઈડ હંમેશા 'બેઝ' (B-Basic) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કોપર સલ્ફેટના દ્રાવણમાં લોખંડની ખીલી મૂકતા દ્રાવણનો રંગ વાદળીમાંથી લીલો થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોપર સલ્ફેટ (વાદળી) + લોખંડ = આયર્ન સલ્ફેટ (લીલો). ટ્રીક: 'કોપર' વાદળી હતું, 'આયર્ન' લીલું થયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ફરિયાદ વગર લોખંડની ખીલી પર તાંબાનું સ્તર જામવું એ ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આ પ્રક્રિયામાં રાસાયણિક પ્રક્રિયા થઈને નવો પદાર્થ (તાંબુ) છૂટો પડે છે, તેથી તે રાસાયણિક ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ બદલાય કે નવું સ્તર જામે એટલે 99% રાસાયણિક ફેરફાર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચૂનાના નિતર્યા પાણીમાં કાર્બન ડાયોક્સાઈડ પસાર કરતા તે દૂધિયું બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO₂ + ચૂનાનું પાણી = કેલ્શિયમ કાર્બોનેટ (CaCO₃). દૂધ જેવો સફેદ રંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાટ લાગવા માટે માત્ર ઓક્સિજનની જ હાજરી પૂરતી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાટ લાગવા માટે ઓક્સિજન અને ભેજ (પાણી) એમ બંનેની હાજરી અનિવાર્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટ = હવા + પાણી. એકલાથી કામ ન ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્ફટિકીકરણ એ ભૌતિક ફેરફારનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ફટિકીકરણમાં પદાર્થ શુદ્ધ થાય છે પણ નવો પદાર્થ બનતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લોખંડને ગેલ્વેનાઈઝ કરવા માટે તેના પર ક્રોમિયમનું સ્તર ચઢાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગેલ્વેનાઈઝેશનમાં જસત (ઝિંક) નું સ્તર ચઢાવવામાં આવે છે, ક્રોમિયમનું નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G-Z (G-Galvanization, Z-Zinc). આ જોડી યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખોરાકનું બગડવું એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાક બગડે ત્યારે ગંધ આવે છે અને સ્વાદ બદલાય છે, જે રાસાયણિક ફેરફારની નિશાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સફરજનને કાપીને રાખતા તેની સપાટી પર બદામી રંગના ડાઘ પડવા એ ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સફરજનમાં રહેલા દ્રવ્યો હવામાંના ઓક્સિજન સાથે પ્રક્રિયા કરીને નવો પદાર્થ બનાવે છે, તેથી તે રાસાયણિક ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ બદલાય એટલે રાસાયણિક 'રિએક્શન' સમજવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પ્રકાશસંશ્લેષણ એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યપ્રકાશની મદદથી નવો ખોરાક (ગ્લુકોઝ) બને છે, એટલે કેમિકલ લોચો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મીણનું પીગળવું એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મીણ પીગળે ત્યારે તેની અવસ્થા બદલાય છે પણ તે મીણ જ રહે છે, તેથી તે ભૌતિક ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીગળવું (Melting) = ભૌતિક, સળગવું (Burning) = રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દરિયાકિનારાના વિસ્તારમાં લોખંડને કાટ ઝડપથી લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાના ક્ષારવાળા પાણીને લીધે કાટ લાગવાની પ્રક્રિયા 'સુપર ફાસ્ટ' થઈ જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સ્ટેનલેસ સ્ટીલ લોખંડમાંથી બનાવવામાં આવે છે છતાં તેને કાટ લાગતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ + કાર્બન + ક્રોમિયમ/નિકલ = જાદુઈ સ્ટેનલેસ સ્ટીલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભૌતિક ફેરફારો સામાન્ય રીતે અપરિવર્તનીય (Irreversible) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભૌતિક ફેરફારો સામાન્ય રીતે ઉલટાવી શકાય તેવા એટલે કે પરિવર્તનીય હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક = 'ફરી પાછું મળે' (મોટાભાગે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પાણીમાં ખાંડ ઓગાળવી એ ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓગળવું એ ભૌતિક ફેરફાર છે કારણ કે બાષ્પીભવન કરીને ખાંડ પાછી મેળવી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રાસાયણિક ફેરફારમાં નવા પદાર્થો ઉત્પન્ન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાસાયણિક = 'નવું જન્મે'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મીઠું દરિયાના પાણીના બાષ્પીભવન દ્વારા મેળવી શકાય છે, જે રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: બાષ્પીભવન એ ભૌતિક ફેરફાર છે, તેમાં મીઠાનું બંધારણ બદલાતું નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાષ્પીભવન = અવસ્થા બદલાવી = ભૌતિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ફટાકડાનું ફૂટવું એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ, પ્રકાશ અને વાયુ ઉત્પન્ન થાય એટલે 100% રાસાયણિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કોપર સલ્ફેટને 'મોરથૂથુ' તરીકે પણ ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરથૂથુ એટલે વાદળી સ્ફટિકવાળો પદાર્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લોખંડ પર કાટ લાગવો એ પરિવર્તનીય ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાટમાંથી પાછું લોખંડ મેળવી શકાતું નથી, તેથી તે અપરિવર્તનીય ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગના રાસાયણિક ફેરફારો 'વન-વે' (અપરિવર્તનીય) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિનેગર અને બેકિંગ સોડા વચ્ચેની પ્રક્રિયાથી હાઈડ્રોજન વાયુ ઉત્પન્ન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: વિનેગર અને બેકિંગ સોડા વચ્ચેની પ્રક્રિયાથી કાર્બન ડાયોક્સાઈડ (CO₂) વાયુ ઉત્પન્ન થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોડામાં બુડબુડિયા CO₂ ના જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કોઈપણ પદાર્થનું દહન એ હંમેશા રાસાયણિક ફેરફાર જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દહન = સળગવું = ઓક્સિજન સાથે પ્રક્રિયા = નવો પદાર્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દૂધમાંથી દહીં બનવું એ ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દહીં એ દૂધ કરતાં અલગ ગુણધર્મો ધરાવતો નવો પદાર્થ છે અને તેમાંથી પાછું દૂધ મેળવી શકાતું નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દહીંમાંથી દૂધ બને? ના! તો પછી રાસાયણિક જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ખોરાકનું પાચન એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાચનમાં જટિલ પદાર્થોનું સરળ પદાર્થોમાં રૂપાંતર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "લોખંડના ટુકડાને ભેજવાળી હવામાં રાખતા તેના પર લાલચટક રંગનું પડ જામી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ લાલચટક પડ એટલે જ 'કાટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "રંગમાં થતો ફેરફાર રાસાયણિક પ્રક્રિયા સૂચવી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ બદલાય, ગંધ આવે કે તાપમાન બદલાય = રાસાયણિક ફેરફાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "મેગ્નેશિયમ હાઈડ્રોક્સાઈડ લાલ લિટમસ પત્રને ભૂરું બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્નેશિયમ હાઈડ્રોક્સાઈડ બેઝ છે. ટ્રીક: 'બે'ઝ 'ભૂ'રું બનાવે (બે-ભૂ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ફ્લેશ ગન (કેમેરાની) માં મેગ્નેશિયમના તારનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્નેશિયમ સળગતા જબરદસ્ત સફેદ પ્રકાશ આપે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બરફનું પાણીમાં રૂપાંતર થવું એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: બરફ અને પાણી બંને રાસાયણિક રીતે H₂O જ છે, માત્ર ભૌતિક અવસ્થા બદલાઈ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીના ત્રણેય સ્વરૂપ (બરફ, પાણી, વરાળ) વચ્ચેનો ફેરફાર ભૌતિક જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લોખંડને કાટ લાગવાની પ્રક્રિયાને રોકવા માટે તેના પર રંગ લગાડવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ હવાથી અને ભેજથી લોખંડને બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કોપર સલ્ફેટના દ્રાવણમાં આયર્ન સલ્ફેટ બને ત્યારે લોખંડની ખીલી પર ભૂરા રંગનું સ્તર જામી જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લોખંડની ખીલી પર લાલચટક બદામી રંગનું તાંબાનું સ્તર જામી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાંબુ (Copper) હંમેશા બદામી રંગનું હોય, ભૂરું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "રાસાયણિક પ્રક્રિયામાં ગરમીનું શોષણ કે ઉત્સર્જન થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિએક્શન થાય ત્યારે ગરમી લાગે અથવા ઠંડુ પણ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "લોખંડના વહાણોને દર વર્ષે રંગવા પડે છે કારણ કે દરિયાનું પાણી કાટને ઝડપી બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાનું ખારું પાણી = કાટનો દુશ્મન (પ્રક્રિયા ઝડપી બનાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ચૂનાના પાણીનું રાસાયણિક નામ કેલ્શિયમ હાઈડ્રોક્સાઈડ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂનો (Lime) = Calcium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ખાંડનું ગરમ થઈને કાળું પડવું એ ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ખાંડને વધુ ગરમ કરતા તેનું કાર્બનમાં રૂપાંતર થાય છે, જે નવો પદાર્થ છે, તેથી તે રાસાયણિક ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળું પડી જવું = બળી જવું = રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કપડાંનું સુકાવવું એ ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બાષ્પીભવન પામે છે, કપડું તો એનું એ જ રહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કાર્બન ડાયોક્સાઈડ વાયુ સળગતી દિવાસળીને ઓલવી નાખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO₂ અગ્નિશામક છે, તે સળગવામાં મદદ કરતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "રાસાયણિક ફેરફારને 'રાસાયણિક પ્રક્રિયા' પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેરફારનું કારણ જ પ્રક્રિયા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "લોખંડના કાટનું સૂત્ર Fe₂O₃ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયર્ન + ઓક્સિજન = આયર્ન ઓક્સાઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ભૌતિક ફેરફારમાં પદાર્થના રાસાયણિક ગુણધર્મો બદલાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભૌતિક ફેરફારમાં માત્ર ભૌતિક ગુણધર્મો જેવા કે આકાર, કદ કે અવસ્થા જ બદલાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક એટલે 'બહારથી બદલાવ', અંદરથી બધું સેમ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "ઝીંકના સ્તરવાળા લોખંડને 'ગેલ્વેનાઈઝ્ડ આયર્ન' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝીંક એટલે જસત, જે લોખંડનો બોડીગાર્ડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "મેગ્નેશિયમની રાખને પાણીમાં ઓગાળતા રાસાયણિક ફેરફાર થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MgO + H₂O = Mg(OH)₂, નવો પદાર્થ બન્યો એટલે રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "બજારમાં મળતું 'ઈનો' (Eno) પાણીમાં નાખતા પરપોટા થાય છે, તે ભૌતિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પરપોટા થવા એ ગેસ ઉત્પન્ન થવાની નિશાની છે, જે રાસાયણિક ફેરફાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફીણ કે પરપોટા = કેમિકલ રિએક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કાચનું તૂટવું એ રાસાયણિક ફેરફાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાચ તૂટ્યા પછી પણ કાચ જ રહે છે, નવો પદાર્થ બનતો નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તૂટવું એ ભૌતિક ફેરફાર છે, જોકે તેને ઉલટાવી શકાતો નથી.</p></div>"
+    }
+  ]
+}
