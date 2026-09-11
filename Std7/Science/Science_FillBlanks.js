@@ -2111,3 +2111,161 @@ var Std7_Science_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "પ્રકાશ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકાશ હંમેશા ________ રેખામાં ગતિ કરે છે. (સીધી, વાંકીચૂકી, વર્તુળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ એટલે 'પંકચ્યુઅલ' છોકરો, તે ક્યારેય વળાંક લેતો નથી, હંમેશા સીધો જ ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પોલિશ કરેલી કે ચળકતી સપાટી ________ તરીકે વર્તે છે. (લેન્સ, અરીસા, અપારદર્શક પદાર્થ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરીસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સપાટી પર મોઢું દેખાય, તેને વિજ્ઞાનમાં 'અરીસો' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જે પ્રતિબિંબને પડદા પર મેળવી શકાતું નથી, તેને ________ પ્રતિબિંબ કહે છે. (વાસ્તવિક, આભાસી, ઊલટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આભાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડદા પર ન આવે તે માત્ર 'આભાસ' (ભ્રમ) છે, એટલે કે 'આભાસી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમતલ અરીસા દ્વારા મળતું પ્રતિબિંબ હંમેશા ________ હોય છે. (ઊલટું, ચત્તું, વાંકું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચત્તું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરે અરીસામાં જોતા માથું ઉપર જ દેખાય છે ને? તો તે 'ચત્તું' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમતલ અરીસામાં વસ્તુનું ડાબું પાસું પ્રતિબિંબમાં ________ દેખાય છે. (ડાબું, જમણું, ઉપરનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં સાઈડ બદલાઈ જાય, 'લેફ્ટ બને રાઈટ' અને 'રાઈટ બને લેફ્ટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગોળીય અરીસાની અંદરની સપાટી પરાવર્તક હોય, તો તેને ________ અરીસો કહે છે. (બહિર્ગોળ, અંતર્ગોળ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંદર' ની સપાટી એટલે 'અંતર્ગોળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગોળીય અરીસાની બહારની સપાટી પરાવર્તક હોય, તો તેને ________ અરીસો કહે છે. (બહિર્ગોળ, અંતર્ગોળ, ગોળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહાર' ઊપસેલી સપાટી એટલે 'બહિર્ગોળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જે પ્રતિબિંબને પડદા પર મેળવી શકાય, તેને ________ પ્રતિબિંબ કહે છે. (આભાસી, વાસ્તવિક, ચત્તું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાસ્તવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પડદા પર ઝીલાય તે 'વાસ્તવમાં' છે, એટલે 'વાસ્તવિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દાંતના ડોક્ટર દાંતનું મોટું પ્રતિબિંબ જોવા માટે ________ અરીસાનો ઉપયોગ કરે છે. (બહિર્ગોળ, અંતર્ગોળ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝીણી વસ્તુ મોટી જોવી હોય તો હંમેશા 'અંતર્ગોળ' અરીસો જ કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્કૂટર કે કારના સાઈડ મિરમાં ________ અરીસો વપરાય છે. (અંતર્ગોળ, સમતલ, બહિર્ગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુ બધો ટ્રાફિક 'નાના' અરીસામાં જોવા માટે 'બહિર્ગોળ' જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જે લેન્સ મધ્યમાં જાડા અને કિનારીએ પાતળા હોય, તેને ________ લેન્સ કહેવાય. (બહિર્ગોળ, અંતર્ગોળ, નળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ એટલે જેનું 'પેટ' (મધ્ય ભાગ) બહાર નીકળેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જે લેન્સ કિનારી કરતા મધ્યમાં પાતળા હોય, તેને ________ લેન્સ કહે છે. (બહિર્ગોળ, અંતર્ગોળ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરથી પતલા એટલે 'અંતર્ગોળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બહિર્ગોળ લેન્સ તેની પર પડતા પ્રકાશનું અભિસરણ કરે છે, તેથી તેને ________ લેન્સ કહે છે. (અભિસારી, અપસારી, સમાંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભિસારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ પ્રકાશને 'ભેગો' (અભિસરણ) કરે એટલે અભિસારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અંતર્ગોળ લેન્સ પ્રકાશને ફેલાવે છે, તેથી તેને ________ લેન્સ કહે છે. (અભિસારી, અપસારી, બિંદુવત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપસારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશને 'છૂટો પાડે' (અપસરણ) એટલે અપસારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સૂર્યપ્રકાશ સાત રંગોનો બનેલો છે, જેને ________ નો પ્રકાશ કહે છે. (શુદ્ધ, સફેદ, રંગીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત રંગો ભેગા થાય એટલે મેજિક થાય અને 'સફેદ' પ્રકાશ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મેઘધનુષ્યમાં સૌથી ઉપરનો રંગ સામાન્ય રીતે ________ હોય છે. (લીલો, પીળો, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાનીવાલીપીનારા' - છેલ્લે 'રા' એટલે રાતો (લાલ), જે સૌથી ઉપર દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાચનો ________ સૂર્યપ્રકાશનું સાત રંગોમાં વિભાજન કરે છે. (અરીસો, પ્રિઝમ, લેન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રિઝમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રિઝમ' એ પ્રકાશનું સાત રંગોમાં વિભાજન કરવાનું મશીન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બહિર્ગોળ લેન્સ હંમેશા ________ પ્રતિબિંબ આપે છે તે જરૂરી નથી. (વાસ્તવિક, આભાસી, મોટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાસ્તવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ લેન્સમાં વસ્તુ બહુ નજીક હોય તો પ્રતિબિંબ આભાસી પણ થઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અંતર્ગોળ અરીસો ________ પ્રતિબિંબ રચી શકતો નથી. (વાસ્તવિક, ઊલટું, આભાસી અને નાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આભાસી અને નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર્ગોળ અરીસો જ્યારે આભાસી પ્રતિબિંબ આપે ત્યારે તે હંમેશા 'મોટું' જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વસ્તુના પરિમાણ જેવડું જ પ્રતિબિંબ ________ અરીસામાં મળે છે. (બહિર્ગોળ, અંતર્ગોળ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમતલ અરીસો એટલે 'ઈમાનદાર' અરીસો, જેટલા તમે છો એટલા જ દેખાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મેઘધનુષ્ય હંમેશા સૂર્યની ________ દિશામાં જોવા મળે છે. (સમાન, વિરુદ્ધ, ઉપરની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિરુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય સામે હોય તો પાછળ જુઓ, ત્યાં જ મેઘધનુષ્ય હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વસ્તું અને પ્રતિબિંબ વચ્ચેનું અંતર સમતલ અરીસામાં ________ હોય છે. (બમણું, અડધું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બમણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે અરીસાથી 2 ફૂટ દૂર તો પ્રતિબિંબ પણ 2 ફૂટ અંદર, એટલે કુલ અંતર 4 ફૂટ (બમણું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્ટેનલેસ સ્ટીલની ચમચીની અંદરની સપાટી ________ અરીસા તરીકે વર્તે છે. (અંતર્ગોળ, બહિર્ગોળ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચમચીમાં જે બાજુથી જમી શકાય તે 'ખાડો' એટલે 'અંતર્ગોળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ન્યૂટનની તકતીમાં ________ રંગો હોય છે. (ત્રણ, પાંચ, સાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનની તકતી એટલે મેઘધનુષ્યના સાતેય રંગોનો ગોળ 'ચકડોળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જ્યારે ન્યૂટનની તકતી ઝડપથી ભ્રમણ કરે છે ત્યારે તે ________ રંગની જણાય છે. (લાલ, કાળી, સફેદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત રંગો 'સુપર ફાસ્ટ' ફરે ત્યારે ભેગા થઈને સફેદ બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મેગ્નિફાઈંગ ગ્લાસ (સૂક્ષ્મદર્શક કાચ) માં ________ લેન્સ વપરાય છે. (અંતર્ગોળ, બહિર્ગોળ, નળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષરો મોટા જોવા માટે 'બહિર્ગોળ' દાદાના ચશ્મા જેવો કાચ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગાડીની હેડલાઇટમાં પરાવર્તક તરીકે ________ અરીસો વપરાય છે. (બહિર્ગોળ, અંતર્ગોળ, સમતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેડલાઇટનો પ્રકાશ દૂર સુધી ફેંકવા માટે 'ખાડાવાળો' એટલે કે અંતર્ગોળ અરીસો બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વર્ચ્યુઅલ (Virtual) પ્રતિબિંબ એટલે કે ________ પ્રતિબિંબ. (વાસ્તવિક, આભાસી, ઊલટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આભાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજીમાં Virtual એટલે ગુજરાતીમાં 'આભાસી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "અરીસાની સામે વસ્તુ ગમે તેટલા અંતરે હોય પણ પ્રતિબિંબ હંમેશા ચત્તું મળે, તો તે અરીસો ________ હોઈ શકે. (માત્ર સમતલ, માત્ર બહિર્ગોળ, સમતલ અથવા બહિર્ગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલ અથવા બહિર્ગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બંને અરીસા હંમેશા 'સીધા' (ચત્તા) જ રહે છે, ઊંધા પડતા નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લેન્સમાંથી પ્રકાશનું ________ થાય છે. (પરાવર્તન, વક્રીભવન, શોષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વક્રીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસો અથડાઈને પાછો મોકલે (પરાવર્તન), લેન્સ આરપાર જવા દે પણ વાળે (વક્રીભવન).</p></div>"
+    }
+  ]
+}
