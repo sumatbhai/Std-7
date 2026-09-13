@@ -2369,3 +2369,161 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગંદા પાણીની વાર્તા (Wastewater Story)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગંદુ પાણી એ સંસાધન છે, તેનો વેડફાટ કરવો જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ગંદા પાણીને શુદ્ધ કરીને ફરીથી ઉપયોગમાં લઈ શકાય છે, તેથી તે એક કિંમતી સંસાધન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Waste' માંથી 'Best' બનાવી શકાય એટલે તે સંસાધન કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સીવેજ (Sewage) એ ઘન કચરો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સીવેજ એ ઘરો, ઉદ્યોગો અને અન્ય સ્થળોએથી મુક્ત થતું 'પ્રવાહી' કચરો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીવેજ (Sewage) = સાબુવાળું કે ગંદુ 'પાણી' (પ્રવાહી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગંદા પાણીમાં રહેલી અશુદ્ધિઓને પ્રદૂષકો કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પાણીને ગંદુ બનાવતા દ્રવ્યોને પ્રદૂષકો (Contaminants) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રદૂષણ ફેલાવે તે 'પ્રદૂષકો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ફોસ્ફેટ અને નાઈટ્રેટ એ સીવેજમાં રહેલા કાર્બનિક અશુદ્ધિઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ફોસ્ફેટ અને નાઈટ્રેટ એ 'અકાર્બનિક' (Inorganic) અશુદ્ધિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાતરના તત્વો (N-P) = અકાર્બનિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કોલેરા અને ટાઈફોઈડ એ પાણીથી ફેલાતા રોગો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. દૂષિત પાણી પીવાથી બેક્ટેરિયા દ્વારા આ રોગો ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી પીવો તો પેટમાં 'ટાઈ-ટાઈ' (ટાઈફોઈડ) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "WWTP એટલે 'વર્લ્ડ વોટર ટ્રીટમેન્ટ પ્લાન્ટ'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. WWTP એટલે 'વેસ્ટ વોટર ટ્રીટમેન્ટ પ્લાન્ટ' (Waste Water Treatment Plant).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WW = Waste Water (ગંદુ પાણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાર સ્ક્રીન (Bar screen) ગંદા પાણીમાંથી કાંકરી અને રેતી દૂર કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બાર સ્ક્રીન ગંદા પાણીમાંથી મોટા પદાર્થો જેવા કે ચીંથરા, લાકડીઓ અને પ્લાસ્ટિકના પેકેટ દૂર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્રીન (જાળી) હંમેશા મોટી વસ્તુ રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગંદા પાણીના શુદ્ધિકરણ દરમિયાન તળિયે બેસી જતા ઘન કચરાને 'કાદવ' (Sludge) કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. શુદ્ધિકરણ દરમિયાન જે ઘન ભાગ નીચે બેસી જાય તેને સ્લજ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sludge = 'સેટલ' (Settle) થયેલો કચરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્લજ (Sludge) માંથી બાયોગેસ મેળવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અજારક બેક્ટેરિયા દ્વારા સ્લજનું વિઘટન કરીને બાયોગેસ ઉત્પન્ન કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાદવ કોહવાય એટલે ગેસ નીકળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શુદ્ધ કરેલા પાણીમાં ક્લોરીન અથવા ઓઝોન જેવા રસાયણો ઉમેરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પાણીને જંતુરહિત (Disinfect) કરવા માટે ક્લોરીન કે ઓઝોન ઉમેરવા જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોરીન એટલે પાણીનું 'સેનિટાઈઝર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખાદ્યતેલો અને ચરબીને ગટરમાં નાખવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેલ અને ચરબી ગટરની પાઈપોમાં જામી જાય છે અને તેને બંધ (Block) કરી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ પાઈપને 'ચોક-અપ' કરે, એટલે ડસ્ટબીનમાં જ નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "યુકેલિપ્ટસ (નીલગિરી) ના છોડ ગંદા પાણીને શુદ્ધ કરવામાં મદદરૂપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. યુકેલિપ્ટસ વધારાના ગંદા પાણીને શોષી લે છે અને શુદ્ધ બાષ્પ સ્વરૂપે વાતાવરણમાં મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલગિરી = કુદરતી વોટર પ્યુરિફાયર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખુલ્લી ગટર મચ્છરોના સંવર્ધન માટેનું સ્થળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સ્થગિત ગંદા પાણીમાં મચ્છર, માખી અને અન્ય જંતુઓ ઈંડા મૂકે છે અને રોગ ફેલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લું પાણી = મચ્છરોનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સેપ્ટિક ટેન્ક એ રાસાયણિક શુદ્ધિકરણની પદ્ધતિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સેપ્ટિક ટેન્ક એ ઓછી કિંમતની 'ઓન-સાઈટ' (On-site) નિકાલ પદ્ધતિ છે, જે કુદરતી વિઘટન પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેપ્ટિક ટેન્ક = ઘરેલું ગટર વ્યવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગંદા પાણીમાં રહેલા ફળ અને શાકભાજીના અવશેષો કાર્બનિક અશુદ્ધિઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સજીવોમાંથી મળતા કચરાને કાર્બનિક (Organic) કચરો કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી અને રસોડાનો કચરો = કાર્બનિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હવાકીય (Aerobic) બેક્ટેરિયા ઓક્સિજનની હાજરીમાં કામ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. એરોબિક એટલે જ ઓક્સિજનનો ઉપયોગ કરીને કચરાનું વિઘટન કરનાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરોબિક = એર (Air) એટલે કે હવા વાળા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જંતુનાશકો અને દવાઓને સીધા વોશબેસિનમાં ફેંકવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. દવાઓ અને જંતુનાશકો પાણીને શુદ્ધ કરતા ઉપયોગી સૂક્ષ્મજીવોને મારી નાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દવા જંતુને મારે, પણ સારા બેક્ટેરિયાને પણ મારી નાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વર્મી-પ્રોસેસિંગ શૌચાલયમાં અળસિયાનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અળસિયા માનવ મળનું ખાતરમાં રૂપાંતર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્મી (Vermi) = અળસિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ડ્રાય કાદવ (Dried sludge) નો ઉપયોગ ખાતર તરીકે થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તે પોષક તત્વોથી ભરપૂર હોય છે અને જમીનમાં કાર્બનિક દ્રવ્યો ઉમેરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો ગયો ખેતરમાં, બની ગયું સોનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "22 માર્ચને 'વિશ્વ જળ દિવસ' તરીકે ઉજવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પાણીના મહત્વ વિશે જાગૃતિ લાવવા આ દિવસ ઉજવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 22 માર્ચ = જળ એ જ જીવનનો દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગંદુ પાણી શુદ્ધ કરવું એ કુદરતી જળચક્રનો એક ભાગ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. નદીઓ અને સમુદ્રોમાં પાણી કુદરતી રીતે શુદ્ધ થતું હોય છે, WWTP આ પ્રક્રિયાને ઝડપી બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસ જે મશીનથી કરે, કુદરત તે પોતાની રીતે કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "યુરિયા અને હ્યુમન મળ એ અકાર્બનિક અશુદ્ધિઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. યુરિયા અને માનવ મળ એ 'કાર્બનિક' (Organic) અશુદ્ધિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સજીવના શરીરમાંથી નીકળે તે 'કાર્બનિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગ્રીટ અને રેતી દૂર કરવાના ટાંકાઓમાં પાણીની ગતિ વધારવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રેતી અને કાંકરી નીચે બેસી જાય તે માટે પાણીની ગતિ 'ઘટાડવામાં' આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિ ધીમી કરો તો જ રેતી નીચે બેસે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સ્કીમર (Skimmer) નો ઉપયોગ પાણી ઉપર તરતી ચરબી અને તેલ દૂર કરવા થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જે પદાર્થો સપાટી પર તરે તેને સ્કીમર વડે દૂર કરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કીમર = ઉપરથી કચરો 'કાઢી' લેનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ક્લેરિફાઈડ વોટર (Clarified water) એટલે સંપૂર્ણપણે પીવાલાયક શુદ્ધ પાણી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ક્લેરિફાઈડ વોટરમાં હજુ પણ સૂક્ષ્મજીવો હોઈ શકે છે, તેને જંતુરહિત કર્યા વગર પી શકાય નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લેરિફાઈડ એટલે દેખાવમાં ચોખ્ખું, પણ પીવામાં જોખમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઓઝોન વાયુ પાણીને જંતુરહિત કરવા વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ક્લોરીનની જેમ ઓઝોન પણ ઉત્તમ જંતુનાશક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O3 (ઓઝોન) = કીટાણુઓનો નાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગટર વ્યવસ્થામાં મેનહોલ્સ (Manholes) દર 100 થી 200 મીટરે હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ગટર વ્યવસ્થામાં મેનહોલ્સ સામાન્ય રીતે દર '50 થી 60' મીટરે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેનહોલ નજીક હોવા જોઈએ જેથી સફાઈમાં સરળતા રહે (50-60m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ડાયરિયા (ઝાડા) એ દૂષિત પાણીથી થતો રોગ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. તે પાણીમાં રહેલા વાયરસ કે બેક્ટેરિયાને કારણે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી = પેટમાં ગરબડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચાયની પત્તી (ચાનો કચરો) ગટરમાં નાખવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે ગટરમાં કચરો જમા કરે છે અને ઓક્સિજનના પ્રવાહને અવરોધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાની પત્તી કુંડામાં નાખો, ગટરમાં નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મેનહોલ એ ગટરની પાઈપોના જોડાણ સ્થાને હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જ્યાં બે કે તેથી વધુ ગટર પાઈપો મળે છે ત્યાં તપાસ અને સફાઈ માટે મેનહોલ રખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંકશન = મેનહોલ.</p></div>"
+    }
+  ]
+}
