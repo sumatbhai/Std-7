@@ -247,3 +247,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "એસિડ, બેઝ અને ક્ષાર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>1. એસિટિક એસિડ <br>2. ફોર્મિક એસિડ <br>3. સાઇટ્રિક એસિડ <br>4. લેક્ટિક એસિડ <br><br> વિભાગ B: (A) નારંગી (B) દહીં (C) વિનેગર (D) કીડીનો ડંખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) વિનેગર <br>2 - (D) કીડીનો ડંખ <br>3 - (A) નારંગી <br>4 - (B) દહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એસી વિનેગર' (એસિટિક-વિનેગર) અને 'લેક્ટિક-લસ્સી' (લસ્સી દહીંમાંથી બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>1. ઓક્ઝેલિક એસિડ <br>2. એસ્કોર્બિક એસિડ <br>3. ટાર્ટરિક એસિડ <br>4. કેલ્શિયમ હાઇડ્રોક્સાઇડ <br><br> વિભાગ B: (A) આમળા (B) પાલક (C) ચૂનાનું નિતર્યું પાણી (D) આમલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) પાલક <br>2 - (A) આમળા <br>3 - (D) આમલી <br>4 - (C) ચૂનાનું નિતર્યું પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટાર્ટરિક-આમલી' (T-T: Tamarind-Tartaric) અને વિટામિન C એટલે એસ્કોર્બિક એસિડ જે ખાટાં ફળોમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>1. એમોનિયમ હાઇડ્રોક્સાઇડ <br>2. સોડિયમ હાઇડ્રોક્સાઇડ <br>3. મેગ્નેશિયમ હાઇડ્રોક્સાઇડ <br>4. લિટમસ <br><br> વિભાગ B: (A) સાબુ (B) મિલ્ક ઓફ મેગ્નેશિયા (C) લાઇકેન (D) કાચ સાફ કરવાનું પ્રવાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (D) કાચ સાફ કરવાનું પ્રવાહી <br>2 - (A) સાબુ <br>3 - (B) મિલ્ક ઓફ મેગ્નેશિયા <br>4 - (C) લાઇકેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેગ્નેશિયમ-મેગ્નેશિયા' (નામ સરખા છે) અને 'લાઇકેન-લિટમસ' (બંને 'લ' થી શરૂ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>1. એસિડ <br>2. બેઝ <br>3. તટસ્થ પદાર્થ <br>4. સૂચક <br><br> વિભાગ B: (A) સ્વાદે કડવા અને સ્પર્શે ચીકણા (B) લિટમસ પર અસર કરતા નથી (C) પદાર્થની પ્રકૃતિ ચકાસવા વપરાય (D) સ્વાદે ખાટા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (D) સ્વાદે ખાટા <br>2 - (A) સ્વાદે કડવા અને સ્પર્શે ચીકણા <br>3 - (B) લિટમસ પર અસર કરતા નથી <br>4 - (C) પદાર્થની પ્રકૃતિ ચકાસવા વપરાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ = ખાટા (A-Sour), બેઝ = ચીકણા (B-Bitter/Slippery).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (એસિડની લિટમસ પર અસર): <br>1. ભૂરું લિટમસ પત્ર <br>2. લાલ લિટમસ પત્ર <br>3. હળદર પત્ર <br>4. જાસૂદના ફૂલનું સૂચક <br><br> વિભાગ B: (A) લાલ બને (B) કોઈ ફેરફાર નહીં (C) ઘેરો ગુલાબી (મેજેન્ટા) (D) પીળું જ રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) લાલ બને <br>2 - (B) કોઈ ફેરફાર નહીં <br>3 - (D) પીળું જ રહે <br>4 - (C) ઘેરો ગુલાબી (મેજેન્ટા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ-ભૂ-લા' (એસિડ ભૂરાને લાલ બનાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (બેઝની લિટમસ પર અસર): <br>1. લાલ લિટમસ પત્ર <br>2. ભૂરું લિટમસ પત્ર <br>3. હળદર પત્ર <br>4. જાસૂદના ફૂલનું સૂચક <br><br> વિભાગ B: (A) ભૂરું બને (B) લાલ (રતૂમડું) બને (C) કોઈ ફેરફાર નહીં (D) લીલું બને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) ભૂરું બને <br>2 - (C) કોઈ ફેરફાર નહીં <br>3 - (B) લાલ (રતૂમડું) બને <br>4 - (D) લીલું બને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બે-લા-ભૂ' (બેઝ લાલને ભૂરું બનાવે) અને 'બેઝ-લીલો' (જાસૂદમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A (ઉપચાર) ને વિભાગ B (સમસ્યા) સાથે જોડો: <br>1. મિલ્ક ઓફ મેગ્નેશિયા <br>2. કેલેમાઈન લોશન <br>3. ક્વિક લાઈમ (ચૂનો) <br>4. જૈવિક પદાર્થો <br><br> વિભાગ B: (A) કીડીનો ડંખ (B) અપચો (C) બેઝિક જમીન (D) એસિડિક જમીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) અપચો <br>2 - (A) કીડીનો ડંખ <br>3 - (D) એસિડિક જમીન <br>4 - (C) બેઝિક જમીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપચો થાય તો 'મિલ્ક' (મેગ્નેશિયા) પીવો, કીડી કરડે તો 'કેલેમાઈન' લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (તટસ્થીકરણ પ્રક્રિયા): <br>1. એસિડ + બેઝ <br>2. ફેનોલ્ફથેલીન (બેઝમાં) <br>3. ફેનોલ્ફથેલીન (એસિડમાં) <br>4. કીડીનો ડંખ <br><br> વિભાગ B: (A) ગુલાબી રંગ (B) રંગવિહીન (C) ક્ષાર + પાણી (D) ફોર્મિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) ક્ષાર + પાણી <br>2 - (A) ગુલાબી રંગ <br>3 - (B) રંગવિહીન <br>4 - (D) ફોર્મિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એસિડ-બેઝ ભેગા થાય, ક્ષાર-પાણી છૂટા થાય!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>1. દહીં <br>2. સાબુનું દ્રાવણ <br>3. મીઠાનું દ્રાવણ <br>4. લીંબુનો રસ <br><br> વિભાગ B: (A) તટસ્થ (B) બેઝિક (C) એસિડિક (લેક્ટિક) (D) એસિડિક (સાઇટ્રિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) એસિડિક (લેક્ટિક) <br>2 - (B) બેઝિક <br>3 - (A) તટસ્થ <br>4 - (D) એસિડિક (સાઇટ્રિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું (Salt) હંમેશા તટસ્થ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (કેમિકલ નામ) ને વિભાગ B (સામાન્ય નામ) સાથે જોડો: <br>1. સોડિયમ બાયકાર્બોનેટ <br>2. ઝિંક કાર્બોનેટ <br>3. કેલ્શિયમ ઓક્સાઈડ <br>4. મેગ્નેશિયમ હાઇડ્રોક્સાઇડ <br><br> વિભાગ B: (A) કેલેમાઈન (B) ખાવાનો સોડા (C) મિલ્ક ઓફ મેગ્નેશિયા (D) ક્વિક લાઈમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ખાવાનો સોડા <br>2 - (A) કેલેમાઈન <br>3 - (D) ક્વિક લાઈમ <br>4 - (C) મિલ્ક ઓફ મેગ્નેશિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાય' રસોડામાં કામ કરે એટલે સોડિયમ 'બાય'કાર્બોનેટ = 'ખાવાનો' સોડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A (સૂચક) ને વિભાગ B (સ્ત્રોત) સાથે જોડો: <br>1. લિટમસ <br>2. હળદર <br>3. જાસૂદની પાંખડીઓ <br>4. ફેનોલ્ફથેલીન <br><br> વિભાગ B: (A) કુદરતી સૂચક (છોડ) (B) લાઈકેન (C) કૃત્રિમ સૂચક (D) લાલ ફૂલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) લાઈકેન <br>2 - (A) કુદરતી સૂચક (છોડ) <br>3 - (D) લાલ ફૂલ <br>4 - (C) કૃત્રિમ સૂચક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેનોલ્ફથેલીન એ લેબોરેટરીમાં બનેલું (કૃત્રિમ) સૂચક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (પરિણામ) સાથે જોડો: <br>1. લોખંડનું કટાવું <br>2. એસિડ + મેગ્નેશિયમ પટ્ટી <br>3. એસિડ + બેઝ <br>4. ચૂનાનું પાણી + CO2 <br><br> વિભાગ B: (A) હાઇડ્રોજન વાયુ (B) રાસાયણિક ફેરફાર (C) દુધિયું રંગ (D) ઉષ્મા ઉત્પન્ન થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) રાસાયણિક ફેરફાર <br>2 - (A) હાઇડ્રોજન વાયુ <br>3 - (D) ઉષ્મા ઉત્પન્ન થાય <br>4 - (C) દુધિયું રંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તટસ્થીકરણમાં હંમેશા ગરમી (ઉષ્મા) મુક્ત થાય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>1. હળદર બેઝ સાથે <br>2. હળદર એસિડ સાથે <br>3. જાસૂદ એસિડ સાથે <br>4. જાસૂદ બેઝ સાથે <br><br> વિભાગ B: (A) પીળો રંગ (B) લાલ રંગ (C) મેજેન્ટા (D) લીલો રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) લાલ રંગ <br>2 - (A) પીળો રંગ <br>3 - (C) મેજેન્ટા <br>4 - (D) લીલો રંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપડા પર હળદરનો ડાઘ હોય અને સાબુ (બેઝ) લગાવો તો તે લાલ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (પદાર્થ) ને વિભાગ B (સ્વભાવ) સાથે જોડો: <br>1. ખાંડનું દ્રાવણ <br>2. આંબલીનું પાણી <br>3. વોશિંગ સોડા <br>4. વિટામિન C ની ટેબ્લેટ <br><br> વિભાગ B: (A) બેઝિક (B) એસિડિક (C) તટસ્થ (D) એસિડિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (C) તટસ્થ <br>2 - (B) એસિડિક <br>3 - (A) બેઝિક <br>4 - (D) એસિડિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળી (ખાંડ) અને ખારી (મીઠું) વસ્તુઓ મોટાભાગે તટસ્થ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A (કારખાનાનો કચરો) ને વિભાગ B (સારવાર) સાથે જોડો: <br>1. કચરામાં એસિડ હોય <br>2. નદીના પાણીનું પ્રદૂષણ અટકાવવા <br>3. કચરામાં બેઝ ઉમેરવો <br>4. જળાશયોમાં માછલીઓનું રક્ષણ <br><br> વિભાગ B: (A) તટસ્થીકરણ કરવું (B) બેઝિક પદાર્થો ઉમેરવા (C) પર્યાવરણની જાળવણી (D) એસિડની અસર નાબૂદ કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) બેઝિક પદાર્થો ઉમેરવા <br>2 - (A) તટસ્થીકરણ કરવું <br>3 - (D) એસિડની અસર નાબૂદ કરવી <br>4 - (C) પર્યાવરણની જાળવણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝેરનું મારણ ઝેર, તેમ એસિડનું મારણ બેઝ!</p></div>"
+    }
+  ]
+}
