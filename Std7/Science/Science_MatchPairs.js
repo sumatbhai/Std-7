@@ -330,3 +330,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભૌતિક અને રાસાયણિક ફેરફારો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) લોખંડનું કટાવવું (2) બરફનું પીગળવું <br>વિભાગ B: (a) ભૌતિક ફેરફાર (b) રાસાયણિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવો પદાર્થ બને તો 'રાસાયણિક' (Chemical), પદાર્થ એનો એ જ રહે તો 'ભૌતિક' (Physical).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) ગેલ્વેનાઇઝેશન (2) સ્ટેનલેસ સ્ટીલ <br>વિભાગ B: (a) ઝીંક (જસત) નું પડ (b) લોખંડ, કાર્બન અને ક્રોમિયમનું મિશ્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GZ યાદ રાખો - Galvanization માં Zinc (ઝીંક) વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) કોપર સલ્ફેટ (2) આયર્ન સલ્ફેટ <br>વિભાગ B: (a) વાદળી રંગ (b) લીલો રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોપર' એટલે આકાશ જેવો 'વાદળી', 'આયર્ન (લોખંડ)' કાટ વગર ઘાસ જેવું 'લીલું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) મેગ્નેશિયમ ઓક્સાઈડ (2) મેગ્નેશિયમ હાઈડ્રોક્સાઈડ <br>વિભાગ B: (a) MgO (b) Mg(OH)₂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સાઈડમાં ફક્ત 'O' હોય, હાઈડ્રોક્સાઈડમાં 'OH' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) પ્રકાશસંશ્લેષણ (2) સ્ફટિકીકરણ <br>વિભાગ B: (a) રાસાયણિક ફેરફાર (b) ભૌતિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાક બનાવવાની ક્રિયામાં નવા પદાર્થ બને એટલે રાસાયણિક; શુદ્ધ પદાર્થ મેળવવો એ ભૌતિક ક્રિયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) વિનેગર (2) ખાવાનો સોડા <br>વિભાગ B: (a) એસિટિક એસિડ (b) સોડિયમ હાઈડ્રોજન કાર્બોનેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનેગર ખાટું એટલે એસિડ; સોડા એટલે કાર્બોનેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) કાર્બન ડાયોક્સાઈડ + ચૂનાનું પાણી (2) ઓઝોન સ્તર <br>વિભાગ B: (a) દૂધિયું દ્રાવણ (b) અલ્ટ્રાવાયોલેટ વિકિરણોથી રક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 ટેસ્ટ એટલે 'દૂધિયું' યાદ રાખવું. ઓઝોન એટલે પૃથ્વીની 'છત્રી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) લોખંડનો કાટ (2) મેગ્નેશિયમની પટ્ટીનું સળગવું <br>વિભાગ B: (a) Fe₂O₃ (b) સફેદ ઝગારા મારતી જ્યોત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્નેશિયમ એટલે 'મેજિક' (સફેદ પ્રકાશ). કાટ એટલે આયર્ન અને ઓક્સિજનની દોસ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) આકાર અને કદમાં ફેરફાર (2) ગંધ અને રંગમાં ફેરફાર <br>વિભાગ B: (a) ભૌતિક ગુણધર્મો (b) રાસાયણિક ફેરફારના લક્ષણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દેખાય (આકાર) તે ભૌતિક, જે અનુભવાય (ગંધ) તે રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) કાટ લાગવા માટે જરૂરી (2) સ્ફટિકીકરણ માટે વપરાતું એસિડ <br>વિભાગ B: (a) ઓક્સિજન અને ભેજ (b) મંદ સલ્ફ્યુરિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટ માટે હવા (O2) અને પાણી (ભેજ) ની જોડી જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) ફળોનું પાકવું (2) કાગળના ટુકડા કરવા <br>વિભાગ B: (a) રાસાયણિક ફેરફાર (b) ભૌતિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકેલું ફળ પાછું કાચું ન થાય (Irreversible) એટલે રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) મોરથૂથુ (2) કેલ્શિયમ કાર્બોનેટ <br>વિભાગ B: (a) કોપર સલ્ફેટ (b) CaCO₃",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરથૂથુ એટલે વાદળી પથ્થર (CuSO4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) મીણનું પીગળવું (2) મીણબત્તીનું સળગવું <br>વિભાગ B: (a) ભૌતિક ફેરફાર (b) ભૌતિક અને રાસાયણિક બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીગળવું (Melting) હંમેશા ભૌતિક, પણ સળગવું (Burning) માં ગેસ બને એટલે રાસાયણિક પણ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) લોખંડની છરી પર કોપરનું પડ (2) સમુદ્ર કિનારે કાટની ઝડપ <br>વિભાગ B: (a) વિસ્થાપન પ્રક્રિયા (b) વધુ ઝડપી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષારવાળા પાણીમાં કાટ 'સુપરફાસ્ટ' લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A: (1) ભૌતિક ફેરફાર (2) રાસાયણિક ફેરફાર <br>વિભાગ B: (a) પ્રતિવર્તી હોઈ શકે (b) સામાન્ય રીતે અપ્રતિવર્તી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક એટલે 'U-Turn' શક્ય છે, રાસાયણિક એટલે 'One Way'.</p></div>"
+    }
+  ]
+}
