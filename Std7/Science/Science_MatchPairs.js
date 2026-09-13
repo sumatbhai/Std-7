@@ -56,3 +56,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "પ્રાણીઓમાં પોષણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) લાળગ્રંથિ, (2) જઠર, (3) યકૃત, (4) નાનું આંતરડું \nવિભાગ 'બ': (A) પિત્તરસનો સ્ત્રાવ, (B) પાચન પૂર્ણ થાય, (C) લાળરસનો સ્ત્રાવ, (D) એસિડનો સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાળ-લાળગ્રંથિ, જઠર-એસિડ (HCl), યકૃત-પિત્ત અને નાનું આંતરડું એટલે પાચનનું 'ફિનિશિંગ' પોઈન્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખોરાકના ઘટકો અને તેના પાચન પછીના સ્વરૂપોને જોડો: \nવિભાગ 'અ': (1) કાર્બોદિત, (2) પ્રોટીન, (3) ચરબી, (4) સ્ટાર્ચ \nવિભાગ 'બ': (A) એમિનો એસિડ, (B) ફેટી એસિડ અને ગ્લિસરોલ, (C) શર્કરા/ગ્લુકોઝ, (D) જટિલ ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-G (કાર્બોદિત-ગ્લુકોઝ), P-A (પ્રોટીન-એમિનો), F-F (ફેટ-ફેટી એસિડ). બસ આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રાણીઓ અને તેમની ખોરાક લેવાની પદ્ધતિ જોડો: \nવિભાગ 'અ': (1) હમિંગ બર્ડ, (2) મચ્છર, (3) અજગર, (4) કીડી \nવિભાગ 'બ': (A) ગળી જવું, (B) ચાવવું, (C) ચૂસવું, (D) રુધિર ચૂસવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષી ચૂસે, અજગર ગળે, અને કીડી નાની પણ ચાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાચન અંગો અને તેમની વિશિષ્ટતા જોડો: \nવિભાગ 'અ': (1) રસાંકુરો, (2) આમાશય, (3) અન્નનળી, (4) મોટું આંતરડું \nવિભાગ 'બ': (A) ઘાસ ખાનારા પ્રાણીઓનું જઠર, (B) શોષણ સપાટીમાં વધારો, (C) વધારાના પાણીનું શોષણ, (D) ખોરાકનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસાંકુરો = શોષણની 'લિફ્ટ', આમાશય = ગાય-ભેંસનું 'ગોડાઉન', મોટું આંતરડું = પાણીનો 'સ્પોન્જ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અમીબાના ભાગો અને તેના કાર્યો જોડો: \nવિભાગ 'અ': (1) ખોટા પગ, (2) અન્નધાની, (3) કોષરસ સ્તર, (4) કોષકેન્દ્ર \nવિભાગ 'બ': (A) ખોરાકનું પાચન, (B) હલનચલન અને ખોરાક પકડવો, (C) નિયંત્રણ કેન્દ્ર, (D) બહારનું આવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોટા પગ = ચાલવા માટે, અન્નધાની = રસોડું (પાચન માટે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દાંતના પ્રકાર અને તેનું કાર્ય જોડો: \nવિભાગ 'અ': (1) છેદક દાંત, (2) રાક્ષી દાંત, (3) અગ્રદાઢ, (4) દાઢ \nવિભાગ 'બ': (A) ચીરવા અને ફાડવા, (B) કાપવા અને બચકું ભરવા, (C) ચાવવા અને ભરડવા, (D) ચાવવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદક = કાતર (Cut), રાક્ષી = ખીલો (Tear), દાઢ = ઘંટી (Grind)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાચનતંત્રની ગ્રંથિઓ અને સ્થાન જોડો: \nવિભાગ 'અ': (1) સ્વાદુપિંડ, (2) યકૃત, (3) લાળગ્રંથિ, (4) જઠરની દીવાલ \nવિભાગ 'બ': (A) ઉદરની ઉપરના ભાગે જમણી બાજુ, (B) જઠરની નીચે, (C) મુખગુહામાં, (D) જઠરની અંદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યકૃત 'Top Right' છે, સ્વાદુપિંડ જઠરની 'Down' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાચન પ્રક્રિયાના સોપાન અને તેનો અર્થ જોડો: \nવિભાગ 'અ': (1) અંતઃગ્રહણ, (2) પાચન, (3) શોષણ, (4) સ્વાંગીકરણ \nવિભાગ 'બ': (A) જટિલમાંથી સરળમાં રૂપાંતર, (B) ખોરાક શરીરની અંદર લેવો, (C) રુધિરમાં ભળવું, (D) પાચિત ખોરાકનો ઉપયોગ કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃ = અંદર લેવું, પાચન = તોડવું, શોષણ = લોહીમાં લેવું, સ્વાંગીકરણ = વાપરવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિશિષ્ટ પ્રાણીઓ અને પાચન અંગો જોડો: \nવિભાગ 'અ': (1) તારા માછલી, (2) ગાય, (3) અમીબા, (4) મનુષ્ય \nવિભાગ 'બ': (A) રુમેન, (B) જઠર બહાર કાઢવું, (C) જઠર, (D) ખોટા પગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારા માછલીનું જઠર 'Out', ગાયનું 'Rumen', અમીબા 'Fake feet'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્વાદ અને જીભના ભાગો જોડો: \nવિભાગ 'અ': (1) ગળ્યો, (2) કડવો, (3) ખાટો, (4) ખારો \nવિભાગ 'બ': (A) જીભની પાછળનો ભાગ, (B) જીભનો ટેરવો, (C) જીભની બંને બાજુ (પાછળ), (D) જીભની બંને બાજુ (આગળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળ્યું 'આગળ', કડવું 'પાછળ', ખાટું-ખારું 'સાઇડમાં'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લંબાઈ અને અંગ જોડો: \nવિભાગ 'અ': (1) અન્નનળી, (2) નાનું આંતરડું, (3) મોટું આંતરડું, (4) જઠર \nવિભાગ 'બ': (A) 1.5 મીટર, (B) 7.5 મીટર, (C) લાંબી નળી, (D) જે (J) આકારની કોથળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું આંતરડું 'સૌથી મોટું' (7.5m), મોટું આંતરડું 'નાનું' (1.5m)! કન્ફ્યુઝ ના થતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પદાર્થો અને તેના સ્ત્રાવ જોડો: \nવિભાગ 'અ': (1) લાળરસ, (2) પિત્તરસ, (3) સ્વાદુરસ, (4) જઠરરસ \nવિભાગ 'બ': (A) ચરબીનું પાચન, (B) પ્રોટીનનું પાચન, (C) સ્ટાર્ચનું પાચન, (D) કાર્બોદિત, ચરબી, પ્રોટીન ત્રણેય પર કાર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-D), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢામાં સ્ટાર્ચ, યકૃતમાં ફેટ (ચરબી), સ્વાદુપિંડ 'ઓલ રાઉન્ડર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દૂધિયા દાંત અને કાયમી દાંત જોડો: \nવિભાગ 'અ': (1) પ્રથમ સેટ, (2) દ્વિતીય સેટ, (3) દૂધિયા દાંત પડવાની ઉંમર, (4) કાયમી દાંતની સંખ્યા \nવિભાગ 'બ': (A) 6 થી 8 વર્ષ, (B) દૂધિયા દાંત, (C) 32, (D) કાયમી દાંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધિયા દાંત બાળપણના, કાયમી દાંત આખી જિંદગીના (32 તોડવાના નહીં!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વાગોળનાર પ્રાણીઓની વિશિષ્ટતા જોડો: \nવિભાગ 'અ': (1) સેલ્યુલોઝ, (2) વાગોળવું (Cud), (3) રુમેન, (4) અંધાંત્ર \nવિભાગ 'બ': (A) જઠરનો એક ભાગ, (B) ઘાસમાં રહેલ કાર્બોદિત, (C) અર્ધપાચિત ખોરાક, (D) નાના-મોટા આંતરડા વચ્ચેની કોથળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ એટલે સેલ્યુલોઝ, વાગોળવું એટલે પાછો લાવીને ચાવવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાચન માર્ગના અંગો અને પ્રક્રિયા જોડો: \nવિભાગ 'અ': (1) મુખગુહા, (2) જઠર, (3) મળાશય, (4) મળદ્વાર \nવિભાગ 'બ': (A) મળનો ત્યાગ, (B) ખોરાકનું ગ્રહણ, (C) પ્રોટીનનું પાચન શરૂ થાય, (D) અપાચિત ખોરાકનો સંગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-D), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખથી 'In', દ્વારથી 'Out', મળાશય એટલે 'વેઈટિંગ રૂમ'!</p></div>"
+    }
+  ]
+}
