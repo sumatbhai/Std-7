@@ -139,3 +139,111 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ઉષ્મા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ક્લિનિકલ થર્મોમીટરની રેન્જ <br> (2) લેબોરેટરી થર્મોમીટરની રેન્જ <br><br> વિભાગ B: <br> (A) -10°C થી 110°C <br> (B) 35°C થી 42°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્લિનિક' નાનું હોય એટલે નાની રેન્જ (35-42), 'લેબોરેટરી' મોટી હોય એટલે મોટી રેન્જ (-10 થી 110)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઉષ્મા વહન <br> (2) ઉષ્મા નયન <br><br> વિભાગ B: <br> (A) પ્રવાહી અને વાયુ પદાર્થોમાં <br> (B) ઘન પદાર્થોમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વહન' એટલે 'ઘન' (બંનેમાં 'ન' આવે છે). નયન (નયનોથી પ્રવાહી/આંસુ વહે) એટલે પ્રવાહી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) દરિયાઈ લહેર <br> (2) ભૂમિ લહેર <br><br> વિભાગ B: <br> (A) રાત્રિ દરમિયાન <br> (B) દિવસ દરમિયાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ' થી 'દરિયો' અને 'દ' થી 'દિવસ'. દરિયાઈ લહેર હંમેશા દિવસે જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઉષ્માના સુવાહક <br> (2) ઉષ્માના મંદવાહક <br><br> વિભાગ B: <br> (A) લાકડું અને પ્લાસ્ટિક <br> (B) તાંબુ અને એલ્યુમિનિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગરમ થાય તે 'સુ'વાહક (ધાતુ), જે ગરમ ન લાગે તે 'મંદ'વાહક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઘેરા રંગના વસ્ત્રો <br> (2) હળવા રંગના વસ્ત્રો <br><br> વિભાગ B: <br> (A) ઉનાળામાં પસંદ કરવામાં આવે છે <br> (B) શિયાળામાં પસંદ કરવામાં આવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘેરો રંગ ગરમી ખેંચે (સોષે), એટલે ઠંડી (શિયાળા) માં પહેરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) માનવ શરીરનું સામાન્ય તાપમાન <br> (2) પાણીનું ઉત્કલન બિંદુ <br><br> વિભાગ B: <br> (A) 100°C <br> (B) 37°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તગડે સાતડે સાડત્રીસ, માણસ રહે ફિટ એન્ડ ફાઈન (37°C)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઉષ્મા વિકિરણ <br> (2) થર્મોમીટરમાં પારો <br><br> વિભાગ B: <br> (A) માધ્યમની જરૂર નથી <br> (B) ઉષ્મા સાથે કદમાં વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યના 'કિરણ' (વિકિરણ) ને આવવા માટે કોઈ રસ્તા (માધ્યમ) ની જરૂર નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઉન <br> (2) સ્ટીલની ચમચી <br><br> વિભાગ B: <br> (A) ઉષ્માનું વહન કરે <br> (B) ઉષ્માનું અવાહક (હવા રોકી રાખે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉન વચ્ચે હવા ભરાયેલી હોય, જે ગરમીને બહાર જતી રોકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ખાંચ (Kink) <br> (2) આલ્કોહોલ થર્મોમીટર <br><br> વિભાગ B: <br> (A) ખૂબ નીચું તાપમાન માપવા <br> (B) ક્લિનિકલ થર્મોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લિનિકમાં પારો નીચે ન પડી જાય એટલે 'ખાંચ' (Kink) રક્ષણ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) તાપમાનનો એકમ <br> (2) ગરમીનો સ્ત્રોત <br><br> વિભાગ B: <br> (A) સૂર્ય <br> (B) અંશ સેલ્સિયસ (°C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન માપવા 'ડિગ્રી' જોઈએ, ગરમી માટે 'સૂર્ય' દાદા જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) થર્મોમીટરને હંમેશા <br> (2) ગરમ દૂધમાં ક્લિનિકલ થર્મોમીટર <br><br> વિભાગ B: <br> (A) તોડવું જોઈએ નહીં / રાખવું નહીં <br> (B) એન્ટિસેપ્ટિક દ્રાવણથી ધોવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉક્ટર પાસે જાવ તો પહેલા 'સાફ' (Antiseptic) કરે, પછી જ મોઢામાં મૂકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સ્ટેનલેસ સ્ટીલના પાનનું તળિયું <br> (2) રસોઈના વાસણના હાથા <br><br> વિભાગ B: <br> (A) એબોનાઈટ કે લાકડું <br> (B) તાંબાનું બનેલું (ઝડપી ગરમ થવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથ ન બળે એટલે લાકડું (હાથા), જલ્દી રસોઈ થાય એટલે તાંબુ (તળિયું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ફેરનહીટ સ્કેલ <br> (2) પારો (Mercury) <br><br> વિભાગ B: <br> (A) 94°F થી 108°F <br> (B) ચળકતી પ્રવાહી ધાતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારો એવો રાજા છે જે ધાતુ હોવા છતાં 'પ્રવાહી' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) જમીન વધુ ઝડપથી ગરમ થાય <br> (2) પાણી ધીમેથી ગરમ થાય <br><br> વિભાગ B: <br> (A) સમુદ્રમાં <br> (B) દિવસ દરમિયાન (ભૂમિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જલ્દી ગરમ થાય, એ જ જલ્દી ઠંડુ પણ થાય (જમીન)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઉષ્માનો પ્રવાહ <br> (2) ઉષ્મીય સંતુલન <br><br> વિભાગ B: <br> (A) સમાન તાપમાન <br> (B) વધુ તાપમાનથી ઓછા તાપમાન તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી હંમેશા અમીર (વધુ ગરમ) થી ગરીબ (ઓછું ગરમ) પાસે જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) લોખંડનો સળિયો <br> (2) એર કંડિશનર (AC) <br><br> વિભાગ B: <br> (A) ઉષ્મા નયનનો સિદ્ધાંત <br> (B) ઉષ્મા વહનનો સિદ્ધાંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ એટલે ઘન = વહન. AC હવા ઠંડી કરે = નયન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ડિજિટલ થર્મોમીટર <br> (2) પારો ઝેરી પદાર્થ <br><br> વિભાગ B: <br> (A) પારાનો ઉપયોગ થતો નથી <br> (B) નિકાલ કરવો મુશ્કેલ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિજિટલ યુગમાં પારો ગયો, હવે તો સેન્સર આવ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) શિયાળામાં એક જાડું વસ્ત્ર <br> (2) શિયાળામાં બે પાતળા વસ્ત્રો <br><br> વિભાગ B: <br> (A) વધુ ગરમી આપે <br> (B) ઓછી ગરમી આપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે કપડાની વચ્ચે 'હવા' નું પડ બને જે ગરમીને પકડી રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઉષ્મા માપક સાધન <br> (2) તાપમાન માપક સાધન <br><br> વિભાગ B: <br> (A) થર્મોમીટર <br> (B) કેલરીમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન એટલે થર્મોમીટર, ગરમીનો જથ્થો એટલે કેલરીમીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) થર્મોમીટર જોતી વખતે <br> (2) થર્મોમીટર પકડતી વખતે <br><br> વિભાગ B: <br> (A) મરક્યુરી બલ્બથી પકડવું નહીં <br> (B) દ્રષ્ટિની સમાંતર રાખવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલ્બને અડો તો તમારું તાપમાન માપવા માંડે, એટલે હંમેશા છેડેથી પકડવું!</p></div>"
+    }
+  ]
+}
