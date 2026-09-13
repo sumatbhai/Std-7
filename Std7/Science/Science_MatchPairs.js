@@ -496,3 +496,111 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) રક્તકણો (RBC), (2) શ્વેતકણો (WBC) \nવિભાગ B: (A) રોગો સામે લડત આપે છે, (B) હિમોગ્લોબિન ધરાવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ર' પરથી રક્તકણો અને 'ર' પરથી રાતો રંગ (હિમોગ્લોબિન). શ્વેતકણો એટલે શરીરના સૈનિકો જે રોગો સામે લડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) રુધિર કેશિકાઓ, (2) રુધિર ગંઠાઈ જવાની ક્રિયા \nવિભાગ B: (A) ત્રાકકણો (Platelets), (B) ધમની અને શિરાને જોડે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેશિકાઓ એટલે જાળી જેવી રચના જે બંનેને જોડે. લોહી વહેતું અટકાવવા માટે 'ત્રાક' (પ્લેટલેટ્સ) કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) ધમની, (2) શિરા \nવિભાગ B: (A) ઓક્સિજનયુક્ત રુધિરનું વહન, (B) કાર્બન ડાયોક્સાઈડયુક્ત રુધિરનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધ' પરથી ધબકતું અને 'શુદ્ધ' (O2) લોહી. શિરા અશુદ્ધ લોહી પાછું લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) જલવાહક પેશી, (2) અન્નવાહક પેશી \nવિભાગ B: (A) ખોરાકનું વહન, (B) પાણીનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' પરથી જલ (પાણી) અને 'અ' પરથી અન્ન (ખોરાક). સાવ સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) મૂત્રપિંડ, (2) મૂત્રવાહિની \nવિભાગ B: (A) નળી જેવી રચના, (B) રુધિર ગાળવાની ક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્રપિંડ એટલે શરીરનું ફિલ્ટર (ગળણી) અને વાહિની એટલે વહન કરતી પાઇપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) સ્ટેથોસ્કોપ, (2) નાડી દર \nવિભાગ B: (A) દર મિનિટે થતા ધબકારા, (B) હૃદયના ધબકારા માપવાનું સાધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉક્ટર ગળામાં ભરાવે તે સ્ટેથોસ્કોપ અને કાંડા પર તપાસે તે નાડી દર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) માછલી, (2) પક્ષીઓ અને ગરોળી \nવિભાગ B: (A) એમોનિયાનો ત્યાગ, (B) યુરિક એસિડનો ત્યાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રહેતા (માછલી) એમોનિયા કાઢે, જે ઉડે છે અથવા પેટે ચાલે છે તે સફેદ રંગનો યુરિક એસિડ કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) બાષ્પોત્સર્જન, (2) મૂળરોમ \nવિભાગ B: (A) પાણીનું શોષણ વધારે છે, (B) વનસ્પતિને ઠંડક આપે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાષ્પોત્સર્જન એટલે વનસ્પતિનો પરસેવો જે ઠંડક આપે, મૂળરોમ એટલે જમીનમાંથી પાણી ખેંચતા વાળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) હૃદયના ઉપરના ખંડો, (2) હૃદયના નીચેના ખંડો \nવિભાગ B: (A) ક્ષેપકો, (B) કર્ણકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' પહેલા આવે એટલે ઉપર (કર્ણકો), 'ક્ષ' પછી આવે એટલે નીચે (ક્ષેપકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) ડાયાલિસિસ, (2) પસીનો \nવિભાગ B: (A) પાણી અને ક્ષારો ધરાવે, (B) કૃત્રિમ રીતે રુધિર ગાળવાની પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કિડની કામ ન કરે ત્યારે 'ડાયાલિસિસ' (મશીન) ની મદદ લેવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) રુધિરરસ (Plasma), (2) હિમોગ્લોબિન \nવિભાગ B: (A) રુધિરનો પ્રવાહી ભાગ, (B) લાલ રંગનું રંજકદ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાઝમા એટલે પ્રવાહી (P-P) અને હિમોગ્લોબિન એટલે લોહીની લાલી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) ફુપ્ફુસીય ધમની, (2) ફુપ્ફુસીય શિરા \nવિભાગ B: (A) હૃદય તરફ શુદ્ધ રુધિર લાવે, (B) ફેફસાં તરફ અશુદ્ધ રુધિર લઈ જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ અપવાદ છે! સામાન્ય ધમની શુદ્ધ લોહી વહેવડાવે, પણ 'ફુપ્ફુસીય' લગાવો એટલે કામ ઉલટું થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) મૂત્રાશય, (2) મૂત્રમાર્ગ \nવિભાગ B: (A) મૂત્રના ત્યાગ માટેનો માર્ગ, (B) મૂત્રનો સંગ્રહ કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આશય' એટલે રહેવાનું સ્થાન (સંગ્રહ) અને 'માર્ગ' એટલે રસ્તો (ત્યાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) મનુષ્યનો નાડી દર (સામાન્ય), (2) પુખ્ત વ્યક્તિ દ્વારા ત્યાગ થતું મૂત્ર (દિવસમાં) \nવિભાગ B: (A) 1 થી 1.8 લિટર, (B) 72 થી 80 ધબકારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાડી દર 70-80 ની આસપાસ હોય અને મૂત્ર લગભગ 1.5 લિટર જેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) ઉત્સર્જન, (2) પરિવહન \nવિભાગ B: (A) નકામા પદાર્થો નિકાલ કરવાની ક્રિયા, (B) પોષક દ્રવ્યોના વહનની ક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સર્જન' (કાઢી નાખવું - ઉત્સર્જન) અને 'વહન' (ફરવું - પરિવહન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) વાલ્વ, (2) હૃદયના ધબકારા \nવિભાગ B: (A) લયબદ્ધ સંકોચન અને વિકોચન, (B) રુધિરને એક જ દિશામાં વહેવા દે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાલ્વ એટલે દરવાજો જે એક જ બાજુ ખુલે! ધબકારા એટલે હૃદયનું પમ્પિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) પર્ણરંધ્ર, (2) ઉત્સર્ગ એકમ \nવિભાગ B: (A) બાષ્પોત્સર્જનની ક્રિયા, (B) ગાળણની પ્રક્રિયા (મૂત્રપિંડમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંદડાના છિદ્રને રંધ્ર કહેવાય અને કિડનીના કામને ઉત્સર્ગ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) રુધિર ગંઠાવું, (2) ઊર્ધ્વગામી વહન \nવિભાગ B: (A) વિટામિન K અને પ્લેટલેટ્સ, (B) જલવાહક પેશી દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી જામવા માટે 'પ્લેટલેટ્સ' જોઈએ અને પાણી હંમેશા ઉપર (ઊર્ધ્વ) ચઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) હૃદય, (2) રુધિરવાહિનીઓ \nવિભાગ B: (A) રુધિર વહનનો માર્ગ, (B) સતત ધબકતું પમ્પ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય એ શરીરનું એન્જિન (પમ્પ) છે અને વાહિનીઓ તે પાઇપલાઇન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) યુરિયા, (2) ક્ષાર \nવિભાગ B: (A) પરસેવા દ્વારા બહાર નીકળે, (B) માનવ મૂત્રમાં મુખ્ય ઉત્સર્ગ દ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરસેવો ખારો હોય એટલે ક્ષાર નીકળે, અને ટોયલેટમાં મુખ્યત્વે યુરિયા હોય.</p></div>"
+    }
+  ]
+}
