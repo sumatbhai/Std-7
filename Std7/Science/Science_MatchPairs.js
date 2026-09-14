@@ -803,3 +803,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પ્રકાશ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સમતલ અરીસો <br> (2) બહિર્મુખ અરીસો <br><br> વિભાગ B: <br> (A) વસ્તુના કદ જેવડું જ પ્રતિબિંબ <br> (B) મોટા વિસ્તારની વસ્તુનું પ્રતિબિંબ જોઈ શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમતલ' એટલે 'સમાન' કદ, અને 'બહિર્મુખ' એટલે બહારનો મોટો વિસ્તાર જોવા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) અંતર્મુખ અરીસો <br> (2) પ્રિઝમ <br><br> વિભાગ B: <br> (A) દાંતના ડૉક્ટર વાપરે છે <br> (B) પ્રકાશનું સાત રંગોમાં વિભાજન કરે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર'ના દાંત જોવા ડૉક્ટર જોઈએ અને પ્રિઝમ એટલે સાત રંગોનો 'પ્રીત'મ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બહિર્મુખ લેન્સ <br> (2) અંતર્મુખ લેન્સ <br><br> વિભાગ B: <br> (A) મેગ્નિફાઇંગ ગ્લાસ તરીકે વપરાય <br> (B) હંમેશા આભાસી અને નાનું પ્રતિબિંબ આપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્મુખ લેન્સ = 'બહું મોટું' (Magnifying), અંતર્મુખ લેન્સ = 'અંદર નાનું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) વાસ્તવિક પ્રતિબિંબ <br> (2) આભાસી પ્રતિબિંબ <br><br> વિભાગ B: <br> (A) પડદા પર ઝીલી શકાય <br> (B) પડદા પર ઝીલી ન શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાસ્તવિક' એટલે જે 'પડદા' પર દેખાય, 'આભાસ' એટલે જે માત્ર મનનો ભ્રમ (પડદા પર ન આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સ્ટેનલી ન્યૂટન <br> (2) પ્રકાશ <br><br> વિભાગ B: <br> (A) સાત રંગની તકતી <br> (B) સીધી રેખામાં ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનની 'ડિસ્ક' ગોળ ફરે, પ્રકાશ હંમેશા 'સીધો' હાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સ્કૂટરના સાઈડ મિરર <br> (2) ટોર્ચના પરાવર્તક <br><br> વિભાગ B: <br> (A) બહિર્મુખ અરીસો <br> (B) અંતર્મુખ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાઈડ'માં 'બહાર'નું જોવું (બહિર્મુખ), ટોર્ચની 'અંદર' પરાવર્તક (અંતર્મુખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) મેઘધનુષ <br> (2) આભાસી અને ચત્તું પ્રતિબિંબ <br><br> વિભાગ B: <br> (A) આકાશમાં સાત રંગો <br> (B) સમતલ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘધનુષ એટલે કુદરતી 'રંગોળી', સમતલ અરીસો એટલે આપણે જેવા છીએ તેવા 'ચત્તા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) અરીસામાં ડાબી બાજુ <br> (2) અરીસામાં જમણી બાજુ <br><br> વિભાગ B: <br> (A) પદાર્થની જમણી બાજુ <br> (B) પદાર્થની ડાબી બાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસો એટલે 'ઉલટું-પુલટું' - ડાબું તે જમણું અને જમણું તે ડાબું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) મધ્યમાં જાડો લેન્સ <br> (2) મધ્યમાં પાતળો લેન્સ <br><br> વિભાગ B: <br> (A) બહિર્મુખ લેન્સ <br> (B) અંતર્મુખ લેન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહાર'થી જાડો (બહિર્મુખ), 'અંદર'થી પાતળો (અંતર્મુખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સૂર્યપ્રકાશ <br> (2) ન્યૂટનની તકતી ઝડપથી ફેરવતા <br><br> વિભાગ B: <br> (A) શ્વેત પ્રકાશ (સાત રંગોનું મિશ્રણ) <br> (B) સફેદ જેવી જણાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતેય રંગો ભેગા થાય એટલે 'સફેદ' (શાંતિ) થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) કેન્દ્રિત કરતો લેન્સ <br> (2) વિકેન્દ્રિત કરતો લેન્સ <br><br> વિભાગ B: <br> (A) બહિર્મુખ લેન્સ <br> (B) અંતર્મુખ લેન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહિર્મુખ' કિરણોને ભેગા કરે, 'અંતર્મુખ' કિરણોને છુટા (વિખેરી) પાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) કારની હેડલાઇટ <br> (2) અરીસા દ્વારા દિશા બદલવી <br><br> વિભાગ B: <br> (A) અંતર્મુખ અરીસો <br> (B) પ્રકાશનું પરાવર્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેડલાઇટમાં 'ખાડો' (અંતર્મુખ) હોય, અથડાઈને પાછા ફરવું એટલે 'પરાવર્તન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) વાસ્તવિક અને ઉલટું પ્રતિબિંબ <br> (2) હંમેશા આભાસી પ્રતિબિંબ <br><br> વિભાગ B: <br> (A) અંતર્મુખ અરીસો (વસ્તુ દૂર હોય ત્યારે) <br> (B) સમતલ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક હંમેશા 'ઉલટું' હોય, આભાસી હંમેશા 'ચત્તું' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) જળબિંદુ <br> (2) લેન્સ <br><br> વિભાગ B: <br> (A) કુદરતી પ્રિઝમ તરીકે કાર્ય <br> (B) પારદર્શક પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું ટીપું આકાશમાં પ્રિઝમ બની મેઘધનુષ રચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) નાના અક્ષરો વાંચવા <br> (2) દાઢી કરવા માટેનો અરીસો <br><br> વિભાગ B: <br> (A) બહિર્મુખ લેન્સ <br> (B) અંતર્મુખ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષર મોટા કરવા 'બહિર્મુખ' લેન્સ અને મોઢું મોટું જોવા 'અંતર્મુખ' અરીસો.</p></div>"
+    }
+  ]
+}
