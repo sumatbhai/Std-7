@@ -720,3 +720,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "સજીવોમાં શ્વસન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) ઇસ્ટ <br> (2) સ્નાયુઓ <br><br> વિભાગ 'બ': <br> (A) લેક્ટિક એસિડ <br> (B) આલ્કોહોલ <br> (C) હાઇડ્રોક્લોરિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇસ્ટ' માંથી આલ્કોહોલ બને (Yeast=Beer) અને 'સ્નાયુ' ખેંચાય ત્યારે લેક્ટિક એસિડ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) વંદો <br> (2) માછલી <br><br> વિભાગ 'બ': <br> (A) ઝાલરો <br> (B) ત્વચા <br> (C) શ્વસન છિદ્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંદાને 'છિદ્રો' (Spiracles) હોય અને માછલી પાણીમાં 'ઝાલર' (Gills) થી શ્વાસ લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) અળસિયું <br> (2) દેડકો <br><br> વિભાગ 'બ': <br> (A) માત્ર ફેફસાં <br> (B) ભીની ત્વચા <br> (C) ફેફસાં અને ત્વચા બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું 'ભીનું' હોય એટલે ત્વચા, દેડકો જમીન પર 'ફેફસાં' અને પાણીમાં 'ત્વચા' વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) ઉરોદરપટલ <br> (2) પર્ણ <br><br> વિભાગ 'બ': <br> (A) પર્ણરંધ્ર <br> (B) ઉરસગુહાનું તળિયું <br> (C) નાસિકા છિદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પર્ણ અને 'પ' થી પર્ણરંધ્ર. ઉરોદરપટલ એ છાતીના પિંજરાનું 'તળિયું' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) જારક શ્વસન <br> (2) અજારક શ્વસન <br><br> વિભાગ 'બ': <br> (A) ઓક્સિજનની ગેરહાજરી <br> (B) નાઇટ્રોજનની હાજરી <br> (C) ઓક્સિજનની હાજરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જારક' એટલે ઓક્સિજન 'હાજર', 'અજારક' એટલે 'અ' થી અગેરહાજર (ગેરહાજરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) શ્વાસ લેતી વખતે પાંસળીઓ <br> (2) ઉચ્છવાસ છોડતી વખતે પાંસળીઓ <br><br> વિભાગ 'બ': <br> (A) નીચે તરફ જાય છે <br> (B) સ્થિર રહે છે <br> (C) ઉપર અને બહાર તરફ જાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ ભરો તો છાતી 'ફુલાય' (ઉપર આવે), શ્વાસ છોડો તો છાતી 'બેસી' જાય (નીચે જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) શ્વસન નળીઓ (Trachea) <br> (2) કોષીય શ્વસન <br><br> વિભાગ 'બ': <br> (A) દરેક સજીવના કોષમાં <br> (B) કીટકોમાં <br> (C) વનસ્પતિના મૂળમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટકોમાં નળીઓનું જાળું હોય, અને 'કોષીય' શ્વસન તો 'કોષ' માં જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) ચૂનાનું નીતર્યું પાણી <br> (2) ગ્લુકોઝનું વિખંડન <br><br> વિભાગ 'બ': <br> (A) શક્તિ મુક્ત થવી <br> (B) ઓક્સિજન મુક્ત થવો <br> (C) કાર્બન ડાયોક્સાઇડની પરખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 હોય તો ચૂનાનું પાણી દૂધિયું થાય. ગ્લુકોઝ તૂટે એટલે આપણને 'શક્તિ' (Energy) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) શ્વાસ <br> (2) ઉચ્છવાસ <br><br> વિભાગ 'બ': <br> (A) 16.4% ઓક્સિજન <br> (B) 21% ઓક્સિજન <br> (C) 0.04% ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા અંદર લો ત્યારે શુદ્ધ (વધારે) ઓક્સિજન હોય, બહાર કાઢો ત્યારે વપરાયેલો (ઓછો) ઓક્સિજન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) ભારે કસરત વખતે <br> (2) ઊંઘતી વખતે <br><br> વિભાગ 'બ': <br> (A) શ્વસન દર વધે છે <br> (B) શ્વસન દર ઘટે છે <br> (C) શ્વસન દર શૂન્ય થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોડો તો હાંફી જવાય (દર વધે), સૂઈ જાઓ તો શાંતિથી શ્વાસ લેવાય (દર ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) ત્વચા દ્વારા શ્વસન <br> (2) વાયુરંધ્રો દ્વારા શ્વસન <br><br> વિભાગ 'બ': <br> (A) વનસ્પતિ <br> (B) વહેલ <br> (C) અળસિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું ચીકણું એટલે ત્વચા, વનસ્પતિના પાન પર કાણાં એટલે રંધ્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) શ્વસન દરમિયાન CO2 નું પ્રમાણ <br> (2) વાતાવરણમાં CO2 નું પ્રમાણ <br><br> વિભાગ 'બ': <br> (A) 0.04% <br> (B) 4.4% <br> (C) 21%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર કાઢેલી હવામાં CO2 'વધારે' (4.4%) હોય, જ્યારે હવામાં ખૂબ 'ઓછો' (0.04%) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) નાસિકા છિદ્રો <br> (2) શ્વાસનળી <br><br> વિભાગ 'બ': <br> (A) હવા ગાળવાનું કામ <br> (B) હવાને ફેફસાં સુધી પહોંચાડે <br> (C) ખોરાકનું પાચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાકના વાળ હવા ગાળે (Filter), નળી તો રસ્તો (Pipe) છે જે ફેફસાં સુધી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) બ્લોહોલ્સ (Blowholes) <br> (2) વાતરંધ્રો (Lenticels) <br><br> વિભાગ 'બ': <br> (A) વનસ્પતિનું પ્રકાંડ <br> (B) ડોલ્ફિન અને વહેલ <br> (C) પક્ષીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લોહોલ્સ એટલે પાણીના જીવો (વહેલ) માટેની બારી, વાતરંધ્રો એટલે લાકડા જેવા પ્રકાંડના કાણાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) છીંક આવવી <br> (2) બગાસું આવવું <br><br> વિભાગ 'બ': <br> (A) ઓક્સિજનની કમી <br> (B) કચરો નાકમાંથી બહાર કાઢવો <br> (C) લોહીનું દબાણ વધવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છીંક એટલે 'ધક્કો' (કચરો કાઢવા), બગાસું એટલે ઓક્સિજનની 'તંગી' (ઊંઘમાં).</p></div>"
+    }
+  ]
+}
