@@ -886,3 +886,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વનસ્પતિમાં પ્રજનન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) કલિકાસર્જન <br> (2) અવખંડન <br> (3) બીજાણુસર્જન <br><br> વિભાગ 'બ': <br> (A) સ્પાયરોગાયરા <br> (B) યીસ્ટ <br> (C) મ્યુકર (બ્રેડ મોલ્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યીસ્ટની કળી, સ્પાયરોનો ખંડ અને બ્રેડના બીજાણુ' - આ ત્રણ શબ્દો યાદ રાખો એટલે આખું જોડકું પાકું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (વાનસ્પતિક પ્રજનન) ને વિભાગ 'બ' (ઉદાહરણ) સાથે જોડો: <br> (1) પ્રકાંડ દ્વારા <br> (2) મૂળ દ્વારા <br> (3) પર્ણ દ્વારા <br><br> વિભાગ 'બ': <br> (A) પાનફૂટી <br> (B) બટાટા <br> (C) શક્કરિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાનફૂટીમાં 'પાન' શબ્દ જ છે એટલે પર્ણ, બટાટા એ જમીનમાં હોવા છતાં પ્રકાંડ છે તે ખાસ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) પાંખવાળા બીજ <br> (2) રોમમય બીજ <br> (3) કાંટાવાળા બીજ <br><br> વિભાગ 'બ': <br> (A) સૂર્યમુખી <br> (B) મેપલ / સીકામોર <br> (C) ગાડરિયું (Xanthium)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેપલમાં 'મ' પાંખ જેવો લાગે, ગાડરિયું એટલે ગાડર (ઘેટા) ના વાળમાં ભરાય તેવું કાંટાવાળું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પુષ્પના ભાગોને તેમના કાર્ય/પ્રકાર સાથે જોડો: <br> (1) પુંકેસર <br> (2) સ્ત્રીકેસર <br> (3) અંડાશય <br><br> વિભાગ 'બ': <br> (A) માદા પ્રજનન અંગ <br> (B) ફળમાં રૂપાંતર પામે <br> (C) નર પ્રજનન અંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પુ' એટલે પુરૂષ (નર) - પુંકેસર. અંડાશય હંમેશા ફળ (Fruit) બને છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બીજ ફેલાવવાની રીત અને ઉદાહરણ જોડો: <br> (1) પવન દ્વારા <br> (2) પાણી દ્વારા <br> (3) પ્રાણીઓ દ્વારા <br><br> વિભાગ 'બ': <br> (A) નાળિયેર <br> (B) યુરેના <br> (C) મદાર (આંકડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર દરિયા કિનારે હોય એટલે પાણી, આંકડાના રૂ (બીજ) હવામાં ઉડે એટલે પવન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ફૂલના પ્રકારો અને તેના ઉદાહરણો જોડો: <br> (1) એકલિંગી પુષ્પ <br> (2) દ્વિલિંગી પુષ્પ <br> (3) કલિકા દ્વારા નવો છોડ <br><br> વિભાગ 'બ': <br> (A) ગુલાબ <br> (B) મકાઈ <br> (C) સરસવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકાઈ અને પપૈયા 'એકલા' (એકલિંગી) હોય, સરસવ અને જાસૂદ 'બે' (દ્વિલિંગી) સાથે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિજ્ઞાનની પ્રક્રિયાઓ અને તેના પરિણામ જોડો: <br> (1) પરાગનયન <br> (2) ફલન <br> (3) બીજાંકુરણ <br><br> વિભાગ 'બ': <br> (A) ફલિતાંડનું નિર્માણ <br> (B) નવો છોડ બનવો <br> (C) પરાગરજનું પરાગાસન પર સ્થાપન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગનયન એટલે માત્ર 'ટ્રાન્સફર', ફલન એટલે 'મેળપ' (ફલિતાંડ), અને અંકુરણ એટલે 'જન્મ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વનસ્પતિ અને તેની પ્રજનન અંગની વિશેષતા જોડો: <br> (1) હંસરાજ (Fern) <br> (2) આદુ <br> (3) ગુલાબ <br><br> વિભાગ 'બ': <br> (A) ગાંઠામૂળી (પ્રકાંડ) <br> (B) બીજાણુધાની <br> (C) કલમ કરવી (કાપેલ પ્રકાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુલાબની તો કલમ જ રોપાય! આદુ જમીનની અંદર વધતું પ્રકાંડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બીજ ફેલાવવાની વિશિષ્ટ રીતો જોડો: <br> (1) ઝટકા સાથે ફાટવું <br> (2) પ્રાણીઓના શરીર પર ચોંટવું <br> (3) હવામાં તરીને જવું <br><br> વિભાગ 'બ': <br> (A) સૂર્યમુખીના રોમમય ફળ <br> (B) એરંડા / બાલસમ <br> (C) યુરેના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાલસમ (Balsam) માં 'બ્લાસ્ટ' (Blast) થાય એટલે કે ફાટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વનસ્પતિના ભાગ અને તેના કાર્યો જોડો: <br> (1) પરાગરજ <br> (2) અંડક <br> (3) પરાગાસન <br><br> વિભાગ 'બ': <br> (A) બીજમાં રૂપાંતર પામે <br> (B) પરાગરજને ગ્રહણ કરે <br> (C) નર જન્યુઓ ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડાશયમાંથી ફળ બને અને અંડકમાંથી બીજ બને (અંડક-બીજ યાદ રાખવું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વનસ્પતિ અને તેની લાક્ષણિકતા જોડો: <br> (1) ડાલિયા (Dahlia) <br> (2) થોર (Cactus) <br> (3) બ્રેડ મોલ્ડ <br><br> વિભાગ 'બ': <br> (A) ટુકડો અલગ થતા નવો છોડ <br> (B) જાળીદાર બીજાણુ <br> (C) માંસલ મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલિયા અને શક્કરિયું બંને મૂળ દ્વારા પ્રજનન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પરાગનયનના પ્રકારો જોડો: <br> (1) સ્વ-પરાગનયન <br> (2) પર-પરાગનયન <br> (3) પરાગવાહકો <br><br> વિભાગ 'બ': <br> (A) પવન, પાણી, કીટકો <br> (B) તે જ પુષ્પના પરાગાસન પર <br> (C) અન્ય છોડના પુષ્પના પરાગાસન પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વ' એટલે પોતાનું (તે જ ફૂલ) અને 'પર' એટલે પારકું (બીજું ફૂલ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લિંગી પ્રજનનના તબક્કા જોડો: <br> (1) જન્યુઓનું સંમિલન <br> (2) ભ્રૂણ નિર્માણ <br> (3) પરાગનયન <br><br> વિભાગ 'બ': <br> (A) પ્રથમ તબક્કો <br> (B) ફલન <br> (C) ફલિતાંડનું વિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમિલન એટલે જ ફલન! ભ્રૂણ હંમેશા વિભાજન પછી જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વનસ્પતિના ભાગો અને પ્રજનન પદ્ધતિ જોડો: <br> (1) શેરડી <br> (2) પાનફૂટીની કિનારી <br> (3) મોસ (Moss) <br><br> વિભાગ 'બ': <br> (A) કલિકાઓ <br> (B) સાંધા/ગાંઠ (Node) <br> (C) બીજાણુ સર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીમાં ગાંઠ હોય ત્યાંથી જ નવો છોડ ફૂટે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (ફૂલના ભાગ) અને 'બ' (પેટા ભાગ) જોડો: <br> (1) પુંકેસર <br> (2) સ્ત્રીકેસર <br> (3) પરાગનયન માધ્યમ <br><br> વિભાગ 'બ': <br> (A) પરાગવાહિની અને અંડાશય <br> (B) પરાગાશય અને તંતુ <br> (C) મધમાખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુંકેસરમાં 'પ' થી પરાગાશય અને સ્ત્રીકેસરમાં 'અ' થી અંડાશય મુખ્ય છે.</p></div>"
+    }
+  ]
+}
