@@ -969,3 +969,111 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગતિ અને સમય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઓડોમીટર <br> (2) સ્પીડોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ઓડોમીટર — વાહને કાપેલું અંતર માપે છે. <br>(2) સ્પીડોમીટર — વાહનની ઝડપ માપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓ' એટલે 'અંતર' (Odometer measures Distance) અને 'સ્પીડ' એટલે 'ઝડપ' (Speedometer measures Speed).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) અંતરનો મૂળભૂત એકમ <br> (2) સમયનો મૂળભૂત એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) અંતરનો મૂળભૂત એકમ — મીટર (m) <br>(2) સમયનો મૂળભૂત એકમ — સેકન્ડ (s)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમય' ની 'સેકન્ડ' (S for S) અને 'અંતર' નો 'મીટર' (Distance is Measured in Meter).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઝડપનું સૂત્ર <br> (2) અંતરનું સૂત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ઝડપ — કાપેલું કુલ અંતર / તે માટે લાગેલો કુલ સમય <br>(2) અંતર — ઝડપ × સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝડપ = અ/સ' (અંતર ભાગ્યા સમય) અને 'અંતર = ઝ*સ' (ઝડપ ગુણ્યા સમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સાદું લોલક <br> (2) લોલકની ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) સાદું લોલક — ધાતુનો નાનો ગોળો અને દોરી <br>(2) લોલકની ગતિ — આવર્ત ગતિ (periodic motion)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલક હંમેશા 'આવર્ત' (રીપીટ) થાય, એટલે કે આવર્ત ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઝડપનો મૂળભૂત એકમ <br> (2) ઝડપનો મોટો એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ઝડપનો મૂળભૂત એકમ — m/s (મીટર/સેકન્ડ) <br>(2) ઝડપનો મોટો એકમ — km/h (કિલોમીટર/કલાક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું માપવું હોય તો 'મીટર/સેકન્ડ' અને લાંબુ અંતર હોય તો 'કિમી/કલાક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) નિયમિત ગતિ <br> (2) અનિયમિત ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) નિયમિત ગતિ — અચળ ઝડપે થતી ગતિ <br>(2) અનિયમિત ગતિ — ઝડપમાં સતત ફેરફાર થતી ગતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિયમિત' એટલે 'ફિક્સ સ્પીડ' (Constant) અને 'અનિયમિત' એટલે 'બદલાતી સ્પીડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ૧ મિનિટ <br> (2) ૧ કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ૧ મિનિટ — ૬૦ સેકન્ડ <br>(2) ૧ કલાક — ૬૦ મિનિટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળનો કાંટો એક ચક્ર ફરે એટલે 60 નો જ આંકડો યાદ રાખવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) અંતર-સમયનો આલેખ (નિયમિત ગતિ) <br> (2) અંતર-સમયનો આલેખ (સ્થિર પદાર્થ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) અંતર-સમયનો આલેખ (નિયમિત ગતિ) — સીધી રેખા (સુરેખા) <br>(2) અંતર-સમયનો આલેખ (સ્થિર પદાર્થ) — સમયની ધરીને સમાંતર રેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સ્પીડ ફિક્સ હોય તો ગ્રાફ હંમેશા 'સીધો' (Straight) જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) જંતર-મંતર (દિલ્હી) <br> (2) રેતી ઘડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) જંતર-મંતર (દિલ્હી) — છાયા યંત્ર (Sun Dial) <br>(2) રેતી ઘડી — પ્રાચીન સમયનું સમય માપન સાધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં 'સૂરજ' અને 'રેતી' જ ઘડિયાળ હતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) દોલનનો આવર્તકાળ <br> (2) લોલકનો ગોળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) દોલનનો આવર્તકાળ — એક દોલન પૂર્ણ કરવા માટે લાગતો સમય <br>(2) લોલકનો ગોળો — બૉબ (Bob)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આવર્તકાળ' એટલે 'સમય' અને લોલકના ગોળાને ઇંગ્લિશમાં 'બૉબ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ક્વોર્ટઝ ક્લોક <br> (2) પાણી ઘડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ક્વોર્ટઝ ક્લોક — વિદ્યુત પરિપથ ધરાવતી ઘડિયાળ <br>(2) પાણી ઘડી — પ્રાચીન સમયનું સમય માપન સાધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્વોર્ટઝ એટલે સેલ (Battery) થી ચાલતી આધુનિક ઘડિયાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) x-ધરી <br> (2) y-ધરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) x-ધરી — સમક્ષિતિજ રેખા (Horizontal) <br>(2) y-ધરી — શિરોલંબ રેખા (Vertical)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X સૂતો છે (Horizontal) અને Y ઉભો છે (Vertical).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સમય માપનનો સૌથી નાનો એકમ (સામાન્ય રીતે) <br> (2) ૧ માઈક્રોસેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) સમય માપનનો સૌથી નાનો એકમ — સેકન્ડ <br>(2) ૧ માઈક્રોસેકન્ડ — સેકન્ડનો દસ લાખમો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈક્રો એટલે 'બહુ જ નાનું' - સેકન્ડના પણ ટુકડા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ગેલિલિયો ગેલિલી <br> (2) લોલકની લંબાઈ વધારતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ગેલિલિયો ગેલિલી — લોલકનો આવર્તકાળ શોધ્યો <br>(2) લોલકની લંબાઈ વધારતા — આવર્તકાળ વધે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી દોરી = ધીમું લોલક = વધુ સમય (આવર્તકાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) મુસાફરીનો સમય <br> (2) સરેરાશ ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) મુસાફરીનો સમય — અંતર / ઝડપ <br>(2) સરેરાશ ઝડપ — કુલ અંતર / કુલ સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય શોધવો હોય તો અંતરને ઝડપ વડે ભાગી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ૧ નેનોસેકન્ડ <br> (2) ૧ મિલિસેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ૧ નેનોસેકન્ડ — સેકન્ડનો એક અબજમો ભાગ <br>(2) ૧ મિલિસેકન્ડ — સેકન્ડનો એક હજારમો ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મિલિ' એટલે હજારમો અને 'નેનો' એટલે અબજમો (N for Nine zeros).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) અંતર-સમયના આલેખ પર સમય <br> (2) અંતર-સમયના આલેખ પર અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) અંતર-સમયના આલેખ પર સમય — x-ધરી પર દર્શાવાય <br>(2) અંતર-સમયના આલેખ પર અંતર — y-ધરી પર દર્શાવાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય 'સ્વતંત્ર' છે એટલે તે નીચે (X-ધરી) બેસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) પ્રકાશની ઝડપ <br> (2) રોકેટની ઝડપ (અંદાજિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) પ્રકાશની ઝડપ — ૩,૦૦,૦૦૦ કિમી/સેકન્ડ <br>(2) રોકેટની ઝડપ (અંદાજિત) — ૮ કિમી/સેકન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ દુનિયામાં સૌથી ફાસ્ટ છે, સેકન્ડમાં લાખો કિમી કાપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ૧ સૂર્ય દિવસ <br> (2) ૧ વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) ૧ સૂર્ય દિવસ — એક સૂર્યોદયથી બીજા સૂર્યોદયનો સમય <br>(2) ૧ વર્ષ — પૃથ્વીને સૂર્યની આસપાસ એક પરિક્રમણ માટે લાગતો સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસ એટલે સૂરજનું ઊગવું, વર્ષ એટલે પૃથ્વીનું સૂર્ય ફરતે ગોળ ફરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) લંબાઈનો SI એકમ <br> (2) સમયનો SI એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) લંબાઈનો SI એકમ — મીટર <br>(2) સમયનો SI એકમ — સેકન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SI એકમ એટલે આખી દુનિયામાં વપરાતા સ્ટાન્ડર્ડ એકમો.</p></div>"
+    }
+  ]
+}
