@@ -206,3 +206,261 @@ var Std7_Science_1_Mark = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "પ્રાણીઓમાં પોષણ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રાણી પોષણમાં કઈ બાબતોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણી પોષણમાં પોષક તત્વોની જરૂરિયાત, ખોરાક ગ્રહણ કરવાની પદ્ધતિ અને તેનો શરીરમાં વપરાશનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'જરૂરિયાત + ગ્રહણ + વપરાશ = પોષણ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાચન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકના જટિલ ઘટકોનું સરળ સ્વરૂપમાં રૂપાંતર થવાની પ્રક્રિયાને પાચન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જટિલ માંથી સરળ એટલે પાચન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખોરાક અંતઃગ્રહણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકને શરીરની અંદર લેવાની પ્રક્રિયાને અંતઃગ્રહણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃ = અંદર, ગ્રહણ = લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તારા માછલી (Starfish) પોતાનો ખોરાક કેવી રીતે ગ્રહણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તારા માછલી પોતાના મુખ દ્વારા જઠરને બહાર કાઢીને નરમ પ્રાણીઓને ખાય છે અને જઠર પાછું શરીરમાં જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જઠર બહાર કાઢનાર' અનોખું પ્રાણી એટલે તારા માછલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મનુષ્યમાં પાચન માર્ગની શરૂઆત અને અંત ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાચન માર્ગની શરૂઆત મુખગુહાથી થાય છે અને અંત મળદ્વારમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખ થી મળદ્વાર સુધીની લાંબી નળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાચન નળીના મુખ્ય ભાગોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખગુહા, અન્નનળી, જઠર, નાનું આંતરડું, મોટું આંતરડું અને મળદ્વાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુ-અ-જ-ના-મો-મ (ક્રમ યાદ રાખવા માટેનો મંત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દુધિયા દાંત કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ સમૂહના દાંત જે શૈશવકાળ (બાળપણ) દરમિયાન ઉગે છે અને 6 થી 8 વર્ષની ઉંમરે પડી જાય છે, તેને દુધિયા દાંત કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળપણના હંગામી દાંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કાયમી દાંત એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુધિયા દાંતની જગ્યાએ જે નવા દાંત આવે છે અને જીવનકાળ દરમિયાન રહે છે, તેને કાયમી દાંત કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી જિંદગી સાથ નિભાવતા દાંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દાંતના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદક, રાક્ષી, અગ્રદાઢ અને દાઢ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છે-રા-અ-દા (યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા દાંત ખોરાકને ચીરવા અને ફાડવા માટે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાક્ષી દાંત ખોરાકને ચીરવા અને ફાડવા માટે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાક્ષસ જેવા અણીદાર દાંત = રાક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કયા દાંત ખોરાકને કાપવા અને બચકું ભરવા માટે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદક દાંત ખોરાકને કાપવા અને બચકું ભરવા માટે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ એટલે કાપો પાડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લાળરસનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાળરસ ખોરાકમાં રહેલા સ્ટાર્ચનું સરળ શર્કરામાં રૂપાંતર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાળ = સ્ટાર્ચનું પાચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જીભ કયા અંગ સાથે જોડાયેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભ મુખગુહાના પાછળના તળિયે જોડાયેલ માંસલ અંગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખગુહાનું હલનચલન કરતું તળિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જીભના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભ વાત કરવા, લાળરસ ભેળવવા, ખોરાક ગળવા અને સ્વાદ પારખવા માટે ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોલવું + સ્વાદ + મિક્સિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મીઠાઈ અને ચોકલેટ ખાવાથી શું નુકસાન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠાઈ ખાવાથી મોઢામાં બેક્ટેરિયા એસિડ મુક્ત કરે છે, જે દાંતને નુકસાન (સડો) કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુગર + બેક્ટેરિયા = એસિડ = દાંતનો સડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખોરાક અન્નનળીમાં કેવી રીતે આગળ વધે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્નનળીની દીવાલના હલનચલનને કારણે ખોરાક નીચેની તરફ આગળ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લયબદ્ધ સંકોચન દ્વારા ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જઠરનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠર જાડી દીવાલવાળી કોથળી છે, જેનો આકાર અંગ્રેજી અક્ષર 'J' જેવો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'J' આકારની કોથળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જઠરની અંદરની દીવાલ કયા સ્ત્રાવ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠરની અંદરની દીવાલ શ્લેષ્મ, હાઇડ્રોક્લોરિક એસિડ અને પાચક રસોનો સ્ત્રાવ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્લેષ્મ + એસિડ + પાચક રસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જઠરમાં એસિડનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ ખોરાક સાથે આવેલા બેક્ટેરિયાને મારે છે અને માધ્યમને એસિડિક બનાવી પાચક રસોને કાર્યરત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેક્ટેરિયાનો નાશ કરનાર સૈનિક એટલે એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જઠરના પાચક રસો કોનું પાચન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠરના પાચક રસો પ્રોટીનનું તોડીને તેનું સરળ ઘટકોમાં રૂપાંતર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જઠર = પ્રોટીન પાચનની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નાના આંતરડાની લંબાઈ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું આંતરડું અત્યંત ગૂંચળાદાર હોય છે અને તેની લંબાઈ આશરે 7.5 મીટર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાડા સાત મીટરનું ગૂંચળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "યકૃત (Liver) વિશે એક વાક્ય લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યકૃત એ લાલાશ પડતા બદામી રંગની ગ્રંથિ છે અને તે શરીરની સૌથી મોટી ગ્રંથિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યકૃત = બોડીની સૌથી મોટી ફેક્ટરી (ગ્રંથિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પિત્તરસ ક્યાં સંગ્રહાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિત્તરસ યકૃતમાંથી સ્ત્રવે છે અને તે 'પિત્તાશય' નામની કોથળીમાં સંગ્રહાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તરસનું ઘર એટલે પિત્તાશય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પિત્તરસનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિત્તરસ ચરબીના પાચનમાં મહત્વનો ભાગ ભજવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્ત = ચરબી (Fat) નું પાચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સ્વાદુપિંડ ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વાદુપિંડ એ મોટી અને આછા બદામી રંગની ગ્રંથિ છે જે જઠરની નીચે આવેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જઠરની નીચે 'સ્વાદ' છુપાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કાર્બોદિતોનું પાચન થઈ તે શેમાં રૂપાંતરિત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાચન થયા પછી કાર્બોદિતોનું ગ્લુકોઝ જેવી સરળ શર્કરામાં રૂપાંતર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોદિત → ગ્લુકોઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ચરબીનું પાચન થઈ તે કયા ઘટકોમાં ફેરવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચરબીનું પાચન થઈ તે ફેટી એસિડ અને ગ્લિસરોલમાં ફેરવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબી → ફેટી એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પ્રોટીનનું પાચન થઈ કયો પદાર્થ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીનનું પાચન થઈ તે એમિનો એસિડમાં રૂપાંતરિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન → એમિનો એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શોષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાચિત ખોરાક નાના આંતરડાની દીવાલની રુધિરવાહિનીઓમાંથી પસાર થાય છે, તેને શોષણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાકનું લોહીમાં ભળવું એટલે શોષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રસાંકુરો (Villi) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાના આંતરડાની અંદરની દીવાલમાં હજારો આંગળીઓ જેવા પ્રવર્ધો જોવા મળે છે, જેને રસાંકુરો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંગળી જેવા ઉભાર = રસાંકુરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રસાંકુરોનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસાંકુરો પાચિત ખોરાકના શોષણ માટેની સપાટીમાં વધારો કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી વધારો = વધુ શોષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સ્વાંગીકરણ (Assimilation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શોષાયેલા પોષક તત્વોનો રુધિર દ્વારા શરીરના વિવિધ અંગો સુધી પહોંચી જટિલ ઘટકો બનાવવામાં વપરાશ થવો, તેને સ્વાંગીકરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોષક તત્વોનો શરીરના બાંધકામમાં વપરાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "મોટા આંતરડાની લંબાઈ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટા આંતરડાની લંબાઈ આશરે 1.5 મીટર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું મોટું અને મોટું નાનું (લંબાઈમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મોટા આંતરડાનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટું આંતરડું અપાચિત ખોરાકમાંથી પાણી અને કેટલાક ક્ષારોનું શોષણ કરવાનું કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી + ક્ષારનું શોષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મળત્યાગ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાકી રહેલો કચરો (મળ) મળદ્વાર દ્વારા સમયંતરે નિકાલ પામે છે, તેને મળત્યાગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેસ્ટ મટીરીયલ આઉટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વાગોળનાર પ્રાણીઓ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રાણીઓ ઘાસ ખાઈને ઉતાવળે ગળી જાય છે અને પછી પાછું મોઢામાં લાવી ચાવે છે, તેને વાગોળનાર પ્રાણીઓ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાવવાનું કામ ડબલ વાર કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "આમાશય (Rumen) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાગોળનાર પ્રાણીઓના જઠરનો એક ભાગ જ્યાં ઘાસનો સંગ્રહ થાય છે, તેને આમાશય કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ સ્ટોર કરવાનો રૂમ = Rumen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વાગોળ (Cud) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આમાશયમાં ખોરાક અર્ધપાચિત હોય છે, જેને વાગોળ (Cud) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધપાચિત ઘાસ એટલે વાગોળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઘાસમાં કયો કાર્બોદિત પુષ્કળ પ્રમાણમાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાસમાં 'સેલ્યુલોઝ' નામનો કાર્બોદિત પુષ્કળ પ્રમાણમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ = સેલ્યુલોઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મનુષ્યો શા માટે સેલ્યુલોઝનું પાચન કરી શકતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુષ્યો પાસે સેલ્યુલોઝનું પાચન કરનાર બેક્ટેરિયા હોતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો બેક્ટેરિયા = નો સેલ્યુલોઝ પાચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "અમીબા (Amoeba) ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબા તળાવના પાણીમાં જોવા મળતું એકકોષી સૂક્ષ્મજીવ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવનું એકકોષી પ્રાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ખોટા પગ (Pseudopodia) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબા આંગળી જેવા પ્રવર્ધો બહાર કાઢે છે, જે તેને હલનચલન અને ખોરાક પકડવામાં મદદ કરે છે, તેને ખોટા પગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીબાના જાદુઈ પગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "અમીબામાં ખોરાકનું પાચન ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબામાં ખોરાકનું પાચન 'અન્નધાની' (Food vacuole) માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીબાનું રસોડું = અન્નધાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "ORS નું આખું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ORS નું આખું નામ Oral Rehydration Solution (ઓરલ રીહાઇડ્રેશન સોલ્યુશન) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરમાં પાણી ભરવા માટેનું પીણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ખોરાક ક્યારે અન્નનળીને બદલે શ્વાસનળીમાં જતો રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આપણે ખૂબ જ ઉતાવળમાં જમીએ, વાતો કરીએ કે હસીએ ત્યારે ખોરાક શ્વાસનળીમાં જઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમતી વખતે વાતો નહીં કરવાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પિત્તાશય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિત્તાશય એ યકૃત દ્વારા સ્ત્રવતા પિત્તરસનો સંગ્રહ કરતી એક કોથળી જેવી રચના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તરસનું સ્ટોર-રૂમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પાચનનો છેલ્લો તબક્કો કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપાચિત ખોરાકનો મળદ્વાર મારફતે નિકાલ (મળત્યાગ) એ પાચનનો છેલ્લો તબક્કો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇનપુટ (અંતઃગ્રહણ) થી આઉટપુટ (મળત્યાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "અમીબામાં કચરો કેવી રીતે બહાર નીકળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબામાં અપાચિત વધેલ ખોરાક રસધાની દ્વારા બહાર ફેંકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસધાની દ્વારા સફાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કાર્બોદિતોના જટિલ ઘટકો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટાર્ચ એ કાર્બોદિતનો એક જટિલ ઘટક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાર્ચ = જટિલ કાર્બોદિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જીભ પર આવેલા નાના ઉબારને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભ પર આવેલા નાના ઉબારને રસાંકુરો અથવા સ્વાદકલિકાઓ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદ પારખવાના સેન્સર.</p></div>"
+    }
+  ]
+}
