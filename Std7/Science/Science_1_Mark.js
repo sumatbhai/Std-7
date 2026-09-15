@@ -1970,3 +1970,211 @@ var Std7_Science_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "વિદ્યુત પ્રવાહ અને તેની અસરો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિદ્યુત પરિપથમાં વપરાતા વિદ્યુત કોષના સંકેતમાં લાંબી રેખા શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત કોષના સંકેતમાં લાંબી રેખા 'ધન ધ્રુવ' (+) સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી લીટી = પોઝિટિવ (ધન), ટૂંકી અને જાડી લીટી = નેગેટિવ (ઋણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બેટરી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે કે તેથી વધુ વિદ્યુત કોષોના જોડાણને 'બેટરી' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હોય તો 'કોષ', ગ્રુપ હોય તો 'બેટરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિદ્યુત પરિપથમાં કળ (Switch) જ્યારે 'ON' સ્થિતિમાં હોય ત્યારે પરિપથ કેવો કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કળ 'ON' હોય ત્યારે વિદ્યુત પરિપથ 'બંધ પરિપથ' (Closed Circuit) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ON = બંધ પરિપથ (પ્રવાહ વહે), OFF = ખુલ્લો પરિપથ (પ્રવાહ અટકે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિદ્યુત પ્રવાહની ઉષ્મીય અસર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તારમાંથી વિદ્યુત પ્રવાહ પસાર થાય ત્યારે તાર ગરમ થાય છે, તેને વિદ્યુત પ્રવાહની ઉષ્મીય અસર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહ + અવરોધ = ગરમી (ઉષ્મા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિદ્યુત હીટરમાં વપરાતા તારના ગૂંચળાને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત હીટરમાં વપરાતા તારના ગૂંચળાને 'એલિમેન્ટ' (Element) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીટરનું હૃદય એટલે તેનું 'એલિમેન્ટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિદ્યુત બલ્બનો ફિલામેન્ટ કઈ ધાતુનો બનેલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત બલ્બનો ફિલામેન્ટ 'ટંગસ્ટન' ધાતુનો બનેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલ્બમાં ટંગસ્ટન = બહુ જ ગરમી સહન કરવાની શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિદ્યુત ફ્યુઝમાં વપરાતા તારની ખાસિયત શું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્યુઝમાં એવા તાર વપરાય છે જે ચોક્કસ મર્યાદાથી વધુ વિદ્યુત પ્રવાહ પસાર થતા તરત જ પીગળીને તૂટી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યુઝ એટલે ઘરનો 'સુરક્ષા રક્ષક' (Safety Guard).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "MCB નું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MCB નું પૂરું નામ 'મિનીએચર સર્કિટ બ્રેકર' (Miniature Circuit Breaker) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-C-B: મિની-સર્કિટ-બ્રેકર (આધુનિક ફ્યુઝ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કયા વૈજ્ઞાનિકે સૌપ્રથમ નોંધ્યું કે વિદ્યુત પ્રવાહ ચુંબકીય અસર પેદા કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસ ક્રિશ્ચિયન ઓરસ્ટેડ નામના વૈજ્ઞાનિકે સૌપ્રથમ વિદ્યુત પ્રવાહની ચુંબકીય અસર નોંધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોય હલી = ઓરસ્ટેડ મળી (Magnetic Effect discovery).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિદ્યુત ચુંબક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોખંડના ટુકડા પર વીંટાળેલા વિદ્યુતતારના ગૂંચળામાંથી વિદ્યુત પ્રવાહ પસાર કરવાથી તે ચુંબક જેવું વર્તે છે, તેને વિદ્યુત ચુંબક કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહ ચાલુ તો ચુંબક, પ્રવાહ બંધ તો લોખંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિદ્યુત ઘંટડીમાં કયા પ્રકારનું ચુંબક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત ઘંટડીમાં 'વિદ્યુત ચુંબક' (Electromagnet) વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘંટડી વગાડે તે વિદ્યુત ચુંબક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વીજળીના ઉપકરણો પર કયો માર્ક (નિશાની) જોઈને ખરીદી કરવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીજળીના ઉપકરણો પર 'ISI' માર્ક જોઈને ખરીદી કરવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ISI = ક્વોલિટીની ગેરંટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "CFL નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CFL નું પૂરું નામ 'કોમ્પેક્ટ ફ્લોરોસન્ટ લેમ્પ' (Compact Fluorescent Lamp) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-F-L: કોમ્પેક્ટ-ફ્લોરોસન્ટ-લેમ્પ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિદ્યુત કોષોને જોડતી વખતે એક કોષના ધન ધ્રુવને બીજા કોષના કયા ધ્રુવ સાથે જોડવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક કોષના ધન ધ્રુવને બીજા કોષના 'ઋણ ધ્રુવ' સાથે જોડવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી ધ્રુવો વચ્ચે જ દોસ્તી (જોડાણ) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટોર્ચમાં કયા ઉર્જા સ્ત્રોતનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટોર્ચમાં 'વિદ્યુત કોષ' (Electric Cell) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોર્ચ એટલે સેલ (કોષ) થી ચાલતું સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિદ્યુત ઈસ્ત્રીમાં કઈ અસરનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત ઈસ્ત્રીમાં વિદ્યુત પ્રવાહની 'ઉષ્મીય અસર' નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ત્રી ગરમ થાય = ઉષ્મીય અસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિદ્યુત પરિપથમાં ફ્યુઝ શા માટે રાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત ઉપકરણોને નુકસાન અને આગથી બચાવવા માટે ફ્યુઝ રાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યુઝ = સેફ્ટી વાલ્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચુંબકીય સોયની નજીકથી વિદ્યુત પ્રવાહ પસાર કરતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચુંબકીય સોયનું 'કોણીય આવર્તન' (વિચલન) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહ આવ્યો, સોય હાલી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિદ્યુત પરિપથમાં વપરાતા તારનો સંકેત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત પરિપથમાં તારને સીધી રેખા (—) વડે દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાર એટલે સીધો રસ્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિદ્યુત કોષનો સંકેત દોરતી વખતે જાડી અને ટૂંકી રેખા શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાડી અને ટૂંકી રેખા વિદ્યુત કોષનો 'ઋણ ધ્રુવ' (-) દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું પણ જાડું = ઋણ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વધુ પ્રકાશ મેળવવા અને વીજળી બચાવવા માટે બલ્બને બદલે શું વાપરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બલ્બને બદલે CFL અથવા LED લેમ્પ વાપરવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LED = સ્માર્ટ લાઈટ, ઓછું બિલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જ્યારે વિદ્યુત પ્રવાહ બંધ કરવામાં આવે ત્યારે વિદ્યુત ચુંબકનું શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત પ્રવાહ બંધ કરતા વિદ્યુત ચુંબક પોતાનું ચુંબકત્વ ગુમાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો કરંટ, નો ચુંબક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિદ્યુત પરિપથના ઘટકોને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત પરિપથમાં વપરાતા સાધનોને 'વિદ્યુત ઘટકો' (Electric Components) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિપથના સભ્યો = વિદ્યુત ઘટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ફ્યુઝ શેના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્યુઝ વિદ્યુત પ્રવાહની 'ઉષ્મીય અસર' પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ગરમી = ફ્યુઝ કટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિદ્યુત ચુંબકનો એક ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભંગારમાંથી લોખંડના ભાગોને જુદા પાડવા માટે ક્રેનમાં વિદ્યુત ચુંબક વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રેન + વિદ્યુત ચુંબક = લોખંડની સફાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શું વિદ્યુત ચુંબકનો ઉપયોગ કચરાના ઢગલામાંથી પ્લાસ્ટિક વીણવા થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે પ્લાસ્ટિક ચુંબકીય પદાર્થ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુંબક ફક્ત લોખંડ જેવી ધાતુઓને જ ખેંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિદ્યુત પરિપથની આકૃતિ દોરવા માટે શેનો ઉપયોગ સરળ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત પરિપથની આકૃતિ દોરવા માટે 'વિદ્યુત સંકેતો' (Symbols) નો ઉપયોગ સરળ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્ર કરતા સંકેત સહેલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ફિલામેન્ટ ક્યારે તૂટી જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બલ્બમાંથી ખૂબ જ વધારે વિદ્યુત પ્રવાહ પસાર થાય ત્યારે ફિલામેન્ટ તૂટી જાય છે (બલ્બ ફ્યુઝ થઈ જાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓવરલોડ = ફિલામેન્ટ બ્રેક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિદ્યુત ઘંટડીમાં હથોડી કોની સાથે અથડાઈને અવાજ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત ઘંટડીમાં હથોડી 'ધાતુની વાટકી' (Gong) સાથે અથડાઈને અવાજ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હથોડી + વાટકી = ટણણણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "LED નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> LED નું પૂરું નામ 'લાઇટ એમિટિંગ ડાયોડ' (Light Emitting Diode) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-E-D: લાઇટ-એમિટિંગ-ડાયોડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગિઝર અને રૂમ હીટર વિદ્યુત પ્રવાહની કઈ અસર પર કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે વિદ્યુત પ્રવાહની 'ઉષ્મીય અસર' પર કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગરમ કરે તે 'ઉષ્મીય અસર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિદ્યુત પ્રવાહની ચુંબકીય અસર કોણે શોધી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંસ ક્રિશ્ચિયન ઓરસ્ટેડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુંબકીય અસર = ઓરસ્ટેડ (Oersted).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શોર્ટ સર્કિટ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ધન અને ઋણ વાયરો સીધા એકબીજાના સંપર્કમાં આવે ત્યારે તેને શોર્ટ સર્કિટ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયર + વાયર ટચ = શોર્ટ સર્કિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિદ્યુત કોષમાં કેટલા ટર્મિનલ (ધ્રુવ) હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત કોષમાં બે ટર્મિનલ હોય છે: ધન (+) અને ઋણ (-).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લસ અને માઈનસની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જ્યારે સ્વીચ બંધ (OFF) હોય ત્યારે વિદ્યુત પ્રવાહ વહેશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, જ્યારે સ્વીચ OFF હોય ત્યારે પરિપથ ખુલ્લો હોવાથી વિદ્યુત પ્રવાહ વહેતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OFF = રસ્તો તૂટેલો = પ્રવાહ બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિદ્યુત પરિપથમાં બલ્બ ક્યારે પ્રકાશિત થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે વિદ્યુત પરિપથ 'બંધ' (Closed) હોય અને સ્વીચ 'ON' હોય ત્યારે બલ્બ પ્રકાશિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ON + બંધ પરિપથ = પ્રકાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિદ્યુત બલ્બમાં પ્રકાશ આપતા પાતળા તારને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુત બલ્બમાં પ્રકાશ આપતા પાતળા તારને 'ફિલામેન્ટ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિલામેન્ટ = બલ્બનો પ્રકાશતો તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઓવરલોડિંગ થવાનું મુખ્ય કારણ શું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ સોકેટમાં ઘણા બધા વિદ્યુત ઉપકરણો જોડવાથી ઓવરલોડિંગ થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક સોકેટ, અનેક પ્લગ = ઓવરલોડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "શું વિદ્યુત ચુંબકની શક્તિ વધારી શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, તારના આંટાની સંખ્યા વધારીને અથવા વિદ્યુત પ્રવાહ વધારીને શક્તિ વધારી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ આંટા + વધુ પ્રવાહ = પાવરફુલ ચુંબક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "આધુનિક સમયમાં ફ્યુઝની જગ્યાએ શું વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધુનિક સમયમાં ફ્યુઝની જગ્યાએ MCB વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનો ફ્યુઝ, નવી MCB.</p></div>"
+    }
+  ]
+}
