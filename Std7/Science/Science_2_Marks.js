@@ -346,3 +346,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રુધિરના મુખ્ય ઘટકો કયા કયા છે? તેના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરના મુખ્ય ચાર ઘટકો છે: (1) રુધિરરસ (Plasma) જે પ્રવાહી ભાગ છે. (2) રક્તકણો (RBC) (3) શ્વેતકણો (WBC) અને (4) રુધિરકણિકાઓ (Platelets).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રસ-લાલ-સફેદ-કણિકા' (રસ = રુધિરરસ, લાલ = રક્તકણો, સફેદ = શ્વેતકણો, કણિકા = રુધિરકણિકાઓ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હિમોગ્લોબિનનું કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિમોગ્લોબિન રક્તકણોમાં આવેલું લાલ રંજકદ્રવ્ય છે. તે ઓક્સિજન સાથે જોડાય છે અને શરીરના બધા ભાગોના કોષો સુધી ઓક્સિજન પહોંચાડે છે. તેની હાજરીને કારણે જ રુધિરનો રંગ લાલ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમોગ્લોબિન = ઓક્સિજનની રિક્ષા (જે ઓક્સિજનને આખા શરીરમાં ફેરવે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શ્વેતકણો આપણા શરીર માટે શા માટે મહત્વના છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વેતકણો (WBC) શરીરના સંરક્ષક કોષો છે. જ્યારે શરીરમાં કોઈ રોગકારક જીવાણુઓ પ્રવેશે છે, ત્યારે શ્વેતકણો તેમની સામે લડે છે અને તેમનો નાશ કરે છે, આમ તે આપણને રોગો સામે રક્ષણ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WBC = 'Warrior Body Cells' (શરીરના સૈનિકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રુધિરકણિકાઓ (Platelets) નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે શરીરના કોઈ ભાગ પર ઈજા થાય અને રુધિર વહેવા લાગે, ત્યારે થોડા સમય પછી ત્યાં લાલ ગઠ્ઠો જામી જાય છે. આ રુધિર ગંઠાઈ જવાની ક્રિયા રુધિરકણિકાઓને કારણે થાય છે, જે રુધિરને વહેતું અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેટલેટ્સ = 'બ્લડ સ્ટોપર' (લોહી જમાવવાનું કામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ધમનીની દીવાલ જાડી અને સ્થિતિસ્થાપક શા માટે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધમની હૃદયમાંથી ઓક્સિજનયુક્ત રુધિર શરીરના વિવિધ ભાગો તરફ લઈ જાય છે. હૃદયમાંથી રુધિરનો પ્રવાહ ખૂબ જ ઝડપી અને ઊંચા દબાણે હોવાથી, આ દબાણ ખમવા માટે ધમનીની દીવાલ જાડી અને સ્થિતિસ્થાપક હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પ્રેશર + વધુ ઝડપ = જાડી દીવાલ (ધમની).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નાડી દર (Pulse rate) એટલે શું? તંદુરસ્ત પુખ્ત વ્યક્તિમાં તે કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક મિનિટમાં થતા નાડીધબકારને 'નાડી દર' કહેવાય છે. ધમનીમાં રુધિર વહેવાને કારણે ધબકારા અનુભવાય છે. સામાન્ય રીતે આરામદાયક સ્થિતિમાં તંદુરસ્ત પુખ્ત વ્યક્તિનો નાડી દર 72 થી 80 જેટલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાડી દર = 1 મિનિટના ધબકારા (72-80).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શિરામાં વાલ્વનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિરા કાર્બન ડાયોક્સાઇડયુક્ત રુધિરને શરીરના ભાગોથી હૃદય તરફ પાછું લાવે છે. શિરામાં આવેલા વાલ્વ રુધિરને માત્ર હૃદયની દિશામાં જ જવા દે છે અને તેને વિરુદ્ધ દિશામાં પાછું પડતું અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાલ્વ = 'વન વે ટ્રાફિક' (માત્ર હૃદય તરફ જ રસ્તો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉત્સર્જન (Excretion) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરીરના કોષો દ્વારા કાર્ય દરમિયાન કેટલાક નકામા અને ઝેરી પદાર્થો ઉત્પન્ન થાય છે. આ હાનિકારક પદાર્થોને શરીરમાંથી બહાર નિકાલ કરવાની પ્રક્રિયાને 'ઉત્સર્જન' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સર્જન = કચરો બહાર કાઢવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જલવાહક પેશી અને અન્નવાહક પેશી વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) જલવાહક પેશી મૂળ દ્વારા શોષાયેલ પાણી અને ખનીજ ક્ષારોનું વહન વનસ્પતિના પાંદડા સુધી કરે છે. (2) અન્નવાહક પેશી પાંદડામાં તૈયાર થયેલા ખોરાકનું વહન વનસ્પતિના તમામ ભાગો સુધી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' થી જલવાહક = જલ (પાણી), 'અ' થી અન્નવાહક = અન્ન (ખોરાક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ડાયાલિસિસ (Dialysis) ની જરૂર ક્યારે પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ વ્યક્તિની બંને કિડની (મૂત્રપિંડ) ચેપ કે ઈજાને કારણે કામ કરતી બંધ થઈ જાય, ત્યારે રુધિરમાં નકામા પદાર્થોનો જથ્થો વધી જાય છે. આવા કિસ્સામાં કૃત્રિમ મૂત્રપિંડ દ્વારા રુધિરને ગાળવાની પ્રક્રિયા કરવી પડે છે, જેને ડાયાલિસિસ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાલિસિસ = કિડનીની ડુપ્લીકેટ મશીન દ્વારા સફાઈ.</p></div>"
+    }
+  ]
+}
