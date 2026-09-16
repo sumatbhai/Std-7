@@ -2544,3 +2544,186 @@ var Std7_Science_1_Mark = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "અશુદ્ધ પાણીની વાર્તા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અશુદ્ધ પાણી (Wastewater) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘરો, ઉદ્યોગો, હોસ્પિટલો અને અન્ય સ્થળોએથી વપરાશ બાદ બહાર ફેંકાયેલા ફીણવાળા, તૈલી અને રંગીન પાણીને અશુદ્ધ પાણી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વપરાયેલું + ગંદુ પાણી = અશુદ્ધ પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સીવેજ (Sewage) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીવેજ એ ઘરો, ઉદ્યોગો અને અન્ય સ્રોતોમાંથી મુક્ત થતો પ્રવાહી કચરો છે, જેમાં ઓગળેલા અને નિલંબિત દ્રવ્યો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીવેજ = વહેતો પ્રવાહી કચરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રદૂષકો (Contaminants) કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીવેજમાં રહેલી સેન્દ્રીય અને અસેન્દ્રીય અશુદ્ધિઓ, પોષક તત્વો અને રોગ ફેલાવતા સૂક્ષ્મજીવોને પ્રદૂષકો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીને ગંદુ કરનારા તત્વો એટલે પ્રદૂષકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સીવેજમાં કઈ સેન્દ્રીય અશુદ્ધિઓ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવ મળ, પ્રાણીઓનો કચરો, તેલ, યુરિયા, ફળો અને શાકભાજીનો કચરો વગેરે સેન્દ્રીય અશુદ્ધિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્દ્રીય = સજીવ સૃષ્ટિમાંથી આવતો કચરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સીવેજમાં કઈ અસેન્દ્રીય અશુદ્ધિઓ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઈટ્રેટ, ફોસ્ફેટ અને ધાતુઓ એ સીવેજમાં રહેલી મુખ્ય અસેન્દ્રીય અશુદ્ધિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસેન્દ્રીય = કેમિકલ્સ અને ધાતુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સીવેજમાં કયા પોષક તત્વો હાજર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીવેજમાં મુખ્યત્વે ફોસ્ફરસ અને નાઈટ્રોજન જેવા પોષક તત્વો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતીના ખાતર યાદ રાખો - N (નાઈટ્રોજન) અને P (ફોસ્ફરસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સીવેજમાં કયા બે રોગકારક બેક્ટેરિયા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીવેજમાં કોલેરા અને ટાઈફોઈડ ફેલાવતા બેક્ટેરિયા જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદા પાણીથી થતા રોગો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સીવર (Sewer) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગંદા પાણીના નિકાલ માટે વપરાતી નાની-મોટી પાઈપોને સીવર કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીવર = ગટરની પાઈપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સીવરેજ (Sewerage) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીવર પાઈપો દ્વારા રચાતા ગંદા પાણીના નિકાલના આખા તંત્રને સીવરેજ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીવરેજ = ગટરનું આખું નેટવર્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મેનહોલ (Manhole) સામાન્ય રીતે કેટલા અંતરે આવેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગટર વ્યવસ્થામાં સામાન્ય રીતે 50 થી 60 મીટરના અંતરે મેનહોલ આવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50-60 મીટરની ગેપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "WWTP નું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> WWTP એટલે Waste Water Treatment Plant (વેસ્ટ વોટર ટ્રીટમેન્ટ પ્લાન્ટ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: W-W-T-P = Waste-Water-Treatment-Plant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બાર સ્ક્રીન (Bar Screen) નું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાર સ્ક્રીન પાણીમાંથી કાપડના ટુકડા, લાકડીઓ, પ્લાસ્ટિકના પેકેટ અને નેપકીન જેવો મોટો કચરો દૂર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્રીન = મોટી જાળી જે મોટો કચરો રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્લજ (Sludge) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીના શુદ્ધિકરણ દરમિયાન ટાંકીના તળિયે બેસી જતા માનવ મળ જેવા ઘન કચરાને સ્લજ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્લજ = તળિયે બેસેલો કાદવ જેવો મળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્કિમર (Skimmer) નો ઉપયોગ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્કિમરનો ઉપયોગ પાણીની સપાટી પર તરતા તેલ અને ચરબી જેવા પદાર્થોને દૂર કરવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કિમર = સપાટી પરથી તેલ કાઢનાર સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ક્લેરિફાઇડ વોટર (Clarified Water) કોને કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પાણીમાંથી સ્લજ અને તરતા પદાર્થો (તેલ) દૂર કરવામાં આવ્યા હોય તેવા સ્વચ્છ દેખાતા પાણીને ક્લેરિફાઇડ વોટર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લેરિફાઇડ = કચરો કાઢેલું ચોખ્ખું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્લજનું વિઘટન કોના દ્વારા કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લજનું વિઘટન અજારક બેક્ટેરિયા (Anaerobic bacteria) દ્વારા કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજારક બેક્ટેરિયા કચરો ખાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સ્લજના વિઘટનથી કયો વાયુ ઉત્પન્ન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લજના વિઘટનથી બાયોગેસ ઉત્પન્ન થાય છે, જેનો ઉપયોગ ઈંધણ તરીકે થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદા પાણીમાંથી પણ ગેસ (બાયોગેસ) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એરેટર (Aerator) મશીનનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરેટર મશીન પાણીમાં હવા (ઓક્સિજન) ઉમેરે છે, જેથી જારક બેક્ટેરિયાની વૃદ્ધિ ઝડપથી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એર (Air) + એરેટર = હવા ઉમેરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાણીને જીવાણુમુક્ત કરવા માટે કયા બે કેમિકલનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીને જીવાણુમુક્ત કરવા માટે ક્લોરીન (Chlorine) અને ઓઝોન (Ozone) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cl + O3 = જંતુનાશક જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિશ્વ જળ દિવસ ક્યારે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વ જળ દિવસ 22 માર્ચના રોજ ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 22 માર્ચ = પાણી બચાવો દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "યુએન (UN) એ કયા સમયગાળાને 'જીવન માટે પાણી' માટે આંતરરાષ્ટ્રીય દાયકા તરીકે જાહેર કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ષ 2005 થી 2015 ના સમયગાળાને આંતરરાષ્ટ્રીય જળ દાયકા તરીકે જાહેર કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2005 થી 2015 નો દસકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગટર લાઇનની આસપાસ કયા વૃક્ષો વાવવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગટર લાઇનની આસપાસ નીલગિરી (Eucalyptus) ના વૃક્ષો વાવવા જોઈએ, કારણ કે તે વધારાનું ગંદુ પાણી શોષી લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલગિરી = પાણીનો પંપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખાદ્ય તેલો અને ચરબીને ગટરમાં શા માટે ન નાખવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલ અને ચરબી ગટરમાં જામી જાય છે અને પાઈપોને બ્લોક (બંધ) કરી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ = ગટરનો બ્લોકેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વપરાયેલી ચાની પત્તીઓને ગટરમાં ફેંકવાથી શું નુકસાન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે ગટરના છિદ્રોને બંધ કરી દે છે અને ગંદા પાણીમાં ઓક્સિજનના પ્રવાહને અવરોધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો હંમેશા કચરાપેટીમાં, ગટરમાં નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ખુલ્લામાં મળત્યાગ કરવાથી કયા પ્રદૂષણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લામાં મળત્યાગ કરવાથી જળ પ્રદૂષણ અને ભૂમિ પ્રદૂષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લો મળ = રોગનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગંદા પાણીથી ફેલાતા બે મુખ્ય રોગોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોલેરા, ટાઈફોઈડ, પોલિયો અને મેનિન્જાઈટીસ જેવા રોગો ગંદા પાણીથી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી = બીમારીની નિશાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વર્મિ-પ્રોસેસિંગ શૌચાલય (Vermi-processing toilet) માં કોનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પ્રકારના શૌચાલયમાં માનવ મળના નિકાલ માટે અળસિયાનો ઉપયોગ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્મિ (Vermi) = અળસિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સીવેજ નિકાલની ઓન-સાઈટ (On-site) વ્યવસ્થાના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેપ્ટિક ટેન્ક, કેમિકલ શૌચાલય અને કમ્પોસ્ટિંગ પીટ એ ઓન-સાઈટ વ્યવસ્થાના ઉદાહરણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ગટર ન હોય ત્યાં 'સેપ્ટિક ટેન્ક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સેપ્ટિક ટેન્ક કઈ જગ્યાઓ માટે અનુકૂળ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેપ્ટિક ટેન્ક હોસ્પિટલો, અલગ રહેતા મકાનો કે જ્યાં ગટર લાઈન ન હોય તેવી જગ્યાઓ માટે અનુકૂળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગટર નેટવર્ક વગરની જગ્યા માટે સેપ્ટિક ટેન્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શુદ્ધ પાણી (Clean Water) એ આપણી કેવી જરૂરિયાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુદ્ધ પાણી એ માનવજાતની પાયાની જરૂરિયાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ એ જ જીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગટર વ્યવસ્થા ખુલ્લી હોવાથી કઈ સમસ્યા સર્જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લી ગટર વ્યવસ્થાથી દુર્ગંધ ફેલાય છે અને માખી, મચ્છર જેવા જીવજંતુઓનો ઉપદ્રવ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લી ગટર = રોગચાળાને આમંત્રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સૂક્ષ્મજીવો કચરાનું વિઘટન કરી શું બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂક્ષ્મજીવો કચરાનું વિઘટન કરી બાયોગેસ અને સેન્દ્રીય ખાતર બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો + સૂક્ષ્મજીવ = ખાતર + ગેસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શુદ્ધિકરણ પ્રક્રિયા બાદ મળતા સૂકા સ્લજનો ઉપયોગ ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂકા સ્લજનો ઉપયોગ ખાતર તરીકે થાય છે, જે જમીનને સેન્દ્રીય પદાર્થો પૂરા પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુકાયેલો સ્લજ = ખેતી માટે ખાતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ગંદા પાણીમાં રહેલા કયા બેક્ટેરિયા 'પેરાટાઈફોઈડ' કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાલ્મોનેલા પેરાટાઈફી નામના બેક્ટેરિયા પેરાટાઈફોઈડ રોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાલ્મોનેલા = ટાઈફોઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ગટર વ્યવસ્થામાં 'સક્રિયકૃત સ્લજ' (Activated Sludge) માં કેટલા ટકા પાણી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સક્રિયકૃત સ્લજમાં આશરે 97% પાણી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 97% પાણી, બાકી 3% કચરો.</p></div>"
+    }
+  ]
+}
