@@ -288,3 +288,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સજીવોમાં શ્વસન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષીય શ્વસન એટલે શું? તેના મુખ્ય બે પ્રકારોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષમાં ખોરાક (ગ્લુકોઝ) ના કણોને ઓક્સિજનની મદદથી તોડીને શક્તિ મુક્ત કરવાની પ્રક્રિયાને કોષીય શ્વસન કહે છે. તેના મુખ્ય બે પ્રકારો છે: (1) જારક શ્વસન અને (2) અજારક શ્વસન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષ + ખોરાક = શક્તિ (NJ Classes: કોષમાં જ શક્તિ બને એટલે કોષીય શ્વસન!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જારક શ્વસન અને અજારક શ્વસન વચ્ચેનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ખોરાકનું દહન ઓક્સિજનની હાજરીમાં થાય, તો તેને જારક શ્વસન કહેવાય છે. જ્યારે ખોરાકનું દહન ઓક્સિજનની ગેરહાજરીમાં થાય, તો તેને અજારક શ્વસન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હા'જર તો જારક, 'ગેર'હાજર તો અજારક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારે કસરત દરમિયાન સ્નાયુઓમાં ખેંચાણ (Cramps) શા માટે આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે સ્નાયુઓ અજારક શ્વસન કરે છે, ત્યારે ગ્લુકોઝનું અપૂર્ણ દહન થવાથી લેક્ટિક એસિડ ઉત્પન્ન થાય છે. આ લેક્ટિક એસિડ સ્નાયુઓમાં એકઠો થવાને કારણે સ્નાયુઓ ખેંચાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેક્ટિક એસિડ = સ્નાયુમાં પેઇન (દુખાવો)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શ્વાસ દર (Breathing Rate) એટલે શું? સામાન્ય સ્થિતિમાં પુખ્ત મનુષ્યનો શ્વાસ દર કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યક્તિ એક મિનિટમાં જેટલી વાર શ્વાસોચ્છવાસ કરે છે, તેને તેનો શ્વાસ દર કહે છે. આરામદાયક સ્થિતિમાં પુખ્ત મનુષ્યનો સરેરાશ શ્વાસ દર મિનિટે 15 થી 18 વખત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મિનિટના શ્વાસની ગણતરી = શ્વાસ દર (યાદ રાખો: 15-18).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જ્યારે આપણે ધૂળવાળી હવા શ્વાસમાં લઈએ છીએ ત્યારે છીંક કેમ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ધૂળના રજકણો નાસિકા કોટરમાં જાય છે, ત્યારે તે ત્યાંની દીવાલ પર ઉત્તેજના પેદા કરે છે. પરિણામે આપણને છીંક આવે છે, જે આ બાહ્ય કચરાને હવાની સાથે બહાર ફેંકી દે છે અને ફેફસામાં શુદ્ધ હવા જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છીંક = નેચરલ વેક્યુમ ક્લીનર (કચરો બહાર!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શ્વાસ લેવાની ક્રિયા (Inhalation) દરમિયાન પાંસળીઓ અને ઉરોદરપટલનું હલનચલન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસ લેતી વખતે પાંસળીઓ ઉપર અને બહારની તરફ નીકળે છે, જ્યારે ઉરોદરપટલ નીચેની તરફ જાય છે. આ હલનચલનથી છાતીની ગુહાના અવકાશમાં વધારો થાય છે અને હવા ફેફસામાં ભરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ -> પાંસળી UP, ઉરોદરપટલ DOWN.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અળસિયામાં શ્વસન પ્રક્રિયા કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અળસિયું તેની ત્વચા (ચામડી) દ્વારા શ્વસન કરે છે. અળસિયાની ત્વચા ભીની અને ચીકણી હોય છે, જેમાંથી વાયુઓ સરળતાથી પસાર થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું = ભીની ત્વચા દ્વારા શ્વાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "માછલી પાણીમાં શ્વાસ કેવી રીતે લે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માછલીમાં શ્વસન માટે 'ઝાલરો' (Gills) નામનું વિશિષ્ટ અંગ હોય છે. ઝાલરો પાણીમાં ઓગળેલા ઓક્સિજનનો ઉપયોગ કરવામાં મદદ કરે છે. ઝાલરો રુધિરવાહિનીઓ સાથે જોડાયેલી હોય છે, જે વાયુ વિનિમય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી + ઝાલર = માછલીનું શ્વસન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વનસ્પતિના મૂળ કેવી રીતે શ્વસન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિના મૂળના કોષો પણ શક્તિ મેળવવા માટે ઓક્સિજનની જરૂરિયાત ધરાવે છે. મૂળ જમીનના કણો વચ્ચે રહેલી જગ્યામાંથી ઓક્સિજન લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનની હવા + મૂળ = વનસ્પતિ શ્વસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "યીસ્ટ (Yeast) માં થતું અજારક શ્વસન મનુષ્ય માટે કેવી રીતે ઉપયોગી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યીસ્ટ અજારક શ્વસન દરમિયાન આલ્કોહોલ અને કાર્બન ડાયોક્સાઈડ ઉત્પન્ન કરે છે. આથી તેનો ઉપયોગ વાઇન અને બીયર બનાવવા માટે તેમજ બ્રેડ ઉદ્યોગમાં બ્રેડને પોચી બનાવવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યીસ્ટ = આલ્કોહોલ + બ્રેડ (પોચી બનાવવી).</p></div>"
+    }
+  ]
+}
