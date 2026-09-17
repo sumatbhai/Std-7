@@ -578,3 +578,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પ્રકાશ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકાશનું પરાવર્તન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પ્રકાશના કિરણો કોઈ ચળકતી કે પોલીસ કરેલી સપાટી (જેમ કે અરીસો) પર પડે છે, ત્યારે તે સપાટી પરથી અથડાઈને પાછા ફેંકાય છે. પ્રકાશની દિશા બદલાવાની આ ઘટનાને 'પ્રકાશનું પરાવર્તન' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ + ભટકાવવું + પાછા ફરવું = પરાવર્તન (જેમ કે દીવાલ પર દડો ફેંકવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમતલ અરીસા વડે રચાતા પ્રતિબિંબના બે મુખ્ય ગુણધર્મો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પ્રતિબિંબ હંમેશા ટટ્ટાર (સીધું) અને આભાસી હોય છે. (2) પ્રતિબિંબનું પરિમાણ (સાઈઝ) વસ્તુના પરિમાણ જેટલું જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટટ્ટાર અને સમાન' - આપણે અરીસામાં જોઈએ ત્યારે જેવા છીએ એવા જ અને સીધા દેખાઈએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાસ્તવિક પ્રતિબિંબ અને આભાસી પ્રતિબિંબ વચ્ચેનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રતિબિંબને પડદા પર ઝીલી શકાય તેને 'વાસ્તવિક પ્રતિબિંબ' કહે છે. જ્યારે જે પ્રતિબિંબને પડદા પર ઝીલી શકાતું નથી તેને 'આભાસી પ્રતિબિંબ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક = પડદો હાજર, આભાસી = પડદો ગેરહાજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એમ્બ્યુલન્સની આગળના ભાગમાં 'AMBULANCE' શબ્દ ઉલટો કેમ લખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે એમ્બ્યુલન્સની આગળ જતા વાહનનો ડ્રાઈવર તેના 'રિયર વ્યુ મિરર' (અરીસા) માં જુએ ત્યારે તેને આ ઉલટો લખેલો શબ્દ અરીસાના પાશ્વ વ્યુત્ક્રમ ગુણધર્મને લીધે 'સીધો' વંચાય છે, જેથી તે તરત જ રસ્તો આપી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબું-જમણું અને જમણું-ડાબું (Lateral Inversion) - અરીસાની કરામત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અંતર્ગોળ અરીસાના બે ઉપયોગો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ડોક્ટરો દાંત, આંખ કે કાનની તપાસ કરવા માટે મોટા પ્રતિબિંબ મેળવવા અંતર્ગોળ અરીસા વાપરે છે. (2) ટોર્ચ, કારની હેડલાઈટ અને સર્ચલાઈટમાં પરાવર્તક તરીકે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું જોવું હોય ત્યારે 'અંતર્ગોળ' (દાંતના ડોક્ટર અને હેડલાઈટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બહિર્ગોળ અરીસાનો વાહનોમાં ઉપયોગ શા માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્ગોળ અરીસો વસ્તુનું પ્રતિબિંબ હંમેશા નાનું અને ટટ્ટાર આપે છે. આથી ડ્રાઈવર પાછળના મોટા વિસ્તારમાં આવતા ઘણા બધા વાહનોને એકસાથે નાના અરીસામાં જોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ = વાઈડ એંગલ વ્યુ (બધું જ અરીસામાં સમાઈ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બહિર્ગોળ લેન્સ અને અંતર્ગોળ લેન્સની ઓળખ કેવી રીતે કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લેન્સ કિનારી કરતા વચ્ચેના ભાગમાં જાડો હોય તેને 'બહિર્ગોળ લેન્સ' કહે છે. જે લેન્સ વચ્ચેના ભાગ કરતા કિનારી પરથી વધુ જાડો હોય (વચ્ચેથી પાતળો હોય) તેને 'અંતર્ગોળ લેન્સ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ = બહાર ઉપસેલો (પેટ બહાર), અંતર્ગોળ = અંદર દબાયેલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મેઘધનુષ્યના સાત રંગોના નામ ક્રમમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યપ્રકાશ સાત રંગોનો બનેલો છે: (1) રાતો (લાલ), (2) નારંગી, (3) પીળો, (4) લીલો, (5) વાદળી, (6) નીલો અને (7) જાંબલી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાનીવાલીપીનારા' (નીચેથી ઉપરનો ક્રમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ન્યુટનની તકતી (Newton's Disc) શું સાબિત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુટનની તકતીમાં સાત રંગો હોય છે. જ્યારે આ તકતીને ઝડપથી ફેરવવામાં આવે છે ત્યારે આ બધા રંગો પરસ્પર ભળી જાય છે અને તકતી સફેદ દેખાય છે. આ પ્રયોગ સાબિત કરે છે કે સૂર્યપ્રકાશ (સફેદ પ્રકાશ) સાત રંગોનું મિશ્રણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત રંગ ફરે તો 'સફેદ' દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રકાશ સીધી રેખામાં ગતિ કરે છે તે દર્શાવતો એક સાદો પ્રયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સળગતી મીણબત્તીને એક સીધી પાઈપમાંથી જોતા તે દેખાય છે, પરંતુ જો પાઈપને વચ્ચેથી વાળી દેવામાં આવે તો મીણબત્તી દેખાતી નથી. આ સાબિત કરે છે કે પ્રકાશ સીધી રેખામાં ગતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી પાઈપ = દર્શન, વાંકી પાઈપ = અંધારું.</p></div>"
+    }
+  ]
+}
