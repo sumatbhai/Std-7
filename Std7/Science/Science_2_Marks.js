@@ -462,3 +462,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ગતિ અને સમય",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઝડપ એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થે એકમ સમયગાળામાં કાપેલા અંતરને તે પદાર્થની 'ઝડપ' કહેવાય છે. <br>ઝડપનું સૂત્ર: <strong>ઝડપ = કાપેલું કુલ અંતર / તે માટે લાગેલો કુલ સમય</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝડપ એટલે અંતરનો સમય સાથેનો ભાગાકાર' - બસ આટલું યાદ રાખો એટલે વ્યાખ્યા અને સૂત્ર બંને આવડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમાન ગતિ અને અસમાન ગતિ વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ સુરેખ પથ પર અચળ ઝડપે ગતિ કરતો હોય, તો તેને 'સમાન ગતિ' કહે છે. જો સુરેખ પથ પર ગતિ કરતા પદાર્થની ઝડપ બદલાતી રહેતી હોય, તો તેવી ગતિને 'અસમાન ગતિ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિક્સ સ્પીડ = સમાન ગતિ, બદલાતી સ્પીડ = અસમાન ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાદા લોલકમાં 'એક દોલન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે લોલકનો ગોળો તેના મધ્યસ્થ સ્થાન 'O' થી એક બાજુના અંતિમ બિંદુ 'A' પર જઈને, બીજી બાજુના અંતિમ બિંદુ 'B' પર જાય અને ફરી પાછો 'O' સ્થાને આવે (અથવા A થી B અને B થી પાછો A પર આવે), ત્યારે તેને એક દોલન પૂર્ણ થયું કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી મુસાફરી શરૂ કરી ત્યાં જ પાછા આવવું એટલે એક દોલન (Round Trip)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આવર્તકાળની વ્યાખ્યા આપી તેનો એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદા લોલકને એક દોલન પૂર્ણ કરવા માટે લાગતા સમયને તેનો 'આવર્તકાળ' કહે છે. સમયનો મૂળભૂત એકમ 'સેકન્ડ' (s) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તકાળ = 1 દોલન માટે લીધેલો ટાઈમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઝડપના એકમો વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપનો મૂળભૂત એકમ m/s (મીટર/સેકન્ડ) છે. જોકે, તેને પદાર્થની ગતિના આધારે m/min (મીટર/મિનિટ) અથવા km/h (કિલોમીટર/કલાક) જેવા એકમોમાં પણ દર્શાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતરનો એકમ ઉપર અને સમયનો એકમ નીચે (m/s).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્પીડોમીટર અને ઓડોમીટર વચ્ચેનો તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>સ્પીડોમીટર:</strong> વાહનની તે સમયની ઝડપ (km/h માં) માપે છે.<br>2. <strong>ઓડોમીટર:</strong> વાહને કાપેલું કુલ અંતર માપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્પીડ' માટે 'સ્પીડોમીટર' અને 'અંતર' (Distance) માટે 'ઓડોમીટર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પ્રાચીન સમયમાં લોકો સમય માપવા માટે કુદરતી કઈ ઘટનાઓનો ઉપયોગ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાચીન સમયમાં લોકો સૂર્યોદયથી બીજા સૂર્યોદય સુધીના સમયને 'દિવસ', એક અમાસથી બીજી અમાસ સુધીના સમયને 'માસ' અને પૃથ્વીને સૂર્યની ફરતે એક પરિક્રમણ પૂરું કરવા માટે લાગતા સમયને 'વર્ષ' તરીકે માપતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય = દિવસ, ચંદ્ર (અમાસ) = મહિનો, પૃથ્વીનું ચક્કર = વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો એક કાર 120 કિમીનું અંતર 2 કલાકમાં કાપે છે, તો તેની ઝડપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં, કુલ અંતર = 120 કિમી અને કુલ સમય = 2 કલાક. <br>ઝડપ = અંતર / સમય <br>ઝડપ = 120 / 2 = 60 કિમી/કલાક. <br>આમ, કારની ઝડપ 60 km/h હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાખલામાં હંમેશા 'અંતર' ઉપર અને 'સમય' નીચે રાખી છેદ ઉડાડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અંતર-સમયના આલેખમાં સુરેખા (સીધી રેખા) શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર-સમયના આલેખમાં જો રેખા સુરેખ (સીધી) હોય, તો તે દર્શાવે છે કે પદાર્થ 'અચળ ઝડપે' (સમાન ગતિ) ગતિ કરી રહ્યો છે. એટલે કે પદાર્થ સમાન સમયમાં સમાન અંતર કાપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી લાઈન = સીધી (અચળ) ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમય માપવા માટે વપરાતી બે પ્રાચીન ઘડિયાળોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે અત્યારની આધુનિક ઘડિયાળો ન હતી, ત્યારે લોકો (1) છાયાયંત્ર (Sun-dial), (2) જલઘડી (Water clock) અને (3) રેતીઘડી (Sand clock) નો ઉપયોગ સમય માપવા માટે કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય, પાણી અને રેતી - આ ત્રણથી સમય મપાતો!</p></div>"
+    }
+  ]
+}
