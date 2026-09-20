@@ -306,3 +306,211 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "દિલ્હી સલ્તનત",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દિલ્હી સલ્તનતનો સમયગાળો કયો ગણાય છે? <br> A. ઈ.સ. 1200 થી 1500 <br> B. ઈ.સ. 1206 થી 1526 <br> C. ઈ.સ. 1192 થી 1526 <br> D. ઈ.સ. 1290 થી 1526",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઈ.સ. 1206 થી 1526</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બારસો છ (1206) માં સલ્તનત જન્મી અને પંદરસો છવ્વીસ (1526) માં બાબર સામે હારી.'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દિલ્હી સલ્તનત પર કુલ કેટલા વંશોએ શાસન કર્યું? <br> A. 4 <br> B. 6 <br> C. 5 <br> D. 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંચ આંગળી - પાંચ વંશ (ગુલામ, ખલજી, તુઘલક, સૈયદ, લોદી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુલામ વંશની સ્થાપના કોણે કરી હતી? <br> A. ઇલ્તુત્મિશ <br> B. અલાઉદ્દીન ખલજી <br> C. કુતબુદ્દીન ઐબક <br> D. મોહમ્મદ ઘોરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કુતબુદ્દીન ઐબક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુતબુદ્દીન' એ મોહમ્મદ ઘોરીનો વિશ્વાસુ 'ગુલામ' હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કુતબુદ્દીન ઐબકે દિલ્હીમાં કઈ મસ્જિદનું નિર્માણ કરાવ્યું હતું? <br> A. કુવ્વત-ઉલ-ઇસ્લામ <br> B. અઢાઈ દિન કા ઝોંપડા <br> C. જામા મસ્જિદ <br> D. મોઠની મસ્જિદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. કુવ્વત-ઉલ-ઇસ્લામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુ' થી કુતબુદ્દીન અને 'કુ' થી કુવ્વત-ઉલ-ઇસ્લામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અઢાઈ દિન કા ઝોંપડા નામની મસ્જિદ કયા શહેરમાં આવેલી છે? <br> A. દિલ્હી <br> B. આગરા <br> C. અજમેર <br> D. લાહોર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અજમેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અઢાઈ દિન અને 'અ' થી અજમેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કુતબુદ્દીન ઐબકનું મૃત્યુ કઈ રમત રમતા ઘોડા પરથી પડી જવાથી થયું હતું? <br> A. ચેસ <br> B. કબડ્ડી <br> C. પોલો (ચૌગાન) <br> D. કુસ્તી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પોલો (ચૌગાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડા પર 'પોલો' (ચૌગાન) રમતા ઐબક 'પડ્યો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગુલામ વંશનો સાચો સ્થાપક કોને માનવામાં આવે છે? <br> A. કુતબુદ્દીન ઐબક <br> B. ઇલ્તુત્મિશ <br> C. બલબન <br> D. નાસિરુદ્દીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઇલ્તુત્મિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇ'લ્તુત્મિશ 'ઇ'સ્ટેબલિશર (સાચો સ્થાપક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઇલ્તુત્મિશે ચાલીસ તુર્ક અમીરોના કયા દળની રચના કરી હતી? <br> A. ચહલગાન (ચરગાન) <br> B. મનસબદાર <br> C. નવરત્ન <br> D. અષ્ટપ્રધાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ચહલગાન (ચરગાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાલીસ' અમીર એટલે 'ચ'હલગાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દિલ્હીની ગાદી પર આવનાર પ્રથમ મહિલા શાસક કોણ હતી? <br> A. મુમતાજ મહલ <br> B. રઝિયા સુલતાના <br> C. નૂરજહાં <br> D. ઝાંસીની રાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રઝિયા સુલતાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ર'ઝિયા દિલ્હીની 'રા'ણી (પ્રથમ સ્ત્રી શાસક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઇલ્તુત્મિશના અવસાન પછી કોણ ગાદી પર આવ્યું હતું (રઝિયા પહેલા)? <br> A. બલબન <br> B. રુકનુદ્દીન ફિરોજ <br> C. અલાઉદ્દીન <br> D. મોહમ્મદ ઘોરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રુકનુદ્દીન ફિરોજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલ્તુત્મિશનો પુત્ર રુકનુદ્દીન 'નિષ્ફળ' રહ્યો એટલે રઝિયા આવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કોણે ચહલગાન (ચાલીસા) દળનો નાશ કરીને સુલતાનનું પદ મજબૂત બનાવ્યું? <br> A. ઇલ્તુત્મિશ <br> B. ગિયાસુદ્દીન બલબન <br> C. રઝિયા સુલતાના <br> D. જલાલુદ્દીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગિયાસુદ્દીન બલબન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ'લબને 'બ'ધું 'બ'ળ વાપરીને 'ચાલીસા' હટાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખલજી વંશની સ્થાપના કોણે કરી હતી? <br> A. અલાઉદ્દીન ખલજી <br> B. જલાલુદ્દીન ખલજી <br> C. કુતબુદ્દીન ખલજી <br> D. બખ્તિયાર ખલજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જલાલુદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખલજી વંશની શરૂઆત 'જ'લાલુદ્દીન થી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કયા સુલતાને દિલ્હીમાં ભાવનિયમન અને બજાર નિયંત્રણ જેવા સુધારા કર્યા હતા? <br> A. ગિયાસુદ્દીન તુઘલક <br> B. મોહમ્મદ તુઘલક <br> C. અલાઉદ્દીન ખલજી <br> D. ફિરોજશાહ તુઘલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અલાઉદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'લાઉદ્દીને માર્કેટમાં 'અ'ંકુશ રાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "તુઘલક વંશની સ્થાપના કોણે કરી હતી? <br> A. મોહમ્મદ-બિન-તુઘલક <br> B. ગિયાસુદ્દીન તુઘલક <br> C. ફિરોજશાહ તુઘલક <br> D. નસીરુદ્દીન તુઘલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગિયાસુદ્દીન તુઘલક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુઘલક વંશનો 'ગ'ડો (પાયો) 'ગ'િયાસુદ્દીને નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કયા સુલતાનની યોજનાઓ 'તરંગી યોજનાઓ' તરીકે ઓળખાય છે? <br> A. અલાઉદ્દીન ખલજી <br> B. ઇલ્તુત્મિશ <br> C. મોહમ્મદ-બિન-તુઘલક <br> D. બલબન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મોહમ્મદ-બિન-તુઘલક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોહમ્મદ' ની બધી સ્કીમ 'ફેલ' (તરંગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મોહમ્મદ-બિન-તુઘલકે રાજધાનીનું સ્થળાંતર દિલ્હીથી ક્યાં કર્યું હતું? <br> A. આગરા <br> B. દેવગિરિ (દૌલતાબાદ) <br> C. લખનૌ <br> D. જયપુર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દેવગિરિ (દૌલતાબાદ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ'િલ્હી થી 'દૌ'લતાબાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મોહમ્મદ-બિન-તુઘલકના સમયમાં કયો આફ્રિકન મુસાફર ભારત આવ્યો હતો? <br> A. ફાહિયાન <br> B. ઇબ્નબતૂતા <br> C. હ્યુ-એન-સાંગ <br> D. માર્કો પોલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઇબ્નબતૂતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બતૂતા' આવ્યું 'તુઘલક' ના રાજમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તુઘલક વંશના શાસન પછી દિલ્હી પર કયા વંશની સ્થાપના થઈ? <br> A. સૈયદ વંશ <br> B. લોદી વંશ <br> C. મોગલ વંશ <br> D. ખલજી વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સૈયદ વંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તુ'ઘલક પછી 'સૈ'યદ (ક્રમ: ગુ-ખ-તુ-સૈ-લો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સૈયદ વંશની સ્થાપના કોણે કરી હતી? <br> A. બહલોલ લોદી <br> B. ખિઝ્રખાં <br> C. સૈયદ અહમદ <br> D. આલમશાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખિઝ્રખાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૈયદ' ના ઘરે 'ખિઝ્ર' (ખીર) બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દિલ્હી સલ્તનતનો છેલ્લો વંશ કયો હતો? <br> A. તુઘલક વંશ <br> B. સૈયદ વંશ <br> C. લોદી વંશ <br> D. ગુલામ વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. લોદી વંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લો'દી એટલે 'લાસ્ટ' (છેલ્લો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લોદી વંશનો પ્રથમ અફઘાન શાસક કોણ હતો? <br> A. ઇબ્રાહિમ લોદી <br> B. સિકંદર લોદી <br> C. બહલોલ લોદી <br> D. દૌલતખાન લોદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બહલોલ લોદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોદી વંશની 'બ'હાદુરી 'બ'હલોલ થી શરૂ થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ કોની વચ્ચે થયું હતું? <br> A. ઇબ્રાહિમ લોદી અને અકબર <br> B. ઇબ્રાહિમ લોદી અને બાબર <br> C. સિકંદર લોદી અને બાબર <br> D. પૃથ્વીરાજ ચૌહાણ અને ઘોરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઇબ્રાહિમ લોદી અને બાબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બા'બર અને 'ઇ'બ્રાહિમ (BI - 1526).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સલ્તનત કાળમાં મંત્રીમંડળના વડાને શું કહેવામાં આવતું? <br> A. સુલતાન <br> B. વજીર <br> C. કાઝી <br> D. અમીર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વજીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા પછી 'વજીર' જ મેઈન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિજયનગર સામ્રાજ્યની સ્થાપના કોણે કરી હતી? <br> A. કૃષ્ણદેવરાય <br> B. હરિહરરાય અને બુક્કારાય <br> C. તેનાલી રામન <br> D. દેવરાય બીજા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હરિહરરાય અને બુક્કારાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરિ' અને 'બુક્કા' બે ભાઈઓએ 'વિજય' મેળવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિજયનગર કઈ નદીના કિનારે વસેલું હતું? <br> A. ગંગા <br> B. નર્મદા <br> C. તુંગભદ્રા <br> D. કાવેરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જ&nbsp;વાબ:</strong> C. તુંગભદ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગરમાં 'ભદ્રા' (કલ્યાણ) હતું - તુંગભદ્રા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિજયનગર સામ્રાજ્યનો સર્વશ્રેષ્ઠ શાસક કોણ હતો? <br> A. હરિહરરાય <br> B. સાલુવ નરસિંહ <br> C. કૃષ્ણદેવરાય <br> D. અચ્યુતરાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કૃષ્ણદેવરાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કૃષ્ણ' ભગવાનની જેમ જ 'કૃષ્ણદેવરાય' સર્વોપરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કૃષ્ણદેવરાયે કયું નવું નગર વસાવ્યું હતું? <br> A. વિજયનગર <br> B. નાગલપુર <br> C. હમ્પી <br> D. ફતેહપુર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાગલપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા 'નાગલા' દેવીના નામ પરથી 'નાગલપુર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કયા યુદ્ધ પછી વિજયનગર સામ્રાજ્યનો અસ્ત થયો? <br> A. પાણિપતનું યુદ્ધ <br> B. હલ્દીઘાટીનું યુદ્ધ <br> C. તાલીકોટાનું યુદ્ધ <br> D. પ્લાસીનું યુદ્ધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. તાલીકોટાનું યુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગર પર 'તાલી' (તાળું) વાગી ગયું - તાલીકોટા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બહમની રાજ્યની સ્થાપના કોણે કરી હતી? <br> A. મોહમ્મદ ગવાં <br> B. ઝફરખાં (હસન ગંગુ) <br> C. અહમદશાહ <br> D. ફિરોજશાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઝફરખાં (હસન ગંગુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ'હમની - 'બ'ણાવ્યું 'હ'સને (હસન ગંગુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કુતબુદ્દીન ઐબકે શરૂ કરેલ કુતબમિનારનું કામ કોણે પૂર્ણ કરાવ્યું હતું? <br> A. બલબન <br> B. ઇલ્તુત્મિશ <br> C. રઝિયા <br> D. અલાઉદ્દીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઇલ્તુત્મિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ 'ઐબક' (અધૂરું) મૂક્યું, 'ઇલ્તુત્મિશે' પૂર્ણ કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દિલ્હી સલ્તનતના શાસન વ્યવસ્થામાં 'પરગણા' ના વડાને શું કહેવામાં આવતું? <br> A. અમીલ <br> B. મુક્તિ <br> C. શિકદાર <br> D. ચોધરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. અમીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરગણામાં 'અમીલ' નો અમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "અલાઉદ્દીન ખલજીએ કયો કિલ્લો બંધાવ્યો હતો? <br> A. લાલ કિલ્લો <br> B. સીરીનો કિલ્લો <br> C. જૂનાગઢ કિલ્લો <br> D. આગ્રાનો કિલ્લો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સીરીનો કિલ્લો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન 'સીરી'યસ (Siri) રાજા હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કુતબમિનારની ઊંચાઈ કેટલા મીટર છે? <br> A. 50 મીટર <br> B. 72.5 મીટર <br> C. 80 મીટર <br> D. 100 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 72.5 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત (7) પર બે (2.5) પંચા - 72.5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિજયનગર સામ્રાજ્યમાં કયા વંશે શાસન કર્યું નહોતું? <br> A. સંગમ વંશ <br> B. સાલુવ વંશ <br> C. ચૌહાણ વંશ <br> D. તુલુવ વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચૌહાણ વંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૌહાણ તો દિલ્હીના હતા, વિજયનગરના નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કૃષ્ણદેવરાય કયા વંશના શાસક હતા? <br> A. સંગમ વંશ <br> B. તુલુવ વંશ <br> C. સાલુવ વંશ <br> D. અરવિડુ વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તુલુવ વંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તુલુવ' વંશના 'કૃષ્ણ' સર્વશ્રેષ્ઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કૃષ્ણદેવરાયને કયા નામે ઓળખવામાં આવે છે? <br> A. દક્ષિણના સમ્રાટ <br> B. આંધ્રના ભોજ <br> C. હિન્દુ સમ્રાટ <br> D. વિજયી રાજા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આંધ્રના ભોજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાહિત્ય પ્રેમી હતા એટલે 'ભોજ' કહેવાયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સલ્તનત કાળમાં લશ્કર વિભાગને શું કહેવામાં આવતું? <br> A. દીવાન-એ-રિસાલાત <br> B. દીવાન-એ-ઇન્શા <br> C. દીવાન-એ-આરિઝ <br> D. દીવાન-એ-ખૈરાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દીવાન-એ-આરિઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આરિઝ' માં 'આર્મી' જેવો અવાજ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઢાઈ દિન કા ઝોંપડા શું છે? <br> A. મહેલ <br> B. મસ્જિદ <br> C. કિલ્લો <br> D. દરવાજો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મસ્જિદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભલે નામ ઝોંપડું છે, પણ છે એ 'મસ્જિદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કયા સુલતાને સૈન્યના ઘોડાઓ માટે 'દાગ' પ્રથા શરૂ કરી હતી? <br> A. મોહમ્મદ તુઘલક <br> B. ઇલ્તુત્મિશ <br> C. અલાઉદ્દીન ખલજી <br> D. ફિરોજશાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અલાઉદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દાગ' લગાડ્યો ઘોડા પર 'અલાઉદ્દીન' એ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સૈયદ વંશ પછી કયા વંશનું શાસન સ્થપાયું? <br> A. મોગલ વંશ <br> B. લોદી વંશ <br> C. ખલજી વંશ <br> D. તુઘલક વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લોદી વંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈયદ પછી 'લોદી' (ક્રમ યાદ રાખો: સ-લો).</p></div>"
+    }
+  ]
+}
