@@ -2676,3 +2676,191 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ અને વ્યવસ્થાપન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેનામાંથી કઈ આપત્તિ કુદરતી આપત્તિ નથી?",
+      "options": "A. ભૂકંપ, B. પૂર, C. આગ (માનવસર્જિત), D. સુનામી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આગ (માનવસર્જિત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કુદરત દ્વારા થાય તે કુદરતી અને જે માણસની ભૂલથી થાય તે માનવસર્જિત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૃથ્વીના પેટાળમાં થતી ઝડપી હલનચલન અને દબાણને કારણે પૃથ્વીની સપાટીનો અમુક નબળો ભાગ એકાએક ધ્રૂજી ઉઠે છે, તેને શું કહેવાય?",
+      "options": "A. જ્વાળામુખી, B. ભૂકંપ, C. દુષ્કાળ, D. વાવાઝોડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની 'ધ્રુજારી' એટલે 'ભૂ-કંપ' (ભૂમિનો કંપન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભૂકંપની તીવ્રતા માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "options": "A. થર્મોમીટર, B. બેરોમીટર, C. સિસ્મોગ્રાફ (ભૂકંપ આલેખક), D. લેક્ટોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સિસ્મોગ્રાફ (ભૂકંપ આલેખક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપનો 'ગ્રાફ' દોરે તે 'સિસ્મોગ્રાફ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાથી ઉદ્ભવતા તોફાનોને શું કહે છે?",
+      "options": "A. સુનામી, B. ચક્રવાત (વાવાઝોડું), C. પૂર, D. દાવાનળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ચક્રવાત (વાવાઝોડું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા જ્યારે 'ચકરાવે' ચઢે ત્યારે 'ચક્રવાત' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતના પૂર્વ તટ અને મલબાર તટે કઈ આપત્તિ ભારે વિનાશ સર્જે છે?",
+      "options": "A. દુષ્કાળ, B. દાવાનળ, C. ચક્રવાત, D. જ્વાળામુખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચક્રવાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાકિનારો (તટ) હોય ત્યાં પવનનું તોફાન (ચક્રવાત) વધુ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમુદ્રના તળિયે થતા ભૂકંપને કારણે ઉદ્ભવતા વિનાશકારી મોજાંને શું કહે છે?",
+      "options": "A. પૂર, B. ભરતી, C. સુનામી, D. ચક્રવાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સુનામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગરના તળિયે ભૂકંપ = સુનામી (Sagar + Sunami).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નદીમાં આવતા પાણીના ધસમસતા પ્રવાહને શું કહેવાય?",
+      "options": "A. સુનામી, B. પૂર, C. વાવાઝોડું, D. ભૂસ્ખલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી જ્યારે મર્યાદા પૂરી (પૂર) કરે ત્યારે 'પૂર' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદ ન પડવાથી કે બહુ ઓછો પડવાથી અન્ન અને પાણીની જે અછત સર્જાય તેને શું કહેવાય?",
+      "options": "A. પૂર, B. વાવાઝોડું, C. દુષ્કાળ, D. સુનામી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 'દુર્લભ' થાય એટલે 'દુષ્કાળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જંગલોમાં વૃક્ષોના પરસ્પર ઘર્ષણ કે અન્ય કારણોથી લાગતી આગને શું કહે છે?",
+      "options": "A. હુલ્લડ, B. દાવાનળ, C. વિસ્ફોટ, D. ભૂકંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દાવાનળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દવ' એટલે આગ અને 'નળ' (અહીં જંગલના અર્થમાં) એટલે જંગલની આગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભૂસ્ખલન માટે કયું પરિબળ જવાબદાર છે?",
+      "options": "A. ભારે વરસાદ, B. ભૂકંપ, C. પહાડોનું ખોદકામ, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન ખસવા માટે કુદરતી અને માનવીય બંને કારણો ભાગ ભજવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભૂકંપ દરમિયાન નીચેનામાંથી શું કરવું જોઈએ?",
+      "options": "A. લિફ્ટનો ઉપયોગ કરવો, B. પાટલી કે ટેબલ નીચે બેસી જવું, C. કાચની બારી પાસે ઉભા રહેવું, D. બહુમાળી મકાન પરથી કૂદી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાટલી કે ટેબલ નીચે બેસી જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપમાં 'માથું બચાવો', ટેબલ નીચે 'સંતાઈ જાવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સુનામી આવવાની પૂર્વ ચેતવણી મળતા શું કરવું જોઈએ?",
+      "options": "A. દરિયાકિનારે ફરવા જવું, B. કિંમતી સામાન લઈ દરિયાથી દૂર ઉંચાઈવાળા સ્થળે જવું, C. દરિયામાં હોડી લઈને જવું, D. માછલાં પકડવા જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કિંમતી સામાન લઈ દરિયાથી દૂર ઉંચાઈવાળા સ્થળે જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનામી એટલે પાણીનું આક્રમણ, બચવા માટે જોઈએ 'ઉંચાઈ' અને 'દૂરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ચક્રવાતની આગાહી માટે કઈ સંસ્થા કામ કરે છે?",
+      "options": "A. શિક્ષણ વિભાગ, B. આરોગ્ય વિભાગ, C. ભારત હવામાન વિભાગ (IMD), D. કૃષિ વિભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ભારત હવામાન વિભાગ (IMD)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ અને વાવાઝોડું એ 'હવામાન' નો વિષય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પૂર આવ્યા બાદ કઈ સાવચેતી રાખવી જોઈએ?",
+      "options": "A. નદીમાં ન્હાવા જવું, B. ખોરાક રાંધીને જ ખાવો અને પાણી ઉકાળીને પીવું, C. વીજળીના થાંભલાને અડવું, D. ગમે ત્યાં રખડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખોરાક રાંધીને જ ખાવો અને પાણી ઉકાળીને પીવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર પછી 'રોગચાળો' વધે, એટલે પાણી 'ઉકાળો' ને રોગ 'ભગાડો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દુષ્કાળથી બચવા માટે કયો શ્રેષ્ઠ ઉપાય છે?",
+      "options": "A. વૃક્ષારોપણ અને જળસંગ્રહ, B. જંગલો કાપવા, C. પાણીનો બગાડ કરવો, D. ઉદ્યોગો વધારવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. વૃક્ષારોપણ અને જળસંગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વૃક્ષ' લાવે વરસાદ, 'સંગ્રહ' બચાવે પાણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારતના ઉત્તરના મેદાનોમાં કઈ આપત્તિ વધુ જોવા મળે છે?",
+      "options": "A. સુનામી, B. જ્વાળામુખી, C. પૂર, D. દાવાનળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર ભારતમાં 'ગંગા-યમુના' જેવી મોટી નદીઓ છે, જે 'પૂર' લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કઈ આપત્તિની આગાહી કરવી શક્ય નથી?",
+      "options": "A. પૂર, B. ચક્રવાત, C. ભૂકંપ, D. સુનામી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનની નીચે શું થાય છે તેની ખબર અગાઉથી પડતી નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભૂકંપ કેન્દ્રથી પૃથ્વીની સપાટી પરના નજીકના સ્થળને શું કહે છે?",
+      "options": "A. ભૂકંપ નિર્ગમન કેન્દ્ર, B. કેન્દ્રબિંદુ, C. પાયો, D. ઉપરનું પડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ભૂકંપ નિર્ગમન કેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી તરંગો બહાર 'નીકળે' (નિર્ગમન) તે 'નિર્ગમન કેન્દ્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચક્રવાતને યુ.એસ.એ. માં કયા નામે ઓળખવામાં આવે છે?",
+      "options": "A. ટાયફૂન, B. હરિકેન અને ટોર્નેડો, C. વિલી-વિલી, D. બાગ્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હરિકેન અને ટોર્નેડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: USA ના લોકો 'હરી' ને 'ટોને' (ટોર્નેડો) યાદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સુનામી શબ્દ કઈ ભાષાનો છે?",
+      "options": "A. હિન્દી, B. અંગ્રેજી, C. જાપાનીઝ, D. ફ્રેન્ચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જાપાનીઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુ' અને 'નામી' એ જાપાનમાં બહુ વપરાતા શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રેલવે અકસ્માત એ કયા પ્રકારની આપત્તિ છે?",
+      "options": "A. કુદરતી, B. ભૌગોલિક, C. માનવસર્જિત, D. જૈવિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. માનવસર્જિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેન માણસ ચલાવે છે, એટલે ભૂલ પણ માણસની જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દુષ્કાળના સમયે કઈ બાબત પર પ્રતિબંધ મૂકવો જોઈએ?",
+      "options": "A. વૃક્ષારોપણ પર, B. અનાજનો બગાડ રોકવા ઉત્સવો પર, C. પાણી પીવા પર, D. ખેતી કરવા પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અનાજનો બગાડ રોકવા ઉત્સવો પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અછત હોય ત્યારે 'બગાડ' પાપ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દાવાનળ માટે કયું કારણ મુખ્ય છે?",
+      "options": "A. ભારે વરસાદ, B. માનવીય લાપરવાહી (જેમ કે સળગતી બીડી), C. ઠંડો પવન, D. ધરતીકંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માનવીય લાપરવાહી (જેમ કે સળગતી બીડી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલમાં લાગે આગ, માણસની ભૂલથી જાગે જાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભૂસ્ખલન મોટે ભાગે કયા વિસ્તારોમાં જોવા મળે છે?",
+      "options": "A. રણ વિસ્તારોમાં, B. પર્વતીય વિસ્તારોમાં, C. દરિયા કિનારે, D. મેદાનોમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પર્વતીય વિસ્તારોમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં પર્વત કે ઢાળ હોય ત્યાં જ જમીન નીચે 'ખસી' શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આપત્તિ વ્યવસ્થાપનમાં કોની ભૂમિકા સૌથી મહત્વની છે?",
+      "options": "A. માત્ર સરકારની, B. માત્ર ડોક્ટરોની, C. સ્થાનિક પ્રશાસન અને જનભાગીદારીની, D. કોઈની પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સ્થાનિક પ્રશાસન અને જનભાગીદારીની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપત્તિમાં 'સાથ' અને 'સહકાર' જ જીવ બચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગુજરાતના કચ્છમાં કયા વર્ષે ભયાનક ભૂકંપ આવ્યો હતો?",
+      "options": "A. 1999, B. 2001, C. 2005, D. 2010",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 2001 (26 જાન્યુઆરી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 21મી સદીનું પહેલું જ વર્ષ (2001) અને ગણતંત્ર દિવસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વાવાઝોડા દરમિયાન શું ન કરવું જોઈએ?",
+      "options": "A. રેડિયો સાંભળવો, B. વીજળીના થાંભલા કે ઝાડ નીચે ઉભા રહેવું, C. સુરક્ષિત સ્થળે રહેવું, D. બારી-બારણાં બંધ રાખવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વીજળીના થાંભલા કે ઝાડ નીચે ઉભા રહેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનમાં ઝાડ અને થાંભલા પડી શકે, તેથી તેનાથી 'દૂર' રહો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સુનામી આવવાનું મુખ્ય કારણ શું છે?",
+      "options": "A. ભારે પવન, B. સમુદ્રના તળિયે ભૂકંપ કે જ્વાળામુખી, C. નદીમાં પૂર, D. વરસાદનો અભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સમુદ્રના તળિયે ભૂકંપ કે જ્વાળામુખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાતાળમાં હલચલ = સુનામીનો હલ્લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "તીવ્ર પવન અને વરસાદ સાથે આવતા ચક્રવાતને શું કહે છે?",
+      "options": "A. લૂ, B. ઝંઝાવાત, C. હિમવર્ષા, D. મૃગજળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઝંઝાવાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનનો 'ઝપાટો' એટલે 'ઝંઝાવાત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આપત્તિના સમયના બચાવ માટે તૈયાર રાખવી જોઈએ એવી કીટને શું કહેવાય?",
+      "options": "A. ફર્સ્ટ એઈડ કીટ, B. ડિઝાસ્ટર કીટ, C. સ્કૂલ કીટ, D. ટૂલ કીટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ડિઝાસ્ટર કીટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિઝાસ્ટર (આપત્તિ) માટે 'ડિઝાસ્ટર કીટ' જ હોય!</p></div>"
+    }
+  ]
+}
