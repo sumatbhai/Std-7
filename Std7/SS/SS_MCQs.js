@@ -2468,3 +2468,211 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વાતાવરણની સજીવો પર અસરો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીની ચારેબાજુ વીંટળાઈને આવેલા હવાના આવરણને શું કહે છે?\n(A) મૃદાવરણ\n(B) જલાવરણ\n(C) વાતાવરણ\n(D) જીવાવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાતાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની ચારેબાજુ જે 'વાયુ' ફેલાયેલા છે તેને 'વાતા'વરણ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વાતાવરણમાં નાઇટ્રોજન વાયુનું પ્રમાણ આશરે કેટલા ટકા છે?\n(A) 21 %\n(B) 78 %\n(C) 0.03 %\n(D) 0.93 %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 78 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત-આઠ (78) નાઇટ્રોજન ના થાટ! સૌથી વધુ નાઇટ્રોજન જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ આશરે કેટલા ટકા છે?\n(A) 78 %\n(B) 0.03 %\n(C) 21 %\n(D) 0.93 %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 21 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન એટલે જીવન, જે 21% (એકવીસ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાતાવરણના સૌથી નીચેના સ્તરને શું કહેવામાં આવે છે?\n(A) સમતાપ આવરણ\n(B) મધ્યાવરણ\n(C) ક્ષોભ આવરણ\n(D) બાહ્યાવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ક્ષોભ આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નીચે 'ક્ષોભ' (જ્યાં આપણે રહીએ છીએ અને ક્ષોભ પામીએ છીએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જેટ વિમાનો કયા આવરણમાં ઓછા અવરોધ અને ઝડપથી ઉડી શકે છે?\n(A) ક્ષોભ આવરણ\n(B) સમતાપ આવરણ\n(C) મધ્યાવરણ\n(D) ઉષ્માવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમતાપ આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિમાન 'સમાન તાપમાન' એટલે કે 'સમતાપ' માં સ્મૂધ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કયા વાયુનું સ્તર સૂર્યના પારજાંબલી (Ultraviolet) કિરણોનું શોષણ કરે છે?\n(A) હાઈડ્રોજન\n(B) હિલીયમ\n(C) ઓઝોન\n(D) નાઈટ્રોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઓઝોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન = પૃથ્વીની છત્રી (UV કિરણોથી બચાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઉલ્કાઓ વાતાવરણના કયા સ્તરમાં આવતા સળગી ઉઠે છે?\n(A) સમતાપ આવરણ\n(B) ક્ષોભ આવરણ\n(C) મધ્યાવરણ\n(D) બાહ્યાવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મધ્યાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉલ્કા 'વચ્ચે' એટલે કે 'મધ્ય' માં આવે ત્યારે જ સળગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રેડિયો તરંગોનું પરાવર્તન કયા આવરણને આભારી છે?\n(A) ક્ષોભ આવરણ\n(B) સમતાપ આવરણ\n(C) આયનાવરણ (ઉષ્માવરણ)\n(D) મધ્યાવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આયનાવરણ (ઉષ્માવરણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો અને ટીવીના 'આયન' (Signals) આયનાવરણ માંથી આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોઈપણ સ્થળની ટૂંકા સમયગાળાની વાતાવરણની સરેરાશ પરિસ્થિતિ એટલે...?\n(A) આબોહવા\n(B) હવામાન\n(C) તાપમાન\n(D) ભેજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હવામાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટૂંકો સમય = હવામાન (News માં આવે તે), લાંબો સમય = આબોહવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સામાન્ય રીતે કોઈપણ પ્રદેશની ઓછામાં ઓછા કેટલા વર્ષોની સરેરાશ હવામાનની સ્થિતિને 'આબોહવા' કહે છે?\n(A) 10 વર્ષ\n(B) 25 વર્ષ\n(C) 35 વર્ષ\n(D) 50 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 35 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આબોહવા જાણવી હોય તો 35 વર્ષની તપસ્યા (સરેરાશ) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હવામાનના અભ્યાસ માટે ભારતની મુખ્ય કચેરી ક્યાં આવેલી છે?\n(A) મુંબઈ\n(B) દિલ્હી\n(C) કોલકાતા\n(D) ચેન્નઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દિલ્હી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશની રાજધાની દિલ્હીમાં જ બધી મુખ્ય ઓફિસ (IMD) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હવાનું દબાણ માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?\n(A) થર્મોમીટર\n(B) બેરોમીટર\n(C) હાઈગ્રોમીટર\n(D) એનિમોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બેરોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાના દબાણને 'Bar' માં માપાય, એટલે બેરોમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પૃથ્વીની સપાટી પર વર્ષભર નિશ્ચિત દિશામાં વાતા પવનોને શું કહે છે?\n(A) મોસમી પવનો\n(B) સ્થાનિક પવનો\n(C) કાયમી પવનો\n(D) દૈનિક પવનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાયમી પવનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વર્ષભર 'કાયમ' વાય તે કાયમી પવનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારત કયા પ્રકારના પવનોનો દેશ છે?\n(A) વ્યાપારી પવનો\n(B) મોસમી પવનો\n(C) પશ્ચિમીયા પવનો\n(D) ધ્રુવીય પવનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મોસમી પવનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં 'મોસમ' પ્રમાણે વરસાદ આવે, એટલે ભારત મોસમી પવનોનો દેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉનાળામાં ફૂંકાતા ગરમ અને સૂકા પવનોને શું કહેવામાં આવે છે?\n(A) લૂ\n(B) મોન્સૂન\n(C) વંટોળ\n(D) ચક્રવાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉનાળામાં બહાર નીકળો તો ગરમી 'લૂ'ગી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હવામાં રહેલા ભેજનું ઘનીભવન થઈને શું બને છે?\n(A) વાયુ\n(B) વાદળ\n(C) ધૂળ\n(D) વરાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાદળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજ ભેગો થાય (ઘનીભવન) એટલે આકાશમાં 'વાદળ' બંધાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિષુવવૃત્તથી 5° થી 10° ઉત્તર અને દક્ષિણ અક્ષાંશમાં કયા પ્રકારના જંગલો જોવા મળે છે?\n(A) ઉષ્ણકટિબંધીય બારેમાસ લીલા જંગલો\n(B) ખરાઉ જંગલો\n(C) શંકુદ્રુમ જંગલો\n(D) ઘાસના મેદાનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઉષ્ણકટિબંધીય બારેમાસ લીલા જંગલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષુવવૃત્ત પર ગરમી અને વરસાદ વધુ, એટલે ત્યાં 'બારેમાસ લીલા' જંગલો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા પ્રકારના જંગલોને 'મોસમી જંગલો' પણ કહેવામાં આવે છે?\n(A) કાંટાળા જંગલો\n(B) ઉષ્ણકટિબંધીય ખરાઉ જંગલો\n(C) મેન્ગ્રોવ જંગલો\n(D) ભૂમધ્ય સાગરના જંગલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્ણકટિબંધીય ખરાઉ જંગલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસમ બદલાય એટલે પાન 'ખરે', માટે મોસમી = ખરાઉ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રુક્ષ, સીસમ અને મહોગની કયા પ્રકારના જંગલોના મુખ્ય વૃક્ષો છે?\n(A) ઉષ્ણકટિબંધીય બારેમાસ લીલા જંગલો\n(B) સમશીતોષ્ણ ખરાઉ જંગલો\n(C) શંકુદ્રુમ જંગલો\n(D) કાંટાળી વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઉષ્ણકટિબંધીય બારેમાસ લીલા જંગલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રોઝવૂડ (રુક્ષ), મહોગની' જેવી કિંમતી લાકડાની જાતો લીલા જંગલોમાં જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ખટાસવાળા ફળો (નારંગી, લીંબુ, દ્રાક્ષ) મુખ્યત્વે કયા પ્રદેશમાં થાય છે?\n(A) ધ્રુવીય પ્રદેશ\n(B) રણ પ્રદેશ\n(C) ભૂમધ્ય સાગરના પ્રદેશ\n(D) શંકુદ્રુમ પ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ભૂમધ્ય સાગરના પ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂમધ્ય સાગર = ફળોનો બગીચો (ખાસ કરીને ખાટા ફળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કયા પ્રકારના જંગલોના વૃક્ષોનો આકાર શંકુ જેવો હોય છે?\n(A) ખરાઉ જંગલો\n(B) શંકુદ્રુમ જંગલો\n(C) કાંટાળા જંગલો\n(D) બારેમાસ લીલા જંગલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શંકુદ્રુમ જંગલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે, 'શંકુ' આકાર = 'શંકુ'દ્રુમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દુનિયાનું સૌથી મોટું ઘાસનું મેદાન 'સવાના' કયા ખંડમાં આવેલું છે?\n(A) એશિયા\n(B) યુરોપ\n(C) આફ્રિકા\n(D) ઓસ્ટ્રેલિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આફ્રિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફ્રિકામાં જંગલી પ્રાણીઓ અને 'સવાના' (Savanna) ઘાસ પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કચ્છના નાના રણમાં કયું વિશિષ્ટ પ્રાણી જોવા મળે છે?\n(A) ઘોડખર (જંગલી ગધેડા)\n(B) સિંહ\n(C) વાઘ\n(D) ગેંડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઘોડખર (જંગલી ગધેડા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છનું નાનું રણ = ઘોડખર (Wild Ass) નું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પશ્ચિમ ઓસ્ટ્રેલિયામાં કયા પ્રકારના પવનોને કારણે વર્ષા થાય છે?\n(A) ધ્રુવીય\n(B) વ્યાપારી\n(C) પશ્ચિમીયા\n(D) સ્થાનિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પશ્ચિમીયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ ઓસ્ટ્રેલિયામાં 'પશ્ચિમ'ીયા પવનો જ વરસાદ લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચિડ, દેવદાર અને ફરમાંથી શું બનાવવામાં આવે છે?\n(A) ફર્નિચર\n(B) રમતગમતના સાધનો અને દિવાસળી\n(C) બાંધકામનું લાકડું\n(D) બળતણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રમતગમતના સાધનો અને દિવાસળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકુદ્રુમ લાકડું પોચું હોય, એટલે રમતનાં સાધનો અને દિવાસળીમાં વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વાતાવરણમાં કયો વાયુ સૌથી ઓછી માત્રામાં (0.03%) જોવા મળે છે?\n(A) આર્ગન\n(B) નાઈટ્રોજન\n(C) કાર્બન ડાયોક્સાઇડ\n(D) ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાર્બન ડાયોક્સાઇડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 (કાર્બન) માત્ર 'ઝીરો-ઝીરો-ત્રણ' જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કયા સ્તરમાં તાપમાન અને દબાણ ખૂબ ઓછું હોય છે?\n(A) ક્ષોભ આવરણ\n(B) મધ્યાવરણ\n(C) બાહ્યાવરણ\n(D) સમતાપ આવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મધ્યાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમાં આવો ત્યારે બધું ઓછું થઈ જાય (તાપમાન/દબાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સૌર વિકિરણના શોષણને કારણે કયું આવરણ સૌથી વધુ ગરમ હોય છે?\n(A) ઉષ્માવરણ\n(B) મધ્યાવરણ\n(C) ક્ષોભ આવરણ\n(D) સમતાપ આવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઉષ્માવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉષ્મા' એટલે ગરમી, એટલે ઉષ્માવરણ સૌથી ગરમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પૃથ્વી સપાટીથી ઊંચાઈ પર જતાં તાપમાનમાં શું ફેરફાર થાય છે?\n(A) વધે છે\n(B) ઘટે છે\n(C) સમાન રહે છે\n(D) અચાનક વધે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર જઈએ તો ઠંડી લાગે, એટલે કે ઉપર જતાં તાપમાન ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દરિયાઈ લહેરો કયા પવનોનું ઉદાહરણ છે?\n(A) કાયમી પવનો\n(B) દૈનિક કે સ્થાનિક પવનો\n(C) મોસમી પવનો\n(D) વ્યાપારી પવનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દૈનિક કે સ્થાનિક પવનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાઈ લહેર 'રોજ' (દૈનિક) બદલાય, રાત્રે અને દિવસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ચક્રવાતને યુ.એસ.એ. (USA) માં કયા નામે ઓળખવામાં આવે છે?\n(A) ટાયફૂન\n(B) વિલી-વિલી\n(C) હરિકેન / ટોર્નેડો\n(D) બાગીયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હરિકેન / ટોર્નેડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: USA ના લોકો 'હરિકેન' અને 'ટોર્નેડો' થી ડરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "એશિયાના રણ પ્રદેશમાં કયા પ્રાણીઓ મુખ્યત્વે જોવા મળે છે?\n(A) હાથી\n(B) ઊંટ\n(C) જીરાફ\n(D) ઝીબ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઊંટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ પ્રદેશ = રણનું વહાણ 'ઊંટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ખેજડી અને થોર કયા પ્રકારની વનસ્પતિ છે?\n(A) શંકુદ્રુમ\n(B) બારેમાસ લીલી\n(C) કાંટાળી (રણ પ્રદેશની)\n(D) મેન્ગ્રોવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાંટાળી (રણ પ્રદેશની)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણમાં પાણી ઓછું હોય, એટલે પાંદડા 'કાંટા' બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ભારતમાં જોવા મળતી પક્ષીની કઈ પ્રજાતિ લુપ્ત થવાને આરે છે?\n(A) ચકલી\n(B) મોર\n(C) ગીધ\n(D) કબૂતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગીધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીધ એ કુદરતના સફાઈ કામદાર છે, પણ હવે દેખાતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કચ્છના મોટા રણમાં કયા પક્ષીઓ જોવા મળે છે?\n(A) ફ્લેમિંગો (સુરખાબ)\n(B) પોપટ\n(C) ઘુવડ\n(D) બતક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ફ્લેમિંગો (સુરખાબ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતનું રાજ્ય પક્ષી 'સુરખાબ' કચ્છમાં જ જોવા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વાતાવરણમાં સૌથી વધુ ઊંચાઈએ કયો વાયુ જોવા મળે છે?\n(A) ઓક્સિજન\n(B) હાઈડ્રોજન અને હિલીયમ\n(C) નાઇટ્રોજન\n(D) કાર્બન ડાયોક્સાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હાઈડ્રોજન અને હિલીયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સૌથી હલકા વાયુ (H & He) હોય તે જ સૌથી ઉપર જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પૃથ્વીની સપાટીથી 16 કિમી સુધીના આવરણને શું કહે છે?\n(A) મધ્યાવરણ\n(B) સમતાપ આવરણ\n(C) ક્ષોભ આવરણ\n(D) બાહ્યાવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ક્ષોભ આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા 16 કિમી એટલે પૃથ્વીનો 'ક્ષોભ' વિસ્તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પૃથ્વી પર હવાના દબાણનો સૌથી વધુ અનુભવ ક્યાં થાય છે?\n(A) પર્વત પર\n(B) મેદાનમાં\n(C) સમુદ્ર સપાટી પર\n(D) ઉચ્ચપ્રદેશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સમુદ્ર સપાટી પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નીચેની જગ્યા (દરિયો) એટલે દબાણ સૌથી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પવનોની દિશા જાણવા માટે કયું સાધન વપરાય છે?\n(A) એનિમોમીટર\n(B) પવનચક્કી\n(C) પવનદિશા દર્શક (Wind Vane)\n(D) દિશા સૂચક યંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પવનદિશા દર્શક (Wind Vane)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે, પવનની 'દિશા' બતાવે તે 'પવનદિશા દર્શક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સમુદ્ર પરથી જમીન તરફ આવતા પવનો કેવા હોય છે?\n(A) ગરમ\n(B) ભેજવાળા\n(C) સૂકા\n(D) ખૂબ ઠંડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભેજવાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયામાં પાણી છે, એટલે ત્યાંથી આવતા પવનો 'ભેજ' લઈને આવે.</p></div>"
+    }
+  ]
+}
