@@ -1704,3 +1704,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "અઢારમી સદીના રાજકીય શાસકો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મુઘલ બાદશાહ ઔરંગઝેબનું મૃત્યુ કયા વર્ષમાં થયું હતું? <br> A. ઈ.સ. 1705 <br> B. ઈ.સ. 1707 <br> C. ઈ.સ. 1710 <br> D. ઈ.સ. 1701",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઈ.સ. 1707</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબના નામના અક્ષરો ગણો તો પણ યાદ ન રહે તો યાદ રાખો - 'સાતડો' (7) એટલે મુઘલ સત્તાના પતનનો 'સાથ' છૂટ્યો (1707).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઔરંગઝેબના મૃત્યુ પછી મુઘલ ગાદી પર કોણ આવ્યું? <br> A. જહાંદરશાહ <br> B. બહાદુરશાહ પ્રથમ <br> C. ફર્રુખસિયર <br> D. મુહમ્મદશાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બહાદુરશાહ પ્રથમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબ પછી 'બહાદુર' આવ્યો પણ તે સત્તા ટકાવી ન શક્યો. (ઔરંગઝેબ -> બહાદુરશાહ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "હૈદરાબાદ રાજ્યની સ્થાપના કોણે કરી હતી? <br> A. સાદતખાં <br> B. મુર્શિદકુલી ખાં <br> C. નિઝામ-ઉલ-મુલ્ક આસફજાહ <br> D. અલીવર્દી ખાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. નિઝામ-ઉલ-મુલ્ક આસફજાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હૈદરાબાદ' નો 'હ' અને 'આસફજાહ' નો 'આ' - 'હા' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અયોધ્યા (અવધ) માં સ્વતંત્ર રાજ્યની સ્થાપના કોણે કરી હતી? <br> A. સાદતખાં <br> B. સફદરજંગ <br> C. શુજાઉદૌલા <br> D. ચિનકિલીચ ખાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સાદતખાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અવધ' માં લોકો 'સાદા' (સાદતખાં) હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બંગાળમાં સ્વતંત્ર રાજ્યની સ્થાપના કોણે કરી હતી? <br> A. સિરાજ-ઉદ-દૌલા <br> B. મુર્શિદકુલી ખાં અને અલીવર્દી ખાં <br> C. મીર જાફર <br> D. મીર કાસીમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મુર્શિદકુલી ખાં અને અલીવર્દી ખાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળની 'મીઠી' વાનગી જેવું 'મુર્શિદ' નામ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રાજપૂત શાસકોમાં સૌથી શક્તિશાળી શાસક કોણ હતા જેમણે જયપુર શહેર વસાવ્યું હતું? <br> A. રાજા અજીતસિંહ <br> B. મહારાજા પ્રતાપ <br> C. સવાઈ જયસિંહ <br> D. રાજા માલદેવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સવાઈ જયસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જય'પુર શહેર વસાવનાર રાજા 'જય'સિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રાજા સવાઈ જયસિંહે કયા સ્થળે ખગોળશાસ્ત્ર માટે વેધશાળાઓ સ્થાપી નહોતી? <br> A. દિલ્હી <br> B. જયપુર <br> C. ઉજ્જૈન <br> D. અમદાવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. અમદાવાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દિલ્હી, જયપુર, ઉજ્જૈન, મથુરા, વારાણસી' - આ 5 સ્થળો યાદ રાખવા, અમદાવાદ તેમાં નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શીખ ધર્મના કયા ગુરુએ શીખોને સંગઠિત કરી 'ખાલસા પંથ' ની સ્થાપના કરી હતી? <br> A. ગુરુ નાનક <br> B. ગુરુ અર્જુનદેવ <br> C. ગુરુ ગોવિંદસિંહ <br> D. ગુરુ તેગબહાદુર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગુરુ ગોવિંદસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10મા ગુરુ ગોવિંદસિંહજીએ 'ખાલસા' (શુદ્ધ) સૈન્ય બનાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુરુ ગોવિંદસિંહ પછી કયા નેતાએ મુઘલો સામે મોટો વિદ્રોહ કર્યો હતો? <br> A. રણજીતસિંહ <br> B. બંદા બહાદુર <br> C. તેગબહાદુર <br> D. કપૂરસિંહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બંદા બહાદુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીખોમાં ગોવિંદસિંહ પછી 'બંદા' (માણસ) બહાદુર નીકળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શીખ સામ્રાજ્યના સૌથી શક્તિશાળી શાસક કોણ હતા? <br> A. બંદા બહાદુર <br> B. મહારાજા રણજીતસિંહ <br> C. ગુરુ નાનક <br> D. ખડકસિંઘ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મહારાજા રણજીતસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ (યુદ્ધ) માં જીતનાર - રણજીતસિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મહારાજા રણજીતસિંહે કયા શહેરને પોતાની રાજધાની બનાવી હતી? <br> A. અમૃતસર <br> B. પતિયાલા <br> C. લાહોર <br> D. લુધિયાણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. લાહોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણજીતસિંહે 'લાહોર' જીતીને ત્યાં પોતાની લ્હાણી (રાજધાની) કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "છત્રપતિ શિવાજી મહારાજનો જન્મ કયા કિલ્લામાં થયો હતો? <br> A. રાયગઢ <br> B. પ્રતાપગઢ <br> C. શિવનેરી <br> D. તોરણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શિવનેરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિવાજી' નામ પરથી 'શિવનેરી' કિલ્લો યાદ રાખવો સાવ સરળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શિવાજી મહારાજનો રાજ્યાભિષેક ક્યારે થયો હતો? <br> A. ઈ.સ. 1670 <br> B. ઈ.સ. 1674 <br> C. ઈ.સ. 1680 <br> D. ઈ.સ. 1666",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઈ.સ. 1674</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજીનો રાજ્યાભિષેક 'રાયગઢ' માં 1674 માં થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શિવાજીના મંત્રીમંડળને કયા નામે ઓળખવામાં આવતું હતું? <br> A. નવરત્ન <br> B. અષ્ટપ્રધાન મંડળ <br> C. પંચાયત <br> D. દસગ્રીવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અષ્ટપ્રધાન મંડળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અષ્ટ' એટલે 8 મંત્રીઓનું મંડળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મરાઠા રાજ્યમાં પ્રથમ પેશ્વા કોણ હતા? <br> A. બાજીરાવ પ્રથમ <br> B. બાલાજી વિશ્વનાથ <br> C. બાલાજી બાજીરાવ <br> D. માધવરાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બાલાજી વિશ્વનાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશ્વનાથ' (શંકર ભગવાન) નું નામ પ્રથમ આવે, તેમ પેશ્વાઓમાં પણ બાલાજી વિશ્વનાથ પ્રથમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કયા પેશ્વાને 'કુશળ રાજનીતિજ્ઞ' અને 'લડાયક યોદ્ધા' માનવામાં આવતા હતા? <br> A. બાલાજી વિશ્વનાથ <br> B. બાલાજી બાજીરાવ <br> C. બાજીરાવ પ્રથમ <br> D. રઘુનાથરાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બાજીરાવ પ્રથમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજીરાવ મસ્તાની મુવી યાદ કરો - બાજીરાવ 1લા એવા હતા જે ક્યારેય યુદ્ધ હાર્યા નહોતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ ક્યારે થયું હતું? <br> A. ઈ.સ. 1526 <br> B. ઈ.સ. 1556 <br> C. ઈ.સ. 1761 <br> D. ઈ.સ. 1757",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઈ.સ. 1761</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1761 માં મરાઠાઓની હાર થઈ અને ભારતની કિસ્મત બદલાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ કોની કોની વચ્ચે થયું હતું? <br> A. અકબર અને હેમુ <br> B. બાબર અને ઇબ્રાહિમ લોદી <br> C. મરાઠાઓ અને અહમદશાહ અબ્દાલી <br> D. બ્રિટિશરો અને સિરાજ-ઉદ-દૌલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મરાઠાઓ અને અહમદશાહ અબ્દાલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મરાઠાઓ' VS 'અબ્દાલી' (અફઘાન શાસક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભરતપુરના જાટ રાજ્યની સ્થાપના કોણે કરી હતી? <br> A. સૂરજમલ <br> B. ચુરામન <br> C. બરસિંહ <br> D. ગોકુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ચુરામન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાટ નેતા 'ચુરામન' અને 'બદનસિંહ' એ પાયો નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જાટ શાસકોમાં સૌથી શક્તિશાળી શાસક કોણ હતા? <br> A. સૂરજમલ <br> B. ચુરામન <br> C. રણજીતસિંહ <br> D. માનસિંહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સૂરજમલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાટ કુળનો 'સૂરજ' એટલે રાજા સૂરજમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નાદિરશાહે ભારત પર ક્યારે આક્રમણ કર્યું હતું? <br> A. ઈ.સ. 1739 <br> B. ઈ.સ. 1761 <br> C. ઈ.સ. 1707 <br> D. ઈ.સ. 1750",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ઈ.સ. 1739</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈરાનનો નેપોલિયન નાદિરશાહ 1739 માં આવ્યો અને મુઘલોને પછાડ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઔરંગઝેબના પિતાનું નામ શું હતું? <br> A. અકબર <br> B. જહાંગીર <br> C. શાહજહાં <br> D. હુમાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શાહજહાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B-H-A-J-S-A (B-બાબર, H-હુમાયુ, A-અકબર, J-જહાંગીર, S-શાહજહાં, A-ઔરંગઝેબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઈ.સ. 1713 માં મુઘલ ગાદી પર કોણ બેઠું હતું? <br> A. જહાંદરશાહ <br> B. ફર્રુખસિયર <br> C. બહાદુરશાહ <br> D. આલમગીર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ફર્રુખસિયર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૈયદ બંધુઓ' એ ફર્રુખસિયરને ગાદી પર બેસાડ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શિવાજી મહારાજના માતાનું નામ શું હતું? <br> A. પુતલીબાઈ <br> B. જીજાબાઈ <br> C. મીરાંબાઈ <br> D. લક્ષ્મીબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જીજાબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રમાતા જીજાબાઈ જેમણે શિવાજીને ઘડ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શિવાજી મહારાજના આધ્યાત્મિક ગુરુ કોણ હતા? <br> A. સમર્થ રામદાસ <br> B. દાદાજી કોંડદેવ <br> C. તુકારામ <br> D. જ્ઞાનેશ્વર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સમર્થ રામદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધ્યાત્મિક માટે 'રામ'નું નામ (રામદાસ) અને સંરક્ષક/રાજકીય ગુરુ માટે દાદાજી કોંડદેવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બાલાજી બાજીરાવ કયા નામે ઓળખાતા હતા? <br> A. લડાયક પેશ્વા <br> B. નાના સાહેબ <br> C. રાવ સાહેબ <br> D. પેશ્વા સરકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાના સાહેબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાલાજી બાજીરાવ = નાના સાહેબ (બંનેમાં 'બા' અને 'ના' અક્ષર યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બંગાળના કયા નવાબે અંગ્રેજો સામે પ્લાસીનું યુદ્ધ કર્યું હતું? <br> A. મુર્શિદકુલી ખાં <br> B. સિરાજ-ઉદ-દૌલા <br> C. મીર જાફર <br> D. અલીવર્દી ખાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સિરાજ-ઉદ-દૌલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1757 પ્લાસીનું યુદ્ધ - સિરાજ-ઉદ-દૌલાની હાર થઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સવાઈ જયસિંહ કયા રાજ્યના શાસક હતા? <br> A. મેવાડ <br> B. મારવાડ <br> C. આમેર (જયપુર) <br> D. જોધપુર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આમેર (જયપુર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આમેરના કિલ્લા માટે જયપુર જાણીતું છે અને જયસિંહ ત્યાંના હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શીખ ધર્મના પ્રથમ ગુરુ કોણ હતા? <br> A. ગુરુ ગોવિંદસિંહ <br> B. ગુરુ નાનક <br> C. ગુરુ અંગદ <br> D. ગુરુ રામદાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગુરુ નાનક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધર્મની સ્થાપના કરનાર હંમેશા પ્રથમ હોય (નાનક દેવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નાદિરશાહ કયા દેશનો શાસક હતો? <br> A. અફઘાનિસ્તાન <br> B. ઈરાન <br> C. ઈરાક <br> D. તુર્કી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઈરાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાદિરશાહને 'ઈરાનનો નેપોલિયન' કહેવામાં આવતો.</p></div>"
+    }
+  ]
+}
