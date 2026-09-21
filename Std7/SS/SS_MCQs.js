@@ -1862,3 +1862,451 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીના સૌથી ઉપરના સ્તરને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "મેન્ટલ",
+        "B": "ભૂકવચ",
+        "C": "બાહ્ય ભૂસ્તર",
+        "D": "નિફે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ભૂકવચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનું 'કવચ' એટલે સૌથી ઉપરનું પડ, જેમ ફળની છાલ હોય તેમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખંડીય ભૂકવચ મુખ્યત્વે કયા ખનીજોનું બનેલું છે?",
+      "options": {
+        "A": "સિલિકા અને મેગ્નેશિયમ",
+        "B": "લોખંડ અને નિકલ",
+        "C": "સિલિકા અને એલ્યુમિના",
+        "D": "કેલ્શિયમ અને સલ્ફર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) સિલિકા અને એલ્યુમિના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સી (સિલિકા) + એલ (એલ્યુમિના) = સીઆલ (Sial).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મહાસાગરનું કવચ મુખ્યત્વે કયા ખનીજોનું બનેલું હોય છે?",
+      "options": {
+        "A": "સિલિકા અને મેગ્નેશિયમ",
+        "B": "નિકલ અને લોખંડ",
+        "C": "એલ્યુમિનિયમ અને સિલિકા",
+        "D": "સોનું અને ચાંદી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) સિલિકા અને મેગ્નેશિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સી (સિલિકા) + મા (મેગ્નેશિયમ) = સીમા (Sima).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પૃથ્વીનું મેન્ટલ સ્તર આશરે કેટલા કિલોમીટરની ઊંડાઈ સુધી ફેલાયેલું છે?",
+      "options": {
+        "A": "3500 કિમી",
+        "B": "2900 કિમી",
+        "C": "6000 કિમી",
+        "D": "1500 કિમી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 2900 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મે-ન-ટ-લ' માં 29 યાદ રાખો (2-9).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પૃથ્વીના સૌથી આંતરિક સ્તર (કેન્દ્રીય ભાગ) ને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "સીઆલ",
+        "B": "સીમા",
+        "C": "ભૂકવચ",
+        "D": "ભૂગર્ભ (નિફે)"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) ભૂગર્ભ (નિફે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિ (નિકલ) + ફે (ફેરસ/લોખંડ) = નિફે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગ્રીક શબ્દ 'ઇગ્નિયસ' (Igneous) નો અર્થ શું થાય છે?",
+      "options": {
+        "A": "પથ્થર",
+        "B": "અગ્નિ",
+        "C": "સ્થિર",
+        "D": "પરિવર્તન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) અગ્નિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Igneous = Ignite (સળગાવવું) = અગ્નિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેનામાંથી કયો ખડક અગ્નિકૃત ખડકનું ઉદાહરણ છે?",
+      "options": {
+        "A": "રેતાળ પથ્થર",
+        "B": "આરસપહાણ",
+        "C": "બેસાલ્ટ",
+        "D": "સ્લેટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) બેસાલ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય અગ્નિકૃત = બેસાલ્ટ (બ-બ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જ્યારે મેગ્મા પૃથ્વીની આંતરિક ઊંડાઈએ જ ઠરી જાય, ત્યારે કયા ખડકો બને છે?",
+      "options": {
+        "A": "બાહ્ય અગ્નિકૃત",
+        "B": "આંતરિક અગ્નિકૃત",
+        "C": "જળકૃત",
+        "D": "રૂપાંતરિત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) આંતરિક અગ્નિકૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની અંદર ઠરે તો આંતરિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગ્રેનાઈટ એ કયા પ્રકારના ખડકનું ઉદાહરણ છે?",
+      "options": {
+        "A": "બાહ્ય અગ્નિકૃત",
+        "B": "આંતરિક અગ્નિકૃત",
+        "C": "પ્રસ્તર ખડક",
+        "D": "રૂપાંતરિત ખડક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) આંતરિક અગ્નિકૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેનાઈટના મોટા દાણા હોય છે કારણ કે તે ધીમે ધીમે અંદર ઠરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નદી, પવન કે હિમનદી દ્વારા લવાયેલા કાંપના સ્તરો જામવાથી કયા ખડકો બને છે?",
+      "options": {
+        "A": "અગ્નિકૃત",
+        "B": "જળકૃત (પ્રસ્તર)",
+        "C": "રૂપાંતરિત",
+        "D": "નિફે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) જળકૃત (પ્રસ્તર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તર (Layer) પડે એટલે 'પ્રસ્તર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જીવાવશેષ (Fossils) કયા પ્રકારના ખડકોમાં જોવા મળે છે?",
+      "options": {
+        "A": "અગ્નિકૃત",
+        "B": "રૂપાંતરિત",
+        "C": "પ્રસ્તર (જળકૃત)",
+        "D": "ગ્રેનાઈટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પ્રસ્તર (જળકૃત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીના સ્તરો વચ્ચે જીવ દબાઈ જાય એટલે પ્રસ્તરમાં મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચૂનાનો પથ્થર (Limestone) કયા ખડકમાં રૂપાંતરિત થાય છે?",
+      "options": {
+        "A": "સ્લેટ",
+        "B": "આરસપહાણ",
+        "C": "ગ્રેનાઈટ",
+        "D": "હીરા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) આરસપહાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂનો + ગરમી = સફેદ આરસ (Marble).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખડકોના એક પ્રકારમાંથી બીજા પ્રકારમાં પરિવર્તિત થવાની પ્રક્રિયાને શું કહે છે?",
+      "options": {
+        "A": "જળચક્ર",
+        "B": "ખડકચક્ર",
+        "C": "ઋતુચક્ર",
+        "D": "ભૂસ્તર ચક્ર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ખડકચક્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરનું ગોળ ચક્ર એટલે ખડકચક્ર (Rock Cycle).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મૃદાવરણ (Lithosphere) કુલ કેટલા મુખ્ય ભાગોમાં વહેંચાયેલું છે?",
+      "options": {
+        "A": "ભૂમિખંડો",
+        "B": "મૃદાવરણીય પ્લેટો",
+        "C": "પર્વતમાળાઓ",
+        "D": "સમુદ્રીય ખાઈ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) મૃદાવરણીય પ્લેટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની સપાટી પ્લેટો પર તરી રહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભૂકંપના ઉદ્ગમ સ્થાનને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "અધિકેન્દ્ર",
+        "B": "ઉદગમકેન્દ્ર",
+        "C": "મુખ",
+        "D": "ક્રેટર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ઉદગમકેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી 'ઉદગમ' (શરૂઆત) થાય તે ઉદગમકેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભૂકંપના ઉદગમ કેન્દ્રની ઉપરની સપાટીના નજીકના સ્થળને શું કહે છે?",
+      "options": {
+        "A": "કેન્દ્રબિંદુ",
+        "B": "અધિકેન્દ્ર",
+        "C": "ઉપરી મથક",
+        "D": "વિનાશક ક્ષેત્ર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) અધિકેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધિકેન્દ્ર (Epicenter) પર સૌથી વધુ નુકસાન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નદી જ્યારે મેદાની ક્ષેત્રમાં પ્રવેશ કરે ત્યારે તે વળાંકવાળા માર્ગે વહે છે, આ વળાંકોને શું કહે છે?",
+      "options": {
+        "A": "ધોધ",
+        "B": "સર્પાકાર વળાંક",
+        "C": "ડેલ્ટા",
+        "D": "નદીમુખ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સર્પાકાર વળાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ (Snake) જેવા વાંકા-ચૂકા વળાંક એટલે સર્પાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નદીના સર્પાકાર વળાંકો સમય જતાં અલગ પડી જાય ત્યારે કેવું સરોવર બને છે?",
+      "options": {
+        "A": "ખારા પાણીનું સરોવર",
+        "B": "નળાકાર સરોવર",
+        "C": "ડેમ",
+        "D": "ગ્લેશિયર લેક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) નળાકાર સરોવર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળદની નાળ (Ox-bow) જેવો આકાર એટલે નળાકાર સરોવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નદીના મુખ પાસેના કાંપના નિક્ષેપણથી બનતા ત્રિકોણાકાર ભૂમિભાગને શું કહે છે?",
+      "options": {
+        "A": "પ્લેટુ",
+        "B": "મુખત્રિકોણ પ્રદેશ (ડેલ્ટા)",
+        "C": "સી-ક્લિફ",
+        "D": "પૂરનું મેદાન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) મુખત્રિકોણ પ્રદેશ (ડેલ્ટા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીનું મુખ + ત્રિકોણ આકાર = મુખત્રિકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમુદ્રના મોજાંના ઘસારણને કારણે માત્ર છત જ બાકી રહે, ત્યારે કયા સ્વરૂપની રચના થાય છે?",
+      "options": {
+        "A": "સમુદ્ર ગુફા",
+        "B": "સમુદ્રી કમાન",
+        "C": "સ્ટેક",
+        "D": "સી-ક્લિફ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સમુદ્રી કમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર છત (Roof) વધે ત્યારે 'કમાન' (Arch) જેવું દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમુદ્રી કમાનની છત પણ ઘસારાથી તૂટી જાય અને માત્ર દીવાલો જ વધે, ત્યારે તેને શું કહેવાય?",
+      "options": {
+        "A": "સમુદ્રી કમાન",
+        "B": "સ્ટેક",
+        "C": "બીચ",
+        "D": "હિમોઢ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સ્ટેક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ જેવા ઊભા સ્તંભ એટલે 'સ્ટેક' (Stack).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "હિમનદી દ્વારા લાવવામાં આવેલ પદાર્થો જમા થવાથી કયા ભૂમિસ્વરૂપનું નિર્માણ થાય છે?",
+      "options": {
+        "A": "ડેલ્ટા",
+        "B": "હિમોઢ (મોરેન)",
+        "C": "ઢુવા",
+        "D": "મશરૂમ રોક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) હિમોઢ (મોરેન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમ (બરફ) દ્વારા બનાવેલો ઓઢ (ઢગલો) = હિમોઢ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રણ પ્રદેશમાં પવન દ્વારા કયા આકારના ખડકો બને છે?",
+      "options": {
+        "A": "ગોળ",
+        "B": "છત્રક શિલા (મશરૂમ રોક)",
+        "C": "ચોરસ",
+        "D": "નળાકાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) છત્રક શિલા (મશરૂમ રોક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીના ટોપ (Mushroom) જેવો આકાર એટલે છત્રક શિલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રણ પ્રદેશમાં પવનની ગતિ ઘટતા રેતીના જે નાના ટેકરા બને છે, તેને શું કહે છે?",
+      "options": {
+        "A": "લોએસ",
+        "B": "ઢુવા (Sand Dunes)",
+        "C": "સ્ટેક",
+        "D": "ડેલ્ટા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ઢુવા (Sand Dunes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીનો ઢગલો એટલે ઢુવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચીનમાં જોવા મળતા રેતીના વિશાળ મેદાનને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "થરનું રણ",
+        "B": "લોએસ",
+        "C": "સહારા",
+        "D": "હિમોઢ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) લોએસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચીન' માં 'લોએસ' (Loess) મેદાન જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પૃથ્વીના સૌથી પાતળા સ્તરનું નામ શું છે?",
+      "options": {
+        "A": "મેન્ટલ",
+        "B": "ભૂકવચ",
+        "C": "બાહ્ય ભૂગર્ભ",
+        "D": "આંતરિક ભૂગર્ભ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ભૂકવચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકવચ માત્ર 35 કિમી છે, જે પૃથ્વીની ત્રિજ્યા સામે ખૂબ ઓછું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કલે (Clay) માંથી સ્લેટ (Slate) બનવાની પ્રક્રિયા કયા પ્રકારના ખડકનું નિર્માણ કરે છે?",
+      "options": {
+        "A": "અગ્નિકૃત",
+        "B": "જળકૃત",
+        "C": "રૂપાંતરિત",
+        "D": "જ્વાળામુખી ખડક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) રૂપાંતરિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપ બદલાય એટલે રૂપાંતરિત (Metamorphic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પૃથ્વીની ત્રિજ્યા આશરે કેટલા કિલોમીટર છે?",
+      "options": {
+        "A": "6371 કિમી",
+        "B": "2900 કિમી",
+        "C": "3500 કિમી",
+        "D": "12000 કિમી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 6371 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6-3-7-1 આ આંકડો મોબાઈલ નંબરની જેમ યાદ રાખી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભૂગર્ભ (Core) ની ત્રિજ્યા આશરે કેટલા કિલોમીટર છે?",
+      "options": {
+        "A": "1500 કિમી",
+        "B": "3500 કિમી",
+        "C": "2900 કિમી",
+        "D": "500 કિમી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 3500 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂગર્ભ મોટું હોય, એટલે 3500 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કયું જળકૃત ખડકનું ઉદાહરણ છે?",
+      "options": {
+        "A": "ગ્રેનાઈટ",
+        "B": "રેતાળ પથ્થર",
+        "C": "આરસપહાણ",
+        "D": "બેસાલ્ટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) રેતાળ પથ્થર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીના કણો જમા થઈને બને એટલે રેતાળ પથ્થર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પૃથ્વીની સપાટી પર જ્યારે મેગ્મા ફેલાઈને ઠરી જાય, ત્યારે કયા ખડકો બને છે?",
+      "options": {
+        "A": "આંતરિક અગ્નિકૃત",
+        "B": "બાહ્ય અગ્નિકૃત",
+        "C": "પ્રસ્તર",
+        "D": "રૂપાંતરિત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) બાહ્ય અગ્નિકૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની 'બહાર' ફેલાય એટલે બાહ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ખડકોના નાના ટુકડાઓ એક જગ્યાએથી બીજી જગ્યાએ કોના દ્વારા સ્થાનાંતરિત થાય છે?",
+      "options": {
+        "A": "પવન અને પાણી",
+        "B": "ભૂકંપ",
+        "C": "જ્વાળામુખી",
+        "D": "પૃથ્વીની ગતિ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) પવન અને પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન અને પાણી કુદરતી ટ્રાન્સપોર્ટેશન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જ્વાળામુખીના મુખને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "ક્રેટર",
+        "B": "કેન્દ્ર",
+        "C": "ફોકસ",
+        "D": "લૂપ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ક્રેટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્વાળામુખીનું મોઢું એટલે 'ક્રેટર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "તાજમહાલ કયા પ્રકારના ખડકમાંથી બનેલો છે?",
+      "options": {
+        "A": "લાલ પથ્થર",
+        "B": "સફેદ આરસપહાણ",
+        "C": "ગ્રેનાઈટ",
+        "D": "બેસાલ્ટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સફેદ આરસપહાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરસપહાણ એ રૂપાંતરિત ખડકનું શ્રેષ્ઠ ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પૃથ્વીની આંતરિક ગરમીને કારણે ખડકો પીગળીને કયું સ્વરૂપ ધારણ કરે છે?",
+      "options": {
+        "A": "પથ્થર",
+        "B": "મેગ્મા (લાવારસ)",
+        "C": "પાણી",
+        "D": "ગેસ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) મેગ્મા (લાવારસ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ ગરમ પીગળેલા ખડક એટલે મેગ્મા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લાલ કિલ્લો (દિલ્હી) કયા ખડકમાંથી બનેલો છે?",
+      "options": {
+        "A": "આરસપહાણ",
+        "B": "લાલ રેતાળ પથ્થર",
+        "C": "બેસાલ્ટ",
+        "D": "ગ્રેનાઈટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) લાલ રેતાળ પથ્થર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'લાલ' કિલ્લો છે, તો પથ્થર પણ 'લાલ' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સમુદ્ર કિનારે મોજાંના નિક્ષેપણથી શું બને છે?",
+      "options": {
+        "A": "સી-ક્લિફ",
+        "B": "રેતીના પુલ (Beaches)",
+        "C": "હિમોઢ",
+        "D": "ડેલ્ટા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) રેતીના પુલ (Beaches)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્ર કાંઠે ફરવા જઈએ તેને બીચ (Beach) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નદીના બંને કિનારે કાંપના જમાવથી બનતા કુદરતી કિનારાને શું કહે છે?",
+      "options": {
+        "A": "તટબંધ",
+        "B": "હિમોઢ",
+        "C": "કમાન",
+        "D": "સ્ટેક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) તટબંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીના તટ (કિનારા) પર બંધાયેલ દિવાલ એટલે તટબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પૃથ્વીની આંતરિક રચનામાં 'સીઆલ' (Sial) સ્તર ક્યાં આવેલું છે?",
+      "options": {
+        "A": "મહાસાગરની નીચે",
+        "B": "ખંડોની નીચે",
+        "C": "કેન્દ્રમાં",
+        "D": "વાતાવરણમાં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ખંડોની નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખંડ પર આપણે 'ચાલી' (Sial) શકીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "કયા ખડકો ખૂબ જ ગરમી અને દબાણને કારણે પોતાનું મૂળ સ્વરૂપ બદલી નાખે છે?",
+      "options": {
+        "A": "અગ્નિકૃત",
+        "B": "રૂપાંતરિત",
+        "C": "જળકૃત",
+        "D": "એકપણ નહીં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) રૂપાંતરિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી + દબાણ = મેકઓવર (રૂપાંતરણ).</p></div>"
+    }
+  ]
+}
