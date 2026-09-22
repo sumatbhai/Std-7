@@ -256,3 +256,261 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "દિલ્હી સલ્તનત",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દિલ્હી સલ્તનતની શાસન વ્યવસ્થાનો સમયગાળો ઈ.સ. 1206 થી ઈ.સ. ________ સુધીનો રહ્યો છે. (1526, 1757, 1556)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1526</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીપતનું પહેલું યુદ્ધ 1526 માં થયું અને સલ્તનત પૂરી થઈ અને મુઘલ શાસન આવ્યું. (1206 થી 1526 યાદ રાખો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગુલામ વંશની સ્થાપના ________ એ કરી હતી. (ઈલ્તુત્મિશ, કુતબુદ્દીન ઐબક, રઝિયા સુલતાના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુતબુદ્દીન ઐબક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઐબક' એટલે કે 'આરંભ' - સલ્તનતનો આરંભ કરનાર ગુલામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કુતબુદ્દીન ઐબકનું અવસાન ________ રમતા ઘોડા પરથી પડી જવાથી થયું હતું. (કબડ્ડી, ખો-ખો, પોલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોલો (ચૌગાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ થી પોલો અને પ થી પડી જવું - પોલો રમતા પડ્યા અને રામ બોલો ભાઈ રામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દિલ્હીની ગાદી પર આવનાર પ્રથમ મહિલા શાસક ________ હતી. (નૂરજહાં, રઝિયા સુલતાના, ઝીનત મહાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રઝિયા સુલતાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રઝિયા 'રાઝ' (શાસન) કરનારી પ્રથમ સ્ત્રી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખલજી વંશના શાસનની શરૂઆત ________ એ કરી હતી. (અલાઉદ્દીન ખલજી, જલાલુદ્દીન ખલજી, કુતબુદ્દીન મુબારક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલાલુદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખલજી વંશનો 'જલવો' જલાલુદ્દીનથી શરૂ થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સલ્તનત કાળમાં 'તુર્કાન-એ-ચિહલગાન' (દળ ચાલીસા) ની સ્થાપના ________ એ કરી હતી. (ઐબક, ઈલ્તુત્મિશ, બલબન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલ્તુત્મિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાલીસ અમીરોની 'ટીમ' બનાવી ઈલ્તુત્મિશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મોરોક્કોનો મુસાફર ________ મુહમ્મદ તુગલકના સમયમાં ભારતની મુલાકાતે આવ્યો હતો. (ફાહિયાન, ઇબ્નબતૂતા, મેગેસ્થનીઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇબ્નબતૂતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ થી મોરોક્કો અને મુહમ્મદ, બ થી બતૂતા જે બહુ ફર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દિલ્હી સલ્તનતનો છેલ્લો વંશ ________ વંશ હતો. (સૈયદ, લોદી, તુગલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લો એટલે 'Last' અને L પરથી 'Lodi'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ ઈ.સ. 1526 માં ઇબ્રાહિમ લોદી અને ________ વચ્ચે થયું હતું. (બાબર, અકબર, હુમાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ થી બાબર જેણે ભારતનું 'બારમું' (સલ્તનતનો અંત) કરી મુઘલ શાસન સ્થાપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અલાઉદ્દીન ખલજીએ સૈન્યના ઘોડા અને સૈનિકોની ઓળખ માટે ________ પદ્ધતિ દાખલ કરી હતી. (દાગ અને ચહેરા, નકદ વેતન, જાગીરદારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાગ અને ચહેરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડા પર 'દાગ' (નિશાન) અને સૈનિકનો 'ચહેરો' - અલાઉદ્દીનની સ્ટ્રિક્ટ સીસ્ટમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિજયનગર સામ્રાજ્યની સ્થાપના હરિહરરાય અને ________ નામના બે ભાઈઓએ કરી હતી. (બુક્કારાય, કૃષ્ણદેવરાય, રામરાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુક્કારાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિહર અને બુક્કા - વિજયનગરના બે સિક્કા (સ્થાપકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કૃષ્ણદેવરાયે તેલુગુ ભાષામાં ________ નામનો ગ્રંથ લખ્યો હતો. (આમુક્તમાલ્યદા, કાદંબરી, પૃથ્વીરાજ રાસો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આમુક્તમાલ્યદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કૃષ્ણ' ભગવાનને 'માળા' (માલ્યદા) અર્પણ - આમુક્તમાલ્યદા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઢાઈ દિન કા ઝોંપડા મસ્જિદ ________ શહેરમાં આવેલી છે. (દિલ્હી, અજમેર, આગ્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજમેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અજમેર અને 'અ' થી અઢી (2.5) દિન કા ઝોંપડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કુતબુદ્દીન ઐબકે દિલ્હીમાં ________ નામની મસ્જિદ બંધાવી હતી. (જામા મસ્જિદ, કુવ્વત-ઉલ-ઇસ્લામ, મોઠની મસ્જિદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુવ્વત-ઉલ-ઇસ્લામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુતબુદ્દીનનો 'કુ' અને કુવ્વતનો 'કુ' - બંને સરખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તુગલક વંશ દરમિયાન ________ એ દિલ્હીથી દોલતાબાદ રાજધાનીનું સ્થળાંતર કર્યું હતું. (ગિયાસુદ્દીન તુગલક, ફિરોઝશાહ તુગલક, મુહમ્મદ-બિન-તુગલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુહમ્મદ-બિન-તુગલક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિલ્હીથી દોલતાબાદ - 'દો' પરથી દોલતાબાદ અને 'દ' પરથી દિલ્હી, ફેરવનાર તુગલક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બહમની રાજ્યની સ્થાપના ________ એ કરી હતી. (ઝફરખાન, મહમદ ગવાં, નિઝામશાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝફરખાન (હસન ગંગુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહમનીમાં 'બ' અને ઝફરખાનનો 'ઝ' - 'બઝ' (Buzz) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કુતબુદ્દીન ઐબકના અધૂરા રહેલા કુતબ મિનારનું બાંધકામ ________ એ પૂર્ણ કરાવ્યું હતું. (બલબન, ઈલ્તુત્મિશ, નાસિરુદ્દીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલ્તુત્મિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐબકે શરૂ કર્યું અને એના જમાઈ ઈલ્તુત્મિશે 'ઈતિ' (અંત/પૂર્ણ) કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સૈયદ વંશની સ્થાપના ________ એ કરી હતી. (ખિજરખાન, મુબારકશાહ, આલમશાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખિજરખાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈયદ 'ખિજાયા' - સૈયદ વંશ અને ખિજરખાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "તાલીકોટાનું યુદ્ધ ઈ.સ. ________ માં થયું હતું. (1565, 1526, 1192)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1565</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગરના પતનનું વર્ષ - 15 '65'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કૃષ્ણદેવરાયે વિજયનગરની પાસે ________ નામનું નવું નગર વસાવ્યું હતું. (નાગલપુર, હમ્પી, વિજયપુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાગલપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા 'નાગલાદેવી' ની યાદમાં 'નાગલપુર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લોદી વંશનો સ્થાપક ________ લોદી હતો. (સિકંદર, બહલોલ, ઇબ્રાહિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહલોલ લોદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંશની શરૂઆતમાં 'બહલોલ' (બહુ લોલ/શાંત શરૂઆત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સુલતાનનો પ્રધાનમંત્રી ________ કહેવાતો. (વઝીર, બક્ષી, કાઝી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વઝીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેસમાં વઝીર સૌથી પાવરફુલ, એમ સલ્તનતમાં પ્રધાનમંત્રી 'વઝીર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અલાઉદ્દીન ખલજીએ ભ્રષ્ટાચાર રોકવા માટે ________ વિભાગની કડક અમલવારી કરી હતી. (બજાર નિયંત્રણ, દાન વિભાગ, ખેતી વિભાગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર નિયંત્રણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન એટલે મોંઘવારી ઘટાડવા ભાવ નક્કી કરનાર 'બજારનો રાજા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દિલ્હી સલ્તનતમાં પ્રાંતને ________ માં વહેંચવામાં આવતું હતું. (શિક્ક, ગામ, પરગણા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાંતના ટુકડા એટલે 'શિક્ક' (સીક્કા જેવા ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બહમની શાસક ________ એ ગુલબર્ગાથી રાજધાની બીડર ખસેડી હતી. (મહમદશાહ ત્રીજો, અહમદશાહ, અલાઉદ્દીન હસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહમદશાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અહમદશાહ અને 'બ' થી બીડર (અબ રાજધાની બદલાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દિલ્હી સલ્તનતના શાસનનો કેન્દ્રબિંદુ ________ હતો. (સુલતાન, વઝીર, ખલીફા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુલતાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્તનતનો 'સ' અને સુલતાનનો 'સ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગિયાસુદ્દીન બલબને ________ નામના સૈન્ય વિભાગની પુનઃરચના કરી હતી. (દીવાન-એ-અર્ઝ, દીવાન-એ-કોહી, દીવાન-એ-ઈન્શા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીવાન-એ-અર્ઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈન્ય (Army) એટલે 'અર્ઝ'. બલબને આર્મી મજબૂત કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કુતબ મિનારની ઊંચાઈ ________ મીટર છે. (72.5, 80, 50.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 72.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતડે બગડે બોતેર અને માથે અડધો (72.5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિજયનગર સામ્રાજ્યમાં ________ વંશનું શાસન સૌથી શ્રેષ્ઠ ગણાય છે. (તુલુવ, સંગમ, સાલુવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુલુવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુલુવ વંશના કૃષ્ણદેવરાય એટલે 'તુલના' ન થઈ શકે તેવા રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પરગણાનો વહીવટ ________ કરતો હતો. (આમિલ, શિક્કદાર, મુકાદમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આમિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરગણામાં 'આમ' આદમી માટે કામ કરનાર 'આમિલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દિલ્હી સલ્તનતના સમયમાં અમીરો અને ઉમરાવોની સભાને ________ કહેવામાં આવતી. (મજલિસ-એ-ખલવત, દરબાર-એ-આમ, ખિલઅત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજલિસ-એ-ખલવત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભામાં બધા 'મજ' (મજા) થી બેસતા - મજલિસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સૈયદ વંશ પછી દિલ્હી પર ________ વંશની સ્થાપના થઈ. (લોદી, મુઘલ, ખલજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' પછી 'લ' - સૈયદ પછી લોદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ગામનો વહીવટ કરનાર અધિકારી ________ તરીકે ઓળખાતો. (મુકાદમ, પટવારી, વલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુકાદમ અથવા પટવારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામનો 'મુખ્ય' માણસ એટલે 'મુકાદમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ઈલ્તુત્મિશે પોતાની પુત્રી ________ ને પોતાની ઉત્તરાધિકારી જાહેર કરી હતી. (રઝિયા, નૂરજહાં, ગુલબદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રઝિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલ્તુત્મિશને પુત્રો પર ભરોસો નહોતો, એટલે 'રઝિયા' રાણી બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અલાઉદ્દીન ખલજીએ સલ્તનતના વિસ્તાર માટે ________ નામના સેનાપતિને દક્ષિણ ભારત મોકલ્યો હતો. (મલિક કાફૂર, અલ્ફ ખાન, નુસરત ખાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલિક કાફૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ભારતને 'કાબૂ'માં કરવા ગયો 'કાફૂર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ભારતમાં ઇસ્લામિક શૈલીના સ્થાપત્યની શરૂઆત ________ કાળથી થઈ હતી. (સલ્તનત, મૌર્ય, ગુપ્ત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સલ્તનત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસ્લિમ શાસકો એટલે સલ્તનત, એટલે સ્થાપત્ય પણ એમનું જ શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિજયનગર સામ્રાજ્ય ________ નદીના કિનારે આવેલું હતું. (તુંગભદ્રા, કાવેરી, કૃષ્ણા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુંગભદ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગરમાં 'ભદ્ર' (કલ્યાણ) થયું 'તુંગભદ્રા' ને કિનારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કૃષ્ણદેવરાયે વિદ્વાનોને પ્રોત્સાહન આપવા બદલ તેમને ________ કહેવામાં આવતા. (આંધ્રના ભોજ, કવિરાજ, રત્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંધ્રના ભોજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા ભોજ સાહિત્યપ્રેમી હતા, એટલે કૃષ્ણદેવરાય દક્ષિણ (આંધ્ર) ના ભોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "દિલ્હી સલ્તનતમાં લશ્કરના વડાને ________ કહેવામાં આવતા. (આરિઝ-એ-મમાલિક, કાઝી, વઝીર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરિઝ-એ-મમાલિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્મી (Army) = આરિઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ગિયાસુદ્દીન બલબને ________ જેવી પ્રથાઓ શરૂ કરીને સુલતાનનું પદ પ્રતિષ્ઠિત કર્યું હતું. (સિજદા અને પાબોસ, જઝિયા, સતી પ્રથા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિજદા અને પાબોસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલબન 'બહુ' કડક હતો, એટલે પગે લગાડે (સિજદા) અને પગ ચુમાવે (પાબોસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "શ્રીનગર (દિલ્હીમાં સીરી નગર) અને કિલ્લો ________ એ બંધાવ્યો હતો. (અલાઉદ્દીન ખલજી, ઇલ્તુત્મિશ, બહલોલ લોદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સીરી' કિલ્લો એટલે અલાઉદ્દીનનો કિલ્લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિજયનગરની મુલાકાતે આવનાર ઇટાલિયન મુસાફર ________ હતો. (નિકોલો કોન્ટી, ઇબ્નબતૂતા, અબ્દુલ રઝાક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિકોલો કોન્ટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈટાલીનો 'નિકોલો' વિજયનગર 'નિકળ્યો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ફિરોઝશાહ તુગલકે ________ નહેરનું નિર્માણ કરાવ્યું હતું. (યમુના, ગંગા, સિંધુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યમુના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિરોઝશાહ એટલે 'નહેરોનો રાજા' અને દિલ્હી પાસે યમુના વહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "દિલ્હી સલ્તનતના સમયમાં અમીર ખુશરો દ્વારા ________ ની રચના કરવામાં આવી હતી. (ખઝાઈન-ઉલ-ફુતુહ, હર્ષચરિત, અકબરનામા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખઝાઈન-ઉલ-ફુતુહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુશરોએ 'ખુશી' થી અલાઉદ્દીનની જીતનો 'ખજાનો' લખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "દિલ્હી સલ્તનતની શાસન વ્યવસ્થામાં 'પરગણા' ના વડાને શું કહેવાતું? (મુકાદમ, શિક્કદાર, દીવાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્કદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિક્ક (જિલ્લો) સંભાળનાર 'શિક્કદાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "કુતબુદ્દીન ઐબક કયા વંશનો હતો? (ગુલામ, ખલજી, લોદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુલામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐબક ઘોરીનો ગુલામ હતો, એટલે ગુલામ વંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "અલાઈ દરવાજાનું નિર્માણ ________ એ કરાવ્યું હતું. (અલાઉદ્દીન ખલજી, સિકંદર લોદી, ગિયાસુદ્દીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અલાઈ' અને 'અલાઉદ્દીન' - નામમાં જ જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "દિલ્હીની ગાદી પર તુગલક વંશની સ્થાપના ________ એ કરી હતી. (ગિયાસુદ્દીન તુગલક, ફિરોઝશાહ તુગલક, મહમદ તુગલક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગિયાસુદ્દીન તુગલક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ થી ગિયાસુદ્દીન અને ગ થી ગાદી પર પહેલો તુગલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કયા સુલતાને સૈનિકોને જાગીરને બદલે રોકડ પગાર આપવાની શરૂઆત કરી? (અલાઉદ્દીન ખલજી, બલબન, ઇલ્તુત્મિશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન 'રોકડા' (Cash) નો વ્યવહારુ રાજા હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "દિલ્હી સલ્તનતના સમયમાં લશ્કરી સેવાના બદલામાં ભૂમિ આપવામાં આવતી તેને શું કહેવાતું? (ઇક્તા, જાગીર, ઇનામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇક્તા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનનો 'એક ટુકડો' (ઇક્તા) ભેટમાં.</p></div>"
+    }
+  ]
+}
