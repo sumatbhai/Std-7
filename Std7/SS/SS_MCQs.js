@@ -3761,3 +3761,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપણા દેશમાં છોકરા અને છોકરીઓના ઉછેરમાં કઈ બાબતે અસમાનતા જોવા મળે છે? \n (A) માત્ર ખોરાકમાં \n (B) માત્ર રમત-ગમતમાં \n (C) શિક્ષણ અને ઉછેરમાં \n (D) માત્ર પોશાકમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શિક્ષણ અને ઉછેરમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સર્વાંગી વિકાસ' માટે શિક્ષણ અને ઉછેર પાયો છે, જ્યાં જ ભેદભાવ વધુ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતીય સમાજમાં પ્રાચીન સમયથી દીકરીઓને કયા અધિકારથી વંચિત રાખવામાં આવતી હતી? \n (A) મિલકતમાં સમાન હક \n (B) ખોરાક લેવાના હક \n (C) બોલવાના હક \n (D) ફરવાના હક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મિલકતમાં સમાન હક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મિલકત' એટલે પૈસા, અને જૂના જમાનામાં આર્થિક સત્તા માત્ર પુરુષો પાસે જ રહેતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કયા વર્ષની વસ્તી ગણતરી મુજબ ભારતમાં સ્ત્રી-પુરુષના પ્રમાણમાં નોંધપાત્ર તફાવત જોવા મળ્યો હતો? \n (A) 1951 \n (B) 2001 \n (C) 1901 \n (D) 2011",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1901</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20મી સદીની શરૂઆત (1901) થી જ ભેદભાવના આંકડા સ્પષ્ટ થવા લાગ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સરકાર દ્વારા કઈ યોજના હેઠળ દીકરીઓના જન્મ અને શિક્ષણને પ્રોત્સાહન આપવામાં આવે છે? \n (A) બેટી બચાવો, બેટી પઢાવો \n (B) સુકન્યા સમૃદ્ધિ યોજના \n (C) ઉજ્જવલા યોજના \n (D) આયુષ્માન યોજના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બેટી બચાવો, બેટી પઢાવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ કામ છે - બચાવો (જન્મ) અને પઢાવો (શિક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ બનવાનું ગૌરવ કોને ફાળે જાય છે? \n (A) ઈન્દિરા ગાંધી \n (B) પ્રતિભા સિંહ પાટીલ \n (C) સુષમા સ્વરાજ \n (D) મીરા કુમાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રતિભા સિંહ પાટીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રતિભા' એવા હતા કે દેશના 'પ્રથમ' મહિલા રાષ્ટ્રપતિ બન્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભારતના પ્રથમ મહિલા વડાપ્રધાન કોણ હતા? \n (A) પ્રતિભા પાટીલ \n (B) ઈન્દિરા ગાંધી \n (C) વિજયાલક્ષ્મી પંડિત \n (D) સરોજિની નાયડુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઈન્દિરા ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Iron Lady' એટલે કે લોખંડી મહિલા વડાપ્રધાન - ઈન્દિરા ગાંધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિશ્વમાં સૌથી નાની વયે માઉન્ટ એવરેસ્ટ સર કરનાર મહિલા કોણ છે? \n (A) બચેન્દ્રી પાલ \n (B) સંતોષ યાદવ \n (C) માલવથ પૂર્ણા \n (D) અરૂણિમા સિંહા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માલવથ પૂર્ણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાની ઉંમરમાં પૂર્ણા' એ એવરેસ્ટનું કામ 'પૂર્ણ' કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતની કઈ મહિલાને 'સ્વર સામ્રાજ્ઞી' તરીકે ઓળખવામાં આવે છે? \n (A) આશા ભોંસલે \n (B) લતા મંગેશકર \n (C) એમ.એસ. સુબ્બુલક્ષ્મી \n (D) શ્રેયા ઘોષાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લતા મંગેશકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લતા' નો અવાજ એ તો ભારતનો 'સ્વર' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અવકાશ ક્ષેત્રે ભારતનું નામ રોશન કરનાર પ્રથમ ભારતીય મૂળની મહિલા કોણ હતી? \n (A) સુનિતા વિલિયમ્સ \n (B) કલ્પના ચાવલા \n (C) સિરીશા બાંદલા \n (D) તેસી થોમસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કલ્પના ચાવલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશની 'કલ્પના' કરવા માટે કલ્પના ચાવલાને યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા ક્ષેત્રમાં મહિલાઓની સંખ્યા ઓછી જોવા મળે છે? \n (A) ખેતીમાં \n (B) પશુપાલનમાં \n (C) વિજ્ઞાન અને ટેકનોલોજીમાં \n (D) આંગણવાડીમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિજ્ઞાન અને ટેકનોલોજીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂઢિગત માન્યતા મુજબ ટેકનિકલ કામો પુરુષો માટે માનવામાં આવતા હતા, તેથી ત્યાં સંખ્યા ઓછી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભારતમાં દર કેટલા વર્ષે વસ્તી ગણતરી કરવામાં આવે છે? \n (A) 5 વર્ષે \n (B) 10 વર્ષે \n (C) 12 વર્ષે \n (D) 15 વર્ષે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10 વર્ષે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તીનો 'દશકો' - 10 વર્ષ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રૂઢિગત માન્યતા મુજબ કયા કામો માત્ર સ્ત્રીઓએ જ કરવાના હોય છે? \n (A) રસોઈ અને ઘરકામ \n (B) ડ્રાઈવિંગ \n (C) પોલીસની નોકરી \n (D) ખેતીકામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રસોઈ અને ઘરકામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘર' ની લક્ષ્મી ઘરમાં જ કામ કરે એવી જૂની માન્યતા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગુજરાત સરકાર દ્વારા મહિલાઓના વિકાસ માટે કયું આંદોલન ચલાવવામાં આવ્યું હતું? \n (A) ચિપકો આંદોલન \n (B) નારી શક્તિ આંદોલન \n (C) સ્વચ્છતા અભિયાન \n (D) ખેડા સત્યાગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નારી શક્તિ આંદોલન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારીને શક્તિશાળી બનાવવી એ જ મુખ્ય હેતુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારતની કઈ મહિલા વિદેશ મંત્રી તરીકે સૌથી શ્રેષ્ઠ કાર્ય કરવા માટે જાણીતા છે? \n (A) સુષમા સ્વરાજ \n (B) નિર્મલા સીતારમણ \n (C) સ્મૃતિ ઈરાની \n (D) આનંદીબેન પટેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સુષમા સ્વરાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વરાજ' એ વિદેશી બાબતોના નિષ્ણાત હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "છોકરીઓને ભણાવવા માટે સરકારે કઈ સુવિધા મફત કરી છે? \n (A) માત્ર પુસ્તકો \n (B) પ્રાથમિક અને માધ્યમિક શિક્ષણ \n (C) માત્ર હોસ્ટેલ \n (D) માત્ર ભોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રાથમિક અને માધ્યમિક શિક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કન્યા કેળવણી' માટે શાળાનું શિક્ષણ મફત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કઈ રમતમાં ભારતીય મહિલાઓએ વિશ્વસ્તરે નામના મેળવી છે? \n (A) ક્રિકેટ \n (B) બેડમિન્ટન \n (C) કુસ્તી \n (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યારના જમાનામાં છોકરીઓ દરેક મેદાનમાં (ક્રિકેટ, કુસ્તી, બેડમિન્ટન) આગળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મહિલા સશક્તિકરણ એટલે શું? \n (A) મહિલાઓને આર્થિક રીતે સક્ષમ બનાવવી \n (B) મહિલાઓને ભણાવવી \n (C) મહિલાઓને નિર્ણય લેવાની સત્તા આપવી \n (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સશક્ત' એટલે બધી રીતે મજબૂત - ભણતરમાં, પૈસામાં અને નિર્ણયમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દેશના પ્રથમ મહિલા પોલીસ ઓફિસર (IPS) કોણ હતા? \n (A) કિરણ બેદી \n (B) કાંચન ચૌધરી \n (C) રૂપા મુદગલ \n (D) મીરા બોરવણકર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કિરણ બેદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલીસનો દંડો અને 'કિરણ' નો પ્રકાશ - પ્રથમ મહિલા IPS.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા વર્ષમાં છેલ્લે વસ્તી ગણતરી થઈ હતી? (પાઠ્યપુસ્તકના સંદર્ભમાં) \n (A) 2001 \n (B) 2011 \n (C) 2021 \n (D) 1991",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2011</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તકની વિગતો મુજબ 2011 એ છેલ્લો સત્તાવાર આંકડો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જન્મ પહેલાં બાળક છોકરો છે કે છોકરી તે જાણવું એ કેવો ગુનો છે? \n (A) સામાજિક ગુનો \n (B) કાયદાકીય ગુનો \n (C) ધાર્મિક ગુનો \n (D) સામાન્ય ગુનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાયદાકીય ગુનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભ્રૂણ પરીક્ષણ' એ જેલ કરાવી શકે તેવો ગંભીર કાયદાકીય ગુનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગામડાઓમાં છોકરીઓને કયા ધોરણ પછી આગળ ભણાવવામાં આવતી ન હતી? \n (A) 5માં ધોરણ \n (B) 7માં ધોરણ \n (C) 10માં ધોરણ \n (D) 12માં ધોરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7માં ધોરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાથમિક શિક્ષણ (7 ધોરણ) પૂરું થાય એટલે દીકરીને ઘરે બેસાડી દેવાની જૂની પ્રથા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગુજરાતની કઈ મહિલા ખેલાડીએ દોડમાં આંતરરાષ્ટ્રીય સ્તરે ગોલ્ડ મેડલ મેળવ્યો છે? \n (A) સરિતા ગાયકવાડ \n (B) અંકિતા રૈના \n (C) દીપા મલિક \n (D) પી.ટી. ઉષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સરિતા ગાયકવાડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડાંગ એક્સપ્રેસ' સરિતા ગાયકવાડ - ગુજરાતનું ગૌરવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગૃહિણીનું મૂલ્ય શેના આધારે અંકાય છે? \n (A) પગારના આધારે \n (B) કામના કલાકોના આધારે \n (C) સ્નેહ અને સમર્પણના આધારે \n (D) રસોઈના સ્વાદના આધારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્નેહ અને સમર્પણના આધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા કે ગૃહિણીના કામનો કોઈ પગાર ન હોય, માત્ર 'પ્રેમ' (સ્નેહ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સ્ત્રી-પુરુષ સમાનતા માટે બંધારણે કયો હક આપ્યો છે? \n (A) સ્વતંત્રતાનો હક \n (B) સમાનતાનો હક \n (C) શિક્ષણનો હક \n (D) શોષણ વિરુદ્ધનો હક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાનતાનો હક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતા લાવવા માટે 'સમાનતાનો હક' જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા દેશમાં મહિલાઓને મત આપવાનો અધિકાર મોડો મળ્યો હતો? \n (A) ભારત \n (B) અમેરિકા \n (C) સ્વિટ્ઝર્લેન્ડ \n (D) ઈંગ્લેન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્વિટ્ઝર્લેન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકસિત હોવા છતાં 'સ્વિટ્ઝર્લેન્ડ'માં મહિલાઓને મતાધિકાર માટે લાંબી લડત આપવી પડી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભારતમાં દર 1000 પુરુષોએ સ્ત્રીઓનું પ્રમાણ (2011 મુજબ) કેટલું હતું? \n (A) 940 \n (B) 918 \n (C) 927 \n (D) 943",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 943</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 ની નજીક પહોંચવા માટે હજુ 57 કદમ (સ્ત્રીઓ) ખૂટે છે - 943.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કન્યા કેળવણી રથયાત્રા કયા રાજ્યમાં શરૂ કરવામાં આવી હતી? \n (A) મહારાષ્ટ્ર \n (B) રાજસ્થાન \n (C) ગુજરાત \n (D) મધ્યપ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં 'રથયાત્રા' ખૂબ જાણીતી છે, તેથી કન્યા કેળવણીની રથયાત્રા પણ ગુજરાતમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મહિલાઓને આત્મનિર્ભર બનાવવા કઈ સંસ્થાઓ મદદ કરે છે? \n (A) માત્ર બેંકો \n (B) સખી મંડળો / સ્વસહાય જૂથો \n (C) લાયન્સ ક્લબ \n (D) સ્પોર્ટ્સ ક્લબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સખી મંડળો / સ્વસહાય જૂથો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સખી' એટલે બહેનપણીઓનું જૂથ જે એકબીજાને મદદ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સમાજમાં કઈ અનિષ્ટ પ્રથાને કારણે સ્ત્રીઓની સંખ્યામાં ઘટાડો થયો હતો? \n (A) દૂધપીતી કરવાની પ્રથા \n (B) સતી પ્રથા \n (C) ગુલામી પ્રથા \n (D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દૂધપીતી કરવાની પ્રથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકી જન્મે કે તરત મારી નાખવી એ 'દૂધપીતી' કરવાની ઘાતકી પ્રથા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પંચાયતી રાજમાં મહિલાઓ માટે કેટલી અનામત બેઠકોની જોગવાઈ છે (ગુજરાતમાં)? \n (A) 25% \n (B) 33% \n (C) 50% \n (D) 60%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 50%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અડધોઅડધ' હિસ્સો એટલે 50% બેઠકો મહિલાઓ માટે ફિક્સ!</p></div>"
+    }
+  ]
+}
