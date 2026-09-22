@@ -3420,3 +3420,211 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતના દરેક રાજ્યમાં ધારાસભા હોય છે. ધારાસભાના નીચલા ગૃહને કયા નામે ઓળખવામાં આવે છે? \n (A) વિધાન પરિષદ \n (B) વિધાન સભા \n (C) લોકસભા \n (D) રાજ્યસભા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિધાન સભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નીચલું' એટલે 'નીચે' અને 'સભા' - એટલે કે વિધાન સભા. યાદ રાખો: સભા હંમેશા નીચલી હોય (લોકશાહીમાં લોકો નીચેથી ચૂંટાઈને આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ધારાસભાના ઉપલા ગૃહને કયા નામે ઓળખવામાં આવે છે? \n (A) લોકસભા \n (B) વિધાન સભા \n (C) વિધાન પરિષદ \n (D) સંસદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિધાન પરિષદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉપર' અને 'પરિષદ' માં 'પ' સામ્ય છે. 'ઉપલું' = 'પરિષદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુજરાતની ધારાસભા ક્યાં આવેલી છે? \n (A) અમદાવાદ \n (B) વડોદરા \n (C) રાજકોટ \n (D) ગાંધીનગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ગાંધીનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યનું પાટનગર જ ત્યાંનું વહીવટી કેન્દ્ર હોય, માટે ગાંધીનગર જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાત વિધાનસભાના ભવનનું નામ શું છે? \n (A) વલ્લભભાઈ પટેલ ભવન \n (B) વિઠ્ઠલભાઈ પટેલ ભવન \n (C) મહાત્મા ગાંધી ભવન \n (D) જીવરાજ મહેતા ભવન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિઠ્ઠલભાઈ પટેલ ભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિ' થી વિધાનસભા અને 'વિ' થી વિઠ્ઠલભાઈ. (વિ-વિ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિધાનસભાના સભ્યને શું કહેવામાં આવે છે? \n (A) MLA \n (B) MP \n (C) સરપંચ \n (D) મુખ્યમંત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) MLA</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MLA એટલે Member of Legislative Assembly. Assembly એટલે સભા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિધાનસભાની ચૂંટણી કેટલા વર્ષે થાય છે? \n (A) 2 વર્ષે \n (B) 6 વર્ષે \n (C) 5 વર્ષે \n (D) દર વર્ષે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5 વર્ષે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં મોટાભાગની લોકશાહી ચૂંટણીઓનો 'પંચ' એટલે 'પાંચ' વર્ષનો જ ગાળો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિધાનસભાના સભ્ય બનવા માટે લઘુત્તમ વયમર્યાદા કેટલી હોવી જોઈએ? \n (A) 18 વર્ષ \n (B) 21 વર્ષ \n (C) 25 વર્ષ \n (D) 30 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 25 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોટ આપવા 18, પણ નેતા બનવા 25 (પાંચડાના ગુણાંકમાં ઉમેરો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગુજરાત વિધાનસભાની કુલ કેટલી બેઠકો છે? \n (A) 182 \n (B) 250 \n (C) 545 \n (D) 110",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 182</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેચ્યુ ઓફ યુનિટીની ઊંચાઈ પણ 182 મીટર છે અને વિધાનસભા બેઠકો પણ 182! (એક કાંકરે બે પક્ષી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રાજ્યના મુખ્યમંત્રીની નિમણૂક કોણ કરે છે? \n (A) રાષ્ટ્રપતિ \n (B) વડાપ્રધાન \n (C) રાજ્યપાલ \n (D) મુખ્ય ન્યાયાધીશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રમાં રાષ્ટ્રપતિ વડાપ્રધાનને નીમે, તો રાજ્યમાં રાજ્યપાલ મુખ્યમંત્રીને નીમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાજ્યપાલની નિમણૂક કોણ કરે છે? \n (A) મુખ્યમંત્રી \n (B) રાષ્ટ્રપતિ \n (C) વડાપ્રધાન \n (D) ઉપરાષ્ટ્રપતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાષ્ટ્રપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ એ રાષ્ટ્રપતિના 'પ્રતિનિધિ' છે, એટલે રાષ્ટ્રપતિ જ તેમને મોકલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજ્યના બંધારણીય વડા કોણ છે? \n (A) મુખ્યમંત્રી \n (B) રાજ્યપાલ \n (C) વિધાનસભાના અધ્યક્ષ \n (D) હાઈકોર્ટના જજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' થી બંધારણીય વડા અને 'બ' રાજ્યપાલના વહીવટમાં આવે (રાષ્ટ્રપતિ કેન્દ્રમાં, રાજ્યપાલ રાજ્યમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજ્યપાલ બનવા માટે ઉંમર કેટલા વર્ષ કે તેથી વધુ હોવી જોઈએ? \n (A) 25 વર્ષ \n (B) 30 વર્ષ \n (C) 35 વર્ષ \n (D) 40 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 35 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટું પદ એટલે સૌથી મોટી લઘુત્તમ ઉંમર (35 વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રાજ્યની કારોબારીના વડા કોણ હોય છે? \n (A) મુખ્યમંત્રી \n (B) રાજ્યપાલ \n (C) ગૃહમંત્રી \n (D) નાણામંત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મુખ્યમંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારોબાર (કામ) હંમેશા મુખ્યમંત્રી કરે, જ્યારે રાજ્યપાલ માત્ર સહી (બંધારણીય મંજૂરી) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કોઈપણ ખરડો કાયદો ક્યારે બને છે? \n (A) મુખ્યમંત્રીની સહી થાય ત્યારે \n (B) વડાપ્રધાનની સહી થાય ત્યારે \n (C) રાજ્યપાલની સહી થાય ત્યારે \n (D) રાષ્ટ્રપતિની સહી થાય ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રાજ્યપાલની સહી થાય ત્યારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં 'રાજ' કોનું? રાજ્યપાલનું. એટલે છેલ્લી સહી પણ એમની જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાજ્યની સર્વોચ્ચ અદાલત કઈ ગણાય? \n (A) જિલ્લા અદાલત \n (B) તાલુકા અદાલત \n (C) વડી અદાલત (હાઈકોર્ટ) \n (D) સર્વોચ્ચ અદાલત (સુપ્રીમ કોર્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વડી અદાલત (હાઈકોર્ટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં 'વડી' (મોટી) એટલે વડી અદાલત. દેશમાં 'સર્વોચ્ચ' એટલે સુપ્રીમ કોર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગુજરાતની વડી અદાલત કયા શહેરમાં આવેલી છે? \n (A) ગાંધીનગર \n (B) સુરત \n (C) વડોદરા \n (D) અમદાવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અમદાવાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગની કચેરીઓ ગાંધીનગરમાં છે, પણ અદાલત 'અમદાવાદ' (સોલા) માં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લોકશાહીમાં રાજ્ય સરકારનું મુખ્ય કાર્ય શું છે? \n (A) કર ઉઘરાવવો \n (B) લોકકલ્યાણ કરવું \n (C) સત્તા ભોગવવી \n (D) પરદેશ પ્રવાસ કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોકકલ્યાણ કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી = લોકોનું શાસન, તો કામ પણ લોકોનું 'કલ્યાણ' કરવાનું જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આરોગ્ય એટલે શું? \n (A) માત્ર બીમારીનો અભાવ \n (B) શારીરિક અને માનસિક ક્ષમતા \n (C) સામાજિક સુખાકારી \n (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WHO મુજબ આરોગ્ય એટલે શારીરિક, માનસિક અને સામાજિક ત્રણેય રીતે તંદુરસ્ત હોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગુજરાતમાં મફત સારવાર માટે કઈ યોજના અમલમાં છે? \n (A) પ્રધાનમંત્રી આવાસ યોજના \n (B) મુખ્યમંત્રી અમૃતમ (MA) યોજના \n (C) ઉજ્જવલા યોજના \n (D) લાડલી યોજના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મુખ્યમંત્રી અમૃતમ (MA) યોજના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરોગ્ય એ 'અમૃત' સમાન છે, એટલે 'અમૃતમ' યોજના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "તાત્કાલિક સારવાર સેવા માટે કયા નંબર પર ફોન કરવામાં આવે છે? \n (A) 100 \n (B) 101 \n (C) 108 \n (D) 181",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમ્બ્યુલન્સ ઉપર લખેલું જ હોય છે - '108'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિશ્વ આરોગ્ય દિવસ ક્યારે ઉજવવામાં આવે છે? \n (A) 5 જૂન \n (B) 7 એપ્રિલ \n (C) 21 જૂન \n (D) 2 ઓક્ટોબર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7 એપ્રિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Health' એટલે સાત અક્ષર (ગુજરાતીમાં સાત એપ્રિલ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "WHO નું પૂરું નામ શું છે? \n (A) World Health Organization \n (B) World Home Organization \n (C) World Heart Organization \n (D) Water Health Organization",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) World Health Organization</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરોગ્યના પાઠમાં H હંમેશા 'Health' માટે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "UNICEF નું મુખ્ય મથક ક્યાં આવેલું છે? \n (A) જીનીવા \n (B) પેરિસ \n (C) ન્યૂયોર્ક \n (D) લંડન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ન્યૂયોર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો માટેનું ફંડ 'નવું' (New) હોવું જોઈએ એટલે 'New' York.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કઈ સંસ્થા વિશ્વમાં ખોરાક અને કૃષિ ક્ષેત્રે કામ કરે છે? \n (A) WHO \n (B) FAO \n (C) ILO \n (D) UNESCO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) FAO</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = Food, A = Agriculture. સહેલું છે ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મિશન ઈન્દ્રધનુષ કયા કાર્યક્રમ સાથે જોડાયેલ છે? \n (A) રસીકરણ \n (B) રમતગમત \n (C) સફાઈ \n (D) વૃક્ષારોપણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રસીકરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્દ્રધનુષમાં 7 રંગ, તો શરૂઆતમાં આ મિશનમાં 7 જીવલેણ બીમારીની રસી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભારતમાં સ્વાસ્થ્ય સુધારણા માટે કઈ યોજના ચાલે છે? \n (A) આયુષ્માન ભારત \n (B) સાંસદ આદર્શ ગ્રામ યોજના \n (C) મેક ઇન ઇન્ડિયા \n (D) ડિજિટલ ઇન્ડિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આયુષ્માન ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આયુષ્માન' એટલે લાંબુ આયુષ્ય (આરોગ્ય સાથે જોડાયેલ શબ્દ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જનની સુરક્ષા યોજના કોના માટે છે? \n (A) વૃદ્ધો માટે \n (B) સગર્ભા માતાઓ માટે \n (C) ખેડૂતો માટે \n (D) વિદ્યાર્થીઓ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સગર્ભા માતાઓ માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જનની' એટલે માતા. સિમ્પલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાજ્ય સરકારના કયા અંગમાં કાયદાનો અમલ કરવાનું કામ હોય છે? \n (A) ધારાસભા \n (B) કારોબારી \n (C) ન્યાયતંત્ર \n (D) સચિવાલય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કારોબારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભા કાયદો 'ઘડે', કારોબારી 'અમલ' કરે અને ન્યાયતંત્ર 'ન્યાય' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિધાનસભામાં કોના માધ્યમથી પ્રશ્નો પૂછી શકાય છે? \n (A) મુખ્યમંત્રી \n (B) અધ્યક્ષ (સ્પીકર) \n (C) રાજ્યપાલ \n (D) વિરોધ પક્ષના નેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અધ્યક્ષ (સ્પીકર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લાસમાં જેમ મોનિટર કે ટીચર હોય, તેમ વિધાનસભામાં 'અધ્યક્ષ' હોય જેની પરવાનગી લેવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દરેક રાજ્યની વડી અદાલતના ન્યાયાધીશોની નિમણૂક કોણ કરે છે? \n (A) રાજ્યપાલ \n (B) મુખ્યમંત્રી \n (C) રાષ્ટ્રપતિ \n (D) વડાપ્રધાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રાષ્ટ્રપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યાયાધીશ એ બહુ મોટી પોસ્ટ છે, એટલે રાજ્યપાલ નહીં પણ રાષ્ટ્રપતિ જ નિમણૂક કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "WHO નું વડું મથક ક્યાં આવેલું છે? \n (A) વોશિંગ્ટન \n (B) પેરિસ \n (C) જીનીવા \n (D) રોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જીનીવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગની 'આરોગ્ય' અને 'માનવ' સેવાવાળી સંસ્થાઓ 'જીનીવા' (સ્વિત્ઝરલેન્ડ) માં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "રાજ્યપાલ કઈ કલમ મુજબ વટહુકમ બહાર પાડી શકે છે? \n (A) 123 \n (B) 213 \n (C) 356 \n (D) 360",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 213</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રમાં (રાષ્ટ્રપતિ) 123, તો રાજ્યમાં 213 (આંકડાની અદલાબદલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિધાન પરિષદના સભ્ય બનવા માટે લઘુત્તમ વય કેટલી હોવી જોઈએ? \n (A) 25 વર્ષ \n (B) 30 વર્ષ \n (C) 18 વર્ષ \n (D) 35 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 30 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિષદ' (ઉપલું ગૃહ) એટલે મોટું, તો ઉંમર પણ વધારે (30 વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ગુજરાતની વિધાનસભાના પ્રથમ અધ્યક્ષ કોણ હતા? \n (A) જીવરાજ મહેતા \n (B) કલ્યાણજી મહેતા \n (C) મનુભાઈ પાલખીવાલા \n (D) આયેશા બેગમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કલ્યાણજી મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનસભાનું કામ શરૂ થયું એટલે 'કલ્યાણ' થયું, માટે કલ્યાણજી મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ગુજરાતના પ્રથમ મુખ્યમંત્રી કોણ હતા? \n (A) બળવંતરાય મહેતા \n (B) જીવરાજ મહેતા \n (C) હિતેન્દ્ર દેસાઈ \n (D) માધવસિંહ સોલંકી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જીવરાજ મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાત રાજ્ય નવું 'જીવતું' થયું, એટલે પહેલા મુખ્યમંત્રી 'જીવરાજ' મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "આરોગ્ય વિષય એ બંધારણની કઈ યાદીનો વિષય છે? \n (A) સંઘ યાદી \n (B) રાજ્ય યાદી \n (C) સંયુક્ત યાદી \n (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાજ્ય યાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્પિટલો અને આરોગ્ય કેન્દ્રો મોટાભાગે રાજ્ય સરકાર સંભાળે, એટલે 'રાજ્ય યાદી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કઈ વયના બાળકોને મફત અને ફરજિયાત શિક્ષણનો અધિકાર છે? \n (A) 5 થી 10 વર્ષ \n (B) 6 થી 14 વર્ષ \n (C) 1 થી 5 વર્ષ \n (D) 10 થી 18 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6 થી 14 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RTE (Right to Education) યાદ રાખવા 6 થી 14 નો આંકડો મગજમાં બેસાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિધાનસભાના સંચાલન માટે સભ્યો કોને ચૂંટી કાઢે છે? \n (A) મુખ્યમંત્રી \n (B) રાજ્યપાલ \n (C) અધ્યક્ષ (સ્પીકર) \n (D) સચિવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અધ્યક્ષ (સ્પીકર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભાનું સંચાલન કરવા માટે એક 'અધ્યક્ષ' ની જરૂર પડે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "રાજ્યના વહીવટમાં મુખ્યમંત્રી અને મંત્રીમંડળને મદદ કોણ કરે છે? \n (A) પોલીસ \n (B) સચિવાલય (વહીવટી તંત્ર) \n (C) અદાલત \n (D) લોકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સચિવાલય (વહીવટી તંત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંત્રીઓ ઓર્ડર આપે, પણ કામ તો 'સચિવ' અને 'સચિવાલય' જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ભારત કેવો દેશ છે? \n (A) સામ્યવાદી \n (B) લોકશાહી \n (C) રાજાશાહી \n (D) સરમુખત્યારશાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોકશાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત એટલે દુનિયાની સૌથી મોટી લોકશાહી (Democracy).</p></div>"
+    }
+  ]
+}
