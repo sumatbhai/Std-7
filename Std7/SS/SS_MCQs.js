@@ -3628,3 +3628,136 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપણા દેશમાં છોકરા અને છોકરીઓના ઉછેરમાં કઈ બાબતે અસમાનતા જોવા મળે છે? \n(A) આર્થિક બાબતે \n(B) સામાજિક અને સાંસ્કૃતિક બાબતે \n(C) ભૌગોલિક બાબતે \n(D) રાજકીય બાબતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સામાજિક અને સાંસ્કૃતિક બાબતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાજ' જ નક્કી કરે છે કે કોને કેવી રીતે ઉછેરવા, એટલે સામાજિક બાબત મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારત સરકાર દ્વારા દર કેટલા વર્ષે વસ્તી ગણતરી કરવામાં આવે છે? \n(A) 5 વર્ષે \n(B) 12 વર્ષે \n(C) 10 વર્ષે \n(D) 20 વર્ષે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10 વર્ષે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વસ્તી' ના 'દ' થી યાદ રાખો 'દાયકો' (10 વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતમાં પ્રથમ વસ્તી ગણતરી ક્યારે કરવામાં આવી હતી? \n(A) ઈ.સ. 1881 \n(B) ઈ.સ. 1901 \n(C) ઈ.સ. 1951 \n(D) ઈ.સ. 1991",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઈ.સ. 1881</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે એકડા (11) વચ્ચે બે આઠડા (88) = 1881.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઈ.સ. 1901 માં દર હજાર પુરુષોએ સ્ત્રીઓની સંખ્યા કેટલી હતી? \n(A) 930 \n(B) 972 \n(C) 940 \n(D) 950",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 972</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1901 ની શરૂઆતમાં સ્ત્રીઓ વધુ હતી (972), જે પછી ઘટતી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કઈ યોજના અંતર્ગત 'દીકરીને બચાવો, દીકરીને ભણાવો' અભિયાન ચલાવવામાં આવે છે? \n(A) જન ધન યોજના \n(B) બેટી બચાવો, બેટી પઢાવો \n(C) મિશન મંગલમ \n(D) આયુષ્માન ભારત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બેટી બચાવો, બેટી પઢાવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં જ જવાબ છે - દીકરી એટલે 'બેટી', ભણાવો એટલે 'પઢાવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આઝાદી સમયે સ્ત્રીઓનો સાક્ષરતા દર કેવો હતો? \n(A) ખૂબ જ ઊંચો \n(B) મધ્યમ \n(C) ખૂબ જ નીચો \n(D) પુરુષો જેટલો જ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખૂબ જ નીચો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાના સમયમાં સ્ત્રી શિક્ષણ પર ઓછું ભાર અપાતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સરકારે કઈ ઉંમર સુધીના તમામ બાળકોને મફત અને ફરજિયાત શિક્ષણનો અધિકાર આપ્યો છે? \n(A) 5 થી 10 વર્ષ \n(B) 6 થી 14 વર્ષ \n(C) 1 થી 5 વર્ષ \n(D) 10 થી 18 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6 થી 14 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RTE Act = 6 to 14 (છ થી ચૌદ, ભણવું છે જરૂર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘરકામમાં કોની જવાબદારી સૌથી વધુ જોવા મળે છે? \n(A) પુરુષોની \n(B) બાળકોની \n(C) સ્ત્રીઓની \n(D) પાડોશીઓની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્ત્રીઓની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણા સમાજમાં રસોઈ અને ઘરની સાચવણી સ્ત્રીઓનું મુખ્ય કાર્ય ગણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઈ.સ. 2011 માં પ્રતિ હજાર પુરુષોએ સ્ત્રીઓની સંખ્યા કેટલી હતી? \n(A) 940 \n(B) 972 \n(C) 920 \n(D) 960",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 940</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી વસ્તી ગણતરી (2011) મુજબ આ આંકડો 940 (ભારત સ્તરે) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા રાજ્યમાં સ્ત્રી અને પુરુષોના પ્રમાણમાં મોટી અસમાનતા જોવા મળી હતી? \n(A) કેરળ \n(B) પંજાબ અને હરિયાણા \n(C) ગુજરાત \n(D) તમિલનાડુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પંજાબ અને હરિયાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર ભારતના આ રાજ્યોમાં પુત્રની અપેક્ષાએ સ્ત્રી સંખ્યામાં ઘટાડો નોંધાયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કન્યાઓને માધ્યમિક શિક્ષણમાં પ્રોત્સાહન આપવા માટે ગુજરાત સરકાર કઈ યોજના ચલાવે છે? \n(A) વિદ્યાલક્ષ્મી બોન્ડ \n(B) સાયકલ સહાય \n(C) (A) અને (B) બંને \n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (A) અને (B) બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણવા માટે 'વિદ્યા' (બોન્ડ) અને શાળાએ જવા 'સાયકલ' બંને જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગૃહિણીનું મૂલ્ય શેમાં આંકવામાં આવે છે? \n(A) પગારમાં \n(B) કોઈ પણ આર્થિક મૂલ્યમાં નહીં \n(C) કલાક મુજબ \n(D) બોનસમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કોઈ પણ આર્થિક મૂલ્યમાં નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતાનું કામ અમૂલ્ય છે, તેને પૈસામાં માપી શકાય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાજમાં કઈ બાબતે જાગૃતિ લાવવા સરકાર વિવિધ પ્રયત્નો કરે છે? \n(A) ભ્રષ્ટાચાર \n(B) જાતિગત ભિન્નતા (સ્ત્રી-પુરુષ સમાનતા) \n(C) રમતગમત \n(D) વિજ્ઞાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જાતિગત ભિન્નતા (સ્ત્રી-પુરુષ સમાનતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણનું નામ જ 'જાતિગત ભિન્નતા' છે, એટલે એ જ મુખ્ય મુદ્દો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કયા ક્ષેત્રમાં સ્ત્રીઓની સંખ્યા ઓછી જોવા મળે છે? \n(A) સંરક્ષણ (લશ્કર) \n(B) શિક્ષણ \n(C) નર્સિંગ \n(D) ખેતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સંરક્ષણ (લશ્કર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યાર સુધી સૈન્યમાં સ્ત્રીઓ ઓછી હતી, હવે તે વધી રહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દીકરીના જન્મ વખતે ભેદભાવ ટાળવા કયું સૂત્ર પ્રચલિત છે? \n(A) દીકરો-દીકરી એક સમાન \n(B) નાનું કુટુંબ સુખી કુટુંબ \n(C) વૃક્ષારોપણ કરો \n(D) પાણી બચાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દીકરો-દીકરી એક સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતા લાવવા માટે 'એક સમાન' શબ્દ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિવિધ સ્તરે મહિલાઓનું પ્રતિનિધિત્વ વધારવા લોકસભામાં કેટલી બેઠકો અનામત રાખવાની ચર્ચા ચાલે છે? \n(A) 50% \n(B) 33% \n(C) 10% \n(D) 75%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 33%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 33 ટકા એટલે કે ત્રીજો ભાગ સ્ત્રીઓ માટે અનામત રાખવાનો ધ્યેય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા ક્ષેત્રોમાં સ્ત્રીઓ આજે પણ પોતાનું કૌશલ્ય બતાવી રહી છે? \n(A) અંતરિક્ષ \n(B) રમતગમત \n(C) રાજકારણ \n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આજના યુગમાં કોઈ ક્ષેત્ર એવું નથી જ્યાં સ્ત્રીઓ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "છોકરા-છોકરીના ઉછેરમાં કઈ બાબતે ભેદભાવ રાખવો જોઈએ નહીં? \n(A) ખોરાક અને પોષણ \n(B) શિક્ષણ \n(C) રમતગમત \n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવીય હક્કો બધા માટે સરખા છે, એટલે તમામમાં સમાનતા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભારતમાં દર 10 વર્ષે થતી વસ્તી ગણતરી કોણ કરાવે છે? \n(A) વિશ્વ બેંક \n(B) ભારત સરકાર \n(C) સંયુક્ત રાષ્ટ્ર (UN) \n(D) રાજ્ય સરકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભારત સરકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા દેશની વસ્તી હોય તો કેન્દ્ર (ભારત) સરકાર જ ગણતરી કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રમતગમતમાં કઈ મહિલા ખેલાડીએ ભારતનું નામ રોશન કર્યું છે? \n(A) સાઈના નેહવાલ \n(B) પી.વી. સિંધુ \n(C) મિતાલી રાજ \n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ત્રણેય મહાન મહિલા ખેલાડીઓ છે (બેડમિન્ટન અને ક્રિકેટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભારતની વસ્તી ગણતરી મુજબ કયા વર્ષમાં સ્ત્રી-પુરુષના પ્રમાણમાં મોટો તફાવત જોવા મળ્યો હતો? \n(A) 2011 \n(B) 1951 \n(C) 1921 \n(D) 1981",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2011</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવીનતમ ગણતરીઓમાં લિંગ પ્રમાણમાં તફાવત ચિંતાજનક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કન્યા કેળવણીને પ્રોત્સાહન આપવા માટે કયું બોન્ડ આપવામાં આવે છે? \n(A) સરસ્વતી બોન્ડ \n(B) વિદ્યાલક્ષ્મી બોન્ડ \n(C) મમતા બોન્ડ \n(D) જ્ઞાન બોન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિદ્યાલક્ષ્મી બોન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિદ્યા' (ભણતર) અને 'લક્ષ્મી' (પૈસા/બોન્ડ) - બંનેનો સંગમ એટલે વિદ્યાલક્ષ્મી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્ત્રી-પુરુષના ભેદભાવની સૌથી વધુ અસર ક્યાં જોવા મળે છે? \n(A) શહેરોમાં \n(B) ગામડાઓમાં \n(C) વિદેશોમાં \n(D) અંતરિક્ષમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગામડાઓમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂઢિચુસ્તતા સામાન્ય રીતે ગ્રામીણ વિસ્તારોમાં વધુ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સામાજિક માન્યતા મુજબ કયો કાર્યક્રમ ફક્ત છોકરાઓ માટે જ છે એમ માનવામાં આવતું હતું? \n(A) ઘરકામ \n(B) બહારના કામો અને ભણતર \n(C) રસોઈ \n(D) સીવણ કામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બહારના કામો અને ભણતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની માન્યતા: છોકરો બહાર કમાય, છોકરી ઘર સંભાળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભારતના બંધારણે કોને સમાન હક્ક આપ્યા છે? \n(A) ફક્ત પુરુષોને \n(B) ફક્ત બાળકોને \n(C) સ્ત્રી અને પુરુષ બંનેને \n(D) ફક્ત સરકારી નોકરિયાતને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્ત્રી અને પુરુષ બંનેને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ માટે બધા નાગરિકો 'સમાન' છે.</p></div>"
+    }
+  ]
+}
