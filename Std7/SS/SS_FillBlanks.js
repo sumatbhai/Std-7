@@ -514,3 +514,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "મુઘલ સામ્રાજ્ય",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં મુઘલ સામ્રાજ્યની સ્થાપના ઈ.સ. 1526 માં ............... એ કરી હતી. (બાબર, હુમાયુ, અકબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુઘલ સામ્રાજ્યનો 'પાયો' નાખનાર 'બાબર' (બ-બાબર, બ-બેઝ/પાયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બાબરનું મૂળ નામ ............... હતું. (ઝહીરુદ્દીન મુહમ્મદ, જલાલુદ્દીન મુહમ્મદ, નુરુદ્દીન મુહમ્મદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝહીરુદ્દીન મુહમ્મદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાબર એટલે ઝહીર (બ-ઝ). ઝેરી બાણ જેવા તોપગોળા જેણે વાપર્યા તે ઝહીરુદ્દીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ ............... અને ઇબ્રાહિમ લોદી વચ્ચે થયું હતું. (અકબર, હુમાયુ, બાબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પા-બા-ઈ' (પાણીપત - બાબર - ઇબ્રાહિમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બાબરે પાણીપતના પ્રથમ યુદ્ધમાં ............... નો ઉપયોગ કરીને ઇબ્રાહિમ લોદીને હરાવ્યો હતો. (હાથીઓ, તોપ, તલવાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં 'ધડાકા' સાથે એન્ટ્રી એટલે તોપનો ઉપયોગ કરનાર બાબર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હુમાયુનો અર્થ ............... થાય છે. (શક્તિશાળી, નસીબદાર, વિજેતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નસીબદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુ નામનો અર્થ નસીબદાર, પણ તેનું નસીબ ઘણું ખરાબ હતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શેરશાહ સૂરીએ ............... ના યુદ્ધમાં હુમાયુને હરાવી ભારતની બહાર કાઢી મૂક્યો હતો. (પાણીપત, ખાનવા, કનૌજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કનૌજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કનૌજ' માં હુમાયુની 'મૌજ' જતી રહી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શેરશાહ સૂરીનું મૂળ નામ ............... હતું. (ખુર્રમ, સલીમ, ફરીદખાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફરીદખાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેણે 'ફરી'થી સૂર વંશ સ્થાપ્યો તે 'ફરીદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હુમાયુનું અવસાન ............... ના પગથિયાં પરથી પડી જવાથી થયું હતું. (કિલ્લા, મહેલ, વાચનાલય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાચનાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુ વાંચવાનો શોખીન હતો, એટલે પુસ્તકાલય (વાચનાલય) માં જ અકસ્માત થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અકબર માત્ર ............... વર્ષની ઉંમરે દિલ્હીનો બાદશાહ બન્યો હતો. (12, 14, 18)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર એટલે નાનો બાદશાહ - ચોદું (14) વર્ષની ઉંમર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણીપતનું બીજું યુદ્ધ અકબર અને ............... વચ્ચે થયું હતું. (શેરશાહ, રાણા પ્રતાપ, હેમુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેમુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પા-અ-હે' (પાણીપત 2 - અકબર - હેમુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અકબરે ફતેહપુર સિક્રીમાં ............... નું નિર્માણ કરાવ્યું હતું. (લાલ કિલ્લો, બુલંદ દરવાજો, તાજમહેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુલંદ દરવાજો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફતેહ (વિજય) મેળવીને 'બુલંદ' અવાજ કર્યો - એટલે બુલંદ દરવાજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અકબરે ............... નામના નવા ધર્મ/સંપ્રદાયની સ્થાપના કરી હતી. (દીન-એ-ઈલાહી, શીખ, ઈસ્લામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીન-એ-ઈલાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર મહાન હતો કારણકે તે બધા 'દીન' (ગરીબ/લોકો) ને એક ગણતો - દીન-એ-ઈલાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રાણા પ્રતાપ અને અકબર વચ્ચે ............... નું પ્રસિદ્ધ યુદ્ધ થયું હતું. (પાણીપત, હલ્દીઘાટી, પ્લાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હલ્દીઘાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાણા પ્રતાપની બહાદુરીથી દુશ્મનો પીળા પડી ગયા - હલ્દી (હળદર) ઘાટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મહારાણા પ્રતાપના ઘોડાનું નામ ............... હતું. (રામપ્રસાદ, ચેતક, પવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં 'ચેતવણી' આપીને દોડતો ઘોડો એટલે ચેતક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જહાંગીરની પત્ની ............... ખૂબ જ ચતુર અને પ્રતિભાશાળી હતી. (મુમતાઝ મહેલ, નૂરજહાં, જોધાબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નૂરજહાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર (દુનિયા જીતનાર) ના જીવનમાં 'નૂર' (પ્રકાશ) લાવનાર એટલે નૂરજહાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મુઘલ બાદશાહ ............... ના સમયને મુઘલ સ્થાપત્યનો 'સુવર્ણયુગ' ગણવામાં આવે છે. (જહાંગીર, શાહજહાં, ઔરંગઝેબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં = શાનદાર સ્થાપત્ય (તાજમહેલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઔરંગઝેબે લગભગ ............... વર્ષ સુધી શાસન કર્યું હતું. (25, 40, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધી સદી (50 વર્ષ) સુધી જીદ કરીને શાસન કરનાર ઔરંગઝેબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મુઘલ વહીવટીતંત્રના વડાને ............... કહેવામાં આવતો. (વઝીર, મનસબદાર, સૂબો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વઝીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વઝીર એટલે 'વ'હીવટનો રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અકબરની મહેસૂલી પદ્ધતિ ............... તરીકે ઓળખાતી હતી. (મનસબદારી, ઝપ્ત, રેયતવારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનસબદારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરના મન (માન) પ્રમાણેની પદ્ધતિ - મનસબદારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અકબરનો મહેસૂલ મંત્રી ............... હતો. (બીરબલ, તોડરમલ, માનસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તોડરમલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે હિસાબમાં કોઈને પણ 'તોડી' નાખે એવો હોશિયાર - તોડરમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહારાણા પ્રતાપના હાથીનું નામ ............... હતું. (ચેતક, પવન, રામપ્રસાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામપ્રસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડો ચેતક અને હાથી રામનો પ્રસાદ (રામપ્રસાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શેરશાહ સૂરીએ ............... સિક્કાની શરૂઆત કરાવી હતી. (સોનાના, ચાંદીના, તાંબાના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંદીના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરશાહ એટલે 'રૂપિયો' અને રૂપિયો 'ચાંદી'નો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઔરંગઝેબ ............... ધર્મનો ચુસ્ત અનુયાયી હતો. (સુન્ની મુસ્લિમ, શિયા મુસ્લિમ, હિન્દુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુન્ની મુસ્લિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબ બધાનું 'સુન્ની' (સાંભળી) લેતો પણ કરતો પોતાનું - સુન્ની મુસ્લિમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તાજમહેલ આગ્રામાં ............... નદીના કિનારે આવેલો છે. (ગંગા, યમુના, નર્મદા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યમુના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ'ગ્રા + 'ય'મુના = આય (Taj Mahal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચિત્રકલાનો સૌથી વધુ વિકાસ ............... ના સમયમાં થયો હતો. (અકબર, જહાંગીર, શાહજહાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર એટલે 'જોનાર' (ચિત્રો જોવાનો શોખીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અકબરના દરબારના નવરત્નોમાં ............... પ્રખર ગાયક હતા. (બીરબલ, તાનસેન, તોડરમલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાનસેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સંગીતની 'તાન' છેડે તે તાનસેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગ્રાન્ડ ટ્રંક રોડનું નિર્માણ ............... ના સમયમાં થયું હતું. (મૌર્યકાળ, મુઘલકાળ, સલ્તનતકાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલકાળ (શેરશાહ સૂરી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરશાહે G.T. Road નું 'પુનઃનિર્માણ' કરાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મુઘલકાળમાં મહેસૂલનો દર ઉપજનો ............... ભાગ હતો. (1/2, 1/3, 1/6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરના શાસનમાં ત્રણ (3) ભાગમાંથી એક ભાગ ટેક્સ - 1/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઔરંગઝેબ સામે સતત સંઘર્ષ કરનાર મરાઠા કેસરી ............... હતા. (બાજીરાવ, પેશ્વા, છત્રપતિ શિવાજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રપતિ શિવાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબનો અસલી મુકાબલો 'શિવાજી' મહારાજ સાથે જ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુઘલ સામ્રાજ્યનો અંતિમ બાદશાહ ............... હતો. (ઔરંગઝેબ, બહાદુરશાહ ઝફર, શાહઆલમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહાદુરશાહ ઝફર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લો મુઘલ રાજા 'બહાદુર' નહોતો પણ નામ બહાદુરશાહ હતું.</p></div>"
+    }
+  ]
+}
