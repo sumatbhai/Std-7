@@ -3919,3 +3919,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જ્યાં ચીજવસ્તુઓનું ખરીદ-વેચાણ થતું હોય તે સ્થળને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' થી બાય (ખરીદવું) અને 'જ' થી જે (વેચાણ) થાય તે 'બજાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કયા પ્રકારના બજારમાં ગ્રાહકને જીવનજરૂરિયાતની વસ્તુઓ ઘરની નજીક જ મળી રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મોહલ્લા બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણો 'મોહલ્લો' એટલે આપણા ઘરની સૌથી 'નજીક' નું બજાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુજરાતમાં સાપ્તાહિક બજારને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગુજરી બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં અઠવાડિયે ભરાય તે 'ગુજરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાપ્તાહિક બજારને મહારાષ્ટ્રમાં કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) હાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઠવાડિયે 'હાટ' લાગે (સાપ્તાહિક બજાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એક જ બિલ્ડિંગમાં અલગ-અલગ માળ પર અલગ-અલગ પ્રકારની વસ્તુઓ મળતી હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શોપિંગ મોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી બિલ્ડિંગ + કાચના દરવાજા + લિફ્ટ = મોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વર્તમાન સમયમાં ઘરે બેઠા ખરીદી કરવા માટે કઈ વ્યવસ્થા સૌથી વધુ પ્રચલિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઓનલાઇન બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોબાઈલમાં 'ઓનલાઇન' ક્લિક કરો અને વસ્તુ ઘરે મેળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જે વેપારી મોટા જથ્થામાં વસ્તુઓ ખરીદીને છૂટક વેપારીને વેચે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જથ્થાબંધ વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોટો જથ્થો' ખરીદે તે 'જથ્થાબંધ' વેપારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખેડૂતો પોતાનો માલ યોગ્ય ભાવે વેચી શકે તે માટે કઈ વ્યવસ્થા કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) માર્કેટિંગ યાર્ડ (APMC)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતો માટેનું રક્ષણ એટલે 'માર્કેટિંગ યાર્ડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચીજવસ્તુની ગુણવત્તા માટે ઘરવપરાશની અને વીજળીથી ચાલતી વસ્તુઓ પર કયું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ISI</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રિક કે લોખંડની વસ્તુ હોય તો 'ISI' ચેક કરવાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સોના-ચાંદીના દાગીનાની શુદ્ધતા માટે કયું નિશાન જોવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હોલમાર્ક (Hallmark)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનાના 'ઘાટ' માં જોવા મળે 'હોલમાર્ક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખાદ્ય પદાર્થોની શુદ્ધતા માટે કયું નિશાન વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) એગમાર્ક (Agmark) અને FSSAI</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એગ્રીકલ્ચર' માંથી આવતા ખોરાક માટે 'Agmark'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કયા બજારમાં વસ્તુઓ સસ્તી મળે છે કારણ કે વેપારીને દુકાનનું ભાડું કે ટેક્સ લાગતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સાપ્તાહિક બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તા પર ભરાય, ભાડું ન ભરાય એટલે 'સસ્તું' મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગ્રાહકોના અધિકારોના રક્ષણ માટે કયો કાયદો અમલમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ગ્રાહક સુરક્ષા અધિનિયમ-1986</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '86' ની સાલમાં ગ્રાહક બન્યો શક્તિશાળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જે વસ્તુઓનું વેચાણ કરે છે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિક્રેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વે' ચાણ કરે તે 'વે' પરી કે 'વિ' ક્રેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શાકાહારી ખાદ્ય સામગ્રી પર કયા રંગનું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લીલા રંગનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાકભાજી 'લીલી' હોય એટલે નિશાન પણ 'લીલું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માંસાહારી ખાદ્ય સામગ્રી પર કયા રંગનું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લાલ રંગનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંસનો રંગ 'લાલ' હોવાથી નિશાન પણ 'લાલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગ્રાહક દ્વારા કોઈપણ વસ્તુ ખરીદતી વખતે શું માંગવાનો આગ્રહ રાખવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાકું બિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બિલ' એ જ ખરીદીનો સાચો 'પુરાવો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઉનનાં કપડાં કે તેની બનાવટો પર કયું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વૂલમાર્ક (Woolmark)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વૂલ' (Wool) એટલે ઉન, તેથી 'વૂલમાર્ક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેતીવાડીની પેદાશોના વેચાણમાં ખેડૂતોનું શોષણ રોકવા માટે સરકાર કઈ સંસ્થા દ્વારા દેખરેખ રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખેતીવાડી ઉત્પન્ન બજાર સમિતિ (APMC)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતો માટે 'APMC' એટલે ન્યાયની જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયા પ્રકારના બજારમાં વેપારીઓ ગ્રાહકને ઉધાર પણ માલ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મોહલ્લા બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓળખાણ હોય ત્યાં જ 'ઉધાર' મળે, એટલે કે 'મોહલ્લા' માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વસ્તુના છાપેલ ભાવને ટૂંકમાં શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) M.R.P.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Maximum Retail Price' એટલે છાપેલી કિંમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગ્રાહક સુરક્ષા માટે સમગ્ર દેશમાં કયો હેલ્પલાઇન નંબર કાર્યરત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1800-11-4000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેતરાયા હો તો '1800' વાળા નંબર પર રિંગ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બજારની કઈ કડીમાં વસ્તુ સીધી ઉત્પાદક પાસેથી ગ્રાહક સુધી પહોંચે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઓનલાઇન બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચેટિયા વગર સીધી ડિલિવરી એટલે 'ઓનલાઇન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જે નાણાં આપીને વસ્તુ કે સેવા ખરીદે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ગ્રાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પૈસા આપે તે ગ્રાહક' (Customer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીચેનામાંથી કયું બજાર અઠવાડિયામાં એક જ વાર નિશ્ચિત દિવસે ભરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સાપ્તાહિક બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સપ્તાહ' માં એક વાર એટલે 'સાપ્તાહિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગ્રાહકોને છેતરાતા બચાવવા માટે કઈ જાગૃતિ ઝુંબેશ ચલાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જાગો ગ્રાહક જાગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહક જાગૃત તો છેતરપિંડી બંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જથ્થાબંધ વેપારી પાસેથી વસ્તુઓ ખરીદીને ગ્રાહકને વેચે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) છૂટક વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-બે વસ્તુ 'છૂટક' આપે તે 'છૂટક વેપારી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અમદાવાદમાં ભરાતી 'ગુજરી બજાર' કઈ નદીના કિનારે ભરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સાબરમતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદની ઓળખ 'સાબરમતી' અને રવિવારી 'ગુજરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કયા પ્રકારના બજારમાં મિલનસાર અને પરિચિત લોકો વચ્ચે વ્યવહાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મોહલ્લા બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડોશી જેવું બજાર એટલે 'મોહલ્લા બજાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શાકાહારી કે માંસાહારી ખોરાક ઓળખવા માટે કયું માધ્યમ ઉપયોગી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) રંગીન ટપકાં (લીલું કે લાલ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટપકું' જોઈને ખબર પડે કે ખાવાનું કેવું છે.</p></div>"
+    }
+  ]
+}
