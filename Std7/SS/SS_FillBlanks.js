@@ -880,3 +880,211 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "વનવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વર્ણ આધારિત સમાજમાં નવા જૂથો ઉભરી આવ્યા તેને ________ તરીકે ઓળખવામાં આવે છે. (જ્ઞાતિ / જાતિ / શ્રેણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' થી જૂથ અને 'જ' થી જાતિ! વર્ણની અંદર નાનું વિભાજન એટલે જાતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પંજાબમાં 13મી અને 14મી સદી દરમિયાન ________ જાતિ મુખ્ય હતી. (ખોખર / ગખ્ખર / લંગાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબના લોકો 'ખુલ્લા' દિલના હોય, એટલે 'ખોખર' જાતિ યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખોખર જાતિના નેતા ________ ને અકબરે મનસબદાર બનાવ્યા હતા. (કમલખાન ગખ્ખર / સંગ્રામ શાહ / બલબન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કમલખાન ગખ્ખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમળ (Lotus) જેવું વ્યક્તિત્વ એટલે 'કમલખાન' જેણે અકબરનું મન જીત્યું (મનસબદાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુલ્તાન અને સિંધમાં ________ અને અર્ગુન જાતિઓનું આધિપત્ય હતું. (લંગાહ / મુંડા / સંતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંગાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુલ્તાની માટી લગાવીએ તો 'રંગ' આવે, તેના પરથી 'લંગાહ' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતના ઉત્તર-પશ્ચિમ ભાગમાં ________ નામની શક્તિશાળી જનજાતિ હતી. (બલોચ / નાગા / અહોમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બલોચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ દિશામાં પાકિસ્તાન બાજુ 'બલોચિસ્તાન' છે, એટલે ઉત્તર-પશ્ચિમમાં 'બલોચ' યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પશ્ચિમ હિમાલયમાં વસતી જનજાતિ ________ તરીકે ઓળખાય છે. (ગડ્ડી / ભીલ / કોળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગડ્ડી (ગડ્ડી ભરવાડો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાલયમાં ઠંડી લાગે એટલે 'ગાદી' (ગડ્ડી) ની જરૂર પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બિહાર અને ઝારખંડના કેટલાક વિસ્તારોમાં 12મી સદી સુધી ________ સરદારોનું આધિપત્ય હતું. (ચેરો / મુંડા / સંથાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિહારના લોકો 'ચેહરો' (ચેરો) બહુ સાફ રાખે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રાજા માનસિંહે ચેરો જનજાતિ પર હુમલો કરી પરાજિત કર્યા હતા તે ________ ના સેનાપતિ હતા. (અકબર / હુમાયુ / શાહજહાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર અને માનસિંહની જોડી જગવિખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઓડિશા અને બંગાળમાં ________ અને સંથાલ જેવી જનજાતિઓ રહેતી હતી. (મુંડા / ભીલ / અહોમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુંડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંડા અને સંથાલ = પૂર્વ ભારતની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કર્ણાટક અને મહારાષ્ટ્રના પહાડી વિસ્તારોમાં ________ અને બેરાદ જાતિઓ રહેતી હતી. (કોળી / ભીલ / ગોંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રનો દરિયાકિનારો અને પહાડો એટલે 'કોળી' ભાઈઓનો વિસ્તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પશ્ચિમ અને મધ્ય ભારતમાં ________ જનજાતિ ફેલાયેલી હતી. (ભીલ / અહોમ / નાગા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાત (પશ્ચિમ) અને મધ્યપ્રદેશ (મધ્ય) માં 'ભીલ' રાજાઓનું શાસન હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિચરતી જાતિના લોકો પોતાના પશુઓ સાથે દૂર-દૂર સુધી ફરતા તેઓ ________ પર જીવન નિર્વાહ કરતા હતા. (ખેતી / પશુપાલન / વેપાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશુપાલન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિચરતી' એટલે જે સ્થિર નથી, જે પશુઓ લઈને 'વિચરે' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિચરતી અને વિમુક્ત જાતિઓમાં ________ સૌથી અગત્યના હતા. (વણજારા / કોળી / ગોંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વણજારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણજારા = વ્યાપાર (Business). પ્રાચીન સમયના ટ્રક ડ્રાઈવરો એટલે વણજારા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વણજારાઓના સમૂહને ________ કહેવામાં આવતો હતો. (ટાંડા / પાઈક / ખેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાંડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણજારાની લાઈન લાગે એટલે જાણે 'ટાંડા' (ટોળું) ઉમટ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સુલતાન ________ દિલ્હીના બજારો સુધી અનાજ લાવવા વણજારાઓનો ઉપયોગ કરતો હતો. (અલાઉદ્દીન ખલજી / અકબર / ઇલ્તુત્મિશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખલજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન 'બજાર નિયંત્રણ' માટે જાણીતો હતો, એટલે વણજારા તેને જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "યુદ્ધ દરમિયાન વણજારાઓ બળદોની પોઠ દ્વારા મુઘલ સૈન્ય માટે અનાજ લાવતા આ વિધાન ________ એ પોતાની નોંધમાં લખ્યું છે. (જહાંગીર / બાબર / હુમાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીરને બધું જોવાની ટેવ હતી, એટલે તેણે આ 'નોંધ' કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગોંડ લોકો ________ ખેતી કરતા હતા. (સ્થળાંતરિત / આધુનિક / બાગાયતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થળાંતરિત (ઝૂમ ખેતી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલમાં રહેતા લોકો એક જગ્યાએથી બીજી જગ્યાએ જાય એટલે 'સ્થળાંતરિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગોંડ રાજ્યની વહીવટી વ્યવસ્થા ________ હતી. (કેન્દ્રીકૃત / વિકેન્દ્રીકૃત / લોકશાહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્રીકૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા કેન્દ્રમાં હોય અને બધું સંભાળે એટલે કેન્દ્રીકૃત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગોંડ રાજ્યમાં દરેક ગઢ ________ ગામોના એક એકમમાં વહેંચાયેલો હતો. (84 / 12 / 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 84 (ચોર્યાસી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 84 ગામોનો સમૂહ એટલે 'ચોર્યાસી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચોર્યાસી ગામના એકમોને ________ માં પેટા-વિભાજિત કરવામાં આવ્યા હતા. (બારહોતો / ટાંડા / ખેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બારહોતો (12 ગામનો સમૂહ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર + હોતો = બાર ગામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગઢ કટંગાના ગોંડ રાજા અમનદાસે ________ ની પદવી ધારણ કરી હતી. (સંગ્રામ શાહ / વિક્રમાદિત્ય / મહારાજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગ્રામ શાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમનદાસને 'સંગ્રામ' (યુદ્ધ) કરીને શાહ બનવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રાણી દુર્ગાવતી ________ ના ચંદેલ રાજપૂત રાજાની પુત્રી હતી. (મહોબા / આમેર / મેવાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહોબા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મ' થી મહોબા અને 'મ' થી મજબૂત રાણી દુર્ગાવતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અકબરના સેનાપતિ ________ એ ગઢ કટંગા પર હુમલો કરી રાણી દુર્ગાવતીને પરાજિત કર્યા હતા. (આસફખાન / માનસિંહ / બૈરમખાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આસફખાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' થી આસફખાન અને 'આ' થી આક્રમણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અહોમ લોકો 13મી સદીમાં હાલના ________ થી આવી બ્રહ્મપુત્ર નદીના ખીણ વિસ્તારમાં વસ્યા હતા. (મ્યાનમાર / ચીન / નેપાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મ્યાનમાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ-મ્યાનમાર. બંનેમાં 'મ' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અહોમ રાજ્યમાં જે લોકો પાસે બળજબરીથી કામ કરાવવામાં આવતું તેમને ________ કહેવાતા. (પાઈક / દાસ / મજૂર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઈક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાઈક' એટલે 'પગ'પાળા મજૂરી કરનાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અહોમ સમાજ કુળમાં વહેંચાયેલો હતો, તેમના કુળને ________ કહેવામાં આવતું. (ખેલ / પાલ / જાતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ લોકો શક્તિશાળી હતા, યુદ્ધ એમના માટે એક 'ખેલ' હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અહોમ રાજા ________ ના સમયમાં હિન્દુ ધર્મ મુખ્ય ધર્મ બન્યો હતો. (શિબસિંહ / અમનદાસ / દુર્ગાવતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિબસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિબ' એટલે શિવ, અને શિવ એટલે હિન્દુ ધર્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અહોમ ભાષામાં લખાયેલી ઐતિહાસિક કૃતિઓને ________ કહેવામાં આવતી હતી. (બુરંજી / અકબરનામા / ગીતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુરંજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' થી બ્રહ્મપુત્ર અને 'બ' થી બુરંજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગઢ કટંગા રાજ્ય ________ ની નિકાસ કરીને પુષ્કળ ધન કમાયું હતું. (હાથીઓ / ઘોડા / સોનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલી હાથીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ એટલે ગોંડવાના, અને જંગલનો રાજા હાથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગુજરાતના ડાંગ અને અન્ય પૂર્વીય પટ્ટીમાં ________ જેવી જનજાતિઓ વસતી હતી. (ભીલ / સંથાલ / નાગા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગના આદિવાસી ભાઈઓ એટલે ભીલ રાજાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સમય જતાં જનજાતિઓ ________ પ્રણાલીનો હિસ્સો બની. (જ્ઞાતિ / લોકશાહી / સામ્યવાદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાજ બદલાયો અને જાતિઓ જ્ઞાતિઓમાં ફેરવાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "અકબરનામામાં ________ જનજાતિ વિશે ઉલ્લેખ જોવા મળે છે. (ગોંડ / અહોમ / કોળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરે ગોંડ રાજ્ય જીત્યું હતું એટલે અકબરનામામાં તેનું વર્ણન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિચરતી જાતિના લોકો જ્ઞાતિ આધારિત સમાજ પાસેથી ________ અને ઘી જેવી વસ્તુઓ ખરીદતા હતા. (અનાજ / કાપડ / ઘરેણાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુપાલકો પાસે દૂધ-ઘી હોય, પણ ખાવા માટે અનાજ ખેડૂતો પાસેથી જ લેવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "અહોમ સમાજમાં સાહિત્યિક કૃતિઓ પહેલા ________ ભાષામાં લખવામાં આવી હતી. (અહોમ / સંસ્કૃત / હિન્દી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાની માતૃભાષામાં જ પહેલા સાહિત્ય લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જે જાતિઓ એક જગ્યાએથી બીજી જગ્યાએ સતત ભ્રમણ કરતી રહેતી તેને ________ જાતિઓ કહેવામાં આવતી. (વિચરતી / સ્થાયી / આદિવાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિચરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિચરતી = વિચાર્યા વગર સતત ચાલતી/ફરતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ગઠ કટંગામાં આશરે ________ જેટલા ગામડાઓ હોવાનો ઉલ્લેખ અકબરનામામાં છે. (70,000 / 10,000 / 5,000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 70,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત-શૂન્ય... સાત અને સત્તર (70) યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અહોમ લોકોએ ________ નામના મકાન માલિકોની જૂની રાજકીય વ્યવસ્થાને બદલી નાખી હતી. (ભૂઈયાં / રાજા / મનસબદાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂઈયાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભૂ' એટલે જમીન, જમીનદાર એટલે ભૂઈયાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "દક્ષિણ ભારતમાં કોરાગા, વેતર અને ________ જનજાતિઓ વસતી હતી. (મારવાર / ચેરો / સંતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મારવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણના શક્તિશાળી નામ - કોરાગા, વેતર, મારવાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જનજાતિઓના સભ્યો ________ પ્રથાથી એકબીજા સાથે જોડાયેલા હતા. (કબીલા / લોકશાહી / વંશવેલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કબીલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' થી કબીલા અને 'ક' થી કુટુંબ જેવો સંબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "1662 માં મીર જુમલાના નેતૃત્વ હેઠળ મુઘલોએ ________ રાજ્ય પર વિજય મેળવ્યો હતો. (અહોમ / ગોંડ / ચેરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીર જુમલાએ 'અહોમ' ને હરાવ્યા પણ કબજો લાંબો ન ટક્યો.</p></div>"
+    }
+  ]
+}
