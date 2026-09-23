@@ -1604,3 +1604,261 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "૧૮મી સદીના રાજકીય શાસકો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મુઘલ બાદશાહ ઔરંગઝેબનું અવસાન ઈ.સ. ________ માં થયું હતું. (૧૭૦૫, ૧૭૦૭, ૧૭૧૨)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૭૦૭</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાત' ઉપરથી યાદ રાખો કે મુઘલ સામ્રાજ્યનો સૂર્ય આથમવાની શરૂઆત '૧૭૦૭' (સાત) થી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઔરંગઝેબના મૃત્યુ પછી મુઘલ ગાદી પર ________ નામનો શાસક આવ્યો. (બહાદુરશાહ, જહાંદરશાહ, ફરૂખશિયર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહાદુરશાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબ પછી 'બહાદુરી' બતાવવા 'બહાદુરશાહ' આવ્યો તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મુઘલ ગાદી પર આવેલ બહાદુરશાહે ________ સાથે શાંતિભર્યા સંબંધો રાખ્યા હતા. (મરાઠાઓ, શીખો, જાટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મરાઠાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાદુરશાહ 'મરાઠાઓ' સાથે મીઠાશથી (શાંતિથી) વર્ત્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઈ.સ. ૧૭૧૩ માં મુઘલ ગાદી પર ________ બેઠો હતો. (જહાંદરશાહ, ફરૂખશિયર, મહંમદશાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફરૂખશિયર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭-૧૩ ના આંકડામાં 'ફ' એટલે કે 'ફરૂખશિયર' ફસાઈ ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૈયદ બંધુઓએ ફરૂખશિયરને ગાદી પરથી ઉઠાડી ________ ને બાદશાહ બનાવ્યો. (મહંમદશાહ, બહાદુરશાહ, આલમગીર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહંમદશાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈયદ બંધુઓએ 'મહાન' કામ કરવા 'મહંમદશાહ' ને ગાદી આપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઈ.સ. ૧૭૩૯ માં ભારત પર ________ એ આક્રમણ કર્યું હતું. (નાદિરશાહ, અહમદશાહ અબ્દાલી, તૈમૂર લંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાદિરશાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭૩૯ માં મુઘલ સત્તાનો 'નાદ' (અવાજ) બગાડવા 'નાદિરશાહ' આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હૈદરાબાદ રાજ્યની સ્થાપના ________ એ કરી હતી. (મુર્શિદકુલી ખાં, નિઝામ-ઉલ-મુલ્ક, સાદત ખાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિઝામ-ઉલ-મુલ્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૈદરાબાદ અને નિઝામ એકબીજાના પર્યાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નિઝામ-ઉલ-મુલ્કનું બીજું નામ ________ હતું. (આસફજાહ, આલમગીર, રંગીલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આસફજાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિઝામ પાસે 'આશા' હતી માટે 'આસફજાહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બંગાળમાં સ્વતંત્ર રાજ્યની સ્થાપના મુર્શિદકુલી ખાં અને ________ એ કરી હતી. (અલીવર્દી ખાં, સિરાજ-ઉદ-દૌલા, મીર જાફર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલીવર્દી ખાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળમાં 'મુર્શિદ' અને 'અલી' એ પાયો નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઈ.સ. ૧૭૫૭ માં ________ નું યુદ્ધ થયું હતું. (બક્સર, પ્લાસી, પાણીપત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭-૫૭ (સત્તાવન) માં બ્રિટિશ સત્તાનો પાયો 'પ્લાસી' થી નંખાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અયોધ્યામાં સ્વતંત્ર રાજ્યની સ્થાપના ________ એ કરી હતી. (સાદત ખાં, સફદરજંગ, શુજા-ઉદ-દૌલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદત ખાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયોધ્યા 'સાદગી' થી ભરેલું શહેર - 'સાદત' ખાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજપૂત શાસકોમાં જયપુરના રાજા ________ સૌથી શક્તિશાળી શાસક હતા. (સવાઈ જયસિંહ, અજિતસિંહ, રાજા માનસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાઈ જયસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયપુર શહેર અને રાજા 'જય'સિંહ બંનેના નામ સરખા જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રાજા સવાઈ જયસિંહે ________ શહેરની સ્થાપના કરી હતી. (જોધપુર, ઉદયપુર, જયપુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જયપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયસિંહ = જયપુર (નામમાં જ જવાબ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગુરુ ગોવિંદસિંહ પછી શીખોનું નેતૃત્વ ________ એ સંભાળ્યું હતું. (મહારાજા રણજીતસિંહ, બંદા બહાદુર, કપૂરસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંદા બહાદુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ પછી 'બહાદુરી' બતાવવા 'બંદા' આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શીખ રાજ્યો ૧૨ સમૂહોમાં વિભાજિત હતા, જેને ________ કહેવાતું. (મિસલ, ખાલસા, દલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૨ જૂથોનું 'મિશ્રણ' એટલે 'મિસલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહારાજા રણજીતસિંહ શીખોના ________ મિસલમાંથી આવતા હતા. (આહલુવાલિયા, ભંગી, શુક્રચકિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુક્રચકિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણજીતસિંહનું નસીબ 'શુક્ર' જેવું તેજસ્વી હતું - શુક્રચકિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મહારાજા રણજીતસિંહની સેનામાં યુરોપિયન સેનાપતિઓ અને ________ હતા. (વૈજ્ઞાનિકો, સૈનિકો, કારીગરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૈનિકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેનામાં હંમેશા 'સૈનિકો' અને 'સેનાપતિ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મરાઠા સામ્રાજ્યના સ્થાપક ________ હતા. (છત્રપતિ શિવાજી મહારાજ, શાહુ મહારાજ, પેશ્વા બાજીરાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રપતિ શિવાજી મહારાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરાઠા સામ્રાજ્ય એટલે 'શિવાજી' નામ તો સાંભળ્યું જ હશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઔરંગઝેબે શિવાજીના પૌત્ર ________ ને કેદ કર્યો હતો. (શાહુ, રાજારામ, સંભાજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહુ મહારાજ લાંબો સમય મુઘલોની કેદમાં રહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શાહુ મહારાજને કેદમાંથી મુક્ત કર્યા પછી તેમની અને ________ વચ્ચે વારસા વિગ્રહ થયો. (તારાબાઈ, જીજાબાઈ, અહિલ્યાબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તારાબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં તારા અને ગાદી માટે 'તારા'બાઈ સાથે લડાઈ થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્રથમ પેશ્વા ________ હતા. (બાજીરાવ ૧ લો, બાલાજી વિશ્વનાથ, બાલાજી બાજીરાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાલાજી વિશ્વનાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશ્વા પદની શરૂઆત 'વિશ્વ'નાથથી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બાલાજી વિશ્વનાથના અવસાન પછી પેશ્વા પદે ________ આવ્યા. (બાજીરાવ ૧ લો, બાલાજી બાજીરાવ, માધવરાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજીરાવ ૧ લો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશ્વ' પછી 'બાજી' મારવા બાજીરાવ આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પેશ્વા બાજીરાવ ૧ લો ________ યોદ્ધા હતા. (કુશળ, ડરપોક, આળસુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુશળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજીરાવની તલવાર અને બુદ્ધિ બંને 'કુશળ' હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બાજીરાવ ૧ લઈએ મુઘલ વિસ્તારો જીતી મરાઠા સામ્રાજ્યનો ________ કર્યો. (વિસ્તાર, અંત, ઘટાડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિસ્તાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાન રાજા હંમેશા રાજ્યનો 'વિસ્તાર' જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બાજીરાવ ૧ લાના અવસાન પછી પેશ્વા પદે ________ આવ્યા. (બાલાજી બાજીરાવ, સદાશિવરાવ, નારાયણરાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાલાજી બાજીરાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતા 'બાજીરાવ' અને પુત્ર 'બાલાજી બાજીરાવ' - નામમાં નામ ઉમેરાયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ ઈ.સ. ________ માં થયું હતું. (૧૭૬૧, ૧૭૫૭, ૧૫૨૬)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૭૬૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '૬૧' (એકસઠ) - પાણીપતના ત્રીજા યુદ્ધમાં મરાઠાઓએ હિંમત 'કસી' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ મરાઠાઓ અને ________ વચ્ચે થયું હતું. (અહમદશાહ અબ્દાલી, નાદિરશાહ, ઔરંગઝેબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહમદશાહ અબ્દાલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીપતમાં 'અબ્દાલી' એ મરાઠાઓની 'અદાલત' (ન્યાય) તોળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પાણીપતના ત્રીજા યુદ્ધમાં ________ ની હાર થઈ હતી. (મરાઠાઓ, મુઘલો, અફઘાનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મરાઠાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજા યુદ્ધમાં મરાઠાઓના માઠાં (ખરાબ) સમાચાર આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જાટ રાજ્યની સ્થાપના ________ એ કરી હતી. (બદનસિંહ, સૂરજમલ, ચુરામણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચુરામણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાટ શક્તિની શરૂઆત 'ચુરામણ' થી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જાટ શાસકોમાં ________ સૌથી શક્તિશાળી શાસક હતા. (સૂરજમલ, બદનસિંહ, રણજીતસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂરજમલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂરજ' ની જેમ તેજસ્વી જાટ રાજા એટલે સૂરજમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રાજા સવાઈ જયસિંહ ________ હતા. (ખગોળશાસ્ત્રી, ગણિતશાસ્ત્રી, અર્થશાસ્ત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખગોળશાસ્ત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયસિંહ આકાશના તારા જોતા (ખગોળ) માટે વેધશાળાઓ બનાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સવાઈ જયસિંહે દિલ્હી, જયપુર, ઉજ્જૈન અને ________ માં વેધશાળાઓ સ્થાપી હતી. (વારાણસી, કલકત્તા, મુંબઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વારાણસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવિત્ર નગરી 'વારાણસી' માં પણ વિજ્ઞાનનો દીવો પ્રગટાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શીખ ધર્મના પ્રથમ ગુરુ ________ હતા. (ગુરુ નાનક, ગુરુ ગોવિંદસિંહ, ગુરુ તેગ બહાદુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ નાનક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીખ ધર્મનો પાયો 'નાનક' સાહેબે નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "શીખ ધર્મના દસમા ગુરુ ________ હતા. (ગુરુ ગોવિંદસિંહ, ગુરુ અર્જુનદેવ, ગુરુ હરગોવિંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ ગોવિંદસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે 'ગોવિંદ' પાસે શરણ મળ્યું - ૧૦મા ગુરુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ગુરુ ગોવિંદસિંહે શીખોને એકતાના તાંતણે બાંધી ________ ની સ્થાપના કરી. (ખાલસા પંથ, દલ ખાલસા, શીખ ધર્મ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાલસા પંથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખાલસા' એટલે શુદ્ધ, જે ગુરુ ગોવિંદસિંહે બનાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બહાદુરશાહે ૧૭૧૨ માં મૃત્યુ પામ્યા પછી ગાદી માટે ________ થયો. (વારસા વિગ્રહ, સંધિ, મૈત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વારસા વિગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા મરે એટલે ભાઈઓ વચ્ચે 'વારસા' માટે લડાઈ થાય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નાદિરશાહના આક્રમણથી ________ સામ્રાજ્યને મોટો ફટકો પડ્યો. (મુઘલ, મરાઠા, શીખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિલ્હી મુઘલોની હતી, એટલે ફટકો પણ એમને જ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "અહમદશાહ અબ્દાલીએ ભારત પર ________ વખત આક્રમણ કર્યું હતું. (અનેક, એક, બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનેક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબ્દાલી લૂંટવા માટે 'અનેક' વાર આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "બંગાળના નવાબ સિરાજ-ઉદ-દૌલા અને અંગ્રેજો વચ્ચે ________ નું યુદ્ધ થયું. (પ્લાસી, બક્સર, હલ્દીઘાટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિરાજની 'પ્લાસી' માં હાર થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પેશ્વા બાજીરાવ ૧ લો ________ ની નીતિમાં માનતા હતા. (હિન્દુ પદ પાદશાહી, મુઘલવાદ, અંગ્રેજવાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિન્દુ પદ પાદશાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજીરાવ મરાઠા સામ્રાજ્યને 'હિન્દુ' ગૌરવ અપાવવા માંગતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "નિઝામ-ઉલ-મુલ્કે હૈદરાબાદને ________ બનાવ્યું હતું. (સ્વતંત્ર, પરતંત્ર, ગુલામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વતંત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા સૂબાઓ 'સ્વતંત્ર' થવા જ દોડતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બાલાજી વિશ્વનાથે શાહુ મહારાજને ગાદી અપાવવામાં ________ કરી હતી. (મદદ, વિરોધ, ઉપેક્ષા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મદદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશ્વાનું કામ જ રાજાને 'મદદ' કરવાનું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ભારતમાં ૧૮મી સદીનો સમયગાળો ________ ગણાય છે. (રાજકીય અંધાધૂંધીનો, શાંતિનો, સુવર્ણયુગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજકીય અંધાધૂંધીનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ઘણા બધા રાજાઓ લડતા હોય ત્યારે 'અંધાધૂંધી' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "મહારાજા રણજીતસિંહ ________ વિજય મેળવી શક્તિશાળી બન્યા હતા. (લાહોર અને અમૃતસર, સુરત, કલકત્તા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાહોર અને અમૃતસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબના મુખ્ય શહેરો એટલે લાહોર-અમૃતસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પેશ્વા બાજીરાવ ૧ લઈએ ________ ને મરાઠા સામ્રાજ્યમાં ભેળવી દીધું હતું. (માળવા અને ગુજરાત, બંગાળ, અયોધ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માળવા અને ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજીરાવની નજર પશ્ચિમ ભારત (ગુજરાત-માળવા) પર હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શાહુ મહારાજ અને તારાબાઈ વચ્ચેના સંઘર્ષમાં ________ પેશ્વાએ સાથ આપ્યો હતો. (બાલાજી વિશ્વનાથ, બાજીરાવ, માધવરાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાલાજી વિશ્વનાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ પેશ્વાએ જ શાહુને સ્થિર કર્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "૧૮મી સદીના શાસકોમાં ________ સુધારક રાજા હતા. (સવાઈ જયસિંહ, ઔરંગઝેબ, નાદિરશાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાઈ જયસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વિજ્ઞાનમાં માને તે જ 'સુધારક' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "સૂરજમલનું રાજ્ય ________ માં હતું. (ભરતપુર, જયપુર, રાયગઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરતપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ હંમેશા 'ભરપૂર' તેજ આપે - ભરતપુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "બાલાજી બાજીરાવે મરાઠા સત્તાને ________ સુધી વિસ્તારી હતી. (બંગાળ અને ઓરિસ્સા, કાશ્મીર, કન્યાકુમારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંગાળ અને ઓરિસ્સા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાલાજી બાજીરાવ છેક પૂર્વ (બંગાળ) સુધી પહોંચ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "મુઘલ વંશના છેલ્લા શાસકોમાં ________ નો સમાવેશ થાય છે. (શાહઆલમ બીજો, અકબર, જહાંગીર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહઆલમ બીજો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આલમ' (દુનિયા) માં છેલ્લે શાહઆલમ જ બચ્યા હતા.</p></div>"
+    }
+  ]
+}
