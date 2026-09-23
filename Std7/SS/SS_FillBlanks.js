@@ -2569,3 +2569,311 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "સંસાધનોનું જતન અને સંરક્ષણ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વી પર મળતાં અને માનવીને ઉપયોગમાં આવતાં કુદરતી પદાર્થોને ............. કહે છે. (સંસાધન, મિલકત, સાધન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસાધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સૃષ્ટિ અને 'સ' થી સંસાધન - કુદરતની દરેક ઉપયોગી ભેટ એટલે સંસાધન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "............. જમીન કપાસના પાક માટે સૌથી વધુ અનુકૂળ ગણાય છે. (રાતી, કાળી, કાંપની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' પરથી કપાસ અને 'ક' પરથી કાળી જમીન. યાદ રાખવું સાવ સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લડાખમાં ............. નામનું વિશિષ્ટ પ્રાણી જોવા મળે છે જેનો ઉપયોગ દૂધ અને માંસ માટે થાય છે. (યાર્ક, ગુડખર, હાથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યાર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખમાં ઠંડી બહુ, ત્યાં લાંબા વાળવાળો 'યાર્ક' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કચ્છના રણમાં ............. પક્ષી પ્રજનન માટે આવે છે, જે ગુજરાતનું રાજ્ય પક્ષી પણ છે. (મોર, સુરખાબ, પોપટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરખાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરખાબ (Flamingo) એટલે કચ્છના સફેદ રણનું 'ગુલાબી' મહેમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતમાં ............. જમીન સૌથી વધુ વિસ્તારમાં ફેલાયેલી છે. (કાંપની, કાળી, પહાડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંપની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત નદીઓનો દેશ છે, અને નદીઓ સૌથી વધુ 'કાંપ' લાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લડાખમાં વસતા લોકો મુખ્યત્વે ............. ધર્મ પાળે છે. (હિન્દુ, બૌદ્ધ, જૈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૌદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખમાં 'ગોમ્પા' (મઠ) જોવા મળે, જ્યાં બૌદ્ધ ધર્મ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કચ્છમાં આવેલું ............. અભયારણ્ય જંગલી ગધેડા માટે જાણીતું છે. (ગીર, ગુડખર, નળસરોવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુડખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુડખર એટલે જંગલી ગધેડો, જે માત્ર કચ્છના રણમાં જ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુનિયાના કુલ પાણીમાંથી માત્ર ............. ટકા પાણી પીવાલાયક મીઠું પાણી છે. (૩, ૫૦, ૭૧)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મીઠું' શબ્દમાં ૨ અક્ષર, પણ યાદ રાખવા માટે '૩' ટકા આંકડો પાકો કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'રેગુર' નામે ઓળખાતી જમીન એટલે ............. જમીન. (કાંપની, રાતી, કાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળી જમીન એટલે કપાસની જમીન અને તેનું જ હુલામણું નામ 'રેગુર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લડાખના લોકો ............. ઘેટામાંથી મળતા ઉનમાંથી કિંમતી શાલ બનાવે છે. (પશ્મિના, અંગોરા, મેરિનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્મિના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ (લડાખ બાજુ) ની પ્રખ્યાત શાલ એટલે 'પશ્મિના'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઢોળાવવાળી જમીન પર જમીનનું ધોવાણ અટકાવવા ............. ખેતી પદ્ધતિ અપનાવવી જોઈએ. (ઝૂમ, સોપાનબદ્ધ, સ્થળાંતરિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોપાનબદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોપાન એટલે 'પગથિયાં'. પર્વત પર પગથિયાં જેવા ખેતરો એટલે સોપાનબદ્ધ ખેતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "............. સંસાધન પુનઃપ્રાપ્ય સંસાધનનું ઉદાહરણ છે. (કોલસો, સૂર્યપ્રકાશ, ખનિજ તેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યપ્રકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ક્યારેય ખૂટે નહીં અને રોજ નવું મળે એ 'પુનઃપ્રાપ્ય' (સૂરજ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કચ્છનું નાનું રણ ............. ના સંરક્ષણ માટે જાણીતું છે. (સિંહ, ગુડખર, ઘોરાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુડખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના રણમાં ગધેડા (ગુડખર) દોડે, મોટા રણમાં સુરખાબ ઉડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જમીનમાં લોહતત્ત્વ અને મેગ્નેશિયમના કારણે ............. જમીન લાલ દેખાય છે. (રાતી, કાળી, લેટરાઈટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ રંગ એટલે 'રાતો' રંગ - લોહતત્ત્વથી તે રાતી બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લડાખના લોકો ઉનાળામાં ઘઉં અને ............. ની ખેતી કરે છે. (બાજરી, જવ, ડાંગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડા પ્રદેશમાં 'જવ' અને 'ઘઉં' જ ટકી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વન્યજીવોના સંરક્ષણ માટે સરકાર દ્વારા સુરક્ષિત જાહેર કરાયેલ વિસ્તારને ............. કહે છે. (બગીચો, અભયારણ્ય, ગોચર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભયારણ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અભય + અરણ્ય = જ્યાં પ્રાણીઓ 'અભય' (ડર વગર) રહી શકે તે જંગલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કચ્છના રણમાં ............. નામની વિશિષ્ટ જાતિના લોકો વસે છે. (બન્ની, જત, રબારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છના રણમાં 'જત' લોકોનો વસવાટ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જે સંસાધનોનો એકવાર ઉપયોગ કર્યા પછી ફરી ઉપયોગમાં લઈ શકાતા નથી તેને ............. કહે છે. (પુનઃપ્રાપ્ય, પુનઃઅપ્રાપ્ય, માનવસર્જિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુનઃઅપ્રાપ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' એટલે 'નહિ'. જે ફરી ન મળે તે 'અપ્રાપ્ય'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લડાખમાં આવેલું ............. વિશ્વભરમાં પ્રખ્યાત બૌદ્ધ મઠ છે. (હેમિસ, અજંતા, ઈલોરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેમિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખમાં 'મિસ' કરવાનું મન થાય એવો મઠ એટલે 'હેમિસ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગુજરાતના ............. જિલ્લામાં સફેદ રણ આવેલું છે. (કચ્છ, પાટણ, બનાસકાંઠા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છ એટલે મીઠાનું (સફેદ) રણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જંગલો વાતાવરણમાં ............. વાયુનું પ્રમાણ જાળવી રાખવામાં મદદ કરે છે. (નાઈટ્રોજન, ઓક્સિજન, હિલિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષો આપણને શ્વાસ (ઓક્સિજન) આપે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જમીન પર એક જ પ્રકારનો પાક લેવાને બદલે પાક બદલતા રહેવાની પદ્ધતિને ............. કહે છે. (પાકની ફેરબદલી, મિશ્ર ખેતી, સ્થળાંતરિત ખેતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાકની ફેરબદલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે - પાકને 'ફેરવવો' એટલે 'ફેરબદલી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પૃથ્વીના ઉપરના પાતળા પડને જે વનસ્પતિના વિકાસ માટે જરૂરી છે તેને ............. કહે છે. (ખડક, જમીન, લાવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેના પર આપણે પગ મૂકીએ અને છોડ ઊગે એ 'જમીન'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભારતમાં ............. નદીના મુખત્રિકોણ પ્રદેશમાં કાંપની જમીન મોટા પ્રમાણમાં જોવા મળે છે. (ગંગા, નર્મદા, તાપી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગંગા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગા સૌથી મોટી નદી, સૌથી વધુ કાંપ પણ એ જ લાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લડાખને ............. તરીકે પણ ઓળખવામાં આવે છે. (ખા-પા-ચાન, મરુસ્થલ, ગ્રીનલેન્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખા-પા-ચાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખા-પા-ચાન' એટલે બરફની ભૂમિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કચ્છના રણમાં રાત્રે ............. જેવો અદભૂત નજારો જોવા મળે છે. (સોનેરી, દૂધ જેવો સફેદ, કાળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂધ જેવો સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ રણમાં ચાંદની રાત એટલે દૂધ જેવી સફેદી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ખનિજો, હવા અને ભૂમિ એ ............. સંસાધનો છે. (જૈવિક, અજૈવિક, માનવસર્જિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજૈવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં 'જીવ' નથી એ બધા 'અજૈવિક'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નદીઓના નિક્ષેપણથી તૈયાર થતી જમીનને ............. જમીન કહેવાય છે. (કાંપની, રાતી, રણપ્રકારની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંપની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીનો 'કાંપ' જમા થાય એટલે કાંપની જમીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લડાખમાં સિંચાઈ માટે મુખ્યત્વે ............. નદીનું પાણી વપરાય છે. (સિંધુ, ગંગા, બ્રહ્મપુત્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખની લાઈફલાઈન એટલે સિંધુ નદી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રણ પ્રકારની જમીન ............. અને રેતાળ હોય છે. (ફળદ્રુપ, બિનફળદ્રુપ, કાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિનફળદ્રુપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણમાં પાણી ન હોય, એટલે જમીન 'બિનફળદ્રુપ' હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગુજરાતના ............. સરોવરમાં શિયાળામાં વિદેશી પક્ષીઓ (યાયાવર) આવે છે. (નળસરોવર, નારાયણ સરોવર, સરદાર સરોવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળસરોવર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ પાંખ ફેલાવીને 'નળ' પર પાણી પીવા આવે એમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ખનિજોનું ............. કરવું એ આજના સમયની મોટી જરૂરિયાત છે. (વપરાશ, સંરક્ષણ, નિકાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંરક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખનિજો ખૂટી જાય એવા છે, માટે 'બચાવો' (સંરક્ષણ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "લડાખમાં શિયાળામાં તાપમાન ............. ડિગ્રીથી પણ નીચે જતું રહે છે. (-૪૦, ૦, ૧૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -૪૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખમાં કડકતી ઠંડી એટલે માઈનસ ૪૦!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જંગલો કાપવાથી ............. પ્રદૂષણમાં ખૂબ વધારો થાય છે. (હવા, અવાજ, ભૂમિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડ હવા શુદ્ધ કરે, કાપી નાખો તો હવા બગડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "............. ને સંસાધનોનો ભંડાર કહેવામાં આવે છે. (પૃથ્વી, સૂર્ય, ચંદ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ વસ્તુઓ પૃથ્વી પરથી જ મળે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ટેકનોલોજી અને સ્થાપત્ય એ ............. સંસાધનો છે. (કુદરતી, માનવસર્જિત, જૈવિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવસર્જિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે માણસે બનાવ્યું એ બધું જ માનવસર્જિત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નર્મદા નદી પર ............. બંધ બાંધવામાં આવ્યો છે. (સરદાર સરોવર, હીરાકુંડ, ભાખરા નાંગલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરદાર સરોવર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદા ગુજરાતની જીવાદોરી, સરદાર પટેલનું સપનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લડાખના લોકો ............. માંથી બનેલા ગરમ કપડાં પહેરે છે. (રેશમ, ઉન, સુતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં ઉન જ ગરમી આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કચ્છનું રણ ગુજરાતની ............. સરહદે આવેલું છે. (પશ્ચિમ, ઉત્તર, દક્ષિણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતના નકશામાં સૌથી ઉપર 'ઉત્તરે' કચ્છ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "એશિયાઈ સિંહો સમગ્ર એશિયામાં માત્ર ............. ના જંગલોમાં જ જોવા મળે છે. (ગીર, કાઝીરંગા, નંદનકાનન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતની શાન એટલે ગીરના સિંહ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સંસાધનોનું ............. એટલે સંસાધનોનો વિવેકપૂર્ણ ઉપયોગ. (સંરક્ષણ, બગાડ, સંગ્રહખોરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંરક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બચાવશો તો જ બચશે, એ જ સંરક્ષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નદીઓ પર ............. બાંધીને જળસંકટ નિવારી શકાય છે. (રસ્તા, ચેકડેમ, બગીચા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેકડેમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીને વહેતું રોકો, ચેકડેમ (બંધ) બનાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "લડાખમાં ............. વૃક્ષો વધુ પ્રમાણમાં જોવા મળે છે. (સરલ અને દેવદાર, નાળિયેરી, સાગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરલ અને દેવદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડા અને પહાડી પ્રદેશના વૃક્ષો એટલે 'સરલ' અને 'દેવદાર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જમીનનું ધોવાણ અટકાવવા માટે ............. નું વાવેતર કરવું જોઈએ. (ઘાસ અને વૃક્ષો, પથ્થરો, મકાનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાસ અને વૃક્ષો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળિયાં જમીનને પકડી રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "રાતી જમીનમાં ............. તત્ત્વ વધુ હોય છે. (લોહતત્ત્વ, નાઈટ્રોજન, ફોસ્ફરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોહતત્ત્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ (લોહ) કટાય ત્યારે લાલ થાય, એટલે રાતી જમીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "............. ક્ષેત્રમાં માનવીની હિલચાલ પર નિયંત્રણ હોય છે. (રાષ્ટ્રીય ઉદ્યાન, ખેતર, મેદાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રીય ઉદ્યાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રીય ઉદ્યાન એટલે કડક નિયમોવાળું 'નેશનલ પાર્ક'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "લડાખમાં ............. નામના પક્ષીઓ જોવા મળે છે. (ચુકાર અને સ્નોપાર્ટિજ, મોર, કાગડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચુકાર અને સ્નોપાર્ટિજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ (Snow) ના પક્ષીઓ એટલે 'સ્નોપાર્ટિજ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કચ્છના રણની ભૌગોલિક પરિસ્થિતિ ............. જેવી છે. (ગરમ રણ, ઠંડુ રણ, ભેજવાળું રણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ રણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતની ગરમી + રેતી = ગરમ રણ (કચ્છ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ખનિજો એ ............. સંસાધનો છે. (પુનઃઅપ્રાપ્ય, પુનઃપ્રાપ્ય, વિપુલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુનઃઅપ્રાપ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકવાર ખનિજ કાઢી લીધું પછી એ પાછું આવતું નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વરસાદનું પાણી રોકીને જમીનમાં ઉતારવાની પદ્ધતિને ............. કહે છે. (જળ સંચય, જળ નિકાસ, જળ પ્રદૂષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જળ સંચય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બચાવવું (સંગ્રહ) એટલે 'સંચય'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "કાંપની જમીનમાં ............. નું પ્રમાણ વધારે હોય છે. (પોટાશ, લોહ, મેગ્નેશિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોટાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંપની જમીન 'પોટાશ' માં પાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "લડાખમાં ............. પ્રાણી તેની ઝડપ માટે જાણીતું છે. (તિબેટિયન એન્ટિલોપ, યાર્ક, ઊંટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તિબેટિયન એન્ટિલોપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રાણીને 'ચિરુ' પણ કહેવાય છે, જે ખૂબ ઝડપી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ગુજરાતનું ............. અભયારણ્ય ઘોરાડ પક્ષી માટે જાણીતું છે. (કચ્છ, ગીર, નળસરોવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છમાં ગુડખર પણ મળે અને ઘોરાડ પણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જળ એ ............. સંસાધન છે. (મર્યાદિત, અમર્યાદિત, માનવસર્જિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મર્યાદિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીવાલાયક પાણી પૃથ્વી પર ઓછું (મર્યાદિત) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "લડાખના બૌદ્ધ મઠોને ............. કહેવામાં આવે છે. (ગોમ્પા, વિહાર, ચૈત્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોમ્પા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખમાં જશો તો 'ગોમ્પા' જોજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જમીનનું ધોવાણ અટકાવવા ............. ચરાણ પર નિયંત્રણ રાખવું જોઈએ. (પશુ, માનવ, પક્ષી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુઓ ઘાસ ખાઈ જાય તો જમીન ખુલ્લી પડી જાય અને ધોવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "કાળી જમીન ભેજને ............. ની શક્તિ ધરાવે છે. (સંગ્રહી રાખવા, નિકાલ કરવા, શોષવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગ્રહી રાખવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળી જમીન ચીકણી હોય, પાણી પકડી રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વન્યજીવોની સુરક્ષા માટે ............. ની રચના કરવામાં આવે છે. (અભયારણ્ય, કારખાના, બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભયારણ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓને 'અભય' બનાવે એ અભયારણ્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "કચ્છના રણની રેતી ............. રંગની હોવાથી તેને સફેદ રણ કહે છે. (સફેદ, લાલ, પીળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સફેદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાના થરને કારણે આખું રણ 'સફેદ' દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "પર્યાવરણની જાળવણી માટે ............. અનિવાર્ય છે. (સંસાધન જતન, વધુ વપરાશ, પ્રદૂષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસાધન જતન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચવશો (જતન) તો જ સૃષ્ટિ બચશે!</p></div>"
+    }
+  ]
+}
