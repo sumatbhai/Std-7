@@ -1088,3 +1088,211 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં ભક્તિ આંદોલન અને સૂફી આંદોલનની શરૂઆત ________ સદીમાં થઈ હતી. (સાતમી, આઠમી, નવમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઠમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' થી આઠમી અને 'આ' થી આંદોલન - આઠમી સદીમાં ભક્તિ આંદોલનનો ઉદય થયો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દક્ષિણ ભારતમાં ________ નામના સંતોએ ભક્તિ આંદોલનનો પ્રચાર-પ્રસાર કર્યો હતો. (આલવાર અને નયનાર, જૈન, બૌદ્ધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલવાર અને નયનાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણના 'આ-ન' (આલવાર-નયનાર) સંતોએ ભક્તિની લહેર પ્રસરાવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વૈષ્ણવ ભક્તો ________ તરીકે ઓળખાતા હતા. (નયનાર, સૂફી, આલવાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ-આ: 'વ'ૈષ્ણવ એટલે 'આ'લવાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શૈવ ભક્તો ________ તરીકે ઓળખાતા હતા. (આલવાર, નયનાર, સંતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નયનાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવજીને ત્રણ 'નયન' (આંખ) હોય, તેથી શિવભક્તો એટલે 'નયનાર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતીય તત્વજ્ઞાનમાં 'અદ્વૈતવાદ'નો પ્રચાર ________ કર્યો હતો. (રામાનુજાચાર્ય, શંકરાચાર્ય, નરસિંહ મહેતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકરાચાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'દ્વૈત અને 'શ'ંકર: ભગવાન શંકર અજોડ છે, એટલે અદ્વૈતવાદ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શંકરાચાર્યનું જન્મસ્થળ ________ છે. (કાલડી, શ્રીપેરુમ્બુતુર, તળજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાલડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શં-કા': શંકરાચાર્ય - કાલડી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શંકરાચાર્યના પિતાનું નામ ________ હતું. (શિવગુરુ, આર્યામ્બા, કેશવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવગુરુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર ભગવાનના પિતા પણ 'શિવ'ગુરુ જ હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભક્તિ આંદોલનને ઉત્તર ભારત સુધી લઈ જનાર સંત ________ હતા. (રામાનંદ, કબીર, રૈદાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામાનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામનું નામ દક્ષિણથી 'આનંદ' સાથે ઉત્તરમાં લઈ ગયા તે રામાનંદ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રામાનુજાચાર્યનું જન્મસ્થળ ________ છે. (કાલડી, શ્રીપેરુમ્બુતુર, કાશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીપેરુમ્બુતુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ હંમેશા 'શ્રી' (લક્ષ્મીજી) સાથે હોય, એટલે શ્રીપેરુમ્બુતુર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કબીરના ગુરુ ________ હતા. (શંકરાચાર્ય, રામાનંદ, વલ્લભાચાર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામાનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીર 'રામ'ના ભક્ત હતા, તેથી ગુરુ રામાનંદ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સંત કબીરના કાવ્યસંગ્રહને ________ કહેવામાં આવે છે. (બીજક, પદાવલી, દોહાવલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીરજીએ જ્ઞાનનું 'બીજ' વાવ્યું, એટલે બીજક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શીખ ધર્મના સ્થાપક ________ હતા. (ગુરુ તેગબહાદુર, ગુરુ નાનક, ગુરુ ગોવિંદસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ નાનક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીખ ધર્મનો 'શ' અને સ્થાપક 'નાનક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શીખ ધર્મનો પવિત્ર ગ્રંથ ________ છે. (ભગવદ ગીતા, ગુરુ ગ્રંથ સાહિબ, બાઈબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ ગ્રંથ સાહિબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીખો તેમના 'ગુરુ'ને જ સર્વોચ્ચ માને છે, એટલે ગુરુ ગ્રંથ સાહિબ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચૈતન્ય મહાપ્રભુએ બંગાળમાં ________ ના નાદ સાથે કીર્તનની શરૂઆત કરી હતી. (રામ નામ, હરિ બોલ, શિવ શંભુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિ બોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૈતન્ય' આવે એટલે 'હરિ' નું નામ બોલાય - હરિ બોલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગુજરાતના જાણીતા સંત અને આદિકવિ ________ છે. (દયારામ, નરસિંહ મહેતા, પ્રેમાનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતની ભક્તિની શરૂઆત 'નરસિંહ' થી થાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'વૈષ્ણવજન તો તેને રે કહીએ...' ભજન ________ એ રચ્યું છે. (મીરાંબાઈ, રૈદાસ, નરસિંહ મહેતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીનું પ્રિય ભજન એટલે આપણા નરસિંહ મહેતાનું સર્જન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નરસિંહ મહેતાના પદો ________ તરીકે જાણીતા છે. (અભંગ, પ્રભાતિયાં, ચોપાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રભાતિયાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાર (પ્રભાત) માં ગવાય તે પ્રભાતિયાં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મીરાંબાઈ મેડતાના રાજા ________ ના પુત્રી હતા. (રતનસિંહ, ઉદયસિંહ, વિક્રમસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રતનસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાંબાઈ ભક્તિના 'રતન' હતા, એટલે પિતા રતનસિંહ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મીરાંબાઈના ગુરુ ________ હોવાનું મનાય છે. (કબીર, રૈદાસ, તુલસીદાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૈદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાં અને રૈદાસ - બંને 'ર' પરથી યાદ રાખવા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'રામચરિતમાનસ' ગ્રંથની રચના ________ એ કરી છે. (સૂરદાસ, તુલસીદાસ, વાલ્મીકિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુલસીદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ અને તુલસી - ઘરે ઘરે રામચરિતમાનસ અને તુલસી હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૂરદાસના ગુરુ ________ હતા. (વલ્લભાચાર્ય, રામાનંદ, ચૈતન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વલ્લભાચાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂર-વલ્લભ': સૂરદાસે વલ્લભાચાર્ય પાસેથી જ્ઞાન લીધું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મહારાષ્ટ્રમાં ભક્તિ આંદોલનનું મુખ્ય કેન્દ્ર ________ નું મંદિર હતું. (સોમનાથ, વિઠોબા, દ્વારકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઠોબા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રમાં 'પાંડુરંગ' અથવા 'વિઠોબા' પ્રખ્યાત છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મહારાષ્ટ્રમાં ભક્તિ આંદોલનના શ્રીગણેશ ________ એ કર્યા હતા. (જ્ઞાનેશ્વર, નામદેવ, તુકારામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાનેશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ કાર્યના શ્રીગણેશ 'જ્ઞાન' થી જ થાય, એટલે જ્ઞાનેશ્વર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભગવદ્ ગીતા પરની ટીકા 'જ્ઞાનેશ્વરી' ________ એ લખી છે. (નામદેવ, એકનાથ, જ્ઞાનેશ્વર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાનેશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે - 'જ્ઞાને'શ્વર એટલે 'જ્ઞાને'શ્વરી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંત તુકારામના કાવ્ય સંગ્રહ ________ તરીકે જાણીતા છે. (અભંગો, પદ, દુહા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભંગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તુ-અ': તુકારામ અને અભંગ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સૂફી શબ્દ ઇસ્લામના ________ વિચારોને વ્યક્ત કરે છે. (રાજકીય, ધાર્મિક અને રહસ્યવાદી, આર્થિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધાર્મિક અને રહસ્યવાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂફી સંતો હંમેશા 'રહસ્યમય' ભક્તિમાં મગ્ન હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ભારતમાં ચિશ્તી પરંપરાની શરૂઆત ________ એ કરી હતી. (નિઝામુદ્દીન ઓલિયા, ખ્વાજા મોઈનુદ્દીન ચિશ્તી, સલીમ ચિશ્તી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખ્વાજા મોઈનુદ્દીન ચિશ્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિશ્તી પરંપરાના 'મુખ્ય' (મોઈનુદ્દીન) સંત. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અજમેરમાં આવેલી દરગાહ ________ ની છે. (બાબા ફરીદ, ખ્વાજા મોઈનુદ્દીન ચિશ્તી, કુતબુદ્દીન બખ્તિયાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખ્વાજા મોઈનુદ્દીન ચિશ્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજમેર શરીફ એટલે જ ખ્વાજા મોઈનુદ્દીન ચિશ્તી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સૂફી આંદોલનના સંતોની ધર્મશાળા ________ કહેવાતી. (મંદિર, ખાનકાહ, મસ્જિદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાનકાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂફીઓ જ્યાં 'ખાઈ-પી' ને ભક્તિ કરે તે 'ખાન'કાહ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શંકરાચાર્યની માતાનું નામ ________ હતું. (આર્યામ્બા, કસ્તુરબા, જીજાબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યામ્બા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર - આર્ય: શંકરાચાર્યના માતા 'આર્યા'મ્બા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રામાનુજાચાર્યના પિતાનું નામ ________ હતું. (કેશવ, શિવગુરુ, રામદાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેશવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ અને કેશવ (કૃષ્ણ) બંને એક જ છે, એટલે પિતા કેશવ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કબીર વ્યવસાયે ________ હતા. (મોચી, વણકર, લુહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વણકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝીની ઝીની બીની ચદરિયા' - ચાદર વણે તે વણકર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ગુરુ નાનકના શિષ્યો ________ કહેવાયા. (બૌદ્ધ, શીખ, જૈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ નાનક એટલે શીખ ધર્મના સ્થાપક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ચૈતન્ય મહાપ્રભુનો જન્મ ________ માં થયો હતો. (નવદ્વીપ, કાશી, મથુરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવદ્વીપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળમાં 'નવું' (નવદ્વીપ) ચૈતન્ય આવ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નરસિંહ મહેતાનું જન્મસ્થળ ________ છે. (તળાજા, જૂનાગઢ, ભાવનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તળાજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવનગરનું 'તળાજા' નરસિંહનું જન્મસ્થળ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મીરાંબાઈના લગ્ન મેવાડના ________ સાથે થયા હતા. (ભોજરાજ, રાણા સાંગા, રતનસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભોજરાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજવી ઠાઠ અને 'ભોજ'રાજના રાણી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સૂરદાસ ________ ભાષામાં કવિતાઓ લખતા હતા. (ગુજરાતી, હિન્દી-બ્રજ, મરાઠી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિન્દી-બ્રજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ ભક્તિ અને 'બ્રજ' ભાષાનો સીધો સંબંધ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મહારાષ્ટ્રના કયા સંતે 'ઉંચ-નીચના ભેદભાવ' નો વિરોધ કર્યો હતો? (એકનાથ, રામદાસ, તુકારામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકનાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધાને 'એક' સમાન ગણે તે 'એકનાથ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "શિવાજીના ગુરુ ________ હતા. (સમર્થ રામદાસ, નામદેવ, જ્ઞાનેશ્વર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમર્થ રામદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી 'સમર્થ' રાજા હતા કારણકે ગુરુ પણ 'સમર્થ' હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દક્ષિણ ભારતમાં રામાનુજાચાર્યે ________ નો સંદેશ આપ્યો હતો. (ભક્તિ, કર્મ, મોક્ષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણનું નામ જ ભક્તિયુગ છે, તો જવાબ ભક્તિ જ હોય! (NJ Classes)</p></div>"
+    }
+  ]
+}
