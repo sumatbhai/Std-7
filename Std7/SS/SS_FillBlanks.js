@@ -2411,3 +2411,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ અને વ્યવસ્થાપન",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપત્તિઓને મુખ્યત્વે ........ પ્રકારોમાં વહેંચવામાં આવે છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપત્તિના બે જ 'હાથ' - એક કુદરતી અને બીજી માનવસર્જિત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભૂકંપ એ ........ પ્રકારની આપત્તિ છે. (માનવસર્જિત, કુદરતી, ઔદ્યોગિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન ધ્રુજાવવી એ માણસના હાથમાં નથી, એટલે તે કુદરતી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પૃથ્વીના પેટાળમાં થતી ઝડપી હલનચલન અને દબાણને કારણે ........ અનુભવાય છે. (પૂર, સુનામી, ભૂકંપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટાળમાં 'કંપન' થાય એટલે 'ભૂ-કંપ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભૂકંપની તીવ્રતા ........ એકમમાં માપવામાં આવે છે. (સેલ્સિયસ, રિક્ટર સ્કેલ, મિલીમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિક્ટર સ્કેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપ આવે ત્યારે બધું 'રિકત' (ખાલી) કરી નાખે, એટલે 'રિક્ટર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાથી ........ ઉદભવે છે. (ભૂકંપ, વાવાઝોડું, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવાઝોડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાનું જોર વધે એટલે પવનનું 'ઝોડું' (વાવાઝોડું) આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "યુ.એસ.એ. માં ચક્રવાતને ........ કહેવામાં આવે છે. (ટાયફૂન, હરિકેન, વિલીવિલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિકેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: USA ના લોકો 'હરિ' (Hari) ના ભક્ત હોય એમ યાદ રાખો - Hurricane!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જાપાન અને ચીનના દરિયાકિનારે આવતા ચક્રવાતને ........ કહે છે. (હરિકેન, વિલીવિલી, ટાયફૂન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાયફૂન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચીન-જાપાનના લોકો 'ટાય' (Tie) પહેરીને 'ફૂન' (Phone) કરે - Typhoon!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમુદ્રના તળિયે થતા ભૂકંપને કારણે ઉદભવતા વિનાશક મોજાંને ........ કહે છે. (પૂર, સુનામી, ઓટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્રનું 'સુ'નામી - જે બધું 'સુ' કરી નાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સુનામી શબ્દ ........ ભાષાનો છે. (અરબી, જાપાનીઝ, સંસ્કૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાપાનીઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુનામી' અને 'જાપાન' બંનેમાં અનોખો પ્રાસ મળે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નદીમાં આવતા પાણીના ઉભરાને ........ કહેવામાં આવે છે. (દુષ્કાળ, પૂર, વાવાઝોડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી 'પૂરે'પુરી ભરાઈ જાય એટલે 'પૂર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વરસાદ ન પડવાથી ખોરાક અને પાણીની અછત સર્જાય તેને ........ કહે છે. (પૂર, દાવાનળ, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દુષ્કાળ' એટલે 'ખરાબ કાળ' (સમય) - જ્યારે પાણી ના મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જંગલોમાં વૃક્ષોના પરસ્પર ઘર્ષણ કે આકાશમાંથી વીજળી પડવાથી લાગતી આગને ........ કહે છે. (હુલ્લડ, દાવાનળ, વિસ્ફોટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાવાનળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દવ' એટલે જંગલ અને 'નળ' (અગ્નિ) - જંગલની અગ્નિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તીડ એ ........ પ્રકારની આપત્તિ છે. (જૈવિક, કુદરતી, ખગોળીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૈવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીડ એક 'જીવ' છે, એટલે તે 'જૈવિક' આપત્તિ કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગુજરાતના ........ વિસ્તારમાં તીડનો ઉપદ્રવ વધુ જોવા મળે છે. (સૌરાષ્ટ્ર, દક્ષિણ ગુજરાત, ઉત્તર ગુજરાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ પ્રદેશની નજીક 'ઉત્તર' છે, એટલે તીડ ત્યાંથી જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હુલ્લડ એ ........ સર્જિત આપત્તિ છે. (કુદરત, માનવ, પશુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસ માણસ સાથે લડે તેને જ 'હુલ્લડ' કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભૂકંપ દરમિયાન ........ નીચે આશ્રય લેવો સુરક્ષિત છે. (ઝાડ, છત, મજબૂત ટેબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજબૂત ટેબલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેબલ તમને ઉપરથી પડતી વસ્તુઓથી બચાવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વાવાઝોડા પહેલાં ........ સાધનોને તૈયાર રાખવા જોઈએ. (રેડિયો-બેટરી, ટીવી, એસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયો-બેટરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈટ જાય ત્યારે સમાચાર માટે 'રેડિયો' જ સાચો સાથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સુનામીની સૂચના આપતું સાધન ........ છે. (ભૂકંપ આલેખક, સુનામી મીટર, બેરોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનામી માપવા માટે 'સુનામી મીટર' - નામમાં જ કામ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દુષ્કાળથી બચવા ........ નો વિવેકપૂર્ણ ઉપયોગ કરવો જોઈએ. (અનાજ, પાણી, વીજળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ એ જ જીવન - પાણી બચાવો, દુષ્કાળ હટાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોરોના એ ........ આપત્તિનું ઉદાહરણ છે. (માનવસર્જિત, જૈવિક, ભૌગોલિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૈવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરસ એક સૂક્ષ્મ 'જીવ' છે, એટલે તે 'જૈવિક' આપત્તિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભૂકંપ વખતે ........ નો ઉપયોગ ટાળવો જોઈએ. (સીડી, લિફ્ટ, દરવાજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિફ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટમાં ફસાઈ જવાનો ડર રહે, એટલે પગથિયાં (સીડી) ભલા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તાપમાન વધવાને કારણે વનસ્પતિ સુકાઈ જાય તેને ........ કહે છે. (પૂર, ભૂકંપ, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધી, પાણી ઘટ્યું, એટલે ખેતર 'દુષ્કાળ' માં રડ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સુનામીના મોજાં કિનારે પહોંચતા તેમની ઊંચાઈ ........ છે. (ઘટે, વધે, સરખી રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિનારો આવે ત્યારે પાણીને ફેલાવા જગ્યા ના મળે એટલે તે 'ઉંચું' ઉછળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આપત્તિના સમયે ........ સાથે સંકલન સાધવું જોઈએ. (સરકાર, પડોશી, તંત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંત્ર (Administration) પાસે જ મદદના સાધનો હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તીડના ટોળાને ........ દ્વારા નિયંત્રિત કરી શકાય છે. (દવા છાંટીને, અવાજ કરીને, પાણી રેડીને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દવા છાંટીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીડ પણ જીવજંતુ છે, એટલે જંતુનાશક દવા જ કામ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભૂકંપ પછી કાટમાળ નીચે દબાયેલા લોકોને શોધવા ........ મદદરૂપ થાય છે. (પોલીસ, તાલીમબદ્ધ શ્વાન, ડોક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાલીમબદ્ધ શ્વાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂતરાની સૂંઘવાની શક્તિ માણસ કરતા ગણી વધારે હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "દુષ્કાળમાં અનાજની અછતને પહોંચી વળવા ........ પદ્ધતિ શ્રેષ્ઠ છે. (રેશનિંગ, સંગ્રહખોરી, નિકાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેશનિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેશનિંગ એટલે વહેંચણી - બધાને થોડું થોડું મળે તો કોઈ ભૂખ્યું ન રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સુનામી આવવાની પૂર્વ ચેતવણી ........ દ્વારા મળી શકે છે. (ઉપગ્રહ, હોડી, વિમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર (આકાશમાં) થી 'ઉપગ્રહ' બધું જોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઔદ્યોગિક અકસ્માત એ ........ પ્રકારની આપત્તિ છે. (કુદરતી, માનવસર્જિત, જૈવિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવસર્જિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેક્ટરી માણસે બનાવી છે, એટલે તેમાં થતો અકસ્માત પણ માનવસર્જિત જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ભારતમાં તીડના ઉપદ્રવ વખતે ........ વિભાગ મદદ કરે છે. (આરોગ્ય, ખેતીવાડી, શિક્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીવાડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીડ પાક ખાઈ જાય, અને પાક એટલે ખેતીવાડી!</p></div>"
+    }
+  ]
+}
