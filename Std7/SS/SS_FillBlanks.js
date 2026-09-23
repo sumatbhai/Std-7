@@ -1296,3 +1296,311 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાદેશિક સંસ્કૃતિઓનું ઘડતર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નવમી સદીમાં સ્થાપવામાં આવેલું મહોદયપુરનું ચેર રાજ્ય હાલના ....... ના એક ભાગ તરીકે હતું. (તમિલનાડુ, કેરળ, કર્ણાટક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચેર' પર બેસીને 'કેળાં' (કેરળ) ખાવાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મલયાલમ ભાષા ....... રાજ્યમાં મુખ્યત્વે બોલાતી ભાષા છે. (આંધ્રપ્રદેશ, તેલંગાણા, કેરળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળમાં મલયાલમનો 'મ' અને કેરળનો છેલ્લો અક્ષર 'ળ' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જગન્નાથ શબ્દનો અર્થ ....... એવો થાય છે. (બ્રહ્માંડનો માલિક, પૃથ્વીનો રાજા, જળનો દેવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્રહ્માંડનો માલિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગત + નાથ = જગતના નાથ એટલે કે આખા બ્રહ્માંડના માલિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જગન્નાથ સંપ્રદાય ઓડિશાના ....... માં આવેલો છે. (ભુવનેશ્વર, પુરી, કટક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જગન્નાથની પૂરી' (પુરી) પ્રસિદ્ધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બરસાનામાં ઉજવાતી હોળીને ....... તરીકે ઓળખવામાં આવે છે. (પુષ્પ હોળી, લઠ્ઠમાર હોળી, રંગ હોળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઠ્ઠમાર હોળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરસાનાની ગોપીઓ 'લાઠી' (લઠ્ઠ) થી હોળી રમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પંજાબમાં હોળીના દિવસે ....... તરીકે ઉત્સવ મનાવવામાં આવે છે. (લોહરી, બૈસાખી, હોલા મહોલ્લા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોલા મહોલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોળી અને હોલા - બંનેમાં 'હો' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લોહરીનો તહેવાર ....... તારીખે ઉજવવામાં આવે છે. (13 જાન્યુઆરી, 14 જાન્યુઆરી, 15 જાન્યુઆરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 13 જાન્યુઆરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તરાયણના એક દિવસ પહેલા એટલે કે 13 તારીખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પોંગલ એ ....... રાજ્યનો મુખ્ય તહેવાર છે. (તમિલનાડુ, કેરળ, આંધ્રપ્રદેશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તમિલનાડુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તમે' (તમિલનાડુ) 'પોંગલ' ખાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઓણમ એ ....... માં ઉજવાતો મહત્વનો તહેવાર છે. (તમિલનાડુ, કેરળ, ગુજરાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓણમમાં 'ણ' અને કેરળમાં 'ળ' - બંને દક્ષિણ ભારતના સ્પેશિયલ અક્ષરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઓણમમાં યોજાતી નૌકા સ્પર્ધાને ....... કહેવામાં આવે છે. (વલ્લમકાલી, શિકારા, રેટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વલ્લમકાલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં 'વલ્લમ' ચલાવીને રેસ જીતવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દિવાળીમાં હિન્દુ સંવતનો ....... દિવસ હોય છે. (પ્રથમ, છેલ્લો, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેલ્લો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસો વદ અમાસ એટલે વર્ષનો છેલ્લો દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'કથક' શબ્દ ....... પરથી ઉતરી આવ્યો છે. (કથા, કથન, કલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કથન કરે સો કથક કહાવે' - કથા કહેવી તે કથક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કથકલી એ ....... રાજ્યની નૃત્ય પરંપરા છે. (તમિલનાડુ, કેરળ, આંધ્રપ્રદેશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કરેલા' (કેરળ) ની 'કલી' (કથકલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મણિપુરી નૃત્યમાં ....... અને રાસલીલા મુખ્ય છે. (લાસ્ય, તાંડવ, એ અને બી બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એ અને બી બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિપુરીમાં લાસ્ય (કોમળ) અને તાંડવ (ઉગ્ર) બંને શૈલી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભરતનાટ્યમનું ઉદ્ભવ સ્થાન તમિલનાડુનો ....... જિલ્લો ગણાય છે. (તાંજોર, મદુરાઈ, કાંચીપુરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાંજોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતભાઈ 'તાંજોર' (તાંજાવુર) માં નાચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કુચિપુડી નૃત્યનો ઉદ્ભવ ....... ના કુચિપુડી નામના ગામમાં થયો હતો. (કર્ણાટક, આંધ્રપ્રદેશ, તેલંગાણા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંધ્રપ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આંધળો' માણસ 'કાચી પૂરી' (કુચિપુડી) ખાઈ ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બિહુ ....... રાજ્યનું પ્રસિદ્ધ નૃત્ય છે. (ઓડિશા, અસમ, પંજાબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસમની 'બહુ' (બિહુ) ડાન્સ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લઘુચિત્રો એટલે ....... કદના ચિત્રો. (મોટા, મધ્યમ, નાના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુ એટલે નાનું અને ગુરુ એટલે મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હિમાચલ પ્રદેશમાં વિકસેલી લઘુચિત્રકળાને ....... શૈલી કહેવામાં આવે છે. (કાંગડા, બસોહલી, રાજસ્થાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બસોહલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાચલમાં 'બસ' (બસોહલી) લઈને જવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગુજરાતી ભાષાના આદિકવિ તરીકે ....... જાણીતા છે. (નરસિંહ મહેતા, મીરાંબાઈ, અખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત (આદિ) હંમેશા 'નરસિંહ' થી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભાલણે સૌપ્રથમ પોતાની રચનાઓમાં ગુજરાતી ભાષા માટે ....... શબ્દ પ્રયોજ્યો હતો. (ગુર્જરભાખા, ગુજરાતી, પ્રાકૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુર્જરભાખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાલણે ગુજરાતીને 'ભાખા' (ભાષા) કહી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નરસિંહ મહેતાનું પ્રખ્યાત પદ ....... છે. (વૈષ્ણવજન તો તેને રે કહીએ, મુંજ અબળાને મોટી મીરાંત, જનનીની જોડ સખી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૈષ્ણવજન તો તેને રે કહીએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીનું પ્રિય ભજન એટલે નરસિંહ મહેતાની કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વીરતાના પ્રતીક તરીકે ઓળખાતા સ્મારકને શું કહેવાય છે? (મંદિર, પાળિયા, મસ્જિદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાળિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીરોની રક્ષા કરનાર 'પાળનાર' એટલે પાળિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગરબા શબ્દ ....... પરથી ઉતરી આવ્યો છે. (ગર્ભદીપ, દીપમાળા, ગૌરવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગર્ભદીપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડાની અંદરનો દીવો એટલે 'ગર્ભ'માં રહેલો દીપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગુજરાતમાં ગરબીનો સૌથી વધુ વિકાસ ....... ના સમયમાં થયો હતો. (નરસિંહ મહેતા, દયારામ, પ્રેમાનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દયારામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દયારામે' ગરબીમાં 'દયા' કરી પ્રેમ ભર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રેમાનંદને કયા નામે ઓળખવામાં આવે છે? (આદિકવિ, ભક્ત કવિ, માણભટ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માણભટ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમાનંદ 'માણ' (તાંબાનો ઘડો) વગાડીને આખ્યાન ગાતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રણછોડરાયનું મંદિર ....... માં આવેલું છે. (ડાકોર, દ્વારકા, શામળાજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાકોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાકોરના ઠાકોર એટલે રણછોડરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સીદીઓનું નૃત્ય ....... ના નામે ઓળખાય છે. (ગરબો, ધમાલ, પઢાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધમાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીદીઓ ખૂબ 'ધમાલ' કરે છે (ધમાલ નૃત્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઓડિશાનું શાસ્ત્રીય નૃત્ય ....... છે. (કુચિપુડી, ઓડિસી, બિહુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓડિસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓડિશા = ઓડિસી (નામ પરથી જ યાદ રહી જશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાંગડા શૈલીમાં મુખ્યત્વે ....... રંગોનો ઉપયોગ થતો હતો. (લાલ-પીળો, વાદળી-લીલો, કાળો-સફેદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી-લીલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહાડોમાં આકાશ 'વાદળી' અને પ્રકૃતિ 'લીલી' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સૌરાષ્ટ્રમાં પાળિયા પૂજામાં ....... ના દિવસે વિશેષ પૂજા થાય છે. (દિવાળી, શ્રાવણ માસ, પાળિયાની તિથિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાળિયાની તિથિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દિવસે શહીદ થયા હોય તે 'તિથિ' યાદ રખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગંગવંશના રાજા ....... એ જગન્નાથ મંદિરનું નિર્માણ કરાવવાનું નક્કી કર્યું હતું. (અનંતવર્મન, ખારવેલ, વિમલશાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનંતવર્મન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું પુણ્ય 'અનંત' છે તેવા અનંતવર્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કથકલી નૃત્યમાં પાત્રો પોતાની ઓળખ માટે ....... ચહેરા પર લગાવે છે. (માસ્ક, રંગો, પાવડર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથકલી એટલે ચહેરા પર લાલ-લીલા 'રંગો'ની કરામત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "રાજસ્થાનના શાસકો કઈ પરંપરા માટે જાણીતા છે? (નમ્રતા, વીરતા, સંગીત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીરતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રજપૂતો તેમની 'વીરતા' માટે દુનિયામાં જાણીતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બૈસાખી એ ....... રાજ્યનો મુખ્ય તહેવાર છે. (ગુજરાત, પંજાબ, હરિયાણા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પંજાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબમાં પાક લણતી વખતે 'બૈસાખી' મનાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કથક નૃત્ય કયા મુગલ બાદશાહના સમયમાં ફૂલ્યું-ફાલ્યું? (બાબર, અકબર, વાજિદ અલી શાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાજિદ અલી શાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવધના નવાબ 'વાજિદ' જે કલાના શોખીન હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સૌરાષ્ટ્રમાં પાળિયા ક્યાં જોવા મળે છે? (ગામના ચોરે, સીમાડે, એ અને બી બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એ અને બી બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાળિયા હંમેશા એન્ટ્રી કે મેઈન જગ્યાએ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "બંગાળી ભાષાનો ઉદ્ભવ ....... ભાષામાંથી થયો હોવાનું મનાય છે. (હિન્દી, સંસ્કૃત, ફારસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્કૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની મોટાભાગની ભાષાઓની જનની 'સંસ્કૃત' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "મીરાંબાઈએ કોને પોતાના આરાધ્યદેવ માન્યા હતા? (શ્રીકૃષ્ણ, શ્રીરામ, શિવજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીકૃષ્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગિરધર ગોપાલ' એટલે કે કૃષ્ણ મીરાના શ્યામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ભારતના ઉત્તર ભાગમાં કયું નૃત્ય પ્રચલિત છે? (ભરતનાટ્યમ, કથક, કથકલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કથક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર ભારત 'કથક' (U.P. અને આજુબાજુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "જગન્નાથ રથયાત્રામાં રથમાં કોણ કોણ બિરાજમાન હોય છે? (કૃષ્ણ-બલરામ-સુભદ્રા, રામ-લક્ષ્મણ-સીતા, શિવ-પાર્વતી-ગણેશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃષ્ણ-બલરામ-સુભદ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગન્નાથ એટલે કૃષ્ણ, સાથે ભાઈ અને બહેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "મધ્યયુગમાં લઘુચિત્રો શેના પર દોરવામાં આવતા હતા? (કાપડ, કાગળ, એ અને બી બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એ અને બી બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુચિત્રો માટે કાપડ અને કાગળ બંને બેસ્ટ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "આખ્યાનના પિતા તરીકે કોણ ઓળખાય છે? (ભાલણ, પ્રેમાનંદ, દયારામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાલણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાલણે' પિતા તરીકે આખ્યાનની શરૂઆત કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "નરસિંહ મહેતાએ કયા છંદમાં પ્રભાતિયાં લખ્યા છે? (ચોપાઈ, ઝૂલણા, અનુષ્ટુપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝૂલણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે પ્રભાતિયામાં 'ઝૂલતા-ઝૂલતા' ગાવાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઓડિશામાં જગન્નાથજીની રથયાત્રા કયા દિવસે નીકળે છે? (અષાઢી બીજ, કાર્તિકી પૂનમ, મહા શિવરાત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અષાઢી બીજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અષાઢી બીજ એટલે રથયાત્રાનો પવિત્ર દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "દક્ષિણ ભારતમાં રચાતી નાની વાર્તાઓ કે સાહિત્યને શું કહેવાતું? (મણિપ્રવાલમ્, આખ્યાન, ગરબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મણિપ્રવાલમ્</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મણિ' અને 'પ્રવાલ' (પરવાળા) જેવી કિંમતી શૈલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "મીરાંબાઈના પદો કઈ ભાષામાં જોવા મળે છે? (રાજસ્થાની, ગુજરાતી, એ અને બી બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એ અને બી બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાં રાજસ્થાનનાં હતાં પણ દ્વારકામાં વસ્યા હતાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કથકલીમાં વપરાતા મુખવટા અને હાવભાવને શું કહે છે? (તાલી, અભિનય, મુદ્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભિનય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચહેરાના એક્સપ્રેશન એટલે બેસ્ટ 'અભિનય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સતરામી સદીમાં અહી ....... શૈલીનો વિકાસ થયો હતો. (બસોહલી, કાંગડા, મુગલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બસોહલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી જૂની પહાડી શૈલી એટલે બસોહલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જૈન ગ્રંથોમાં કયા ચિત્રો જોવા મળે છે? (ભીંતચિત્રો, લઘુચિત્રો, તેલચિત્રો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઘુચિત્રો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૈન ધર્મના હસ્તપ્રતોમાં 'નાના-નાના' લઘુચિત્રો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "પોંગલ તહેવાર કયા મહિનામાં ઉજવાય છે? (જાન્યુઆરી, ફેબ્રુઆરી, માર્ચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાન્યુઆરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોંગલ અને ઉત્તરાયણ બંને જાન્યુઆરીમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "બિહુ નૃત્યમાં કયા વાદ્યનો ઉપયોગ થાય છે? (ઢોલ, પેપા, એ અને બી બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એ અને બી બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢોલ સાથે 'પેપા' (ભૂંગળ જેવું) વાગે તો જ મજા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ગુજરાતી સાહિત્યમાં 'કાફી' માટે કોણ પ્રખ્યાત છે? (ધીરો ભગત, અખો, નર્મદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધીરો ભગત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધીરે ધીરે' કાફી પીવી (ધીરો ભગત = કાફી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "નરસિંહ મહેતાનો જન્મ ક્યાં થયો હતો? (તળાજા, જૂનાગઢ, ભાવનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તળાજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત' થી તળાજા, જન્મસ્થળ ભાવનગર જિલ્લામાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ચેર શાસકોએ કઈ ભાષાને પોતાની રાજભાષા બનાવી હતી? (સંસ્કૃત, મલયાલમ, તમિલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલયાલમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળ (ચેર) ની ભાષા મલયાલમ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "અખાનુ પ્રખ્યાત સાહિત્ય પ્રકાર કયો છે? (છપ્પા, કાફી, પદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જးાબ:</strong> છપ્પા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અખાના છપ્પા' - જે સમાજને ચબરાક આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "દક્ષિણ ભારતના મંદિરોમાં કઈ નૃત્યશૈલી દેવદાસીઓ દ્વારા કરવામાં આવતી? (ભરતનાટ્યમ, કથકલી, મણિપુરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરતનાટ્યમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરતભાઈ મંદિરમાં સેવા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "હોળીનો તહેવાર કયા માસમાં આવે છે? (ફાગણ, ચૈત્ર, વૈશાખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફાગણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાગણ મહિનામાં 'ફાગ' ખેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "તાડપત્રો પર લખાયેલી હસ્તપ્રતોમાં કયા પ્રકારના ચિત્રો છે? (લઘુચિત્રો, ઓઈલ પેઈન્ટિંગ, દીવાલ ચિત્રો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઘુચિત્રો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંદડા પર તો નાના (લઘુ) જ ચિત્રો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "કોના શાસનકાળ દરમિયાન મુગલ ચિત્રકલાનો સર્વોચ્ચ વિકાસ થયો? (અકબર, જહાંગીર, ઔરંગઝેબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર એટલે ચિત્રકલાનો સાચો પારખુ 'જ્વેલરી' જેવો બાદશાહ.</p></div>"
+    }
+  ]
+}
