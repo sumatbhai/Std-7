@@ -2020,3 +2020,136 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીના ઉપરના ઘન પોપડાને ......... કહેવામાં આવે છે. (મૃદાવરણ, જલાવરણ, વાતાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃદાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદા' એટલે માટી, અને માટીનો બનેલો પોપડો એટલે મૃદાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૃથ્વી સપાટીનો આશરે ......... % ભાગ જલાવરણ રોકે છે. (29, 71, 97)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 71</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી (જળ) વધુ છે, એટલે મોટો આંકડો 71 યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પૃથ્વીની ચારેબાજુ વીંટળાઈને આવેલા વાયુઓના આવરણને ......... કહે છે. (જલાવરણ, મૃદાવરણ, વાતાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વા' એટલે વાયુ, વાયુઓનું બનેલું આવરણ એટલે વાતાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મૃદાવરણ, જલાવરણ અને વાતાવરણના જે ભાગમાં જીવસૃષ્ટિ વ્યાપી છે તેને ......... કહે છે. (જીવાવરણ, સૌરવરણ, જૈવિક ઘટક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીવાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં 'જીવ' (સજીવ) હોય તેને 'જીવાવરણ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પર્યાવરણના મુખ્ય ......... પ્રકાર છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી અને માનવસર્જિત - આમ કુલ 2 પ્રકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પૃથ્વી પરના કુલ પાણીના જથ્થામાંથી ......... % પાણી મહાસાગરોમાં છે. (71, 97.3, 2.7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 97.3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાનું ખારું પાણી સૌથી વધુ છે, એટલે કે લગભગ 97% થી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દિવસમાં બે વાર સમુદ્રની સપાટી સમયાંતરે ઊંચી ચડે અને નીચે ઉતરે તેને ......... કહે છે. (સુનામી, મોજાં, ભરતી-ઓટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરતી-ઓટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર ચડે તો ભરતી, નીચે ઉતરે તો ઓટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભરતી-ઓટ ......... ના ગુરુત્વાકર્ષણ બળને કારણે આવે છે. (સૂર્ય અને ચંદ્ર, મંગળ, શનિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્ય અને ચંદ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં જે મોટા દેખાય (સૂર્ય-ચંદ્ર) તે જ પાણીને ખેંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મહાસાગરોમાં ઉદભવતા પ્રવાહોને ......... કહેવામાં આવે છે. (ભરતી-ઓટ, મહાસાગરીય પ્રવાહો, ચક્રવાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાસાગરીય પ્રવાહો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીની જેમ વહેતા મહાસાગરના પાણીને 'પ્રવાહ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માનવ નિર્મિત સમસ્યાઓમાં ......... પ્રદૂષણ સૌથી વધુ ઘાતક છે. (જમીન, પર્યાવરણીય, અવાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમગ્ર પર્યાવરણ બગડે એટલે બધું જ બગડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જમીન પ્રદૂષણને અટકાવવા ખેતીમાં ......... ખાતરનો વપરાશ વધારવો જોઈએ. (રાસાયણિક, જૈવિક, કુત્રિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૈવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' થી જમીન અને 'જ' થી જૈવિક (દેશી) ખાતર સાચું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાણીને શુદ્ધ કરવા માટે તેમાં ......... ગેસનો ઉપયોગ થાય છે. (ઓક્સિજન, નાઈટ્રોજન, ક્લોરીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્લોરીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વિમિંગ પુલમાં પણ ક્લોરીન નાખે છે, યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હવામાં રહેલા રજકણો પર ભેજ ઠરવાની ક્રિયાને ......... કહે છે. (ઘનીભવન, બાષ્પીભવન, ઉર્ધ્વપાતન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુનું પ્રવાહી બનવું એટલે ઘનીભવન (ઠરવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વધુ પડતા અવાજને ......... પણ કહેવામાં આવે છે. (સંગીત, ઘોંઘાટ, ધ્વનિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘોંઘાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ જ્યારે કાનને ન ગમે ત્યારે તે ઘોંઘાટ (Noise) બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિશ્વ પર્યાવરણ દિવસ ......... ના રોજ ઉજવવામાં આવે છે. (5 જૂન, 21 જૂન, 15 ઓગસ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 જૂન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જૂન' મહિનામાં વરસાદની તૈયારી અને પર્યાવરણની સુરક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અવાજની તીવ્રતા માપવાનો એકમ ......... છે. (સેન્ટીમીટર, કિલોગ્રામ, ડેસિબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડેસિબલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડી.જે. (DJ) માં 'D' એટલે ડેસિબલ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગ્રીન હાઉસ ઇફેક્ટ માટે જવાબદાર મુખ્ય વાયુ ......... છે. (ઓક્સિજન, કાર્બન ડાયોક્સાઇડ, નાઈટ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઇડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધારતો વાયુ = CO2 (કાર્બન ડાયોક્સાઇડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આશરે ......... મીટરની ઊંડાઈ પછી સમુદ્રમાં અંધકાર હોય છે. (100, 200, 500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસો (200) મીટર પછી સૂર્યપ્રકાશ પહોંચી શકતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રવાહી કચરાને ......... કરીને જ નદીમાં છોડવો જોઈએ. (ગરમ, શુદ્ધ, ઠંડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી શુદ્ધ (Treat) કરીને જ નદીમાં નંખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વાતાવરણમાં નાઈટ્રોજન વાયુનું પ્રમાણ આશરે ......... % છે. (21, 0.03, 78)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 78</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં સૌથી વધુ ભાગ નાઈટ્રોજનનો છે (78%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચંદ્ર અને સૂર્યની વચ્ચે પૃથ્વી આવે ત્યારે ......... થાય છે. (સૂર્યગ્રહણ, ચંદ્રગ્રહણ, અમાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચંદ્રગ્રહણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે 'પૃથ્વી' હોય તો 'ચંદ્ર' ઢંકાય, એટલે ચંદ્રગ્રહણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મૃદાવરણ પૃથ્વીની સપાટીનો ......... % ભાગ રોકે છે. (71, 29, 97)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 29</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 71, તો બાકી વધેલી જમીન 29.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પૃથ્વી પર મીઠા પાણીનો મુખ્ય સ્ત્રોત ......... છે. (નદી, વરસાદ, કૂવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાંથી આવતું પાણી જ બધે પાણી પહોંચાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પર્યાવરણ એટલે આપણી આસપાસનું ......... (ઘર, આવરણ, ગામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિ (આસપાસ) + આવરણ = પર્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શુક્લ પક્ષ અને કૃષ્ણ પક્ષની ......... ના દિવસે સૌથી મોટી ભરતી આવે છે. (પાંચમ, આઠમ, પૂનમ અને અમાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂનમ અને અમાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ચંદ્ર પૂરો હોય કે સાવ ન હોય ત્યારે ખેંચાણ વધુ હોય.</p></div>"
+    }
+  ]
+}
