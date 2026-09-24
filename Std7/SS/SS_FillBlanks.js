@@ -3218,3 +3218,111 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપણો દેશ ........... પ્રધાન દેશ છે. (માતૃ, પિતૃ, સંયુક્ત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતૃ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતૃ = પિતા (પુરુષ), ભારતમાં પુરુષનું વર્ચસ્વ વધુ જોવા મળે છે માટે પિતૃપ્રધાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "છોકરા-છોકરીઓના ઉછેરમાં થતા ભેદભાવને ........... ભિન્નતા કહેવાય છે. (સામાજિક, ધાર્મિક, જાતિગત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાતિગત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રી કે પુરુષ હોવું એટલે જ 'જાતિ' (Gender), તેથી તેને જાતિગત ભિન્નતા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતમાં વસ્તીગણતરી દર ........... વર્ષે કરવામાં આવે છે. (5, 10, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તીગણતરી એટલે 'દશકા' ની ગણતરી, એટલે 10 વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "છોકરીઓને ઘરની બહાર ભણવા મોકલવા માટે વાલીઓમાં હજુ પણ ........... જોવા મળે છે. (આનંદ, ખચકાટ, ઉત્સાહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખચકાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની માન્યતાઓને કારણે લોકો હજુ ડરે છે, ડર એટલે જ ખચકાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઈ.સ. ........... માં છેલ્લી વસ્તીગણતરી થઈ હતી. (2001, 2011, 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2011</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક મુજબના ડેટા પ્રમાણે 2011 યાદ રાખવું (11 ના આંકડામાં બે 1 છે, જે સ્ત્રી-પુરુષ સમાનતાનું પ્રતીક માની શકાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નાની ઉંમરે કરવામાં આવતા ........... ને કારણે સ્ત્રીઓનો અભ્યાસ અધૂરો રહી જાય છે. (શિક્ષણ, મજૂરી, બાળલગ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળલગ્ન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લગ્ન થયા એટલે ભણતર ગયું! નાની ઉંમર = બાળલગ્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સરકાર દ્વારા કન્યા કેળવણી માટે ........... ના અભિયાન ચલાવવામાં આવે છે. (બેટી બચાવો, ભણો ગુજરાત, આવાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેટી બચાવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બેટી બચાવો, બેટી પઢાવો' આ સ્લોગન કન્યાઓ માટે જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કુટુંબમાં નિર્ણય લેવાની પ્રક્રિયામાં ........... ને ઓછું મહત્વ અપાય છે. (પુરુષો, વડીલો, સ્ત્રીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતૃપ્રધાન સમાજમાં સ્ત્રીનો અવાજ દબાવવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્ત્રીઓનું ઘરકામ ગણતરીમાં લેવાતું નથી, તેથી તેને ........... મૂલ્ય મળતું નથી. (સામાજિક, આર્થિક, શારીરિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્થિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્થિક = પૈસા. મમ્મી ઘરે કામ કરે એના કોઈ પૈસા મળતા નથી, એટલે કે આર્થિક મૂલ્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતમાં દર ........... પુરુષોએ સ્ત્રીઓની સંખ્યાની ગણતરી કરવામાં આવે છે. (500, 1000, 2000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રી-પુરુષ પ્રમાણ હંમેશા 1000 ના આધારે જ મપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આધુનિક સમયમાં મહિલાઓ ........... ક્ષેત્રે સૌથી વધુ જોવા મળે છે. (માત્ર રસોડા, દરેક, ખેતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આજની નારી, સબ પે ભારી! એટલે કે 'દરેક' ક્ષેત્રમાં તે આગળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રથમ મહિલા રાષ્ટ્રપતિ ........... હતા. (ઇન્દિરા ગાંધી, પ્રતિભાસિંહ પાટીલ, સુષ્મા સ્વરાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિભાસિંહ પાટીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિભા (President) - બંને 'P' થી શરૂ થાય છે એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારતનાં પ્રથમ મહિલા વડાપ્રધાન ........... હતા. (વિજયાલક્ષ્મી પંડિત, પ્રતિભા પાટીલ, ઇન્દિરા ગાંધી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્દિરા ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડાપ્રધાન 'ઇ'ન્દિરા ગાંધી (Iron Lady).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આપણા દેશમાં સ્ત્રીઓ માટે ........... ટકા અનામતની જોગવાઈ સ્થાનિક સ્વરાજ્યની સંસ્થાઓમાં કરવામાં આવી છે. (33, 50, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં સ્થાનિક સ્વરાજ્યમાં અડધોઅડધ એટલે કે 50% સીટો મહિલાઓ માટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગામડાઓમાં છોકરીઓને ........... ના અભ્યાસ માટે શહેરમાં મોકલવામાં મુશ્કેલી પડે છે. (પ્રાથમિક, માધ્યમિક, ઉચ્ચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉચ્ચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાથમિક શિક્ષણ ગામમાં હોય, પણ 'ઉચ્ચ' માટે દૂર જવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમાજમાં કન્યાઓના જન્મને ........... મળે તેવા પ્રયત્નો થઈ રહ્યા છે. (અવગણના, ઉત્તેજન, તિરસ્કાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તેજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેટી બચાવો જેવા કાર્યક્રમો દ્વારા સરકાર 'ઉત્તેજન' (Positive support) આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિશ્વમાં સૌથી નાની વયે માઉન્ટ એવરેસ્ટ સર કરનાર ........... છે. (બચેન્દ્રી પાલ, સંતોષ યાદવ, ડિકી ડોલમા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડિકી ડોલમા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નાની વયે 'ડોલમા' એ પર્વત ચડ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્ત્રી-પુરુષ સમાનતા લાવવા માટે ........... શિક્ષણ અનિવાર્ય છે. (ધાર્મિક, ડિજિટલ, કન્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કન્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણશે દીકરી, તો જ વધશે સ્ત્રીઓની સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "છોકરીઓને સશક્ત કરવા સરકાર ........... ની સુવિધા મફત આપે છે. (શિક્ષણ, રહેઠાણ, ખોરાક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી શાળાઓમાં છોકરીઓ માટે ફી હોતી નથી (મફત શિક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વસ્તીગણતરીના આંકડા મુજબ ........... નું પ્રમાણ ઓછું હોય તેવા વિસ્તારોમાં જાગૃતિ લાવવામાં આવે છે. (સ્ત્રીઓ, પુરુષો, પ્રાણીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તીમાં સ્ત્રીઓ ઘટે એટલે જાગૃતિ (Awareness) વધારવી પડે.</p></div>"
+    }
+  ]
+}
