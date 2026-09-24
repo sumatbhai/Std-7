@@ -3010,3 +3010,211 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રાજ્ય સરકારના મુખ્ય ........... અંગો છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધારો' - ધા(ધારાસભા), રો(કારોબારી), અને ન્યા(ન્યાયતંત્ર). NJ Classes ની યાદ રાખવાની રીત: સરકારના 3 પિલર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ધારાસભાના નીચલા ગૃહને ........... કહેવામાં આવે છે. (વિધાનપરિષદ, વિધાનસભા, લોકસભા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નીચું ગૃહ = સભા' અને 'ઉપલું ગૃહ = પરિષદ'. સભા હંમેશા પાયામાં (નીચે) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુજરાતની વિધાનસભામાં કુલ ........... બેઠકો છે. (182, 250, 545)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 182</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેચ્યુ ઓફ યુનિટીની ઊંચાઈ (182 મીટર) = ગુજરાત વિધાનસભાની બેઠકો (182).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાત વિધાનસભાનું ભવન ........... નામથી ઓળખાય છે. (વલ્લભભાઈ પટેલ, વિઠ્ઠલભાઈ પટેલ, મહાત્મા ગાંધી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઠ્ઠલભાઈ પટેલ ભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વી' થી વિધાન અને 'વી' થી વિઠ્ઠલભાઈ. (NJ Classes Shortcut)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિધાનસભાના સભ્ય બનવા માટે ઓછામાં ઓછી ........... વર્ષની વય હોવી જોઈએ. (21, 25, 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લગ્નની વય પછી તરત જ (25 વર્ષે) ધારાસભ્ય બની શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રાજ્યના બંધારણીય વડા ........... છે. (મુખ્યમંત્રી, રાજ્યપાલ, રાષ્ટ્રપતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશમાં રાષ્ટ્રપતિ તો રાજ્યમાં રાજ્યપાલ. બંધારણના રક્ષક એટલે રાજ્યપાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રાજ્યપાલની નિમણૂક ........... કરે છે. (મુખ્યમંત્રી, વડાપ્રધાન, રાષ્ટ્રપતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા સાહેબ (રાષ્ટ્રપતિ) નાના સાહેબ (રાજ્યપાલ) ને કામ સોંપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મુખ્યમંત્રી અને મંત્રીમંડળના શપથ ........... લેવડાવે છે. (રાજ્યપાલ, ન્યાયાધીશ, સ્પીકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યનો 'બોસ' રાજ્યપાલ શપથ લેવડાવે. NJ Classes: રાજ્યપાલ = શપથ માસ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિધાનસભાની કાર્યવાહી ........... ના સંચાલન હેઠળ થાય છે. (રાજ્યપાલ, અધ્યક્ષ, મુખ્યમંત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધ્યક્ષ (સ્પીકર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લાસમાં મોનિટર હોય તેમ વિધાનસભામાં 'અધ્યક્ષ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કોઈપણ ખરડો ........... ની સહી વગર કાયદો બની શકતો નથી. (મુખ્યમંત્રી, સ્પીકર, રાજ્યપાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાઈનલ સીલ રાજ્યપાલની સહીનું જ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજ્યની કારોબારીના વાસ્તવિક વડા ........... છે. (રાજ્યપાલ, મુખ્યમંત્રી, રાષ્ટ્રપતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્યમંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ નામની વ્યક્તિ છે, પણ કામની (વાસ્તવિક) વ્યક્તિ મુખ્યમંત્રી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગુજરાતની વડી અદાલત ........... શહેરમાં આવેલી છે. (ગાંધીનગર, અમદાવાદ, વડોદરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમદાવાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજધાની ગાંધીનગર, પણ ન્યાયની નગરી અમદાવાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આરોગ્ય એટલે શારીરિક, માનસિક, સામાજિક અને ........... રીતે સંપૂર્ણ ક્ષેમકુશળતા. (આધ્યાત્મિક, આર્થિક, શૈક્ષણિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધ્યાત્મિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WHO ની વ્યાખ્યા મુજબ 4 પાસાં: શા, મા, સા, આ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગંભીર બીમારીના સંજોગોમાં ........... સેવા આશીર્વાદરૂપ બની છે. (100, 101, 108)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 108 મણકાની માળા જેમ પવિત્ર, તેમ 108 એમ્બ્યુલન્સ જીવન બચાવવા માટે પવિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સરકાર દ્વારા આપવામાં આવતું ........... કાર્ડ મફત સારવાર માટે ઉપયોગી છે. (રેશનકાર્ડ, 'મા' અમૃતમ, આધારકાર્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'મા' અમૃતમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ 'મા' બાળકનું ધ્યાન રાખે, તેમ 'મા' કાર્ડ આરોગ્યનું ધ્યાન રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિશ્વ આરોગ્ય દિવસ ........... ના રોજ ઉજવવામાં આવે છે. (5 જૂન, 7 એપ્રિલ, 21 જૂન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 એપ્રિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 એપ્રિલ - સાત અને એપ્રિલ (સાથે મળી હેલ્થ સુધારીએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ક્ષય (TB) વિરોધી રસી ........... છે. (BCG, ઓપીવી, હિપેટાઈટીસ-બી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> BCG</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TB -> BCG (ટીબી થાય તો બીસીજી લેવી જ પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આયુષ્માન ભારત યોજનામાં વાર્ષિક ........... લાખ સુધીની સારવાર મળે છે. (બે, પાંચ, દસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજો (5) બધી બીમારીઓને ભગાડશે. (5 લાખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રાજ્યપાલ બનવા માટે ઉંમર ........... વર્ષ કે તેથી વધુ હોવી જોઈએ. (25, 30, 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 35</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભ્ય (25) થી 10 વર્ષ વધુ એટલે રાજ્યપાલ (35).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિધાનસભાને ........... નામે પણ ઓળખવામાં આવે છે. (પરિષદ, ધારાસભા, સંસદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે 'ધારા' (કાયદા) ઘડે તે ધારાસભા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રાજ્યની ધારાસભાનું ઉપલું ગૃહ ........... છે. (વિધાનસભા, વિધાનપરિષદ, રાજ્યસભા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનપરિષદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિષદ' નામ મોટું છે એટલે તે ઉપલું ગૃહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિધાનસભાની મુદત સામાન્ય રીતે ........... વર્ષની હોય છે. (4, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં ચૂંટણીનો પંચો (5 વર્ષ) ફિક્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રાજ્યના મંત્રીમંડળની બેઠકો ........... ખાતે ભરાય છે. (રાજકોટ, અમદાવાદ, ગાંધીનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજધાનીમાં જ બધા મંત્રીઓ ભેગા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પોલિયો વિરોધી રસીનું નામ ........... છે. (BCG, OPV, મિઝલ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> OPV</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OPV = Oral Polio Vaccine (મોં વાટે ટીપાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રાજ્યની ન્યાયતંત્રની ટોચ પર ........... અદાલત છે. (તાલુકા, વડી, સર્વોચ્ચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વડી (હાઈકોર્ટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં 'વડી' (મોટી) અદાલત સૌથી ઊંચે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "આરોગ્ય વિષયક સેવા માટે ગુજરાતમાં ........... હેલ્પલાઇન કાર્યરત છે. (181, 104, 101)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 104</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીમાર પડો તો 104 ડાયલ કરો, તાવ ઉતરી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રાજ્યપાલનો કાર્યકાળ ........... વર્ષનો હોય છે. (3, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ હોય કે મુખ્યમંત્રી, 5 વર્ષનો પંચો યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિધાનસભાને ........... ગૃહ કહેવાય છે. (નીચલું, ઉપલું, સ્થાયી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું વિસર્જન થાય તે નીચલું ગૃહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રાજ્ય સરકારનું ........... અંગ કાયદા ઘડવાનું કામ કરે છે. (કારોબારી, ધારાસભા, ન્યાયતંત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધારા' એટલે કાયદો, 'સભા' એટલે ઘડનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દર વર્ષે ........... એ 'વિશ્વ રક્તદાન દિવસ' ઉજવાય છે. (14 જૂન, 1 ડિસેમ્બર, 24 માર્ચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14 જૂન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂન મહિનામાં ગરમીમાં લોહીની જરૂર વધુ પડે - 14 જૂન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રાજ્યના વહીવટી વડા ........... છે. (મુખ્ય સચિવ, મુખ્યમંત્રી, રાજ્યપાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્યમંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહીવટનો 'વ' અને વાસ્તવિકનો 'વ' મુખ્યમંત્રી સાથે જોડાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ભારતના દરેક રાજ્યમાં ........... હોય છે. (લોકસભા, વિધાનપરિષદ, ધારાસભા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્ય છે તો સભા તો હોવી જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "દરેક રાજ્યની ........... અદાલત તે રાજ્યના ન્યાયતંત્રમાં સર્વોપરી છે. (તાલુકા, જિલ્લા, વડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરમાં 'વડીલ' મોટા, રાજ્યમાં 'વડી' અદાલત મોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિશ્વ ક્ષય (TB) વિરોધી દિવસ ........... ના રોજ ઉજવાય છે. (24 માર્ચ, 7 એપ્રિલ, 1 ડિસેમ્બર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24 માર્ચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્ચ એન્ડિંગમાં ટીબી દૂર કરીએ - 24 માર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિશ્વ એઇડ્સ દિવસ ........... ના રોજ ઉજવાય છે. (14 જૂન, 1 ડિસેમ્બર, 29 સપ્ટેમ્બર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 ડિસેમ્બર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ષનો છેલ્લો મહિનો અને પેલી તારીખ - એઇડ્સ જાગૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "WHO નું પૂરું નામ વર્લ્ડ ........... ઓર્ગેનાઈઝેશન છે. (હેલ્થ, હ્યુમન, હાર્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેલ્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H for Health. (NJ Classes Shortcut)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "રાજ્યની કારોબારીમાં ........... નો સમાવેશ થતો નથી. (રાજ્યપાલ, મુખ્યમંત્રી, ન્યાયાધીશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યાયાધીશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યાયાધીશ એ 'ન્યાયતંત્ર' નો ભાગ છે, 'કારોબારી' નો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ભારત ........... દેશ છે. (તાનાશાહી, લોકશાહી, સામ્યવાદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકો દ્વારા ચાલતું શાસન = લોકશાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિધાનસભામાં પ્રશ્નોત્તરી દરમિયાન ........... ને સંબોધીને પ્રશ્નો પૂછાય છે. (મુખ્યમંત્રી, અધ્યક્ષ, વિરોધપક્ષના નેતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધ્યક્ષ (સ્પીકર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માનનીય અધ્યક્ષશ્રી...' આ વાક્યથી જ પ્રશ્ન શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જનની સુરક્ષા યોજના અંતર્ગત ........... પ્રસૂતિમાં આર્થિક મદદ મળે છે. (ખાનગી, હોસ્પિટલ, સંસ્થાકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્થાકીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરે પ્રસૂતિ નહીં, સંસ્થા (હોસ્પિટલ) માં પ્રસૂતિ થાય તો જ પૈસા મળે.</p></div>"
+    }
+  ]
+}
