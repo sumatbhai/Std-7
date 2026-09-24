@@ -2877,3 +2877,136 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "લોકશાહીમાં સમાનતા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિશ્વમાં સૌથી મોટી લોકશાહી ધરાવતો દેશ ....... છે. (અમેરિકા, ભારત, ચીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભા' થી ભારત અને 'ભા' થી ભવ્ય લોકશાહી - સૌથી મોટી આપણી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દેશનું સંચાલન કરવા માટેની માર્ગદર્શિકાને ....... કહેવામાં આવે છે. (પુસ્તક, બંધારણ, ડાયરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધારણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશને 'બાંધવા' (નિયમમાં રાખવા) માટે 'બંધારણ' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિશ્વનું સૌથી મોટું લેખિત બંધારણ ....... દેશનું છે. (ભારત, રશિયા, બ્રિટન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની વસ્તી મોટી, લોકશાહી મોટી અને બંધારણ પણ સૌથી મોટું અને લેખિત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતમાં મતાધિકાર મેળવવા માટે લઘુતમ ....... વર્ષની વય નક્કી કરવામાં આવી છે. (15, 18, 21)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 18 વર્ષે આવે યુવાની, અને મળે મત આપવાની નિશાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લોકશાહીમાં સમાનતાના અધિકાર દ્વારા સૌને ....... ન્યાય મળે છે. (કાનૂની, આર્થિક, વ્યક્તિગત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાનૂની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીમાં 'કાયદો' બધા માટે સરખો, એટલે 'કાનૂની' ન્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભારતીય બંધારણમાં સૌ નાગરિકોને ....... સમાનતા આપવામાં આવી છે. (ધાર્મિક, સામાજિક, આપેલ તમામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણમાં કોઈ ભેદભાવ નથી, એટલે ધર્મ-જ્ઞાતિ બધું જ સમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભારતમાં ચૂંટણીનું સંચાલન ....... કરે છે. (સરકાર, ચૂંટણી પંચ, સંસદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૂંટણી પંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૂંટણી' કરાવવાની જવાબદારી 'ચૂંટણી પંચ'ની જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દરેક નાગરિકને મતદાન કરવાનો અધિકાર ....... દ્વારા મળે છે. (શાળા, બંધારણ, પંચાયત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધારણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ એ જ અધિકારોની જનની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચૂંટણી સમયે ....... નાગરિકો માટે ખાસ મતદાન મથકોની વ્યવસ્થા કરવામાં આવે છે. (દિવ્યાંગ, ધનિક, ભણેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિવ્યાંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમને જરૂર છે તેમને જ ખાસ સુવિધા મળે, એટલે કે દિવ્યાંગોને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાનતા એટલે સૌને સમાન ....... અને સૌને સમાન તક. (સન્માન, કામ, વેતન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સન્માન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સમાનતા અને 'સ' થી સન્માન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વ્યક્તિના સર્વાંગી વિકાસ માટે ....... નો અધિકાર ખૂબ જ મહત્વનો છે. (મિલકત, સમાનતા, હરવા-ફરવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા સરખા હશે તો જ બધા આગળ વધશે, એટલે સમાનતા જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બાળમજૂરી એ સમાનતાના અધિકારનો ....... ગણાય છે. (અમલ, ભંગ, સુધારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળમજૂરી કરાવો તો કાયદો 'ભંગ' થાય અને જેલ જવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારતમાં ....... વર્ષથી ઓછી ઉંમરના બાળકને મજૂરીએ રાખવો એ ગુનો છે. (10, 14, 18)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 વર્ષ સુધી ભણવાનું, કામ કરવાનું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સરકાર દ્વારા આપવામાં આવતું મધ્યાહન ભોજન બાળકોમાં ....... ની ભાવના વધારે છે. (અસમાનતા, સમાનતા, ઈર્ષ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથે બેસીને જમવાથી ઊંચ-નીચના ભેદભાવ દૂર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દરેક બાળકને ....... થી 14 વર્ષ સુધી મફત અને ફરજિયાત શિક્ષણનો અધિકાર છે. (5, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છક્કો (6) મારો અને શિક્ષણ મેળવો 14 વર્ષ સુધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મતાધિકારમાં સમાનતા એ લોકશાહીની ....... ઓળખ છે. (મુખ્ય, ગૌણ, નબળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મત આપવો એ જ તો લોકશાહીનો પાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભારતીય બંધારણમાં ....... ને કેન્દ્રમાં રાખીને કાયદાઓ ઘડવામાં આવ્યા છે. (વ્યક્તિ, પક્ષ, પૈસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીમાં 'લોકો' (વ્યક્તિ) જ સર્વોપરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્ત્રી અને પુરુષને સમાન કામ માટે સમાન ....... મળવું જોઈએ. (વેતન, રજા, ઈનામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેતન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ સરખું તો પગાર (વેતન) પણ સરખો જ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિશ્વમાં સૌથી વધુ મતદારો ....... દેશમાં છે. (ભારત, રશિયા, કેનેડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં વસ્તી વધારે અને લોકશાહી હોય ત્યાં મતદારો પણ વધારે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લોકશાહી એ લોકોનું, લોકો માટે અને લોકો દ્વારા ચાલતું ....... છે. (શાસન, નાટક, બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબ્રાહમ લિંકનની આ ફેમસ લાઈન શાસન વિશે જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મતાધિકાર એ લોકશાહીમાં નાગરિકની સૌથી મોટી ....... છે. (તાકાત, જવાબદારી, મિલકત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાકાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક મતથી સરકાર બદલાઈ શકે, એટલે એ નાગરિકની તાકાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આપણા દેશમાં સૌને સમાન મતાધિકાર ....... પદ્ધતિ મુજબ આપવામાં આવ્યો છે. (યુનિવર્સલ એડલ્ટ ફ્રેન્ચાઈઝી, મર્યાદિત, વંશપરંપરાગત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુનિવર્સલ એડલ્ટ ફ્રેન્ચાઈઝી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુનિવર્સલ એટલે 'સાર્વત્રિક' - બધા પુખ્ત વયના લોકો માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગામડામાં પંચાયતની ચૂંટણી અને દેશમાં સંસદની ચૂંટણીમાં મતાધિકાર ....... જ હોય છે. (અલગ, સમાન, ખાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂંટણી નાની હોય કે મોટી, નાગરિકનો મત તો એક જ અને સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બંધારણ મુજબ ....... ના આધારે કોઈ પણ ભેદભાવ રાખી શકાય નહીં. (જ્ઞાતિ-ધર્મ, લિંગ, આપેલ તમામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતા એટલે કોઈપણ જાતના ભેદભાવ વગરની વ્યવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચૂંટણી પ્રક્રિયાને પારદર્શક બનાવવા માટે ....... નો ઉપયોગ થાય છે. (EVM, કાગળ, રજિસ્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> EVM</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EVM એટલે Electronic Voting Machine - જે ઝડપી અને ચોક્કસ છે.</p></div>"
+    }
+  ]
+}
