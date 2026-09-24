@@ -3326,3 +3326,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "સંચાર માધ્યમ અને જાહેરાત",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માનવી એક ......... પ્રાણી છે. (સામાજિક, આર્થિક, શારીરિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાજિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવી 'સમાજ' માં રહે છે, એટલે તે 'સામાજિક' પ્રાણી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પહેલાના સમયમાં સંદેશો મોકલવા માટે ......... નો ઉપયોગ થતો હતો. (ઘોડા, કબૂતર, હાથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કબૂતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કબૂતર જા જા જા...' ગીત યાદ રાખવું, કબૂતર સંદેશાવાહક હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતમાં આધુનિક ટપાલ સેવાની શરૂઆત ઈ.સ. ......... માં થઈ હતી. (1854, 1858, 1860)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1854</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટપાલ (T-P-A-L) માં 4 અક્ષર છે, એટલે સાલમાં છેલ્લે 4 (1854) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટપાલ દ્વારા મોકલાતા પત્રમાં ......... લખવો ફરજિયાત છે. (મોબાઈલ નંબર, પિનકોડ, ઈ-મેઈલ આઈડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિનકોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PIN એટલે 'પોસ્ટલ ઇન્ડેક્સ નંબર', જે પોસ્ટ પહોંચાડવા 'કી' (Key) સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતમાં ટેલિગ્રામ (તાર) ની શરૂઆત ઈ.સ. ......... માં થઈ હતી. (1850, 1865, 1870)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1850</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટપાલ (1854) કરતા 4 વર્ષ પહેલા તાર (1850) ની શરૂઆત કોલકાતા અને ડાયમંડ હાર્બર વચ્ચે થઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ટેલિગ્રામની સેવા ભારતમાં ......... ના રોજ બંધ કરવામાં આવી. (13 જુલાઈ 2013, 15 ઓગસ્ટ 2014, 26 જાન્યુઆરી 2010)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 13 જુલાઈ 2013</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ તેર (13-07-2013) - જ્યારે ટેલિગ્રામ થયો રવાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દુનિયામાં સૌથી મોટું ટપાલ નેટવર્ક ......... દેશનું છે. (અમેરિકા, ભારત, ચીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની વસ્તી અને અંતર વધુ હોવાથી અહીં 'વિશ્વનું સૌથી મોટું ટપાલ નેટવર્ક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રેડિયોની શોધ ઈ.સ. 1895 માં ......... એ કરી હતી. (માર્કોની, એડિસન, ગ્રેહામ બેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માર્કોની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો ચાલતો નહોતો એટલે મેં કોણી મારી (માર-કોણી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટેલિવિઝનની શોધ ......... એ કરી હતી. (જહોન લોગી બેયર્ડ, ન્યૂટન, આઈન્સ્ટાઈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહોન લોગી બેયર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TV જોવામાં આપણને 'લોગી' (લાગી) જાય છે, એટલે 'લોગી બેયર્ડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતમાં ટેલિવિઝનનો પ્રથમ પ્રારંભ ઈ.સ. 1959 માં ......... ખાતે થયો હતો. (મુંબઈ, દિલ્હી, કોલકાતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશની રાજધાની દિલ્હીથી જ સારા કામની શરૂઆત થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સિનેમા એ ......... નું લોકપ્રિય સાધન છે. (સંચાર, મનોરંજન, રમતગમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનોરંજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુવી જોવા મજા પડે, એટલે મનોરંજન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "માનવસર્જિત ......... અવકાશમાં તરતા મૂકવામાં આવે છે. (કૃત્રિમ ઉપગ્રહ, ગ્રહો, તારાઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃત્રિમ ઉપગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી ચંદ્ર છે, પણ માણસે મોકલ્યો એ 'કૃત્રિમ ઉપગ્રહ' (Satellite) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંચાર માધ્યમોને કારણે આખું વિશ્વ એક ......... બન્યું છે. (ગ્લોબલ વિલેજ, શહેર, જંગલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લોબલ વિલેજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ટરનેટથી આખું જગત નજીક આવી ગયું એટલે 'વૈશ્વિક ગ્રામ' (Global Village).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લોકશાહીમાં સંચાર માધ્યમો સરકારની કામગીરી પર ......... રાખે છે. (ટેક્સ, નજર, રોક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નજર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીડિયા એ લોકશાહીનો ચોથો સ્તંભ છે જે 'વોચડોગ' ની જેમ નજર રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વસ્તુના વેચાણ માટે ......... ખૂબ જ જરૂરી છે. (જાહેરાત, પ્રદર્શન, સંગ્રહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો દેખતા હૈ, વો બિક્તા હૈ! એટલે જ એડવર્ટાઈઝ (જાહેરાત) જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પહેલાના સમયમાં રાજાઓ વિજયના સમાચાર ......... વગાડીને આપતા હતા. (વાંસળી, ઢોલ, શરણાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામમાં સાદ પાડવો હોય તો ઢોલ જ વગાડવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભારતનો પિનકોડ ......... અંકોનો હોય છે. (5, 6, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PINCODE -> P, I, N, C, O, D (6 અક્ષર) - આમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રેડિયો એ ......... પ્રકારનું માધ્યમ છે. (દ્રશ્ય, શ્રાવ્ય, દ્રશ્ય-શ્રાવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો માત્ર 'સાંભળી' શકાય, એટલે શ્રાવ્ય (Audio).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટીવી પર આવતા કાર્યક્રમો જોવા એ ......... પ્રકારનું માધ્યમ છે. (શ્રાવ્ય, દ્રશ્ય, દ્રશ્ય-શ્રાવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રશ્ય-શ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીવીમાં દેખાય પણ અને સંભળાય પણ, એટલે દ્રશ્ય + શ્રાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આઈ.એસ.આઈ (ISI) માર્ક ......... વસ્તુઓ પર જોવા મળે છે. (સોના-ચાંદી, ઘરવપરાશની વીજળીની, ખાદ્ય તેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘરવપરાશની વીજળીની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રિક વસ્તુ લેતા પહેલા ISI માર્ક ખાસ ચેક કરવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખાદ્ય પદાર્થોની શુદ્ધતા માટે ......... માર્ક વપરાય છે. (એગમાર્ક, હોલમાર્ક, વૂલમાર્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એગમાર્ક (Agmark)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Agmark = Agriculture Mark (ખેત પેદાશ/ખાવાની વસ્તુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દરેક ગ્રાહકે ખરીદી કરતી વખતે ......... માંગવાનો આગ્રહ રાખવો જોઈએ. (ગિફ્ટ, બિલ, ડિસ્કાઉન્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ એ ખરીદીનો પાકો પુરાવો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જાહેરાતનો મુખ્ય હેતુ ગ્રાહકને વસ્તુ તરફ ......... કરવાનો છે. (આકર્ષિત, ડરાવવાનો, છેતરવાનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકર્ષિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ જોઈને જ આપણને વસ્તુ ખરીદવાનું મન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મોબાઈલ ફોનમાં ......... દ્વારા ઇન્ટરનેટની સુવિધા મેળવી શકાય છે. (પુસ્તક, ડેટા પેક, પોસ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડેટા પેક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેટા હોય તો જ નેટ ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંચાર માધ્યમોએ દુનિયાને ખૂબ જ ......... બનાવી દીધી છે. (મોટી, નાની, અઘરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદેશમાં બેઠેલા મિત્ર સાથે વાત કરીએ તો લાગે કે તે બાજુમાં જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વધુ પડતી જાહેરાતોથી ગ્રાહકની ......... વૃત્તિ વધે છે. (બચત, વપરાશી, દાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વપરાશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાત ગ્રાહકને વસ્તુ ખરીદવા પ્રેરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વર્તમાનપત્રોમાં આવતી જાહેરાતો ......... માધ્યમ છે. (શ્રાવ્ય, છાપેલું, દ્રશ્ય-શ્રાવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાપેલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તમાનપત્ર એટલે પ્રિન્ટ મીડિયા (છાપેલું માધ્યમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કૃત્રિમ ઉપગ્રહ દ્વારા પૃથ્વીના પેટાળમાં રહેલા ......... ની માહિતી મેળવી શકાય છે. (હવા, ખનીજો, પ્રાણીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનીજો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેટેલાઈટ ઉપરથી નીચે જમીનની અંદર રહેલા ખનીજો શોધી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સોના-ચાંદીના દાગીના પર ......... માર્ક હોય છે. (હોલમાર્ક, એગમાર્ક, ISI)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોલમાર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનાનું ઘરેણું હોય તો જ એમાં 'હોલ' (કાણું) પાડીને પહેરાય, એટલે હોલમાર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સંચાર માધ્યમનો ઉપયોગ ......... પૂર્વક કરવો જોઈએ. (વિવેકપૂર્ણ, બેફામ, વધુ પડતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિવેકપૂર્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ વસ્તુનો વધુ પડતો ઉપયોગ નુકસાનકારક છે, એટલે સંભાળીને (વિવેકથી) વાપરવું.</p></div>"
+    }
+  ]
+}
