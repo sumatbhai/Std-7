@@ -3484,3 +3484,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચીજવસ્તુઓનું વેચાણ કરનારને __________ કહેવામાં આવે છે. (ગ્રાહક, વેપારી, ઉત્પાદક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વે' થી વેચાણ અને 'વે' થી વેપારી - જે વેચે તે વેપારી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચીજવસ્તુઓની ખરીદી કરનારને __________ કહેવાય છે. (વેપારી, ગ્રાહક, એજન્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ' થી ગજવું ખાલી કરીને વસ્તુ લે તે 'ગ્રાહક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અઠવાડિયાના કોઈ એક નિશ્ચિત દિવસે ભરાતી બજારને __________ બજાર કહે છે. (મહોલ્લા, સાપ્તાહિક, ગુજરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ્તાહિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઠવાડિયું એટલે 'સપ્તાહ', તેથી બજાર એટલે 'સાપ્તાહિક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાપ્તાહિક બજારને મહારાષ્ટ્રમાં __________ કહેવામાં આવે છે. (ગુજરી, હાટ, પેઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં અને મહારાષ્ટ્રમાં બજાર માટે 'હાટ' શબ્દ લોકપ્રિય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આપણી આસપાસની જરૂરિયાતની વસ્તુઓ આપણે __________ બજારમાંથી ખરીદીએ છીએ. (સાપ્તાહિક, ગુજરી, મહોલ્લા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહોલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મહોલ્લો' એટલે ઘરની નજીકનો વિસ્તાર, જ્યાંથી રોજબરોજની વસ્તુ મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મોટા શહેરોમાં એક જ બિલ્ડિંગમાં અલગ-અલગ માળે વિવિધ પ્રકારની વસ્તુઓ મળતી હોય તેને __________ કહે છે. (ગુજરી બજાર, શોપિંગ કોમ્પ્લેક્સ, હાટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શોપિંગ કોમ્પ્લેક્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણી બધી દુકાનો ભેગી એટલે 'કોમ્પ્લેક્સ' (જટિલ સમૂહ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઈન્ટરનેટના માધ્યમથી થતા ખરીદ-વેચાણને __________ બજાર કહે છે. (ઓનલાઇન, ઓફલાઇન, સાપ્તાહિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓનલાઇન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ટરનેટ ચાલુ એટલે તમે 'ઓનલાઇન' છો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખેતપેદાશોના વેચાણ માટે દરેક તાલુકા મથકે __________ ની વ્યવસ્થા હોય છે. (શોપિંગ મોલ, માર્કેટિંગ યાર્ડ, ગુજરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માર્કેટિંગ યાર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતો માટેનું મેદાન (યાર્ડ) એટલે માર્કેટિંગ યાર્ડ (APMC). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખેડૂતોની ખેતપેદાશોનું જાહેર હરાજીથી વેચાણ __________ માં કરવામાં આવે છે. (છૂટક બજાર, નિયંત્રિત બજાર, મોલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયંત્રિત બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી નિયમો મુજબ ચાલતું હોવાથી તેને 'નિયંત્રિત' બજાર કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જે વેપારી મોટા જથ્થામાં માલ સામાન ખરીદે તેને __________ વેપારી કહેવાય. (છૂટક, જથ્થાબંધ, ફેરિયો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જથ્થાબંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો 'જથ્થો' એટલે 'જથ્થાબંધ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગ્રાહક સુધી સામાન પહોંચાડનાર વેપારીને __________ વેપારી કહે છે. (જથ્થાબંધ, ઉત્પાદક, છૂટક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/strong> છૂટક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહકને 1-2 વસ્તુ જોઈએ, એટલે વેપારી જથ્થામાંથી 'છૂટક' કરી આપે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભારત સરકારની એજન્સી ISI માર્કો __________ વસ્તુઓ પર લગાવે છે. (ખાદ્ય પદાર્થ, ઘરવપરાશની વીજળીક, સોના-ચાંદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘરવપરાશની વીજળીક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇસ્ત્રી કે પંખો લેવા જાવ ત્યારે 'ISI' ચેક કરો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સોના-ચાંદીના દાગીના પર __________ માર્કો હોય છે. (ISI, એગમાર્ક, હોલમાર્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોલમાર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાગીનામાં હોલ (કાણું) પાડી શકાય, એટલે 'હોલમાર્ક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખાદ્ય પદાર્થો પર __________ માર્કો લગાડવામાં આવે છે. (ISI, એગમાર્ક, હોલમાર્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એગમાર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Ag'riculture (ખેતી) પ્રોડક્ટ માટે 'Ag'mark. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શાકાહારી ખાદ્ય સામગ્રી પર __________ રંગનું નિશાન હોય છે. (લાલ, લીલા, વાદળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ કે શાકભાજી 'લીલા' હોય, એટલે શાકાહારી માટે લીલું નિશાન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માંસાહારી ખાદ્ય સામગ્રી પર __________ રંગનું નિશાન હોય છે. (પીળા, કાળા, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહીનો રંગ લાલ હોય, એટલે માંસાહારી માટે 'લાલ' નિશાન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિશ્વમાં સૌથી વધુ ગ્રાહકો કયા દેશમાં છે? (અમેરિકા, ભારત, ચીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી વધુ વસ્તી અને બજાર ભારત પાસે છે, એટલે ભારત નં.1. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બજારનો રાજા કોણ ગણાય છે? (વેપારી, ઉત્પાદક, ગ્રાહક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહક રાજા છે, કારણ કે તેના વગર બજાર ન ચાલે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વસ્તુ પર છાપેલી કિંમતને __________ કહેવામાં આવે છે. (MRP, FPO, ISI)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MRP</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Maximum Retail Price = મહત્તમ છૂટક કિંમત (MRP). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ફળોના રસ (જ્યુસ) ના પેકિંગ પર __________ માર્કો હોય છે. (ISI, FPO, એગમાર્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> FPO</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fruit (ફળ) પરથી 'F'PO યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઉત્પાદનથી ગ્રાહક સુધીની કડી એટલે __________ . (બજાર, વિતરણ, ઉત્પાદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ઉત્પાદક અને ગ્રાહક માનસિક કે પ્રત્યક્ષ રીતે મળે તે બજાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખેડૂતને તેની ખેતપેદાશના પૂરતા ભાવ મળી રહે તે માટે __________ ની સ્થાપના કરવામાં આવી છે. (મહોલ્લા બજાર, ખેતીવાડી ઉત્પન્ન બજાર સમિતિ, શોપિંગ મોલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીવાડી ઉત્પન્ન બજાર સમિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતના ઉત્પન્નની બજાર માટેની સમિતિ એટલે APMC. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ટેલિવિઝન પર આવતી જાહેરાતો જોઈને ગ્રાહક કઈ રીતે છેતરાઈ શકે છે? (ઓછી કિંમત, લોભામણી જાહેરાત, સારી ગુણવત્તા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોભામણી જાહેરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાતો હંમેશા લોભ (લાલચ) આપે છે, એટલે સાવધાન! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જથ્થાબંધ વેપારી પાસેથી માલ ખરીદી ગ્રાહકને વેચે તેને __________ વેપારી કહેવાય. (છૂટક, ઉત્પાદક, એજન્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છૂટક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ અને ગ્રાહકની વચ્ચેની કડી એટલે છૂટક વેપારી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઉત્પાદકો અને ગ્રાહકો વચ્ચે __________ એક મહત્વની કડી છે. (શાળા, બજાર, હોસ્પિટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બે છેડાને જોડે (બનાવનાર અને વાપરનાર) તે બજાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વસ્તુની ગુણવત્તાની ખાતરી આપવા સરકાર દ્વારા __________ સંસ્થા કાર્યરત છે. (BIS, LIC, ONGC)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> BIS</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bureau of Indian Standards (BIS) ધોરણો નક્કી કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અમદાવાદમાં ભરાતી 'ગુજરી બજાર' કયા નામે પણ ઓળખાય છે? (રવિવારી બજાર, શનિવારી બજાર, સોમવારી બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રવિવારી બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદની પ્રખ્યાત ગુજરી 'રવિવારે' જ ભરાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શાકભાજીના ફેરિયાઓ કઈ બજારનું ઉદાહરણ છે? (શોપિંગ મોલ, છૂટક બજાર, ઓનલાઇન બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છૂટક બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેરિયાઓ થોડો-થોડો માલ છૂટક વેચે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગ્રાહકે હંમેશા વસ્તુ ખરીદતી વખતે __________ લેવાનો આગ્રહ રાખવો જોઈએ. (ઉધાર ચિઠ્ઠી, પાકું બિલ, સાદું કાગળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાકું બિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બિલ હશે પાકું, તો ગ્રાહક હક રહેશે આખું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બજારમાં સમાનતા માટે સરકારે __________ વ્યવસ્થા કરી છે. (નિયંત્રિત બજાર, મોંઘી બજાર, કાળી બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયંત્રિત બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયંત્રણ (Control) હોય તો જ બધાને સમાન તક મળે. (NJ Classes)</p></div>"
+    }
+  ]
+}
