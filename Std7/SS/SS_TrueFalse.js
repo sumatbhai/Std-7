@@ -306,3 +306,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "દિલ્હી સલ્તનત",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દિલ્હી સલ્તનતની સ્થાપના ઈ.સ. 1206 માં કુતુબુદ્દીન ઐબકે કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1206 માં ઐબકે કર્યો પાયો પાકો' - ગુલામ વંશથી સલ્તનતની શરૂઆત થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઈલ્તુત્મિશને દિલ્હી સલ્તનતનો સાચો સ્થાપક માનવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલ્તુત્મિશે સામ્રાજ્યને સ્થિરતા આપી, એટલે તે 'સાચો સ્થાપક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રઝિયા સુલતાના ગિયાસુદ્દીન બલબનની પુત્રી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> રઝિયા સુલતાના ઈલ્તુત્મિશની પુત્રી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈલ્તુની પુત્રી રઝિયા' - બલબન તો પછીથી આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કુતુબ મિનારનું બાંધકામ કુતુબુદ્દીન ઐબકે પૂર્ણ કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> કુતુબ મિનારનું બાંધકામ ઈલ્તુત્મિશે પૂર્ણ કરાવ્યું હતું; ઐબકે તો માત્ર તેનો પાયો નાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઐબકે શરૂ કર્યું, ઈલ્તુએ પૂરું કર્યું' - મિનારની યાદગીરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દિલ્હીની ગાદી પર બેસનાર પ્રથમ મહિલા શાસક રઝિયા સુલતાના હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રઝિયા = 'રાણી નંબર 1' સલ્તનત યુગની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગિયાસુદ્દીન બલબને 'ચહલગાન' (દળ ચાલીસા) નાશ કરીને શાસન પર પોતાની પકડ મજબૂત કરી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલબન હતો બળવાન, જેણે હટાવ્યું ચહલગાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખલજી વંશની સ્થાપના અલાઉદ્દીન ખલજીએ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ખલજી વંશની સ્થાપના જલાલુદ્દીન ખલજીએ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જલાલુદ્દીન જનક, અલાઉદ્દીન આક્રમક' - સ્થાપક જલાલુદ્દીન હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અલાઉદ્દીન ખલજીએ દિલ્હીમાં સ્થાયી સૈન્યની શરૂઆત કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન = શિસ્ત અને સ્થાયી સેનાનો શોખીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તુઘલક વંશના શાસનકાળ દરમિયાન મહંમદ-બિન-તુઘલકે રાજધાની દિલ્હીથી દોલતાબાદ સ્થાનાંતરિત કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહંમદ-બિન-તુઘલકની 'તરંગી યોજના' એટલે દિલ્હી થી દોલતાબાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઢાઈ દિન કા ઝોંપડા મસ્જિદ દિલ્હીમાં આવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ઢાઈ દિન કા ઝોંપડા મસ્જિદ અજમેરમાં આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અજમેર અને 'અ' થી અઢી દિન કા ઝોંપડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સૈયદ વંશની સ્થાપના ખિઝરખાંએ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈયદ = ખિઝરખાં (યાદ રાખો S-K જોડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઈબ્રાહિમ લોદી લોદી વંશનો પ્રથમ શાસક હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> લોદી વંશની સ્થાપના બહલોલ લોદીએ કરી હતી; ઈબ્રાહિમ લોદી તો અંતિમ શાસક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહલોલ પ્રથમ, ઈબ્રાહિમ છેલ્લો' - લોદી વંશની આ છે ખેલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ ઈ.સ. 1526 માં થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1526 = સલ્તનતનો અંત અને મુઘલોની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સલ્તનત કાળમાં મંત્રીમંડળના વડાને 'વઝીર' કહેવામાં આવતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વઝીર એટલે આજનો મુખ્યમંત્રી કે વડાપ્રધાન જેવો પાવરફુલ માણસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિજયનગર સામ્રાજ્યની સ્થાપના હરિહરરાય અને બુક્કારાય નામના બે ભાઈઓએ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગરમાં હરિ (હરિહર) અને બુક્કા (બુક્કારાય) નો વિજય થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કૃષ્ણદેવરાય વિજયનગર સામ્રાજ્યના સર્વશ્રેષ્ઠ શાસક હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણદેવરાય = વિજયનગરના સાચા હીરો અને તેલુગુ સાહિત્યના પ્રેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બહમની રાજ્યની સ્થાપના હસન ગંગુએ (ઝફરખાં) કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહમની હસ્યો' - હસન ગંગુએ સ્થાપના કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તાલીકોટાનું યુદ્ધ ઈ.સ. 1565 માં થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1565 માં વિજયનગરનું પતન થયું, તાલીકોટા મેદાનમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કુતુબુદ્દીન ઐબકને તેની ઉદારતાને કારણે 'લાખબક્ષ' કહેવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાખ આપનાર = લાખબક્ષ = ઐબક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અલાઉદ્દીન ખલજીએ દાગ અને ચહેરા પદ્ધતિની શરૂઆત કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડા પર 'દાગ' અને સૈનિકનો 'ચહેરો' - આ અલાઉદ્દીનની અસલી પદ્ધતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ફિરોઝશાહ તુઘલકે દિલ્હીમાં 'સિરી' નગર વસાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> સિરી નગર અલાઉદ્દીન ખલજીએ વસાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખલજીની સિરી' - ફિરોઝશાહ તો નહેરો અને બગીચા માટે જાણીતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કૃષ્ણદેવરાયે વિજયનગરમાં નાગલપુર નામનું નગર વસાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેની માતા નાગલાદેવીની યાદમાં 'નાગલપુર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તુઘલક વંશના શાસકોએ દિલ્હીની ગાદી પર સૌથી વધુ સમય શાસન કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુઘલક = સૌથી લાંબો સમય (લગભગ 94 વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અલાઉદ્દીન ખલજીએ ભાવ નિયંત્રણ માટે સખત નિયમો બનાવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન એટલે માર્કેટ કંટ્રોલનો માસ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સલ્તનત કાળમાં ગ્રામીણ વહીવટના વડાને 'મુખી' કે 'ચૌધરી' કહેવામાં આવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં આજે પણ 'મુખી' શબ્દ પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગુલબર્ગા અને બીડર એ બહમની સામ્રાજ્યના મુખ્ય શહેરો હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહમની = ગુલબર્ગા' તેની પ્રથમ રાજધાની હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ઈબ્નબતૂતા નામના આફ્રિકન મુસાફરે મહંમદ-બિન-તુઘલકના સમયની મુલાકાત લીધી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોરોક્કોનો મુસાફર મોહમ્મદ પાસે' - બંને M પરથી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બલબને સલ્તનતમાં દિલ્હીમાં 'કુવ્વત-ઉલ-ઈસ્લામ' મસ્જિદ બનાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> કુવ્વત-ઉલ-ઈસ્લામ મસ્જિદ કુતુબુદ્દીન ઐબકે બનાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ સુલતાન = પ્રથમ મસ્જિદ (ઐબક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બહલોલ લોદીએ અફઘાન સરદારોને સન્માન આપવાની પરંપરા શરૂ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહલોલ પોતે અફઘાન હતો અને ભાઈચારામાં માનતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દિલ્હી સલ્તનતનો છેલ્લો વંશ સૈયદ વંશ હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> દિલ્હી સલ્તનતનો છેલ્લો વંશ લોદી વંશ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્રમ યાદ રાખો: ગુ-ખ-તુ-સ-લો' (ગુલામ, ખલજી, તુઘલક, સૈયદ, લોદી).</p></div>"
+    }
+  ]
+}
