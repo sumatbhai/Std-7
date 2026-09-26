@@ -880,3 +880,111 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "વનવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જનજાતિના લોકો પાસે અત્યંત સમૃદ્ધ લેખિત દસ્તાવેજો ઉપલબ્ધ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, જનજાતિના લોકો પાસે લેખિત દસ્તાવેજો નહોતા, પરંતુ તેઓ સમૃદ્ધ મૌખિક પરંપરાઓનું જતન કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનવાસી = વાચા (બોલવું), લેખિત નહીં માત્ર મૌખિક વારસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જનજાતીય સમુદાયો જમીન અને જમીન પેદાશો પર સંયુક્ત રીતે નિયંત્રણ રાખતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. જનજાતિના લોકો સામૂહિકતાના સિદ્ધાંત પર જીવતા હતા અને જમીનની વહેંચણી પોતાના નિયમો મુજબ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનજાતિ એટલે 'બધાનું સાથે' - જમીન પણ સાથે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખોખર જનજાતિ પંજાબમાં મુખ્યત્વે જોવા મળતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 13મી અને 14મી સદી દરમિયાન પંજાબમાં ખોખર અને ગખ્ખર જનજાતિઓ મુખ્ય હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબના 'ખોખરા' (ખોખર) પ્રખ્યાત છે એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અકબરે કમાલખાન ગખ્ખરને મનસબદાર બનાવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. મુઘલ સમ્રાટ અકબરે ગખ્ખર જાતિના વડા કમાલખાનને તેમની કુશળતાને કારણે મનસબદાર બનાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કમાલ' કર્યો એટલે 'અકબરે' પદ આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બલૂચ જનજાતિ ભારતના દક્ષિણ ભાગમાં સૌથી શક્તિશાળી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બલૂચ જનજાતિ ભારતના 'ઉત્તર-પશ્ચિમ' ભાગમાં સૌથી શક્તિશાળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલૂચ = પાકિસ્તાન/પશ્ચિમ બાજુ (નકશા મુજબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગઢ કટંગાના ગોંડ રાજ્યમાં 70,000 જેટલા ગામડાઓનો સમાવેશ થતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અકબરનામામાં ઉલ્લેખ છે કે ગઢ કટંગાના રાજ્યમાં 70,000 ગામડાઓ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત-ગઢ (70,000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રાણી દુર્ગાવતી અહમ રાજ્યની શક્તિશાળી શાસિકા હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રાણી દુર્ગાવતી 'ગોંડ' રાજ્ય (ગઢ કટંગા) ની શાસિકા હતી, અહમની નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુર્ગાવતી = ગોંડ (ગઢની રક્ષા કરનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અહમ લોકો મ્યાનમારથી આવીને બ્રહ્મપુત્ર નદીના ખીણ વિસ્તારમાં વસ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 13મી સદીમાં અહમ લોકો હાલના મ્યાનમારથી આવી અસમના બ્રહ્મપુત્ર ખીણ વિસ્તારમાં સ્થાયી થયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહમ = અસમ (બ્રહ્મપુત્રા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અહમ રાજ્યમાં બળજબરીથી કામ કરતા લોકોને 'પાBox' કહેવામાં આવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અહમ રાજ્યમાં જે લોકો પાસે રાજ્ય બળજબરીથી કામ કરાવતું તેને 'પાBox' (Paiks) કહેવાતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈક = પરાણે કામ કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બુરંજી નામની ઐતિહાસિક કૃતિઓને પહેલા અહમ ભાષામાં લખવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. બુરંજી એ અહમ લોકોની ઐતિહાસિક કૃતિઓ છે જે પહેલા અહમ અને પછી અસમિયા ભાષામાં લખાઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુરંજી = અહમ લોકોની ડાયરી/ઇતિહાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિચરતી જાતિના લોકો એક જગ્યાએ સ્થાયી રહીને ખેતી કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વિચરતી જાતિના લોકો પશુપાલન પર નિર્ભર હતા અને પોતાના પશુઓ સાથે એક જગ્યાએથી બીજી જગ્યાએ ફરતા રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિચરતી = વિચરણ કરનાર (ફરનારા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બંજારા ભારતની સૌથી મહત્વની વિચરતી જાતિ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. બંજારાઓ વેપારી પોઠો દ્વારા માલસામાનની હેરફેર કરતા અને અર્થતંત્રમાં મહત્વનો ફાળો આપતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારા = બિઝનેસ (વેપાર) કરનાર વિચરતી જાતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બંજારાઓના સમૂહને 'ટાંડા' કહેવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. બંજારાઓ જ્યારે પોઠો સાથે સમૂહમાં નીકળતા ત્યારે તેને 'ટાંડા' કહેવાતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારાની ટોળી = ટાંડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગોંડ લોકો સ્થળાંતરિત ખેતી (ઝૂમ ખેતી) કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ગોંડ જનજાતિ જંગલો કાપીને તેને સળગાવીને ત્યાં ખેતી કરતી હતી, જેને સ્થળાંતરિત ખેતી કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોંડ = ગ્રાઉન્ડ બદલીને ખેતી (સ્થળાંતરિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અહમ સમાજ કુળમાં વહેંચાયેલો હતો, જેને 'ખેલ' કહેવામાં આવતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. અહમ વહીવટીતંત્રમાં કુળને 'ખેલ' તરીકે ઓળખવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહમ લોકો 'ખેલ' (કુળ) રમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગોંડ રાજ્યમાં દરેક ગઢ 84 ગામોના એક એકમમાં વહેંચાયેલો હતો, જેને 'ચોર્યાસી' કહેવાતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. વહીવટી સરળતા માટે 84 ગામોના સમૂહને ચોર્યાસી કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 84 = ચોર્યાસી (સીધું ગણિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગઢ કટંગાના ગોંડ રાજા અમનદાસે 'સંગ્રામશાહ' પદવી ધારણ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પોતાની સત્તા વધારવા માટે અમનદાસે સંગ્રામશાહનું બિરુદ ધારણ કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમન = શાંતિ પણ પદવી સંગ્રામની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગુજરાતના ડાંગ અને અન્ય પૂર્વીય પટ્ટીમાં જનજાતીય રાજ્યો અસ્તિત્વમાં નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ગુજરાતના ડાંગ અને પૂર્વીય પટ્ટીના વિસ્તારોમાં સંતરામપુર અને દેવગઢબારિયા જેવા શક્તિશાળી જનજાતીય રાજ્યો હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગ દરબાર યાદ કરો, ત્યાં જનજાતિ શાસન હતું જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અકબરના સેનાપતિ રાજા માનસિંહે શેરશાહ સૂરીના સમયમાં ચેરો જાતિ પર હુમલો કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રાજા માનસિંહે ઈ.સ. 1591 માં અકબરના શાસનકાળ દરમિયાન ચેરો જનજાતિ પર હુમલો કરી તેમને હરાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનસિંહ = અકબરના રત્ન (શેરશાહ નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જનજાતિઓ મોટે ભાગે જંગલો, પહાડો અને રણ જેવા દુર્ગમ સ્થળોએ રહેતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પોતાની સ્વતંત્રતા જાળવી રાખવા માટે તેઓ કુદરતી અને દુર્ગમ સ્થાનો પર રહેવાનું પસંદ કરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનવાસી = વન (જંગલ) માં રહેવાસી.</p></div>"
+    }
+  ]
+}
