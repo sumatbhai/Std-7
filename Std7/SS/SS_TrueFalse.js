@@ -988,3 +988,136 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "વિચરતી અને વિમુક્ત જાતિઓ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિચરતી અને વિમુક્ત જાતિના લોકો એક જ સ્થળે સ્થાયી રહીને જીવન જીવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: વિચરતી અને વિમુક્ત જાતિના લોકો પોતાના પશુઓ સાથે એક જગ્યાએથી બીજી જગ્યાએ સતત ફરતા રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિચરતી' શબ્દમાં જ 'વિચરણ' (ફરવું) છુપાયેલું છે. એટલે કે તેઓ ક્યારેય સ્થાયી ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બંજારા ભારતની સૌથી અગત્યની વિચરતી જાતિ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારા = 'બજાર' નો રાજા. વેપાર માટે સૌથી વધુ ફરતી જાતિ એટલે બંજારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બંજારાઓના સમૂહને 'ટાંડા' તરીકે ઓળખવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારાની આખી ટોળી જ્યારે 'ટાંય-ટાંય' કરતી (સામાન સાથે) નીકળે તેને 'ટાંડા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અલાઉદ્દીન ખલજી દિલ્હીના બજારો સુધી અનાજ લાવવા માટે બંજારાઓનો ઉપયોગ કરતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખલજી એટલે 'ખોરાક' (અનાજ) ની વ્યવસ્થા માટે બંજારા પર નિર્ભર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મુઘલ બાદશાહ જહાંગીરે તેના સંસ્મરણોમાં બંજારાઓ દ્વારા બળદો પર અનાજ લાદીને શહેરોમાં વેચવાના કાર્યનો ઉલ્લેખ કર્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર 'જહાજ' નહિ પણ બંજારાના 'બળદ' ગાડાં જોઈને રાજી થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "યુદ્ધ દરમિયાન બંજારાઓ મુઘલ સેના માટે અનાજ અને ચીજવસ્તુઓ લાવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈનિકો લડે મેદાનમાં, અનાજ લાવે બંજારા ગાડામાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નટ અને બજાણિયા જેવી જાતિઓ વિભિન્ન અંગકસરતો દ્વારા લોકોનું મનોરંજન કરતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નટ = 'નાટક' અને કસરત. મનોરંજનના માસ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગોંડ લોકો 'સ્થળાંતરિત ખેતી' (Shifting Cultivation) કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોંડ = જંગલમાં રહીને ખેતી 'ગોળ-ગોળ' ફેરવે (એટલે કે જગ્યા બદલે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગોંડ રાજ્યમાં દરેક ગઢ 74 ગામોના એક એકમમાં વહેંચાયેલો હતો, જેને 'ચોર્યાસી' કહેતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: દરેક ગઢ 84 (ચોર્યાસી) ગામોના એક એકમમાં વહેંચાયેલો હતો, 74 ગામોમાં નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'ચોર્યાસી' છે, તો સંખ્યા 84 જ હોય ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચોર્યાસીને 'બારહોતો' માં પેટા-વિભાજિત કરવામાં આવી હતી, જે દરેક 12-12 ગામોના બનેલા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર'હોતો = '12' (બાર) ગામોનું જૂથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગઢકટંગાના ગોંડ રાજ્યમાં હાથીઓનો વેપાર કરીને પુષ્કળ ધન મેળવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઢકટંગા = હાથીઓનો અડ્ડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાણી દુર્ગાવતી અહમ રાજ્યની શક્તિશાળી શાસિકા હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: રાણી દુર્ગાવતી ગઢકટંગાના 'ગોંડ' રાજ્યની શાસિકા હતી, અહમ રાજ્યની નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુર્ગાવતી = ગઢ (કિલ્લો) સાચવનાર ગોંડ રાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અહમ લોકો 13મી સદીમાં હાલના મ્યાનમારથી આવી બ્રહ્મપુત્ર નદીના ખીણ વિસ્તારમાં વસ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહમ = આસામ (બ્રહ્મપુત્ર નદીનો પ્રદેશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અહમ રાજ્યમાં જે લોકો પાસે ફરજિયાત કામ લેવાતું તેને 'પાઇક' કહેવામાં આવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ કરવા માટે 'પાઇક' (પગ) ચલાવવા પડે, એટલે મજૂર = પાઇક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બુરંજી નામની ઐતિહાસિક કૃતિઓને પહેલા અહમ ભાષામાં અને પછી આસામી ભાષામાં લખવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુરંજી = અહમ લોકોની 'ડાયરી' (ઇતિહાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિચરતી જાતિના પશુપાલકો દૂધ, ઘી વગેરેના બદલામાં અનાજ, કપડાં અને વાસણો મેળવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ વિનિમય પ્રથા - પશુ પેદાશ આપો, ઘરવખરી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગઢકટંગા પર આસફખાનના નેતૃત્વ હેઠળની મુઘલ સેનાએ હુમલો કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસફખાન VS દુર્ગાવતી (ગઢકટંગાની જંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અહમ સમાજ કુળોમાં વહેંચાયેલો હતો, જેને 'ખેલ' કહેવામાં આવતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહમ લોકો 'ખેલ' (કુળ) દિલથી રમતા (જીવતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગોંડ રાજા સંગ્રામશાહના પુત્ર દલપતે ચંદેલ રાજપૂત રાજાની પુત્રી રાજકુમારી દુર્ગાવતી સાથે લગ્ન કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દલપત + દુર્ગાવતી = ગોંડ-રાજપૂત મિલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગુજરાતમાં ડાંગ અને અન્ય પૂર્વીય પટ્ટીમાં ગોંડ જેવા આદિવાસી સમૂહો જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતની પૂર્વ પટ્ટી = આદિવાસી સંસ્કૃતિનો ગઢ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિચરતી જાતિના લોકો કાયમી દસ્તાવેજો રાખતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: તેઓ લેખિત દસ્તાવેજો રાખતા નહોતા, પરંતુ તેમની પરંપરાઓ મૌખિક રીતે સાચવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરતા લોકો દસ્તાવેજ નહિ, 'યાદો' અને 'ગીતો' સાથે રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અહમ રાજ્યમાં જનગણના (Census) કરવામાં આવતી ન હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: અહમ રાજ્યમાં વસ્તી ગણતરી (જનગણના) કરવામાં આવતી હતી અને તેના આધારે જ પાઇકની સંખ્યા નક્કી થતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહમ = એડવાન્સ વહીવટ (ગણતરી તો કરે જ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શિબસિંહના સમયમાં હિન્દુ ધર્મ અહમ રાજ્યનો મુખ્ય ધર્મ બન્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિબસિંહ = શિવ (હિન્દુ ધર્મ) ના પ્રભાવવાળા રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાંગસિયા અને મોઢવાડિયા ગુજરાતની વિચરતી જાતિઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંગસિયા = કાંસકી (દાંતિયો) વેચનારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અહમ લોકો દ્વારા ચોખાની ખેતીની નવી પદ્ધતિઓ શોધવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસામ (અહમ) એટલે ચોખાનો પ્રદેશ.</p></div>"
+    }
+  ]
+}
