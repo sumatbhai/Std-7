@@ -1462,3 +1462,111 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીનું સૌથી ઉપરનું પડ 'સિયાલ' (SiAl) તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Si (સિલિકા) + Al (એલ્યુમિના) = સિયાલ. ઉપરનું પડ હલકું હોય એટલે તે 'સિયાલ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મહાસાગરનું પડ મુખ્યત્વે સિલિકા અને એલ્યુમિનાનું બનેલું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: મહાસાગરનું પડ સિલિકા અને મેગ્નેશિયમનું બનેલું હોય છે, જેને 'સીમા' (SiMa) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગરમાં 'સીમા' (Sima) હોય, 'સિયાલ' (Sial) જમીન પર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પૃથ્વીનું સૌથી આંતરિક સ્તર 'મેન્ટલ' તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: પૃથ્વીનું સૌથી આંતરિક સ્તર 'ભૂગર્ભ' (Core) અથવા 'નીફે' (NiFe) તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની ત્રણ લேயર યાદ રાખો: પોપડો -> મેન્ટલ -> ભૂગર્ભ (સૌથી અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આગ્નેય ખડકોને પ્રાથમિક ખડકો પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગ' (મેગ્મા) ઠરવાથી સૌથી પહેલા બને એટલે 'આગ્નેય' અને 'પ્રાથમિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બેસાલ્ટ એ બાહ્ય આગ્નેય ખડકનું ઉત્તમ ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' થી બહાર અને 'બ' થી બેસાલ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગ્રેનાઈટ એ જળકૃત ખડકનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ગ્રેનાઈટ એ 'આંતરિક આગ્નેય' ખડકનું ઉદાહરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેનાઈટ જમીનની 'અંદર' ધીમે ધીમે ઠરે છે, તેથી તે આંતરિક આગ્નેય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખડકોના નાના ટુકડાઓ ઘસડાઈને એક જગ્યાએ જમા થાય તેને પ્રસ્તર ખડકો કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તરો (Layers) માં ગોઠવાય તેને જ પ્રસ્તર કે જળકૃત કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જીવાશ્મિ માત્ર આગ્નેય ખડકોમાં જ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: જીવાશ્મિ માત્ર 'જળકૃત' (પ્રસ્તર) ખડકોમાં જ જોવા મળે છે, કારણ કે આગ્નેય ખડકો ગરમ મેગ્મામાંથી બને છે જેમાં જીવ બચી ન શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ ક્યાં દબાય? જ્યાં માટીના થર (સ્તર) થાય ત્યાં! એટલે કે પ્રસ્તર ખડકમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચૂનાનો પથ્થર રૂપાંતરિત થઈને આરસપહાણ (માર્બલ) બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ગરમી અને દબાણથી ચૂનો 'આરસ' માં બદલાઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પૃથ્વીના પોપડાની નીચે જે સ્થળે ધ્રુજારી ઉત્પન્ન થાય છે તેને 'અધિકેન્દ્ર' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: જે સ્થળેથી ધ્રુજારી ઉત્પન્ન થાય તેને 'ઉદગમ કેન્દ્ર' (Focus) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉદગમ = જ્યાંથી ઉદભવે (જમીનની નીચે), અધિકેન્દ્ર = જમીનની ઉપરનું સૌથી નજીકનું બિંદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નદી જ્યારે મેદાની ક્ષેત્રમાં પ્રવેશ કરે છે ત્યારે તે વળાંકવાળા માર્ગે વહે છે, જેને 'સર્પાકાર વળાંક' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેદાનમાં નદી સાપની જેમ 'ઝિગ-ઝેગ' ચાલે એટલે સર્પાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નદીના મુખ પાસે કાંપના નિક્ષેપણથી બનતા ત્રિકોણાકાર પ્રદેશને 'ડેલ્ટા' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી જ્યારે દરિયાને મળે ત્યારે 'ડેલ્ટા' (મુખત્રિકોણ) બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમુદ્રના મોજાંના સતત ઘસારાને કારણે બનતી દીવાલ જેવા સ્વરૂપને 'સ્ટેક' (Stack) કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુફા -> કમાન -> અને છેલ્લે માત્ર દીવાલ એટલે 'સ્ટેક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "હિમનદી દ્વારા લાવવામાં આવેલ પદાર્થો જમા થતા 'હિમ અશ્માવલી' (Moraine) રચાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમ એટલે બરફ અને અશ્માવલી એટલે પથ્થરોનો ઢગલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રણ પ્રદેશમાં પવન દ્વારા બનતા પથ્થરના વિશિષ્ટ આકારને 'છત્રક શિલા' (Mushroom Rock) કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન નીચેનો ભાગ વધુ ઘસે એટલે તે બિલાડીના ટોપ (Mushroom) જેવો દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રેતીના ઢુવા (Sand Dunes) નદીના કાર્યને કારણે બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: રેતીના ઢુવા 'પવન' ના નિક્ષેપણ કાર્યને કારણે બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતી કોણ ઉડાડે? પવન! એટલે ઢુવા પણ પવન જ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પૃથ્વીની આંતરિક ગરમીને કારણે ખડકો પીગળેલી અવસ્થામાં હોય તેને 'મેગ્મા' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્મા એટલે પૃથ્વીનો 'ગરમ લાવા' જે અંદર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લોએસ (Loess) ના મેદાનો ચીન દેશમાં મોટા પ્રમાણમાં જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાતળી રેતી જ્યારે દૂર સુધી પથરાય ત્યારે તેને 'લોએસ' કહેવાય, જે ચીનમાં પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પૃથ્વીની સૌથી અંદરના સ્તર 'નીફે' માં મુખ્યત્વે નિકલ અને લોખંડ (Ferrous) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ni (નિકલ) + Fe (ફેરસ/લોખંડ) = નીફે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભૂકંપ માપવા માટે 'થર્મોમીટર' સાધન વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ભૂકંપ માપવા માટે 'સિસ્મોગ્રાફ' (ભૂકંપ આલેખક) વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મોમીટર તાવ માપે, સિસ્મોગ્રાફ પૃથ્વીની ધ્રુજારી (ભૂકંપ) માપે.</p></div>"
+    }
+  ]
+}
