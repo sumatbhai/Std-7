@@ -1121,3 +1121,211 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નવમી સદીમાં સ્થાપવામાં આવેલું મહોદયપુરમનું ચેર રાજ્ય હાલના તમિલનાડુનો એક ભાગ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મહોદયપુરમનું ચેર રાજ્ય હાલના <b>કેરળ</b>નો એક ભાગ હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેરળ' એટલે 'ચેર' - યાદ રાખો 'કે-ચેર' (કેરળમાં ચેર શાસન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મલયાલમ ભાષા કેરળમાં બોલાતી મુખ્ય ભાષા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલયાલમ = કેરળની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મણિપ્રવાલમ્ શૈલીમાં લખાયેલ 'લીલાતિલકમ્' ગ્રંથ વ્યાકરણ અને કાવ્યશાસ્ત્રનો ગ્રંથ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લીલા' એ 'વ્યાકરણ' શીખી. (લીલાતિલકમ્ = વ્યાકરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બંગાળી ભાષાનો ઉદ્ભવ સંસ્કૃત ભાષામાંથી થયો હોવાનું માનવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતીય મોટાભાગની ભાષાઓની જનની 'સંસ્કૃત' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નરસિંહ મહેતાને ગુજરાતી ભાષાના આદિકવિ માનવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી સાહિત્યની શરૂઆત નરસિંહના પદોથી થઈ, એટલે તેઓ 'આદિ' (પ્રથમ) કવિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મીરાંબાઈએ માત્ર હિન્દી ભાષામાં જ પદો રચ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મીરાંબાઈએ ગુજરાતી અને હિન્દી બંને ભાષામાં પદો રચ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાં એટલે રાજસ્થાન + ગુજરાત (બંનેની મિશ્રિત અસર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પ્રેમાનંદને ગુજરાતી સાહિત્યમાં 'આખ્યાન શિરોમણી' તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમથી આખ્યાન ગાય તે પ્રેમાનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જગન્નાથ પુરીની રથયાત્રા માત્ર ભારતમાં જ પ્રખ્યાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: જગન્નાથ પુરીની રથયાત્રા વિશ્વવિખ્યાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જગન્નાથ' એટલે જગતના નાથ, તેમની યાત્રા આખા જગતમાં પ્રખ્યાત હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હોળીનો તહેવાર ફાગણ સુદ પૂનમના દિવસે ઉજવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાગણની ફુલગુલાબી ઠંડીમાં હોળીની જ્વાળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બરસાનામાં ઉજવાતી હોળી 'લઠ્ઠમાર હોળી' તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરસાનાની ગોપીઓ 'લાઠી' (લઠ્ઠ) થી હોળી રમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુર્ગાપૂજાનો તહેવાર મહારાષ્ટ્રમાં વિશેષ મહત્વ ધરાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દુર્ગાપૂજા પશ્ચિમ બંગાળમાં વિશેષ મહત્વ ધરાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળી બાબુ અને દુર્ગા પૂજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઈદ-ઉલ-ફિત્ર એટલે બલિદાનની ઈદ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઈદ-ઉલ-અઝહા એટલે બલિદાનની ઈદ; જ્યારે ઈદ-ઉલ-ફિત્ર રમઝાન ઈદ તરીકે ઓળખાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઝહા = આહુતિ (બલિદાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પોંગલ એ તમિલનાડુ રાજ્યનો મુખ્ય તહેવાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પોંગલ' એટલે 'તમિલ' - યાદ રાખવું 'પી.ટી.' (Pongal - Tamilnadu).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઓણમ કેરળમાં ઉજવાતો તહેવાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓણમ - કેરળ - નૌકાસ્પર્ધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કથક નૃત્યનો સંબંધ ઉત્તર ભારત સાથે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કથક' કરે ઉત્તર ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભરતનાટ્યમ નૃત્ય શૈલીનો ઉદ્ભવ આંધ્રપ્રદેશમાં થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભરતનાટ્યમનો ઉદ્ભવ તમિલનાડુના તાંજોર જિલ્લામાં થયો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતનું 'તમિલ'નાડુ = ભરતનાટ્યમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કુચિપુડી નૃત્ય આંધ્રપ્રદેશનું પ્રખ્યાત નૃત્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંધ્રના લોકો 'કુચી' (કુચિપુડી) ખાય. </p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કથકલી એ કેરળની નૃત્ય પરંપરા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કલી' ખીલે 'કેરળ' માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મણિપુરી નૃત્યમાં શ્રીકૃષ્ણની બાળલીલા અને રાસલીલા મુખ્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિપુરી = ભક્તિ નૃત્ય (કૃષ્ણ ભક્તિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લઘુચિત્રો એટલે મોટા કદના ચિત્રો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લઘુચિત્રો એટલે નાના કદના ચિત્રો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુ = નાનું, ગુરુ = મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાંગડા શૈલીના ચિત્રોમાં વાદળી અને લાલ રંગનો ઉપયોગ થતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાંગડા શૈલીમાં વાદળી અને લીલા રંગનો ઉપયોગ મુખ્યત્વે થતો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંગડાની 'કુદરત' (લીલો અને વાદળી રંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રાજસ્થાનના ચારણ અને બારોટો વીરગાથાઓને કાવ્ય અને ગીતો દ્વારા રજૂ કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચારણ-બારોટ = વીરગાથાના ગાયક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વીરની યાદમાં બાંધવામાં આવતા સ્મારકને 'પાળિયા' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પળાય (રક્ષણ કરે) તેના માટે પાળિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પશ્ચિમ બંગાળમાં માછલીનો આહાર તરીકે ઉપયોગ થતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: બંગાળમાં નદીઓ અને દરિયા કિનારો હોવાથી માછલી અને ભાત મુખ્ય આહાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળી માછલી (Machher Jhol).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બૃહદ્ધર્મ પુરાણમાં બંગાળી બ્રાહ્મણોને માછલી ખાવાની છૂટ આપવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુરાણમાં મંજૂરી = ખાસ પરંપરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ચૈતન્ય મહાપ્રભુએ બંગાળમાં ભક્તિ આંદોલન ચલાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૈતન્ય = બંગાળના ભક્ત કવિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બૈસાખી એ પંજાબનો લણણીનો તહેવાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબ + વૈશાખ મહિનો = બૈસાખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગુજરાતની રથયાત્રા માત્ર અમદાવાદમાં જ નીકળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગુજરાતના અનેક શહેરોમાં રથયાત્રા નીકળે છે, પણ અમદાવાદની રથયાત્રા સૌથી મોટી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદ મુખ્ય પણ એકમાત્ર નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કથક નૃત્યમાં સ્ત્રીઓ અને પુરુષો બંને ભાગ લે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથક એ સાર્વત્રિક નૃત્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લઘુચિત્રો કાપડ અને કાગળ પર પાણીના રંગોથી બનાવવામાં આવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપડ/કાગળ + પાણીના રંગ = લઘુચિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ભાષા હંમેશા સ્થિર રહે છે, તેમાં ક્યારેય ફેરફાર થતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભાષા સમય જતાં બદલાય છે અને પ્રાદેશિક સંસ્કૃતિ મુજબ તેમાં નવા શબ્દો ઉમેરાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિવર્તન એ સંસારનો (અને ભાષાનો) નિયમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "હિમાચલ પ્રદેશમાં 'બસોહલી' નામની લઘુચિત્રકળાની શૈલી વિકસી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહાડી ચિત્રકલા = બસોહલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "મોગલ બાદશાહ અકબર ચિત્રકલાનો વિરોધી હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: અકબરે ચિત્રકલાને પ્રોત્સાહન આપ્યું હતું અને અનેક કુશળ ચિત્રકારોને દરબારમાં આશ્રય આપ્યો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોગલો ચિત્રકલાના પ્રેમી હતા (ખાસ કરીને જહાંગીર અને અકબર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નરસિંહ મહેતાના 'વૈષ્ણવ જન' ભજનને ગાંધીજી ખૂબ જ ચાહતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી + વૈષ્ણવ જન = ફેમસ જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ભાલણે સૌ પ્રથમ ગુજરાતી ભાષા માટે 'ગુર્જર ભાષા' શબ્દનો પ્રયોગ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાલણ = 'ગુર્જર ભાષા' ના જન્મદાતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બંગાળમાં સ્થાપત્યમાં 'દો-ચાલા' એટલે બે છાપરાંવાળું મંદિર.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દો = ૨, ચાલા = છત (છાપરું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઓડિસી નૃત્ય ઓડિશાનું પ્રચલિત નૃત્ય નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઓડિસી નૃત્ય ઓડિશાનું જ મુખ્ય પ્રચલિત નૃત્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ કામ છે - ઓડિસી એટલે ઓડિશા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મુહર્રમને મુસ્લિમ બિરાદરો શોકના દિવસ તરીકે ઉજવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુહર્રમ = શોક અને તાજિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "લોહડીનો તહેવાર હોળી જેવો જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (કારણ: લોહડીમાં પણ હોળીની જેમ અગ્નિ પ્રગટાવી પૂજા કરવામાં આવે છે, તે પંજાબમાં ઉજવાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહડી = પંજાબી હોળી (મકરસંક્રાંતિના આગલા દિવસે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મણિપુરી નૃત્યના બે પ્રકાર છે: લાસ્થ્ય અને તાંડવ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાસ્થ્ય (કોમળ) અને તાંડવ (રૌદ્ર) - મણિપુરીના બે રંગ.</p></div>"
+    }
+  ]
+}
