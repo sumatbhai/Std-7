@@ -1570,3 +1570,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીના ઉપરના ઘન પોપડાને મૃદાવરણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદ' એટલે માટી, એટલે કે માટીનું બનેલું આવરણ એટલે મૃદાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જલાવરણ પૃથ્વીની સપાટીનો આશરે 29% ભાગ રોકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: જલાવરણ પૃથ્વીની સપાટીનો આશરે 71% ભાગ રોકે છે, જ્યારે મૃદાવરણ 29% ભાગ રોકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પર પાણી (જલ) વધુ છે એટલે મોટો આંકડો 71% યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાતાવરણમાં નાઈટ્રોજન વાયુનું પ્રમાણ આશરે 78% જેટલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાઈટ્રોજન = ન' અને 'નેવું (90) ની નજીકનો મોટો આંકડો 78' એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઓઝોન વાયુ સૂર્યના પારજાંબલી કિરણોનું શોષણ કરી પૃથ્વીને રક્ષણ આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન એટલે પૃથ્વીની કુદરતી 'છત્રી' જે સૂર્યના તાપથી બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માનવનિર્મિત પર્યાવરણને જૈવિક પર્યાવરણ તરીકે પણ ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: માનવનિર્મિત પર્યાવરણને 'સાંસ્કૃતિક પર્યાવરણ' તરીકે ઓળખવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવ જે બનાવે તે તેની 'સંસ્કૃતિ' કહેવાય, એટલે સાંસ્કૃતિક પર્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મૃદાવરણમાં ખડકો અને ખનિજોનો સમાવેશ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદાવરણ એટલે જમીન, અને જમીનની અંદર જ ખડક અને ખનિજ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમુદ્રના પાણીમાં મીઠાનું પ્રમાણ હોતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સમુદ્રનું પાણી ખારું હોય છે કારણ કે તેમાં ઓગળેલા ક્ષારો/મીઠું હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયો = મીઠું (ગાંધીજીની દાંડી કૂચ યાદ કરો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાતાવરણ પૃથ્વીની સપાટીથી આશરે 1600 કિમી ઊંચાઈ સુધી વિસ્તરેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણની ઊંચાઈ માટે 'સોળસો' (1600) આંકડો ફિક્સ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જીવાવરણમાં વનસ્પતિ, પ્રાણીઓ અને જીવજંતુઓનો સમાવેશ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીવ' જેમનામાં હોય તે બધા જ 'જીવાવરણ' માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રદૂષણ ફેલાવનાર ઘટકને પ્રદૂષક (Pollutant) કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રદૂષણ કરે તે 'પ્રદૂષક'. જેમ રસોઈ કરે તે રસોઈયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભૂમિ પ્રદૂષણ રોકવા માટે પ્લાસ્ટિકનો વધુમાં વધુ ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભૂમિ પ્રદૂષણ રોકવા પ્લાસ્ટિકનો ઉપયોગ ઘટાડવો જોઈએ અથવા ટાળવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક જમીન માટે 'ઝેર' છે, તો તેને ઘટાડવું જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જળ પ્રદૂષણ અટકાવવા ઉદ્યોગોના દૂષિત પાણીને શુદ્ધ કર્યા વગર નદીમાં છોડવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ઉદ્યોગોના પાણીને શુદ્ધ (Recycle/Treat) કર્યા પછી જ નદીમાં છોડવું જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી નદીમાં જાય તો નદી પણ ગંદી થાય, એટલે શુદ્ધિકરણ જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાયુ પ્રદૂષણ માટે વાહનોનો ધુમાડો મુખ્ય કારણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાહન ચાલે એટલે ધુમાડો નીકળે, ધુમાડો હવામાં ભળે એટલે વાયુ પ્રદૂષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધ્વનિ પ્રદૂષણને કારણે માનવીમાં બહેરાશ આવી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ અવાજ (Noise) કાનને નુકસાન કરે, એટલે બહેરાશ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પૃથ્વી પર મીઠા પાણીનો મુખ્ય સ્ત્રોત સમુદ્ર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પૃથ્વી પર મીઠા પાણીનો મુખ્ય સ્ત્રોત હિમશિખરો, ભૂગર્ભ જળ, નદીઓ અને સરોવરો છે. સમુદ્રનું પાણી ખારું હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્ર = ખારું, વરસાદ અને નદી = મીઠું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પર્યાવરણના મુખ્ય ચાર ઘટકો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદાવરણ, જલાવરણ, વાતાવરણ અને જીવાવરણ - આ ચાર ભાઈઓ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પર્યાવરણ શબ્દ 'પરિ' અને 'આવરણ' એમ બે શબ્દોનો બનેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિ (ચારે બાજુ) + આવરણ (પડ) = પર્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ આશરે 21% છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન મોટો ભાઈ (78%) અને ઓક્સિજન નાનો ભાઈ (21%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેતીમાં રાસાયણિક ખાતરોનો વધુ પડતો ઉપયોગ ભૂમિ પ્રદૂષણ ફેલાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ જમીનમાં જાય તો જમીન બગડે, એટલે જમીન પ્રદૂષણ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રજકણો વાતાવરણમાં જોવા મળતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: વાતાવરણમાં ધૂળના રજકણો, ક્ષારકણો અને સૂક્ષ્મ જીવજંતુઓ પણ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યનું કિરણ અંધારા રૂમમાં આવે ત્યારે જે દેખાય તે રજકણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રેડિયો અને દૂરદર્શનના પ્રસારણો વાતાવરણને આભારી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજના તરંગો હવામાં (વાતાવરણમાં) મુસાફરી કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ધ્વનિ પ્રદૂષણને અટકાવવા માટે સિનેમાહોલમાં ધ્વનિશોષક પડદા લગાવવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજને સોષી લે (Absorb) તેવા પડદા અવાજનું પ્રદૂષણ ઘટાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સૌર મંડળમાં માત્ર પૃથ્વી પર જ જીવાવરણ અસ્તિત્વમાં છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યાર સુધીની શોધ મુજબ જીવ માત્ર પૃથ્વી પર જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પ્લાસ્ટિકનો ઉપયોગ ઘટાડવો એ પર્યાવરણના બચાવ માટેનું એક પગલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક મુક્ત પૃથ્વી = સ્વસ્થ પૃથ્વી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વાતાવરણ પૃથ્વીને રાત્રે અતિશય ગરમ અને દિવસે અતિશય ઠંડી રાખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: વાતાવરણ પૃથ્વીને દિવસે અતિશય ગરમીથી અને રાત્રે અતિશય ઠંડીથી બચાવે છે - તાપમાન જાળવી રાખે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણ પૃથ્વી માટે 'બ્લેન્કેટ' (ધાબળા) જેવું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વૃક્ષો વાવવાથી વાયુ પ્રદૂષણ ઘટે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષો 'ફેફસાં' છે, તે હવાને ચોખ્ખી કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જૈવિક પર્યાવરણમાં ભૂમિ, જળ અને હવાનો સમાવેશ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભૂમિ, જળ અને હવા અજૈવિક (Non-living) ઘટકો છે, જ્યારે વનસ્પતિ અને પ્રાણીઓ જૈવિક ઘટકો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૈવિક = જેમાં જીવ હોય; અજૈવિક = જેમાં જીવ ના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વાયુ પ્રદૂષણને અટકાવવા માટે CNG અને LPG જેવા બળતણનો ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CNG/LPG એ 'ક્લીન ફ્યુઅલ' (ચોખ્ખું બળતણ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પૃથ્વીની આસપાસ વીંટળાઈને આવેલા હવાના આવરણને વાતાવરણ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાત (હવા) + આવરણ = વાતાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ધ્વનિ પ્રદૂષણને 'ઘોંઘાટ' પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણગમતો અને મોટો અવાજ એટલે જ ઘોંઘાટ.</p></div>"
+    }
+  ]
+}
