@@ -2069,3 +2069,261 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "સંસાધનોનું જતન અને સંરક્ષણ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માનવીની જરૂરિયાતો સંતોષતા કુદરતી તત્ત્વોને 'સંસાધન' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસાધન = ઉપયોગીતા. જે કુદરતી વસ્તુ માનવીને કામ લાગે તે સંસાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૃથ્વી સપાટી પરનું પડ, જેમાં વનસ્પતિ ઉગે છે તેને 'જમીન' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન એટલે પૃથ્વીનું ઉપરનું પાતળું પડ જે ખેતી માટે જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાંપની જમીન મુખ્યત્વે પર્વતીય વિસ્તારોમાં જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાંપની જમીન નદીઓના મેદાની પ્રદેશોમાં જોવા મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી = કાંપ. પર્વત પર તો પથરાળ કે પર્વતીય જમીન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાળી જમીનને 'રેગુર' જમીન તરીકે પણ ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાળી-રેગુર' (Black-Regur). કપાસ માટે બેસ્ટ જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જળ એ અખૂટ સંસાધન છે, તેનો ગમે તેટલો વપરાશ કરી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પીવાલાયક મીઠું પાણી ખૂબ જ મર્યાદિત છે, તેથી તેનો વિવેકપૂર્વક ઉપયોગ કરવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જળ એ જ જીવન' - પણ તે કિંમતી અને મર્યાદિત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પર્વતીય ક્ષેત્રોમાં સીડીદાર ખેતી (Terrace Farming) કરવાથી જમીનનું ધોવાણ અટકાવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ પર સીડી બનાવો તો પાણીની ગતિ ધીમી પડે અને ધોવાણ અટકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રણ પ્રકારની જમીન ખૂબ જ ફળદ્રુપ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: રણની જમીન રેતાળ હોય છે અને તેમાં જૈવિક દ્રવ્યોનો અભાવ હોય છે, તેથી તે ઓછી ફળદ્રુપ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ = રેતી + ઓછો વરસાદ = ઓછી ફળદ્રુપતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વૃક્ષારોપણ કરવાથી જમીનનું ધોવાણ વધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: વૃક્ષોના મૂળ જમીનને પકડી રાખે છે, જેનાથી ધોવાણ ઘટે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળિયાં = જમીનનો ફેવીકોલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પૃથ્વી પર જળ સંસાધનનો મુખ્ય સ્ત્રોત વરસાદ (વૃષ્ટિ) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ મીઠું પાણી આકાશમાંથી (વરસાદ રૂપે) જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સૌર ઊર્જા, પવન ઊર્જા અને ભરતી ઊર્જા પુનઃપ્રાપ્ય સંસાધનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ક્યારેય ખૂટતા નથી તે 'પુનઃપ્રાપ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વન્યજીવો એ કુદરતની અનન્ય ભેટ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુ-પક્ષીઓ પર્યાવરણની સંતુલન જાળવી રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગીર રાષ્ટ્રીય ઉદ્યાન વાઘ માટે જાણીતું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગીર રાષ્ટ્રીય ઉદ્યાન એશિયાઈ સિંહ માટે જાણીતું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીર = સાવજ (સિંહ), અને વાઘ માટે તો જિમ કોર્બેટ કે કાન્હા જાણીતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખનિજો એ અખૂટ સંસાધન છે, ગમે તેટલા વાપરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ખનિજો મર્યાદિત છે અને તેને બનતા લાખો વર્ષ લાગે છે, તેથી તે ખૂટી જાય તેવા સંસાધન છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જમીનમાંથી ખોદીને કાઢીએ તે એક દિવસ તો ખાલી થશે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વનસ્પતિ અને પ્રાણીઓના અવશેષોમાંથી બનેલા સેન્દ્રિય પદાર્થો જમીનની ફળદ્રુપતા વધારે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરો (સેન્દ્રિય) = ખાતર = ફળદ્રુપ જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નદીઓ પર બંધ બાંધવાથી જળ સંરક્ષણ થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ (Dam) = પાણીનો સંગ્રહ + બચાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેટરાઈટ જમીનને 'પડખાઉ' જમીન પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેટરાઈટ એટલે ધોવાઈ ગયેલી, જેને ગુજરાતીમાં 'પડખાઉ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કચ્છના નાના રણમાં ઘુડખર (જંગલી ગધેડા) જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છનું નાનું રણ = ઘુડખરનું એકમાત્ર નિવાસસ્થાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શિકાર કરવાથી વન્યજીવોની સંખ્યામાં વધારો થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: શિકાર કરવાથી વન્યજીવો નાશ પામે છે અને તેમની સંખ્યામાં ઘટાડો થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકાર = વિનાશ. સંરક્ષણ = વિકાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભૂગર્ભ જળનો જથ્થો વધારવા માટે 'ચેકડેમ' બનાવવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહેતું પાણી રોકો તો જ તે જમીનમાં ઉતરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચિરોડી (જિપ્સમ) એ એક અધાતુમય ખનિજ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ, સોનું ધાતુ; પથ્થર કે ચિરોડી અધાતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વધારે પડતા પશુચરાણથી જમીનનું ધોવાણ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુઓ ઘાસ ખાઈ જાય એટલે જમીન ખુલ્લી પડી જાય અને ધોવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જમીનનું ધોવાણ એટલે જમીનના કણોનું ગતિશીલ હવા કે પાણી દ્વારા એક સ્થળેથી બીજા સ્થળે ખસેડાવું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોવાણ = સ્થળાંતર (કણોનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગુજરાતમાં નળ સરોવર પક્ષી અભયારણ્ય આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળ સરોવર = યાયાવર (વિદેશી) પક્ષીઓનું સ્વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પર્વતીય જમીનમાં ચા, કોફી અને તેજાનાના પાક લેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચા-કોફી હંમેશા પહાડો પર જ સારા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંસાધનોનું સંરક્ષણ એટલે તેનો બિલકુલ ઉપયોગ ન કરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સંરક્ષણ એટલે સંસાધનોનો વિવેકપૂર્ણ અને કરકસરભર્યો ઉપયોગ કરવો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષણ = સાચવીને વાપરવું, વાપરવાનું બંધ કરવું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ટીપક સિંચાઈ પદ્ધતિ (Drip Irrigation) પાણીના બચાવ માટે ઉત્તમ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપે ટીપે પાણી બચાવો, સીધું મૂળમાં પહોંચાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગંગાના મેદાનમાં લાલ જમીન વધુ પ્રમાણમાં જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગંગાના મેદાનમાં કાંપની જમીન વધુ જોવા મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેદાન હંમેશા નદીના કાંપથી જ બનેલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "લોખંડ, તાંબુ અને જસત એ ધાતુમય ખનિજો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેને ટીપીને પતરું બનાવી શકાય તે ધાતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જંગલો વાતાવરણને શુદ્ધ રાખવામાં મદદ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષો = ઓક્સિજનના ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પૃથ્વી પર ઉપલબ્ધ મીઠા પાણીનું પ્રમાણ ખૂબ જ વધારે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પૃથ્વી પર મીઠા પાણીનું પ્રમાણ માત્ર 3% જેવું જ છે, બાકીનું બધું ખારું પાણી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બહુ છે, પણ મીઠું (પીવાલાયક) બહુ ઓછું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ખનિજ તેલ અને કોલસો પુનઃઅપ્રાપ્ય સંસાધન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકવાર સળગાવ્યા પછી પાછા ન મળે, તે પુનઃઅપ્રાપ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઘાસ અને વનસ્પતિને કાપવાથી જમીનનું ધોવાણ ઘટે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: વનસ્પતિ કાપવાથી જમીન ખુલ્લી પડી જાય છે અને ધોવાણ વધે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ એ જમીનનું રક્ષણ કવચ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ગુજરાતમાં પિરોટન ટાપુ પાસે દરિયાઈ રાષ્ટ્રીય ઉદ્યાન આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જામનગર + પિરોટન = મરીન નેશનલ પાર્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ખેતી માટે ક્ષારવાળી જમીન સૌથી વધુ ઉત્તમ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ક્ષારવાળી જમીનમાં પાક ઉગતો નથી, ફળદ્રુપ જમીન ખેતી માટે ઉત્તમ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું (ક્ષાર) ખેતીનો દુશ્મન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વન્યજીવ સંરક્ષણ માટે સરકાર અભયારણ્યોની સ્થાપના કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અભયારણ્ય = જ્યાં જીવોને ભય ન હોય (અ+ભય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "રણની રેતીને આગળ વધતી અટકાવવા માટે વૃક્ષોની હારમાળા (રક્ષક મેખલા) બનાવવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષોની દિવાલ રણની રેતીને રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કાદવ-કીચડવાળી જમીનને 'દલદલ' પ્રકારની જમીન કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીની અને સેન્દ્રિય પદાર્થોવાળી જમીન = દલદલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ખનિજો કુદરતી રીતે અકાર્બનિક ક્રિયાથી બનેલા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખનિજો પૃથ્વીના પેટાળમાં રાસાયણિક પ્રક્રિયાથી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વન્યજીવોને પીવાના પાણીની સુવિધા માટે વન્ય વિસ્તારોમાં કુદરતી જળસ્ત્રોતો હોવા જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી વગર કોઈ પણ સજીવ જીવી ન શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વૃક્ષો કાપવાથી પર્યાવરણનું સંતુલન જોખમાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછા વૃક્ષો = ઓછો વરસાદ + વધારે ગરમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "પર્વતીય ઢોળાવ પર જંગલોનું પ્રમાણ વધુ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી રીતે પહાડો જંગલોથી ઘેરાયેલા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ખનિજોની અછત ઊભી થાય ત્યારે તેનો વિકલ્પ શોધવો જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: જો ખનિજો ખૂટી જાય, તો તેના વિકલ્પો શોધવા જ પડે જેથી ભવિષ્યની પેઢીને મુશ્કેલી ન પડે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકલ્પ (Option) હંમેશા રાખવો પડે, નહીં તો પ્રગતિ અટકી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વન્ય પ્રાણીઓના અંગો (હાડકાં, દાંત, ચામડું) વેચવા પર કાયદેસર પ્રતિબંધ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકાર અને અંગોનો વેપાર એ ગુનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "ચૂનાનો પત્થર એ ધાતુમય ખનિજ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ચૂનાનો પત્થર એ અધાતુમય ખનિજ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્થર એટલે 'અધાતુ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વરસાદી પાણીનો સંગ્રહ કરવા ખેત-તલાવડી બનાવી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેત-તલાવડી = ખેતરનું પાણી ખેતરમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "લદ્દાખમાં આવેલા પશુઓમાં પશ્મિના બકરી પ્રખ્યાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લદ્દાખ = ઠંડી = ગરમ પશ્મિના ઉન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કાળી જમીન ભેજ સંગ્રહ કરવાની શક્તિ ધરાવતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાળી જમીન ભેજ સંગ્રહ કરવાની ખૂબ જ વધારે શક્તિ ધરાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળી જમીન = ભેજની તેજોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "સીમા સુરક્ષા દળ રણ પ્રદેશમાં ઊંટનો ઉપયોગ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણનું વહાણ = ઊંટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જમીન સંરક્ષણ માટે પડતર જમીન પર વૃક્ષારોપણ કરવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાલી જગ્યા (પડતર) + વૃક્ષ = સુધરેલી જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "તાપી અને નર્મદા જેવી નદીઓ પર બંધ બાંધીને વીજળી ઉત્પન્ન કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ = પાણી + વીજળી (Hydro-electricity).</p></div>"
+    }
+  ]
+}
