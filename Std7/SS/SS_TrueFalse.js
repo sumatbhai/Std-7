@@ -2327,3 +2327,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "લોકશાહીમાં સમાનતા",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારત વિશ્વમાં સૌથી મોટી લોકશાહી ધરાવતો દેશ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત = સૌથી મોટું લોકતંત્ર (મોટું દેશ, મોટી લોકશાહી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લોકશાહીમાં સરકારનું સંચાલન લોકો દ્વારા થતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: લોકશાહીમાં શાસન લોકોનું, લોકો માટે અને લોકો દ્વારા જ ચાલે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી = લોકોનું શાસન (લોક + શાહી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતનું બંધારણ વિશ્વનું સૌથી મોટું લેખિત બંધારણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ = સૌથી લાંબી ગીતા (લેખિત અને મોટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બંધારણમાં સૌને સમાન તક આપવાનું નક્કી કરવામાં આવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ એટલે સમાનતાનો પાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતમાં ૧૬ વર્ષની ઉંમરે મતાધિકાર પ્રાપ્ત થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ભારતમાં ૧૮ કે તેથી વધુ વર્ષની ઉંમરના નાગરિકને મતાધિકાર મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોટિંગ = 'અઢારે અબીલ ગુલાલ' (૧૮ વર્ષે મતાધિકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ચૂંટણીમાં કોઈપણ પ્રકારના ભેદભાવ વગર દરેક નાગરિક મત આપી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મતાધિકારમાં સૌ સમાન (Universal Adult Franchise).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચૂંટણી પંચ દ્વારા જે નાગરિકોની ઉંમર ૧૮ વર્ષ પૂર્ણ હોય અને મતદાર યાદીમાં નામ હોય તે જ મતદાન કરી શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૮ વર્ષ + યાદીમાં નામ = મતદાનની પરમિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતમાં ધર્મના આધારે મતાધિકારમાં ભેદભાવ રાખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ભારતમાં ધર્મ, જાતિ કે લિંગના આધારે કોઈ ભેદભાવ વગર સમાન મતાધિકાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીમાં 'એક મત, એક મૂલ્ય' (કોઈ ધર્મ વચ્ચે નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દરેક નાગરિકને લઘુતમ વેતન ચૂકવવું તે કાયદાકીય જોગવાઈ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ સમાન, વેતન સમાન (આર્થિક સમાનતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાળમજૂરી એ કાયદાનો ભંગ ગણાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો માટે શાળા, નહીં કે કારખાના (Child Labor = Illegal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મધ્યાહ્ન ભોજન યોજનાની શરૂઆત સૌ પ્રથમ ગુજરાત રાજ્યમાં થઈ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મધ્યાહ્ન ભોજન યોજનાની શરૂઆત સૌ પ્રથમ તમિલનાડુ રાજ્યમાં થઈ હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તમિલ' ના છોકરાઓએ પહેલા જમ્યું (Tamil Nadu First).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મધ્યાહ્ન ભોજન યોજનાથી બાળકોના નામાંકનમાં વધારો થયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભોજન મળશે તો જ ભણશે (વધુ હાજરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લોકશાહીમાં સમાનતા એટલે સૌને શિક્ષણ મેળવવાની સરખી તક.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન શિક્ષણ = સમાન ભવિષ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દરેક મતનું મૂલ્ય અલગ-અલગ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: લોકશાહીમાં દરેક નાગરિકના મતનું મૂલ્ય એકસરખું હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વન પર્સન, વન વોટ, વન વેલ્યુ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લોકશાહીમાં લોકોના ઉત્થાન માટે બંધારણમાં સમાનતાની જોગવાઈ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ = સમાનતાનો સુરક્ષા કવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારતીય બંધારણ ૬ થી ૧૪ વર્ષના બાળકોને મફત અને ફરજિયાત શિક્ષણનો અધિકાર આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RTE = ૬ થી ૧૪ (ભણવાનો અધિકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અસ્પૃશ્યતા એ સામાજિક સમાનતાનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: અસ્પૃશ્યતા એ સમાનતાના અધિકારનો ભંગ છે અને તે કાયદેસર ગુનો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્પૃશ્યતા = અસમાનતા અને ગુનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મતદાન મથકો પર દિવ્યાંગો માટે ખાસ સુવિધા હોવી જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: દિવ્યાંગો સરળતાથી મતદાન કરી શકે તે માટે ચૂંટણી પંચ ખાસ સુવિધા પૂરી પાડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌનો સાથ, સૌનો મત (દિવ્યાંગોને પણ સગવડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વ્યક્તિગત રીતે સમાનતા જાળવવી એ દરેક નાગરિકની ફરજ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતાની શરૂઆત મારાથી અને તમારાથી જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સ્ત્રી અને પુરુષને સમાન કામ માટે અલગ-અલગ વેતન આપવું એ સમાનતા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: સમાન કામ માટે સમાન વેતન આપવું એ જ સાચી સમાનતા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ સેમ (Same), પગાર સેમ (Same).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લોકશાહીમાં ચૂંટણી એ લોકશાહીનું જીવંત તત્વ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂંટણી = લોકશાહીના ધબકારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ભારતના દરેક નાગરિકને કોઈ પણ ધર્મ પાળવાની છૂટ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ભારત બિનસાંપ્રદાયિક દેશ છે, એટલે દરેકને પોતાની પસંદગીનો ધર્મ પાળવાની છૂટ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત = સર્વધર્મ સમભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગામના સરપંચની ચૂંટણીમાં પણ સમાનતાના ધોરણે મતદાન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી નાનામાં નાના એકમ (ગામ) થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નાના બાળકોને ચાની લારી પર કામ કરાવવું એ કાયદેસર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ૧૪ વર્ષથી ઓછી ઉંમરના બાળકોને કામ પર રાખવા એ બાળમજૂરી અને ગુનો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છોટું એ ભણવા જવાનું છે, ચા આપવા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લોકશાહીમાં નાગરિકોને પોતાની વાત રજૂ કરવાની સમાન તક મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી = અભિવ્યક્તિની સ્વતંત્રતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જાહેર સ્થળો જેમ કે બગીચા કે બસ સ્ટેશન પર અમુક જાતિના લોકોને જ પ્રવેશ મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: જાહેર સ્થળો પર દરેક નાગરિકને સમાન પ્રવેશનો અધિકાર છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેર સ્થળ = સૌ માટે ખુલ્લું સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સ્વતંત્ર ભારતના બંધારણમાં અસ્પૃશ્યતા નાબૂદ કરવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્ટિકલ ૧૭ = અસ્પૃશ્યતા ખતમ (બંધારણનો જાદુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મતાધિકાર એ લોકશાહીમાં સૌથી મોટું હથિયાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોટ = પરિવર્તનની ચાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મધ્યાહ્ન ભોજન યોજનાથી જ્ઞાતિગત ભેદભાવોમાં વધારો થયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મધ્યાહ્ન ભોજન યોજનામાં તમામ જ્ઞાતિના બાળકો સાથે બેસીને જમે છે, જે ભેદભાવ ઘટાડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંગતમાં ભેગા જમે, એટલે ભેદભાવ ભમે (દૂર જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બંધારણ મુજબ સ્ત્રી-પુરુષ સમાનતા માટે કોઈ કાયદો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: બંધારણમાં લિંગના આધારે ભેદભાવ કરવાની મનાઈ છે અને સ્ત્રી-પુરુષ સમાનતા સ્વીકારેલી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણની નજરમાં ભાઈ-બહેન સમાન.</p></div>"
+    }
+  ]
+}
