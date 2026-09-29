@@ -2485,3 +2485,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારત એક સંઘાત્મક (Union) રાજ્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંઘ એટલે કેન્દ્ર અને રાજ્ય બંનેનું જોડાણ. ભારત બંને સ્તરે સરકાર ધરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રાજ્યનો વહીવટ કેન્દ્ર સરકાર ચલાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> રાજ્યનો વહીવટ રાજ્ય સરકાર ચલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં 'રાજ્ય સરકાર' અને દેશમાં 'કેન્દ્ર સરકાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુજરાતની વિધાનસભાના સભ્યોની સંખ્યા 182 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાત = 182 (એક-આઠ-બે) બેઠકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિધાન પરિષદ એ ધારાસભાનું નીચલું ગૃહ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> વિધાન પરિષદ એ ધારાસભાનું ઉપલું ગૃહ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ - પરિષદ - પાછળથી (ઉપલું), સ - સભા - સીધું (નીચલું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુજરાતમાં વિધાન પરિષદ આવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ગુજરાતમાં માત્ર વિધાનસભા જ છે, વિધાન પરિષદ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં માત્ર એક જ ગૃહ 'વિધાનસભા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિધાનસભાના સભ્યને ધારાસભ્ય કે MLA તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MLA = Member of Legislative Assembly.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિધાનસભાના સભ્ય બનવા માટે ઓછામાં ઓછી 21 વર્ષની ઉંમર હોવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> સભ્ય બનવા માટે ઓછામાં ઓછી 25 વર્ષની ઉંમર હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મતદાન 18 માં, ધારાસભ્ય 25 માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિધાનસભા એ કાયમી ગૃહ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> વિધાનસભાની મુદત 5 વર્ષની હોય છે, તે કાયમી ગૃહ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિષદ કાયમી હોય, સભા 5 વર્ષે બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુજરાતની વિધાનસભા ગાંધીનગર ખાતે આવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજધાની ગાંધીનગરમાં જ વિધાનસભા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગુજરાતના વિધાનસભા ભવનનું નામ વિઠ્ઠલભાઈ પટેલ ભવન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિઠ્ઠલભાઈ પટેલ - ગુજરાતના પનોતા પુત્રના નામે ભવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજ્યના બંધારણીય વડા મુખ્યમંત્રી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> રાજ્યના બંધારણીય વડા રાજ્યપાલ (Governor) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણીય વડા = રાજ્યપાલ, વહીવટી વડા = મુખ્યમંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજ્યપાલની નિમણૂક રાષ્ટ્રપ્રમુખ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ કેન્દ્રના પ્રતિનિધિ છે, એટલે રાષ્ટ્રપતિ નિમણૂક કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મુખ્યમંત્રીની નિમણૂક રાજ્યપાલ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુમતી પક્ષના નેતાને રાજ્યપાલ મુખ્યમંત્રી બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મંત્રીમંડળમાં ચાર કક્ષાના મંત્રીઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> મંત્રીમંડળમાં ત્રણ કક્ષાના મંત્રીઓ હોય છે: કેબિનેટ, રાજ્ય કક્ષા અને નાયબ મંત્રી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંત્રીઓના 3 લેવલ: કેબિનેટ, રાજ્ય અને નાયબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વહીવટી તંત્રના વડાને સચિવ (Secretary) કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંત્રીઓ નીતિ ઘડે, સચિવો અમલ કરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આરોગ્ય એટલે ફક્ત રોગોનો અભાવ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> આરોગ્ય એટલે શારીરિક, માનસિક, સામાજિક અને આધ્યાત્મિક રીતે ક્ષેમકુશળતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલ્થ = શરીર + મન + સમાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "WHO નું વડું મથક સ્વિટ્ઝરલેન્ડના જિનીવા ખાતે આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WHO - World Health Organization = Geneva.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સરકારી હોસ્પિટલોમાં સારવાર ખર્ચાળ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> સરકારી હોસ્પિટલોમાં સારવાર મફત અથવા નજીવા દરે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી એટલે સસ્તું અને જાહેર સેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "108 સેવાનો ઉપયોગ અકસ્માત સમયે તબીબી સારવાર માટે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 108 = જીવાદોરી એમ્બ્યુલન્સ સેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જનની સુરક્ષા યોજના દ્વારા પ્રસુતિ પછી મહિલાને આર્થિક સહાય મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનની એટલે માતા, સુરક્ષા એટલે પ્રોટેક્શન/સહાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રાજ્યની ધારાસભામાં ઓછામાં ઓછા 60 સભ્યો હોવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનસભા રેન્જ: 60 થી 500 બેઠકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રાજ્યપાલ ધારાસભાના સત્રને બોલાવી શકતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> રાજ્યપાલ ધારાસભાનું સત્ર બોલાવી શકે છે અને તેને વિખેરી પણ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ પાસે વિધાનસભા બોલાવવાની પાવર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લોકશાહીમાં 'સ્વાસ્થ્ય' એ રાજ્ય સરકારની પ્રાથમિક જવાબદારી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકોનું સ્વાસ્થ્ય એ જ લોકકલ્યાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ચૂંટણીમાં ચૂંટાયેલા બહુમતી પક્ષના નેતા મુખ્યમંત્રી બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ સીટ = મુખ્યમંત્રી પદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ખાનગી હોસ્પિટલો નફાના હેતુથી ચલાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનગી = પ્રાઇવેટ (વ્યક્તિગત માલિકી અને નફો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દરેક ખરડો (Bill) કાયદો બનતા પહેલા રાજ્યપાલની સહી જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલની સહી એટલે ખરડો બન્યો કાયદો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મુખ્યમંત્રી અમૃતમ (MA) યોજના કેન્સર જેવી ગંભીર બીમારીઓ માટે સહાય આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MA કાર્ડ = મફત સારવારનું વરદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિધાનસભાને 'નીચલું ગૃહ' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભા - લોકોનું સીધું (નીચલું), પરિષદ - ઉપલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રાજ્યનું મંત્રીમંડળ સામૂહિક રીતે વડાપ્રધાનને જવાબદાર હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> રાજ્યનું મંત્રીમંડળ વિધાનસભાને જવાબદાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં વિધાનસભાને જવાબદારી હોય, કેન્દ્રમાં લોકસભાને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિધાનસભાના સભ્યો લોકો દ્વારા સીધી રીતે ચૂંટાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે જઈને વોટ આપીએ એટલે એ 'સીધી ચૂંટણી' કહેવાય.</p></div>"
+    }
+  ]
+}
