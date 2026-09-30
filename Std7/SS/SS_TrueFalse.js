@@ -2801,3 +2801,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતીય સમાજમાં છોકરા અને છોકરીઓ વચ્ચે કોઈ જ ભેદભાવ જોવા મળતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે ભારતમાં હજી પણ અનેક ક્ષેત્રોમાં અને ઉછેરમાં જાતિગત ભિન્નતા કે ભેદભાવ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઉછેર' શબ્દ આવે એટલે યાદ રાખવું કે હજી સંપૂર્ણ સમાનતા આવી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ બનવાનું ગૌરવ શ્રીમતી પ્રતિભાસિંહ પાટીલને મળ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાષ્ટ્રના 'પ્રથમ' નાગરિક અને નામ પણ 'પ્રતિભા' - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઈન્દિરા ગાંધી ભારતના પ્રથમ મહિલા વડાપ્રધાન હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વડા' (PM) તરીકે લોખંડી મહિલા ઈન્દિરા ગાંધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સુષમા સ્વરાજને ભારતના પ્રથમ મહિલા વિદેશ મંત્રી તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ્વરાજ' એ 'વિદેશ' માં પણ ભારતનું નામ રોશન કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગૃહિણી દ્વારા કરવામાં આવતા ઘરકામનું કોઈ આર્થિક મૂલ્ય ગણવામાં આવતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (સામાજિક દ્રષ્ટિએ તેને આર્થિક વળતર મળતું નથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઘરકામ' એટલે વગર પગારની સેવા - જેનું મૂલ્ય આંકવું મુશ્કેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કલ્પના ચાવડા ભારતીય મૂળના પ્રથમ મહિલા અવકાશયાત્રી હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશની 'કલ્પના' સૌથી પહેલા ભારતીય મહિલાએ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લતા મંગેશકર 'સ્વર સામ્રાજ્ઞી' તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લતા એટલે મધુર 'લય' અને 'સ્વર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતમાં ૨૦૧૧ ની વસ્તી ગણતરી મુજબ સ્ત્રી અને પુરુષોના સાક્ષરતા દરમાં કોઈ તફાવત નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે સ્ત્રીઓનો સાક્ષરતા દર પુરુષો કરતા ઘણો નીચો જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સાક્ષરતા'માં હજી સ્ત્રીઓ પાછળ છે, આંકડામાં મોટો ગેપ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બાળલગ્ન થવાનું મુખ્ય કારણ છોકરા-છોકરીઓ વચ્ચેનો ભેદભાવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભેદભાવ = બાળલગ્ન જેવી કુપ્રથાનું મૂળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "છોકરીઓને પ્રાથમિક શિક્ષણ પૂર્ણ થાય તે પહેલાં જ ભણાવવાનું બંધ કરી દેવામાં આવે છે, જે અન્યાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અધૂરું શિક્ષણ એ જાતિગત અસમાનતાનું ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મહિલાઓને સમાન કામ માટે પુરુષો જેટલું જ વેતન દરેક ક્ષેત્રમાં આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અસંગઠિત ક્ષેત્રોમાં હજી પણ મહિલાઓને પુરુષો કરતા ઓછું વેતન મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામ સમાન પણ દામ (વેતન) અસમાન - આ વાસ્તવિકતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સુનીતા વિલિયમ્સ પણ ભારતીય મૂળના મહિલા અવકાશયાત્રી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જ&v;વાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કલ્પના પછી સુનીતાએ અવકાશમાં ધૂમ મચાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સરકારે છોકરીઓના શિક્ષણ માટે 'બેટી બચાવો, બેટી પઢાવો' અભિયાન શરૂ કર્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેટી બચશે તો જ ભણશે (પઢશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કુટુંબમાં સ્ત્રીઓને નિર્ણય લેવાની પ્રક્રિયામાં હંમેશા પ્રથમ પ્રાધાન્ય આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઘણા પરિવારોમાં હજી પણ સ્ત્રીઓને નિર્ણય લેવાની સત્તા હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિર્ણય લેવામાં સ્ત્રીઓની બાદબાકી એટલે પુરુષપ્રધાન સમાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આઝાદીના આંદોલનમાં મહિલાઓએ કોઈ ફાળો આપ્યો ન હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. આઝાદીની લડતમાં અનેક મહિલાઓએ જેલવાસ ભોગવ્યો હતો અને સક્રિય ફાળો આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી સાથે કસ્તુરબા અને સરોજિની નાયડુને યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "છોકરાઓને રમવા માટે સાયકલ અને છોકરીઓને ઢીંગલીઓ આપવી એ જાતિગત ભિન્નતા દર્શાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રમકડાંની પસંદગીથી જ ભેદભાવના બીજ રોપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઈન્દિરા ગાંધીએ ૧૯૭૧ ના યુદ્ધમાં પાકિસ્તાન સામે વિજય મેળવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોખંડી મહિલા એટલે મજબૂત નિર્ણયો અને વિજય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રાજસ્થાનમાં છોકરીઓનો સાક્ષરતા દર સૌથી ઊંચો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કેરળમાં સાક્ષરતા દર સૌથી વધુ છે, રાજસ્થાનમાં પ્રમાણમાં ઓછો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભણતરમાં 'કેરળ' નંબર વન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "છોકરીઓને રાત્રે બહાર નીકળવામાં ડર લાગે તેવી પરિસ્થિતિ માટે સમાજ જવાબદાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુરક્ષા અને સ્વતંત્રતા એ સામાજિક માનસિકતા પર આધારિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મહિલાઓ આજે રમતગમત, વિજ્ઞાન અને રાજકારણ જેવા ક્ષેત્રોમાં પણ આગળ વધી રહી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આધુનિક યુગમાં મહિલાઓ દરેક મેદાન મારી રહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બાળલગ્નને રોકવા માટે ભારતમાં કાયદો બનાવવામાં આવ્યો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બાળલગ્ન પ્રતિબંધક ધારો અમલમાં છે અને તે ગુનો બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાળલગ્ન એટલે જેલની હવા - કાયદો સખત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગામડાઓમાં હજી પણ છોકરીઓને ઉચ્ચ અભ્યાસ માટે શહેરમાં મોકલતા વાલીઓ ખચકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૂઢિચુસ્તતા અને સુરક્ષાની ચિંતા હજી નડતરરૂપ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "૧૯૦૧ માં સ્ત્રીઓનો સાક્ષરતા દર માત્ર ૦.૭% જેવો અત્યંત ઓછો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૦૦ વર્ષ પહેલા સ્ત્રી શિક્ષણ નહિવત હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મહિલા સશક્તિકરણ માટે સરકાર વિવિધ પ્રકારની સ્કોલરશીપ અને સહાય આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિક્ષણ માટે આર્થિક મદદ = સશક્તિકરણની સીડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પુરુષો ઘરકામમાં મદદ કરે તે સમાજમાં નબળાઈ ગણાય છે, જે ખોટી માન્યતા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘરકામ એ જવાબદારી છે, કોઈ લિંગ આધારિત કામ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભારતમાં દર ૧૦૦૦ પુરુષોએ સ્ત્રીઓનું પ્રમાણ (સેક્સ રેશિયો) હંમેશા વધુ રહ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભારતમાં મોટાભાગના રાજ્યોમાં પુરુષો કરતા સ્ત્રીઓની સંખ્યા ઓછી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ત્રીઓની સંખ્યા ઘટવી એ ચિંતાનો વિષય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પ્રતિભાસિંહ પાટીલ રાજસ્થાનના રાજ્યપાલ તરીકે પણ સેવા આપી ચૂક્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાષ્ટ્રપતિ બનતા પહેલા તેઓ રાજસ્થાનના ગવર્નર હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કન્યા કેળવણીને પ્રોત્સાહન આપવા માટે 'સરસ્વતી સાધના યોજના' હેઠળ સાયકલો આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાયકલની સવારી, કન્યા શિક્ષણની તૈયારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આધુનિક સમયમાં રસોઈ બનાવવી એ માત્ર સ્ત્રીઓની જ ફરજ ગણાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રસોઈ એ એક કળા છે જે સ્ત્રી કે પુરુષ કોઈ પણ કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટા શેફ (Cook) પુરુષો પણ હોય છે - કામના ભાગલા લિંગ પર ન હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ભારતમાં ૨૦૧૧ ની વસ્તી ગણતરી મુજબ દર ૧૦૦૦ પુરુષોએ સ્ત્રીઓની સંખ્યા ૯૪૩ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): '943' - આ આંકડો સ્ત્રી-પુરુષ અસમાનતા સૂચવે છે.</p></div>"
+    }
+  ]
+}
