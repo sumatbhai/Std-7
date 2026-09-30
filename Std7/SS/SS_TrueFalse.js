@@ -2959,3 +2959,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચીજવસ્તુઓનું વેચાણ કરનારને ગ્રાહક કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચીજવસ્તુઓ ખરીદનારને ગ્રાહક કહેવાય, વેચનારને વેપારી કહેવાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહક = ગ્રહણ કરનાર (ખરીદનાર), વેપારી = વેચનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મોહલ્લા બજારમાં ગ્રાહક અને વેપારી વચ્ચે સામાજિક સંબંધો જળવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડોશની દુકાન એટલે ઓળખાણ અને વિશ્વાસનું કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાપ્તાહિક બજારમાં વસ્તુઓ મોંઘી મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સાપ્તાહિક બજારમાં દુકાનનું ભાડું, વીજળી કે વેરો ભરવો પડતો નથી, તેથી વસ્તુઓ સસ્તી મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરી બજાર = ઓછા ખર્ચ = સસ્તી વસ્તુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મોહલ્લા બજારમાં ઉધાર ખરીદી કરવાની સુવિધા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓળખીતા વેપારી હોય એટલે ઉધાર મળે (Personal Bonding).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાપ્તાહિક બજારને મહારાષ્ટ્રમાં 'હાર્ટ' પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ્તાહિક બજાર = ગુજરી (ગુજરાત) = હાર્ટ (મહારાષ્ટ્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શોપિંગ મોલમાં ગ્રાહક વસ્તુને સ્પર્શ કર્યા વગર માત્ર જોઈને ખરીદી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોલમાં ગ્રાહક વસ્તુને જાતે જોઈ, તપાસી અને સ્પર્શ કરી શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ એટલે સેલ્ફ-સર્વિસ - જાતે જુઓ અને પસંદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિયંત્રિત બજાર એટલે APMC.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતો માટેનું કાયદેસરનું માર્કેટ એટલે APMC (માર્કેટ યાર્ડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઓનલાઈન શોપિંગમાં કેશ ઓન ડિલિવરીની સુવિધા હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોટાભાગની ઓનલાઈન સાઈટ્સ કેશ ઓન ડિલિવરી - COD ની સુવિધા આપે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથમાં વસ્તુ, પછી જ પૈસા = COD.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જથ્થાબંધ વેપારી છૂટક વેપારી અને ગ્રાહક વચ્ચેની કડી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (જથ્થાબંધ વેપારી એ ઉત્પાદક અને છૂટક વેપારી વચ્ચેની કડી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપ્લાય ચેઈન: ઉત્પાદક -> જથ્થાબંધ -> છૂટક -> ગ્રાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગ્રાહક જાગૃતિ માટે 'જાગો ગ્રાહક જાગો' અભિયાન ચલાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગૃતિ એટલે 'જાગો' - ગ્રાહકના અધિકારોનો પ્રચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખાદ્ય પદાર્થો પર ISI માર્ક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ખાદ્ય પદાર્થો પર એગમાર્ક (Agmark) કે FSSAI માર્ક હોય છે, ISI લોખંડ કે વીજળીના ઉપકરણો પર હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાવા માટે એગમાર્ક, મશીનરી માટે ISI.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સોના-ચાંદીના દાગીના પર હોલમાર્ક (Hallmark) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનાની શુદ્ધતા = હોલમાર્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારત સરકારે ગ્રાહક સુરક્ષા ધારો - 1986 અમલમાં મૂક્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1986 = ગ્રાહકનો કાયદો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગ્રાહકે કોઈપણ વસ્તુ ખરીદતી વખતે પાકું બિલ લેવું જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ગ્રાહકે હંમેશા પાકું બિલ લેવાનો આગ્રહ રાખવો જોઈએ જેથી છેતરપિંડી સમયે પુરાવો રહે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ એ ગ્રાહકનું રક્ષા કવચ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "24 ડિસેમ્બરને 'રાષ્ટ્રીય ગ્રાહક અધિકાર દિવસ' તરીકે ઉજવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૪ ડિસેમ્બર = ભારતનો ગ્રાહક દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "15 માર્ચને 'વિશ્વ ગ્રાહક અધિકાર દિવસ' તરીકે ઉજવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૫ માર્ચ = આખું વિશ્વ, ૨૪ ડિસેમ્બર = ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બજારમાં સમાનતા જોવા મળે છે, કારણ કે બધા જ ગ્રાહકો પાસે સરખી જ સંપત્તિ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બજારમાં આર્થિક અસમાનતા હોય છે, દરેક ગ્રાહકની ખરીદશક્તિ અલગ અલગ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખિસ્સામાં જેટલા પૈસા, એટલી મોટી બજાર (અસમાનતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શાકાહારી ખાદ્ય સામગ્રી પર લાલ રંગનું ચિહ્ન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (શાકાહારી પર લીલા રંગનું અને માંસાહારી પર લાલ રંગનું ચિહ્ન હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલું = ઘાસ/શાકભાજી (શાકાહાર), લાલ = માંસ (માંસાહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેડૂતોને તેમના પાકના યોગ્ય ભાવ મળે તે માટે માર્કેટિંગ યાર્ડ મહત્ત્વનું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્કેટિંગ યાર્ડ = ખેડૂતોનું રક્ષણ + હરાજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ખરીદેલ વસ્તુ ખામીયુક્ત હોય તો ગ્રાહક ગ્રાહક કોર્ટમાં ફરિયાદ કરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ વસ્તુ + બિલ = ગ્રાહક કોર્ટમાં ન્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વસ્તુ પર છાપેલી કિંમત (MRP) થી વધુ કિંમત વેપારી લઈ શકે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MRP = Maximum Retail Price (મહત્તમ કિંમત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સાપ્તાહિક બજારમાં કુટુંબના સભ્યો જ કામ કરતા હોવાથી મજૂરી ખર્ચ લાગતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરના સભ્યો = શૂન્ય મજૂરી ખર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "FSSAI માર્ક વીજળીના સાધનો માટે વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (FSSAI એ ખાદ્ય પદાર્થોની શુદ્ધતા માટે વપરાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂડ સેફ્ટી = FSSAI (F ફોર Food).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગ્રાહકે જાહેરાત જોઈને જ અંજાઈ જઈને વસ્તુ ખરીદવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ગ્રાહકે જાહેરાતથી અંજાયા વગર વસ્તુની ચકાસણી કરીને ખરીદવી જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાવ પર ના જાઓ, ગુણવત્તા પર જાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જથ્થાબંધ બજારમાં વસ્તુઓ નાના જથ્થામાં મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (જથ્થાબંધ બજારમાં વસ્તુઓ મોટા જથ્થામાં મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ = મોટો જથ્થો, છૂટક = નાનો જથ્થો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઉનનાં કપડાં પર 'વૂલમાર્ક' (Woolmark) નું ચિહ્ન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wool (ઉન) = Woolmark.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બજારમાં વસ્તુઓના ભાવ નક્કી કરવામાં હરિફાઈ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વેચાણ માટે વધુ સ્પર્ધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગ્રાહક પંચમાં ફરિયાદ કરવા માટે કોઈ ચોક્કસ ફી ભરવી પડતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (નાના દાવાઓ માટે પ્રક્રિયા સરળ અને ઓછી ખર્ચાળ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહક હિત સર્વોપરી - ન્યાય સસ્તો અને ઝડપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઓનલાઈન શોપિંગ દ્વારા સમય અને નાણાંની બચત થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ટરનેટ + શોપિંગ = ઘરબેઠા બચત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "તમામ ઉત્પાદકો પોતાની વસ્તુઓ ગ્રાહક સુધી સીધી પહોંચાડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મોટાભાગના ઉત્પાદકો વેપારીઓ દ્વારા ગ્રાહક સુધી વસ્તુ પહોંચાડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચેટિયાઓ (વેપારીઓ) દ્વારા જ વસ્તુ આપણા સુધી આવે.</p></div>"
+    }
+  ]
+}
