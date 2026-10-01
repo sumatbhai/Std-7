@@ -114,3 +114,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "મુગલ સામ્રાજ્ય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: <br> 1. બાબર <br> 2. અકબર <br> 3. શાહજહાં <br> 4. ઔરંગઝેબ <br> --- <br> (A) મહેલ અને સ્થાપત્યોનો પ્રેમી <br> (B) મુગલ સામ્રાજ્યનો સ્થાપક <br> (C) અસહિષ્ણુ અને કડક શાસક <br> (D) ઉદાર અને ધર્મનિરપેક્ષ શાસક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) બાબર : મુગલ સામ્રાજ્યનો સ્થાપક <br> 2 - (D) અકબર : ઉદાર અને ધર્મનિરપેક્ષ શાસક <br> 3 - (A) શાહજહાં : મહેલ અને સ્થાપત્યોનો પ્રેમી <br> 4 - (C) ઔરંગઝેબ : અસહિષ્ણુ અને કડક શાસક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'BHAJSA' યાદ રાખો (B-Babur, H-Humayun, A-Akbar, J-Jahangir, S-Shahjahan, A-Aurangzeb). પ્રથમ સ્થાપક અને છેલ્લો શક્તિશાળી ઔરંગઝેબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઐતિહાસિક યુદ્ધો અને તેના વર્ષ જોડો: <br> 1. પાણિપતનું પ્રથમ યુદ્ધ <br> 2. કનૌજનું યુદ્ધ <br> 3. હલ્દીઘાટીનું યુદ્ધ <br> 4. પાણિપતનું બીજું યુદ્ધ <br> --- <br> (A) ઈ.સ. 1540 <br> (B) ઈ.સ. 1526 <br> (C) ઈ.સ. 1556 <br> (D) ઈ.સ. 1576",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) પાણિપતનું પ્રથમ યુદ્ધ : 1526 <br> 2 - (A) કનૌજનું યુદ્ધ : 1540 <br> 3 - (D) હલ્દીઘાટીનું યુદ્ધ : 1576 <br> 4 - (C) પાણિપતનું બીજું યુદ્ધ : 1556</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 26 માં બાબર આવ્યો, 40 માં હુમાયુ ગયો, 56 માં અકબર આવ્યો અને 76 માં મહારાણા પ્રતાપ સામે લડ્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્થાપત્ય અને તેના નિર્માતા જોડો: <br> 1. આગ્રાનો કિલ્લો <br> 2. તાજમહાલ <br> 3. ફતેહપુર સિક્રી <br> 4. લાલ કિલ્લો (દિલ્હી) <br> --- <br> (A) શાહજહાં <br> (B) અકબર <br> (C) શાહજહાં <br> (D) અકબર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) આગ્રાનો કિલ્લો : અકબર <br> 2 - (A) તાજમહાલ : શાહજહાં <br> 3 - (D) ફતેહપુર સિક્રી : અકબર <br> 4 - (C) લાલ કિલ્લો : શાહજહાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિલ્હીની ભવ્ય વસ્તુઓ (લાલ કિલ્લો, તાજમહાલ) 'શાહજહાં' એ બનાવી અને ગુજરાત વિજયની યાદમાં 'અકબરે' સિક્રી વસાવ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુગલ વહીવટી પદ અને તેના કાર્યો જોડો: <br> 1. દીવાન-એ-અશરફ <br> 2. મીર બક્ષી <br> 3. કાઝી <br> 4. કોતવાલ <br> --- <br> (A) ન્યાયાધીશ <br> (B) મહેસૂલનો વડો <br> (C) શહેરનો વડો <br> (D) સેનાનો વડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) દીવાન : મહેસૂલ <br> 2 - (D) મીર બક્ષી : સેનાનો વડો <br> 3 - (A) કાઝી : ન્યાયાધીશ <br> 4 - (C) કોતવાલ : શહેરનો વડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બક્ષી' એટલે બક્ષિસ (પગાર) આપનાર (સેના), 'કાઝી' એટલે 'ન્યાય' કરનાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પુસ્તકો અને તેના લેખકો જોડો: <br> 1. તુઝુક-એ-બાબરી <br> 2. અકબરનામા <br> 3. હુમાયુનામા <br> 4. આઈન-એ-અકબરી <br> --- <br> (A) અબુલ ફઝલ <br> (B) બાબર <br> (C) ગુલબદન બેગમ <br> (D) અબુલ ફઝલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) તુઝુક-એ-બાબરી : બાબર <br> 2 - (A) અકબરનામા : અબુલ ફઝલ <br> 3 - (C) હુમાયુનામા : ગુલબદન બેગમ <br> 4 - (D) આઈન-એ-અકબરી : અબુલ ફઝલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બાબરી' તો ખુદ 'બાબરે' લખી, પણ 'અકબર' ની વાતો એના મિત્ર 'અબુલ ફઝલે' લખી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પ્રાદેશિક શક્તિઓ અને નેતાઓ જોડો: <br> 1. મહારાણા પ્રતાપ <br> 2. છત્રપતિ શિવાજી <br> 3. દુર્ગાદાસ રાઠોડ <br> 4. ગુરુ ગોવિંદ સિંહ <br> --- <br> (A) મારવાડ <br> (B) મેવાડ <br> (C) શિખ સામ્રાજ્ય <br> (D) મરાઠા સામ્રાજ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) મહારાણા પ્રતાપ : મેવાડ <br> 2 - (D) છત્રપતિ શિવાજી : મરાઠા સામ્રાજ્ય <br> 3 - (A) દુર્ગાદાસ રાઠોડ : મારવાડ <br> 4 - (C) ગુરુ ગોવિંદ સિંહ : શિખ સામ્રાજ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મ' પરથી 'મ' યાદ રાખો: મેવાડ-મહારાણા, મરાઠા-મહારાજ શિવાજી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શેરશાહ સૂરીના સુધારા જોડો: <br> 1. ગ્રાન્ડ ટ્રંક રોડ <br> 2. ચલણી સિક્કા <br> 3. ટપાલ સેવા <br> 4. મહેસૂલ પદ્ધતિ <br> --- <br> (A) રુપિયાનું ચલણ <br> (B) ઘોડેસવાર ટપાલી <br> (C) બંગાળથી ઉત્તર ભારત <br> (D) ખેતી આધારિત મહેસૂલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (C) ગ્રાન્ડ ટ્રંક રોડ : બંગાળથી ઉત્તર ભારત <br> 2 - (A) ચલણી સિક્કા : રુપિયાનું ચલણ <br> 3 - (B) ટપાલ સેવા : ઘોડેસવાર ટપાલી <br> 4 - (D) મહેસૂલ પદ્ધતિ : ખેતી આધારિત મહેસૂલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શેરશાહ એટલે 'સુધારાવાદી'. આજે આપણે જે 'રૂપિયો' વાપરીએ છીએ તેની શરૂઆત શેરશાહે કરી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અકબરના નવરત્નો અને તેમની વિશેષતા જોડો: <br> 1. બિરબલ <br> 2. ટોડરમલ <br> 3. તાનસેન <br> 4. અબુલ ફઝલ <br> --- <br> (A) સંગીત સમ્રાટ <br> (B) લેખક અને ઇતિહાસકાર <br> (C) વિનોદી અને ચતુર <br> (D) મહેસૂલ મંત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (C) બિરબલ : વિનોદી અને ચતુર <br> 2 - (D) ટોડરમલ : મહેસૂલ મંત્રી <br> 3 - (A) તાનસેન : સંગીત સમ્રાટ <br> 4 - (B) અબુલ ફઝલ : લેખક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટોડરમલ 'ટોટલ' (મહેસૂલ) કરે, તાનસેન 'તાન' (સંગીત) છેડે અને બિરબલ 'બુદ્ધિ' વાપરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મુગલ કાળના પ્રસિદ્ધ સ્થળો જોડો: <br> 1. બુલંદ દરવાજો <br> 2. ઈતમાદ-ઉદ-દૌલાનો મકબરો <br> 3. શાલીમાર બાગ <br> 4. બીબી કા મકબરો <br> --- <br> (A) કાશ્મીર <br> (B) આગ્રા <br> (C) ઔરંગાબાદ <br> (D) ફતેહપુર સિક્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (D) બુલંદ દરવાજો : ફતેહપુર સિક્રી <br> 2 - (B) ઈતમાદ-ઉદ-દૌલાનો મકબરો : આગ્રા <br> 3 - (A) શાલીમાર બાગ : કાશ્મીર <br> 4 - (C) બીબી કા મકબરો : ઔરંગાબાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બુલંદ' એટલે મોટું જે સિક્રીમાં છે, અને 'બીબી' નો મકબરો 'ઔરંગઝેબે' ઔરંગાબાદમાં બનાવ્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઐતિહાસિક પાત્રો અને વિગતો જોડો: <br> 1. હેમુ <br> 2. ચેતક <br> 3. નૂરજહાં <br> 4. રાણી દુર્ગાવતી <br> --- <br> (A) જહાંગીરની પત્ની <br> (B) ગઢકટંગાની રાણી <br> (C) અકબર સામે લડનાર અફઘાન સેનાપતિ <br> (D) મહારાણા પ્રતાપનો ઘોડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (C) હેમુ : અફઘાન સેનાપતિ <br> 2 - (D) ચેતક : મહારાણા પ્રતાપનો ઘોડો <br> 3 - (A) નૂરજહાં : જહાંગીરની પત્ની <br> 4 - (B) રાણી દુર્ગાવતી : ગઢકટંગાની રાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ચેતક' તો સૌને યાદ જ હોય! 'નૂર' એટલે પ્રકાશ, જે જહાંગીરના જીવનમાં આવ્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મુગલ વંશના મહત્વના વર્ષો જોડો: <br> 1. મુગલ શાસનની સ્થાપના <br> 2. અકબરનો જન્મ <br> 3. હુમાયુનું અવસાન <br> 4. ઔરંગઝેબનું અવસાન <br> --- <br> (A) ઈ.સ. 1542 <br> (B) ઈ.સ. 1526 <br> (C) ઈ.સ. 1707 <br> (D) ઈ.સ. 1556",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) સ્થાપના : 1526 <br> 2 - (A) અકબરનો જન્મ : 1542 <br> 3 - (D) હુમાયુનું અવસાન : 1556 <br> 4 - (C) ઔરંગઝેબનું અવસાન : 1707</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1707 માં ઔરંગઝેબ ગયો એટલે મુગલ સામ્રાજ્યના અંતની શરૂઆત થઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મુગલ સમયના ધાર્મિક/સાંસ્કૃતિક શબ્દો જોડો: <br> 1. મનસબદારી <br> 2. જપ્તી <br> 3. દીન-એ-ઈલાહી <br> 4. મુગલાઈ <br> --- <br> (A) મહેસૂલની પદ્ધતિ <br> (B) લશ્કરી પદ્ધતિ <br> (C) અકબરનો નવો ધર્મ <br> (D) ભોજન/રહેણીકરણીની શૈલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) મનસબદારી : લશ્કરી પદ્ધતિ <br> 2 - (A) જપ્તી : મહેસૂલની પદ્ધતિ <br> 3 - (C) દીન-એ-ઈલાહી : નવો ધર્મ <br> 4 - (D) મુગલાઈ : શૈલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દીન' એટલે ધર્મ, 'મનસબ' એટલે હોદ્દો (લશ્કર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્થાપત્ય અને વિશેષતા જોડો: <br> 1. મોતી મસ્જિદ <br> 2. મોતી મસ્જિદ (દિલ્હી) <br> 3. હુમાયુનો મકબરો <br> 4. જામા મસ્જિદ <br> --- <br> (A) આગ્રા (શાહજહાં) <br> (B) ઔરંગઝેબ <br> (C) દિલ્હી (શાહજહાં) <br> (D) હમીદા બાનું બેગમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (A) મોતી મસ્જિદ (આગ્રા) : શાહજહાં <br> 2 - (B) મોતી મસ્જિદ (દિલ્હી) : ઔરંગઝેબ <br> 3 - (D) હુમાયુનો મકબરો : હમીદા બાનું બેગમ <br> 4 - (C) જામા મસ્જિદ : શાહજહાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આગ્રાની મોતી મસ્જિદ શાહજહાંએ બનાવી, પણ કિલ્લાની અંદર દિલ્હીમાં ઔરંગઝેબે બનાવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચિત્રકારો અને શાસકો જોડો: <br> 1. જશવંત અને દશાવંત <br> 2. મન્સૂર <br> 3. અબુલ હસન <br> 4. ચિત્રશાળાની સ્થાપના <br> --- <br> (A) જહાંગીર <br> (B) અકબર <br> (C) જહાંગીર <br> (D) જહાંગીર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (B) જશવંત-દશાવંત : અકબર <br> 2 - (A) મન્સૂર : જહાંગીર <br> 3 - (C) અબુલ હસન : જહાંગીર <br> 4 - (D) ચિત્રશાળા : જહાંગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જહાંગીર એટલે 'ચિત્રકલાનો સુવર્ણયુગ'. પક્ષીઓના ચિત્રો માટે 'મન્સૂર' પ્રખ્યાત હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મુગલ રાજાઓના સ્થાપત્ય પ્રેમ જોડો: <br> 1. હુમાયુ <br> 2. અકબર <br> 3. શાહજહાં <br> 4. ઔરંગઝેબ <br> --- <br> (A) દીનપનાહ નગર <br> (B) બુલંદ દરવાજો <br> (C) મયુરાસન <br> (D) મકબરાઓની ઉપેક્ષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - (A) હુમાયુ : દીનપનાહ નગર <br> 2 - (B) અકબર : બુલંદ દરવાજો <br> 3 - (C) શાહજહાં : મયુરાસન <br> 4 - (D) ઔરંગઝેબ : ઉપેક્ષા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શાહજહાં' તો રાજવી ઠાઠમાઠનો શોખીન એટલે 'મયુરાસન' યાદ રાખવું!</p></div>"
+    }
+  ]
+}
