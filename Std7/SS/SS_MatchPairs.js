@@ -446,3 +446,161 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) મલયાળમ ભાષા <br> વિભાગ B: (A) કેરલ (B) બંગાળ (C) પંજાબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) કેરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરલ અને મલયાળમ બંનેમાં 'લ' અક્ષર કોમન આવે છે. મલ-યાળમ = કેર-લ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) જગન્નાથ મંદિર <br> વિભાગ B: (A) વારાણસી (B) પુરી (ઓડિશા) (C) મથુરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) પુરી (ઓડિશા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગન્નાથ એટલે જગતનો નાથ, જે 'પુરી' દુનિયાનો માલિક છે. (પુરી = જગન્નાથ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) લઠ્ઠમાર હોળી <br> વિભાગ B: (A) અમદાવાદ (B) બરસાણા (C) ગોકુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) બરસાણા (ઉત્તર પ્રદેશ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બરસાણા' માં લાકડીઓનો 'વરસાદ' (બરસાત) પડે છે એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) પોંગલ તહેવાર <br> વિભાગ B: (A) કેરલ (B) તમિલનાડુ (C) કર્ણાટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) તમિલનાડુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PT (Physical Training) યાદ રાખો. P એટલે પોંગલ અને T એટલે તમિલનાડુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) ઓણમ (Onam) <br> વિભાગ B: (A) આંધ્રપ્રદેશ (B) તમિલનાડુ (C) કેરલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) કેરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OK યાદ રાખો. O એટલે ઓણમ અને K એટલે કેરલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) લોહડી (Lohri) <br> વિભાગ B: (A) પંજાબ (B) ગુજરાત (C) અસમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) પંજાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબમાં લોકો બહુ 'લોખંડી' (લોહડી) મનોબળવાળા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) કથકલી નૃત્ય <br> વિભાગ B: (A) કેરલ (B) ઉત્તર પ્રદેશ (C) ઓડિશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) કેરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' પરથી કેરલ અને 'ક' પરથી કથકલી. (નોંધ: કથક અલગ છે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) ભરતનાટ્યમ <br> વિભાગ B: (A) તમિલનાડુ (B) આંધ્રપ્રદેશ (C) મણિપુર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) તમિલનાડુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતનું તમિલ (ભરતનાટ્યમ - તમિલનાડુ). તાંજોર જિલ્લો તેનું મુખ્ય કેન્દ્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) કુચિપુડી નૃત્ય <br> વિભાગ B: (A) આંધ્રપ્રદેશ (B) કેરલ (C) ગુજરાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) આંધ્રપ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાચી પૂરી' (કુચિપુડી) કોણ ખાય? જે 'આંધળા' (આંધ્રપ્રદેશ) હોય તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) મણિપુરી નૃત્ય <br> વિભાગ B: (A) મણિપુર (B) અસમ (C) નાગાલેન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) મણિપુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો સૌથી સરળ છે! નૃત્યના નામમાં જ રાજ્યનું નામ છુપાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) બિહુ તહેવાર <br> વિભાગ B: (A) અસમ (B) મેઘાલય (C) મિઝોરમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) અસમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અસલ બહુ' (અસમ બિહુ) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) લઘુચિત્રો (Miniature Paintings) <br> વિભાગ B: (A) કદમાં મોટા (B) કદમાં નાના (C) દિવાલ પરના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) કદમાં નાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લઘુ' એટલે નાનું. લઘુકોણ જેવી રીતે નાનો હોય, તેમ લઘુચિત્રો પણ નાના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) કાંગડા શૈલી <br> વિભાગ B: (A) ચિત્રકલા (B) નૃત્યકલા (C) સ્થાપત્યકલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ચિત્રકલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાચલની પહાડીઓમાં 'કાંગડા' ની સુંદર 'ચિત્રકલા' જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) નરસિંહ મહેતા <br> વિભાગ B: (A) આદિકવિ (B) રાષ્ટ્રકવિ (C) લોકકવિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) આદિકવિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી ભાષાના 'આદિ' એટલે કે શરૂઆતના મહાન કવિ એટલે નરસિંહ મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) ચેટીચંડ <br> વિભાગ B: (A) સિંધી ભાઈ-બહેનો (B) પારસીઓ (C) જૈન ધર્મીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) સિંધી ભાઈ-બહેનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિંધી' લોકો 'ઝુલેલાલ' ના જન્મદિવસે ચેટીચંડ ઉજવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) પતેતી <br> વિભાગ B: (A) પારસીઓ (B) શીખ (C) મુસ્લિમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) પારસીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પતેતી અને 'પ' થી પારસી. આ પશ્ચાતાપનો દિવસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) વૈશાખી તહેવાર <br> વિભાગ B: (A) પંજાબ (B) હરિયાણા (C) રાજસ્થાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) પંજાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકની લણણી વખતે પંજાબના 'વૈશાખ' મહિનામાં વૈશાખી ઉજવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) અમીર ખુશરો <br> વિભાગ B: (A) કવાલીના શોધક (B) ગરબાના શોધક (C) કથકલીના પિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) કવાલીના શોધક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીર માણસો 'કવાલી' સાંભળીને ખુશ (ખુશરો) થઈ ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) ભાલણ <br> વિભાગ B: (A) આખ્યાનના પિતા (B) ગરબીના પિતા (C) પદના પિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) આખ્યાનના પિતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આખ્યાન' ની ભાલ (શરૂઆત) કરનાર એટલે 'ભાલણ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) બસોહલી શૈલી <br> વિભાગ B: (A) હિમાચલ પ્રદેશ (B) ગુજરાત (C) પશ્ચિમ બંગાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) હિમાચલ પ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહાડી વિસ્તારની સૌથી જૂની શૈલી એટલે બસોહલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) હેમચંદ્રાચાર્ય <br> વિભાગ B: (A) સિદ્ધહેમશબ્દાનુશાસન (B) ભગવદ્ગોમંડલ (C) કાન્હડદે પ્રબંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) સિદ્ધહેમશબ્દાનુશાસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિદ્ધરાજ જયસિંહ અને 'હેમ'ચંદ્રાચાર્ય બંનેના નામ ગ્રંથમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) પીર <br> વિભાગ B: (A) આધ્યાત્મિક માર્ગદર્શક (B) રાજાનો સેનાપતિ (C) વેપારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) આધ્યાત્મિક માર્ગદર્શક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂફીવાદમાં ગુરુને 'પીર' કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) પાળિયા <br> વિભાગ B: (A) વીર શહીદોનું સ્મારક (B) પાણીની કુંડી (C) પક્ષીઓનું ઘર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) વીર શહીદોનું સ્મારક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેણે ગામ કે ધર્મની રક્ષા માટે બલિદાન આપ્યું હોય તેની યાદમાં 'પાળિયા' નંખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) ઓડિસી નૃત્ય <br> વિભાગ B: (A) ઓડિશા (B) બિહાર (C) ઉત્તર પ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ઓડિશા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓડિસી = ઓડિશા. એકદમ ડાયરેક્ટ કનેક્શન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) કથક નૃત્ય <br> વિભાગ B: (A) ઉત્તર ભારત (B) દક્ષિણ ભારત (C) પૂર્વ ભારત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ઉત્તર ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કથક કરે સો કથક કહાવે'. આ નૃત્ય મુખ્યત્વે ઉત્તર ભારતમાં વિકસ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) રામચરિત માનસ <br> વિભાગ B: (A) તુલસીદાસ (B) સુરદાસ (C) રૈદાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) તુલસીદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુલસીના ક્યારી પાસે બેસીને 'રામચરિત માનસ' વંચાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) હોળી તહેવાર <br> વિભાગ B: (A) ફાગણ સુદ પૂનમ (B) ચૈત્ર સુદ એકમ (C) કારતક સુદ પૂનમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ફાગણ સુદ પૂનમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફાગણી પૂનમે' રંગોની હોળી રમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) બંગાળી સાહિત્ય <br> વિભાગ B: (A) શ્રીકૃષ્ણ વિજય (B) પૃથ્વીરાજ રાસો (C) કાદંબરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) શ્રીકૃષ્ણ વિજય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણરાજ ખાને 15મી સદીમાં બંગાળીમાં આ ગ્રંથ લખ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) વાજીદ અલી શાહ <br> વિભાગ B: (A) લખનૌના નવાબ (B) મૈસુરના રાજા (C) દિલ્હીના બાદશાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) લખનૌના નવાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાજીદ અલી શાહે કથક નૃત્યને પ્રોત્સાહન આપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) લઘુચિત્રોનું શ્રેષ્ઠ કેન્દ્ર <br> વિભાગ B: (A) મુઘલ દરબાર (B) વિજયનગર (C) ચોલ વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) મુઘલ દરબાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર અને જહાંગીરના સમયમાં લઘુચિત્રોનો ખૂબ વિકાસ થયો હતો.</p></div>"
+    }
+  ]
+}
