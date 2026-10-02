@@ -363,3 +363,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) આદિ શંકરાચાર્ય, (2) રામાનુજાચાર્ય<br>વિભાગ 'બ': (A) વિશિષ્ટાદ્વૈતવાદ, (B) અદ્વૈતવાદ, (C) દ્વૈતવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકરાચાર્ય 'અ'થી શરૂ થાય તો 'અ'દ્વૈતવાદ, અને રામાનુજ 'વિશિષ્ટ' હતા એટલે 'વિશિષ્ટાદ્વૈતવાદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) આદિ શંકરાચાર્યનું જન્મસ્થળ, (2) રામાનુજાચાર્યનું જન્મસ્થળ<br>વિભાગ 'બ': (A) પેરૂમલતુર, (B) કાલડી, (C) તલવંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શંકા' થાય તો 'કાલ' (કાલડી) આવજે, રામ 'પૂરા' (પેરૂમલતુર) પુરુષોત્તમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) નરસિંહ મહેતા, (2) મીરાંબાઈ<br>વિભાગ 'બ': (A) મહારાષ્ટ્ર, (B) ગુજરાત, (C) રાજસ્થાન (મેવાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ તો ગુજરાતનો નાથ, અને મીરાં મેવાડ (રાજસ્થાન)ની રાજકુમારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) ગુરુ નાનક, (2) કબીર<br>વિભાગ 'બ': (A) શીખ ધર્મના સ્થાપક, (B) શુદ્ધાદ્વૈતવાદ, (C) બીજક (કાવ્યસંગ્રહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનક તો પંજાબના 'ગુરુ', અને કબીરનો 'બીજક' (K-B) કબીર-બીજક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) જ્ઞાનેશ્વર, (2) એકનાથ<br>વિભાગ 'બ': (A) અસમમાં ભક્તિ પ્રસાર, (B) મહારાષ્ટ્રમાં ભક્તિ આંદોલન, (C) ઉંચ-નીચના ભેદભાવનો વિરોધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રમાં 'જ્ઞાન' (જ્ઞાનેશ્વર) ફેલાયું અને 'એક' (એકનાથ) થઈને ભેદભાવ ભૂલ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) ચૈતન્ય મહાપ્રભુ, (2) શંકરદેવ<br>વિભાગ 'બ': (A) બંગાળ (હરિનામ સંકીર્તન), (B) ગુજરાત, (C) અસમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૈતન્ય બંગાળના 'ચૈન', શંકરદેવ અસમના 'દેવ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) મોઈનુદ્દીન ચિશ્તી, (2) નિઝામુદ્દીન ઓલિયા<br>વિભાગ 'બ': (A) દિલ્હી, (B) અજમેર, (C) સુરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજમેરની દરગાહ એટલે ચિશ્તી સાહેબ, અને દિલ્હીના દિલમાં ઓલિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) તુલસીદાસ, (2) સૂરદાસ<br>વિભાગ 'બ': (A) રામચરિતમાનસ, (B) સૂરસાગર, (C) જ્ઞાનેશ્વરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તુલસી'ના 'રામ' અને 'સૂર'નો 'સાગર' (સૂરદાસ - સૂરસાગર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) તુકારામ, (2) બસવેશ્વર<br>વિભાગ 'બ': (A) લિંગાયત આંદોલન, (B) અભંગો, (C) શીખ ધર્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુકારામના 'અભંગ', અને બસવેશ્વર એટલે 'વીરશૈવ' (લિંગાયત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) સુફી મતના મુખ્ય સિલસિલા, (2) શીખ ધર્મનો પવિત્ર ગ્રંથ<br>વિભાગ 'બ': (A) ચિશ્તી અને સુહરાવર્દી, (B) ગુરુ ગ્રંથ સાહિબ, (C) પુરાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુફીમાં 'સી' (સિલસિલા) આવે, અને શીખમાં 'ગુરુ'નો ગ્રંથ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) નરસિંહ મહેતાનું પદ, (2) મીરાંબાઈના આરાધ્ય દેવ<br>વિભાગ 'બ': (A) રામચંદ્રજી, (B) વૈષ્ણવજન તો તેને કહીએ, (C) શ્રીકૃષ્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ એટલે ગાંધીજીનું પ્રિય ભજન, અને મીરાં એટલે કૃષ્ણની દીવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) મહારાષ્ટ્રના ભક્તિ આંદોલનનું કેન્દ્ર, (2) કબીરના ગુરુ<br>વિભાગ 'બ': (A) પંઢરપુર (વિઠોબા મંદિર), (B) સ્વામી રામાનંદ, (C) ચૈતન્ય પ્રભુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રમાં 'વિઠ્ઠલ' વિઠ્ઠલ, અને કબીરના ગુરુ રામાનંદ (K-R).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) રાઈદાસ, (2) મીરાંબાઈના પિતા<br>વિભાગ 'બ': (A) રતનસિંહ, (B) કબીરના ગુરુભાઈ, (C) ભોજરાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈદાસ કબીરના ભાઈ જેવા હતા, મીરાંના પિતા રતનસિંહ (M-R).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) કાલડી (કેરળ), (2) પેરૂમલતુર (તમિલનાડુ)<br>વિભાગ 'બ': (A) શંકરાચાર્યનું વતન, (B) રામાનુજાચાર્યનું વતન, (C) કબીરનું વતન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળ (કાલડી) - શંકર, તમિલનાડુ (પેરૂમલતુર) - રામાનુજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે સાચી રીતે જોડો:<br>વિભાગ 'અ': (1) સુફી શબ્દનો અર્થ, (2) ખાનકાહ<br>વિભાગ 'બ': (A) ઇસ્લામના ધાર્મિક વિચારો, (B) સુફી સંતોનું નિવાસસ્થાન, (C) મૂર્તિપૂજા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુફી એટલે ઇસ્લામિક 'વિચાર', ખાનકાહ એટલે સંતોનો 'અડ્ડો' (નિવાસ).</p></div>"
+    }
+  ]
+}
