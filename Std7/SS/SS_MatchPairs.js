@@ -604,3 +604,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "૧૮મી સદીના રાજકીય શાસકો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. મુઘલ વંશનો અંતિમ શક્તિશાળી શાસક<br>2. બહાદુરશાહ પછી ગાદી પર આવનાર<br>3. સૈયદ બંધુઓની મદદથી શાસક બનનાર<br>4. નાદિરશાહનું ભારત પર આક્રમણ<br><br>વિભાગ 'બ':<br>A. જહાદરશાહ<br>B. ઔરંગઝેબ<br>C. મહંમદશાહ<br>D. ફર્રુખસિયર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતિમ શક્તિશાળી ઔરંગ' (ઔરંગઝેબ), 'બહાદુર પછી જહાદર', 'સૈયદની મદદથી ફર્રુખ' અને 'નાદિરના આક્રમણ સમયે મહંમદશાહ રંગીલા હતો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. હૈદરાબાદ રાજ્યનો સ્થાપક<br>2. બંગાળનો પ્રથમ નવાબ<br>3. અવધમાં સ્વતંત્ર શાસનની સ્થાપના<br>4. જયપુર શહેરના સ્થાપક<br><br>વિભાગ 'બ':<br>A. સઆદત ખાન<br>B. નિઝામ-ઉલ-મુલ્ક આસફજાહ<br>C. સવાઈ જયસિંહ<br>D. મુર્શિદ કુલીખાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હૈદરાબાદનો નિઝામ', 'બંગાળનો મુર્શિદ', 'અવધમાં સઆદત' (અવધની આદત) અને 'જયપુરના જયસિંહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. શીખ ધર્મના સ્થાપક<br>2. શીખોના ૧૦મા ગુરુ<br>3. મુઘલો સામે બળવો કરનાર શીખ નેતા<br>4. શીખ સામ્રાજ્યના શક્તિશાળી શાસક<br><br>વિભાગ 'બ':<br>A. બંદા બહાદુર<br>B. ગુરુ નાનક<br>C. મહારાજા રણજિતસિંહ<br>D. ગુરુ ગોવિંદસિંહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થાપક નાનક', '૧૦મા ગોવિંદ', 'બળવાખોર બંદા' અને 'શક્તિશાળી રણજિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. છત્રપતિ શિવાજીના પૌત્ર<br>2. શિવાજીના પૌત્રને કેદ કરનાર<br>3. પ્રથમ પેશવા<br>4. બાજીરાવ પ્રથમના પુત્ર<br><br>વિભાગ 'બ':<br>A. બાલાજી વિશ્વનાથ<br>B. શાહુજી<br>C. બાલાજી બાજીરાવ<br>D. ઔરંગઝેબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પૌત્ર શાહુ', 'કેદ ઔરંગ', 'પ્રથમ પેશવા વિશ્વનાથ' અને 'બાજીરાવનો બાલાજી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (મરાઠા રાજવંશો અને તેમના ક્ષેત્રો):<br>1. ગાયકવાડ<br>2. હોલ્કર<br>3. સિંધિયા<br>4. ભોંસલે<br><br>વિભાગ 'બ':<br>A. ગ્વાલિયર<br>B. વડોદરા<br>C. નાગપુર<br>D. ઇન્દોર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગાયકવાડ-વડોદરા', 'હોલ્કર-ઇન્દોર', 'સિંધિયા-ગ્વાલિયર' અને 'ભોંસલે-નાગપુર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પ્લાસીનું યુદ્ધ<br>2. બક્સરનું યુદ્ધ<br>3. પાણીપતનું ત્રીજું યુદ્ધ<br>4. નાદિરશાહનું ભારત પર આક્રમણ<br><br>વિભાગ 'બ':<br>A. ઈ.સ. 1761<br>B. ઈ.સ. 1757<br>C. ઈ.સ. 1739<br>D. ઈ.સ. 1764",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-A), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્લાસી 57', 'બક્સર 64', 'પાણીપત 61' (31-61 યાદ રાખો) અને 'નાદિર 39'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સવાઈ જયસિંહ<br>2. સૂરજમલ<br>3. બાજીરાવ પ્રથમ<br>4. ગુરુ ગોવિંદસિંહ<br><br>વિભાગ 'બ':<br>A. મરાઠા સામ્રાજ્યનો વિસ્તાર કરનાર પેશવા<br>B. ખાલસા પંથની સ્થાપના<br>C. મહાન ખગોળશાસ્ત્રી શાસક<br>D. જાટ શાસક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જયસિંહ-ખગોળ' (જંતરમંતર), 'સૂરજમલ-જાટ', 'બાજીરાવ-વિસ્તાર' અને 'ગોવિંદ-ખાલસા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (વિશેષતા):<br>1. જંતર-મંતર<br>2. સુકરચકિયા મિસલ<br>3. ચોથ અને સરદેશમુખી<br>4. સૈયદ બંધુઓ<br><br>વિભાગ 'બ':<br>A. કર ઉઘરાવવાની મરાઠા પદ્ધતિ<br>B. ખગોળીય વેધશાળા<br>C. મહારાજા રણજિતસિંહનું જૂથ<br>D. 'કિંગ મેકર' તરીકે જાણીતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વેધશાળા જંતર-મંતર', 'રણજિત મિસલ', 'મરાઠા ટેક્સ ચોથ' અને 'કિંગ મેકર સૈયદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. શિવાજીના માતા<br>2. રણજિતસિંહની રાજધાની<br>3. અહમદશાહ અબ્દાલીનું આક્રમણ<br>4. શાહુને કેદમુક્ત કરનાર<br><br>વિભાગ 'બ':<br>A. જીજાબાઈ<br>B. પાણીપતનું ત્રીજું યુદ્ધ<br>C. લાહોર<br>D. બહાદુરશાહ પ્રથમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માતા જીજાબાઈ', 'રણજિતની લાહોર', 'અબ્દાલી-પાણીપત' અને 'મુક્ત કરનાર બહાદુર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. શાહઆલમ બીજો<br>2. આલીવર્દી ખાન<br>3. બંદા બહાદુરનો વધ<br>4. જંતર-મંતરની સ્થાપના ક્યાં નહોતી?<br><br>વિભાગ 'બ':<br>A. બંગાળનો નવાબ<br>B. ફર્રુખસિયરના સમયમાં<br>C. બક્સરના યુદ્ધમાં હાર<br>D. આગ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શાહઆલમ બક્સર', 'આલીવર્દી બંગાળ', 'બંદાનો અંત ફર્રુખ દ્વારા' અને 'આગ્રામાં જંતરમંતર નથી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. બાલાજી વિશ્વનાથ<br>2. બાજીરાવ પ્રથમ<br>3. બાલાજી બાજીરાવ<br>4. મરાઠા રાજ્યનું મંડળ (ફેડરેશન)<br><br>વિભાગ 'બ':<br>A. નાના સાહેબ<br>B. છત્રપતિ શાહુજી<br>C. લડાયક પેશવા<br>D. પેશવાની વ્યવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશ્વનાથ-શાહુજી', 'બાજીરાવ-લડાયક', 'બાલાજી બાજીરાવ - નાના' (નાના સાહેબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ઉધ્ધર (ઉજ્જૈન)<br>2. મથુરા<br>3. દિલ્હી<br>4. વારાણસી<br><br>વિભાગ 'બ':<br>A. સવાઈ જયસિંહની વેધશાળા<br>B. સવાઈ જયસિંહની વેધશાળા<br>C. સવાઈ જયસિંહની વેધશાળા<br>D. સવાઈ જયસિંહની વેધશાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A, 2-B, 3-C, 4-D) બધા જ સાચા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દિ-મ-જ-ઉ-વા' (દિલ્હી, મથુરા, જયપુર, ઉજ્જૈન, વારાણસી - આ પાંચેય જગ્યાએ જયસિંહે વેધશાળા બનાવી હતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (નગરો અને વંશ):<br>1. હૈદરાબાદ<br>2. ભરતપુર<br>3. ગ્વાલિયર<br>4. ઇન્દોર<br><br>વિભાગ 'બ':<br>A. જાટ રાજ્ય<br>B. નિઝામ વંશ<br>C. હોલ્કર વંશ<br>D. સિંધિયા વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હૈદરાબાદનો નિઝામ', 'ભરતપુરના જાટ', 'ગ્વાલિયર સિંધિયા' અને 'ઇન્દોર હોલ્કર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પેશવા પદ<br>2. મિસલ<br>3. ખાલસા પંથ<br>4. રજપૂત રાજ્ય<br><br>વિભાગ 'બ':<br>A. પૂણે<br>B. શીખ લશ્કરી જૂથ<br>C. આમેર (જયપુર)<br>D. શીખ ધર્મનું સંગઠન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પેશવા એટલે પૂણે', 'મિસલ એટલે લશ્કર', 'ખાલસા એટલે સંગઠન' અને 'આમેર એટલે રજપૂત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. શિવાજીના પિતા<br>2. શિવાજીના ગુરુ<br>3. નિઝામનું રાજ્ય<br>4. સિરાજ-ઉદ-દૌલા<br><br>વિભાગ 'બ':<br>A. સમર્થ રામદાસ<br>B. હૈદરાબાદ<br>C. શાહજી ભોંસલે<br>D. પ્લાસીનું યુદ્ધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પિતા શાહજી', 'ગુરુ રામદાસ', 'નિઝામ હૈદરાબાદ' અને 'સિરાજ પ્લાસી'.</p></div>"
+    }
+  ]
+}
