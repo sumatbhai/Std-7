@@ -687,3 +687,61 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સીઆલ (Sial) <br>2. સીમા (Sima) <br>3. નિફે (Nife) <br>4. મેન્ટલ (Mantle)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - સિલિકા અને એલ્યુમિના <br>2 - સિલિકા અને મેગ્નેશિયમ <br>3 - નિકલ અને લોખંડ (ફેરસ) <br>4 - ૨૯૦૦ કિમી સુધીની ઊંડાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે! Si+Al = સીઆલ, Si+Ma = સીમા, Ni+Fe = નિફે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ગ્રેનાઈટ <br>2. બેસાલ્ટ <br>3. રેતાળ પથ્થર <br>4. આરસપહાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - આંતરિક અગ્નિજિત ખડક <br>2 - બાહ્ય અગ્નિજિત ખડક <br>3 - પ્રસ્તર (જળકૃત) ખડક <br>4 - રૂપાંતરિત ખડક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેનાઈટ અંદર (ઘરમાં) વપરાય એટલે આંતરિક, બેસાલ્ટ બહાર નીકળીને બને એટલે બાહ્ય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નદીના ભૂમિસ્વરૂપો જોડો:<br>1. નદીનો વળાંક <br>2. નળાકાર સરોવર <br>3. પૂરના મેદાનો <br>4. મુખત્રિકોણ પ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - સર્પાકાર માર્ગ <br>2 - કપાયેલો વળાંક <br>3 - કાંપનું નિક્ષેપણ <br>4 - ડેલ્ટા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી સાપની જેમ ચાલે એટલે સર્પાકાર, અને અંતે દરિયાને મળે ત્યાં ત્રિકોણ 'ડેલ્ટા' બનાવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમુદ્રના મોજાંના ભૂમિસ્વરૂપો જોડો:<br>1. સમુદ્રી ગુફા <br>2. સમુદ્રી કમાન <br>3. સ્ટેક (Stack) <br>4. સમુદ્ર પુલિન (Beach)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - મોજાંના સતત ઘસારણથી બનેલી બખોલ <br>2 - ગુફાની છત બાકી રહે તે <br>3 - માત્ર દીવાલ જેવો ભાગ <br>4 - કિનારા પર રેતીનું જમા થવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુફા -> છત -> દીવાલ (સ્ટેક). આ ક્રમમાં ઘસારણ વધતું જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પૃથ્વીની ત્રિજ્યા અને સ્તરોની જાડાઈ જોડો:<br>1. પૃથ્વીની ત્રિજ્યા <br>2. ભૂકવચની જાડાઈ <br>3. મેન્ટલની ઊંડાઈ <br>4. આંતરિક ભૂગર્ભ (ત્રિજ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 6371 કિમી <br>2 - આશરે 35 કિમી <br>3 - 2900 કિમી <br>4 - આશરે 3500 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનું '63-71' એટલે કુલ ત્રિજ્યા. યાદ રાખો: સૌથી પાતળું પડ ઉપરનું (35 કિમી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પવનના ભૂમિસ્વરૂપો જોડો:<br>1. ભૂછત્ર ખડક <br>2. ઢુવા (Sand Dunes) <br>3. લોએસ (Loess) <br>4. રણ પ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બિલાડીના ટોપ જેવો આકાર <br>2 - રેતીના નાના ડુંગરા <br>3 - વિશાળ નિક્ષેપ (ચીન) <br>4 - પવનનું ઘસારણ અને નિક્ષેપણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન + રેતી = ઢુવા, અને પવન + પથ્થર = છત્રી (ભૂછત્ર). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હિમનદીના ભૂમિસ્વરૂપો જોડો:<br>1. હિમનદી <br>2. પર્વતીય ક્ષેત્રમાં કોતરો <br>3. હિમનદીના નિક્ષેપણ <br>4. ડ્રમલિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બરફની નદી <br>2 - સુંદર સરોવર (પાણી ભરાતા) <br>3 - ગોળાશ્મ મૃદુ પાષાણ <br>4 - ટેકરી જેવા ભૂમિસ્વરૂપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ ઓગળે એટલે પર્વત પર 'સરોવર' બને. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભૂગર્ભની ક્રિયાઓ જોડો:<br>1. મેગ્મા <br>2. લાવા <br>3. ભૂકંપ કેન્દ્ર <br>4. નિર્ગમન કેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - પૃથ્વીની અંદરનો પીગળેલો રસ <br>2 - સપાટી પર આવતો ગરમ રસ <br>3 - ધ્રુજારી ઉત્પન્ન થાય તે સ્થાન <br>4 - કેન્દ્રની ઉપર સપાટીનું બિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્મા અંદર, લાવા બહાર. જ્યાંથી શરૂ થાય તે 'કેન્દ્ર' અને જ્યાં અનુભવાય તે 'નિર્ગમન'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખડકોના રૂપાંતરિત સ્વરૂપો જોડો:<br>1. ચીકણી માટી <br>2. ચૂનાનો પથ્થર <br>3. પ્રસ્તર ખડક <br>4. અગ્નિજિત ખડક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - સ્લેટ <br>2 - આરસપહાણ (માર્બલ) <br>3 - સ્તરવાળા ખડક <br>4 - લાવામાંથી બનેલા ખડક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટીમાંથી 'સ્લેટ' બને અને ચૂનામાંથી 'આરસ' (તાજમહેલ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિજ્ઞાન અને ભૂગોળની સમજ જોડો:<br>1. પૃથ્વીનું કદ (ભૂગર્ભ હિસ્સો) <br>2. પૃથ્વીનું કદ (મેન્ટલ હિસ્સો) <br>3. પૃથ્વીનું કદ (ઉપરનું પડ) <br>4. ખનીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 15% ભાગ <br>2 - 84% ભાગ <br>3 - માત્ર 0.5% ભાગ <br>4 - કુદરતી કાર્બનિક પદાર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ટલ સૌથી 'મોટું' (84%), ઉપરનું પડ સૌથી 'પાતળું' (0.5%). (NJ Classes)</p></div>"
+    }
+  ]
+}
