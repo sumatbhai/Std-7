@@ -861,3 +861,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ વ્યવસ્થાપન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. કુદરતી આપત્તિ<br>2. માનવસર્જિત આપત્તિ<br>વિભાગ 'બ':<br>A. હુલ્લડ<br>B. વાવાઝોડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (કુદરતી આપત્તિ - વાવાઝોડું)<br>2 - A (માનવસર્જિત આપત્તિ - હુલ્લડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'કુદરત' જે આપે તે કુદરતી (હવા, પાણી) અને 'માણસ' જે કરે તે માનવસર્જિત (ઝઘડા, આગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ભૂકંપ<br>2. સુનામી<br>વિભાગ 'બ':<br>A. સમુદ્રના તળિયે થતો ભૂકંપ<br>B. પૃથ્વીના પેટાળની હલચલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (ભૂકંપ - પૃથ્વીના પેટાળની હલચલ)<br>2 - A (સુનામી - સમુદ્રના તળિયે થતો ભૂકંપ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સુનામી એટલે 'સ' થી 'સમુદ્ર' માં આવતો ભૂકંપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. પૂર<br>2. દુષ્કાળ<br>વિભાગ 'બ':<br>A. વરસાદ ન પડવો<br>B. નદીમાં આવતો પાણીનો ધસમસતો પ્રવાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (પૂર - નદીમાં આવતો પાણીનો પ્રવાહ)<br>2 - A (દુષ્કાળ - વરસાદ ન પડવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પૂર = પાણી 'વધારે', દુષ્કાળ = પાણી 'નહિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. વાવાઝોડું<br>2. દાવાનળ<br>વિભાગ 'બ':<br>A. જંગલોમાં લાગતી આગ<br>B. હવાનું ચક્રવાત (તોફાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (વાવાઝોડું - હવાનું ચક્રવાત)<br>2 - A (દાવાનળ - જંગલોમાં લાગતી આગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'વા' એટલે વાયુ (હવા) અને 'દાવ' એટલે જંગલની અગ્નિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. રિક્ટર સ્કેલ<br>2. સિસ્મોગ્રાફ<br>વિભાગ 'બ':<br>A. ભૂકંપ આલેખન યંત્ર<br>B. ભૂકંપની તીવ્રતા માપવાનો એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (રિક્ટર સ્કેલ - તીવ્રતા માપવાનો એકમ)<br>2 - A (સિસ્મોગ્રાફ - આલેખન યંત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'સ્કેલ' થી મપાય (તીવ્રતા) અને 'ગ્રાફ' હંમેશા દોરવામાં (આલેખન) વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. જેની આગાહી શક્ય છે<br>2. જેની આગાહી શક્ય નથી<br>વિભાગ 'બ':<br>A. ભૂકંપ<br>B. વાવાઝોડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (આગાહી શક્ય - વાવાઝોડું)<br>2 - A (આગાહી અશક્ય - ભૂકંપ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) આકાશમાં જોઇને પવન (વાવાઝોડા) ની ખબર પડે, પણ જમીનની અંદર (ભૂકંપ) ની ખબર પહેલેથી ન પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ભૂકંપ દરમિયાન શું કરવું?<br>2. ભૂકંપ દરમિયાન શું ન કરવું?<br>વિભાગ 'બ':<br>A. લિફ્ટનો ઉપયોગ ન કરવો<br>B. પાટલી કે ટેબલ નીચે બેસી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (શું કરવું - ટેબલ નીચે બેસવું)<br>2 - A (શું ન કરવું - લિફ્ટનો ઉપયોગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ભૂકંપ આવે ત્યારે 'નીચે' (ટેબલ નીચે) બેસવું સલામત, પણ મશીન (લિફ્ટ) માં જવું જોખમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. સુનામી શબ્દનો અર્થ<br>2. સુનામીનું મૂળ દેશ<br>વિભાગ 'બ':<br>A. જાપાન<br>B. વિનાશક મોજાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (સુનામી - વિનાશક મોજાં)<br>2 - A (દેશ - જાપાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'સુનામી' એ 'જાપાનીઝ' શબ્દ છે જેનો અર્થ બંદર પર આવતા મોજાં થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. વાવાઝોડાના અન્ય નામ (અમેરિકા)<br>2. વાવાઝોડાના અન્ય નામ (ભારત)<br>વિભાગ 'બ':<br>A. ચક્રવાત<br>B. હરિકેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (અમેરિકા - હરિકેન)<br>2 - A (ભારત - ચક્રવાત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ભારતમાં ગોળ ગોળ 'ચક્ર' જેવું ફરે એટલે 'ચક્રવાત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. તીડનું આક્રમણ<br>2. બોમ્બ વિસ્ફોટ<br>વિભાગ 'બ':<br>A. માનવસર્જિત આપત્તિ<br>B. જૈવિક આપત્તિ (કુદરતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (તીડ - જૈવિક આપત્તિ)<br>2 - A (બોમ્બ વિસ્ફોટ - માનવસર્જિત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તીડ એ 'જીવ' (જૈવિક) છે, જ્યારે બોમ્બ માણસની 'બુદ્ધિ' (ખોટી) નું પરિણામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. દુષ્કાળની અસર ઘટાડવા<br>2. પૂરની અસર ઘટાડવા<br>વિભાગ 'બ':<br>A. નદીઓ પર બંધ બાંધવા<br>B. ટપક સિંચાઈ પદ્ધતિ અપનાવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (દુષ્કાળ - ટપક સિંચાઈ)<br>2 - A (પૂર - નદી પર બંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પાણી બચાવવા 'ટપક' (દુષ્કાળ માટે) અને પાણી રોકવા 'દીવાલ' (બંધ - પૂર માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ભૂકંપ કેન્દ્ર<br>2. ભૂકંપ નિર્ગમન કેન્દ્ર<br>વિભાગ 'બ':<br>A. પૃથ્વીની સપાટી પરનું કેન્દ્ર<br>B. પૃથ્વીના પેટાળમાં જ્યાંથી આંચકા શરૂ થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (કેન્દ્ર - પેટાળમાં)<br>2 - A (નિર્ગમન કેન્દ્ર - સપાટી પર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'નિર્ગમન' એટલે સપાટી પર જ્યાં સૌથી પહેલા અનુભવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. 26 જાન્યુઆરી, 2001<br>2. 16 જૂન, 2013<br>વિભાગ 'બ':<br>A. ઉત્તરાખંડમાં પૂર (હોનારત)<br>B. કચ્છમાં ભયાનક ભૂકંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (2001 - કચ્છ ભૂકંપ)<br>2 - A (2013 - ઉત્તરાખંડ પૂર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ૨૦૦૧ ના ગણતંત્ર દિવસે કચ્છ ધ્રૂજ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. વાવાઝોડા પહેલાં<br>2. વાવાઝોડા પછી<br>વિભાગ 'બ':<br>A. અજાણ્યા પાણીથી દૂર રહેવું<br>B. ખાવાની વસ્તુઓ અને ટોર્ચ સાથે રાખવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - B (પહેલાં - તૈયારી/સામાન સાથે રાખવો)<br>2 - A (પછી - સાવચેતી/પાણીથી દૂર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'તૈયારી' હંમેશા મુસીબત પહેલાં હોય, અને 'સાફ-સફાઈ/સાવચેતી' મુસીબત પછી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. રણતીડ<br>2. પાકને નુકસાન<br>વિભાગ 'બ':<br>A. રણમલ તીડ (એક જાત)<br>B. આખેઆખો મોલ સાફ કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - A (રણતીડ - એક જાત)<br>2 - B (નુકસાન - મોલ સાફ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તીડ એ ખેડૂતનો દુશ્મન છે, જે ગ્રીનરી (મોલ) ખાઈ જાય છે.</p></div>"
+    }
+  ]
+}
