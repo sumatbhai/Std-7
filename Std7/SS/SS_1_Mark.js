@@ -439,3 +439,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "મુઘલ સામ્રાજ્ય",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં મુઘલ સામ્રાજ્યની સ્થાપના ક્યારે અને કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મુઘલ સામ્રાજ્યની સ્થાપના ઈ.સ. 1526 માં બાબરે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' થી બાબર અને 'બ' થી બસો છવ્વીસ (1526) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ કોની કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું પ્રથમ યુદ્ધ બાબર અને ઇબ્રાહિમ લોદી વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'B-I' (બાબર vs ઇબ્રાહિમ) - પાણી પીવા ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાબરનું મૂળ નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબરનું મૂળ નામ ઝહીરુદ્દીન મુહમ્મદ બાબર હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝહીર' એટલે બાબરનો જાદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હુમાયુનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હુમાયુનો અર્થ 'નસીબદાર' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુ નામ નસીબદાર, પણ જીવનમાં મુશ્કેલી અપાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કયા યુદ્ધમાં પરાજય પામીને હુમાયુને ભારત છોડીને ઈરાન ભાગી જવું પડ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કનૌજના યુદ્ધમાં શેરશાહ સુરી સામે હારીને હુમાયુને ભારત છોડવું પડ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કનૌજમાં 'ક'ન્ફર્મ હાર થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શેરશાહ સુરીનું મૂળ નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સુરીનું મૂળ નામ 'ફરીદખાં' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરીદખાં 'ફ્રી' થઈને વાઘને માર્યો એટલે શેરશાહ બન્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શેરશાહ સુરીએ કયા નવા હાઈવેનું નિર્માણ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સુરીએ 'ગ્રાન્ડ ટ્રંક રોડ' (GT Road) નું નિર્માણ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેર જેવી શક્તિશાળી સડક એટલે ગ્રાન્ડ ટ્રંક રોડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અકબર કઈ ઉંમરે દિલ્હીની ગાદી પર બેઠો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબર માત્ર 14 વર્ષની વયે દિલ્હીની ગાદી પર બેઠો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 વર્ષે વનવાસ નહીં પણ રાજવાસ (ગાદી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાણીપતનું બીજું યુદ્ધ કોની કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું બીજું યુદ્ધ અકબર અને હેમુ વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'કબર vs 'હે'મુ = 'અહે'મ યુદ્ધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અકબરે ફતેહપુર સિક્રીને પોતાની રાજધાની ક્યારે બનાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે ચિત્તોડ અને રણથંભૌર પર વિજય મેળવ્યા બાદ ફતેહપુર સિક્રીને રાજધાની બનાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફતેહ' એટલે વિજય, વિજય પછી વસાવ્યું ફતેહપુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હલ્દીઘાટીનું યુદ્ધ કોની કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હલ્દીઘાટીનું યુદ્ધ અકબર (માનસિંહ) અને મહારાણા પ્રતાપ વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલ્દીઘાટી = હિંમતવાન પ્રતાપની લડાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મહારાણા પ્રતાપના ઘોડાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાણા પ્રતાપના ઘોડાનું નામ 'ચેતક' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતક એટલે વીજળી જેવી ચપળતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અકબરે કયા નવા ધર્મની સ્થાપના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે 'દીન-એ-ઈલાહી' નામના સંપ્રદાયની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દીન' એટલે ગરીબનો નહીં પણ 'ઈશ્વરનો ધર્મ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અકબરના દરબારમાં નવ રત્નોમાં મહેસૂલ મંત્રી કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરના દરબારના નવ રત્નોમાં ટોડરમલ મહેસૂલ મંત્રી હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટોડર' જે મહેસૂલનો રાખે 'ડર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જહાંગીરની પત્નીનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીરની પત્નીનું નામ 'નૂરજહાં' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૂર એટલે તેજ, જહાંગીરના જીવનનું તેજ એટલે નૂરજહાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચિત્રકલાનો ખૂબ જ શોખીન મુઘલ શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીર ચિત્રકલાનો ખૂબ જ શોખીન મુઘલ શાસક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર 'ચ' થી ચિત્રકલામાં ચુસ્ત હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શાહજહાંનું હુલામણું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાંનું હુલામણું નામ 'ખુર્રમ' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુર્રમ = ખુશમિજાજી શાહજહાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શાહજહાંએ પોતાની પત્નીની યાદમાં કઈ વિશ્વપ્રસિદ્ધ ઇમારત બંધાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાંએ મુમતાજ મહેલની યાદમાં આગ્રામાં 'તાજમહેલ' બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુમતાજ નો 'તાજ' એટલે તાજમહેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મુઘલ શાસકોમાં સૌથી લાંબો સમય શાસન કરનાર અને કટ્ટર સુન્ની મુસ્લિમ કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબ સૌથી લાંબો સમય શાસન કરનાર અને કટ્ટર સુન્ની મુસ્લિમ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબ = 'ઔર' પણ વધારે જીવ્યો (50 વર્ષ શાસન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "છત્રપતિ શિવાજી મહારાજનો જન્મ ક્યાં અને ક્યારે થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજનો જન્મ ઈ.સ. 1627 માં મહારાષ્ટ્રના શિવનેરી કિલ્લામાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી - શિવનેરી - સત્તાવીસ (1627).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શિવાજી મહારાજના ગુરુ અને માતાનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજના ગુરુ સમર્થ રામદાસ અને માતાનું નામ જીજાબાઈ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીજાબાઈએ આપ્યા સંસ્કાર, રામદાસે આપ્યું જ્ઞાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મુઘલ વહીવટીતંત્રના વડાને શું કહેવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ વહીવટીતંત્રના વડાને 'વઝીર' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વઝીર એટલે વહીવટનો વીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મુઘલ સેનાના વડાને કયા નામે ઓળખવામાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ સેનાના વડાને 'મીરબક્ષ' કહેવામાં આવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બક્ષ' એટલે જે સેનાનું ધ્યાન રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મુઘલકાલીન મહેસૂલી વ્યવસ્થાને કઈ પ્રથા તરીકે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલકાલીન મહેસૂલી વ્યવસ્થાને 'મનસબદારી' પ્રથા તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનસબ = પદ (Rank).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બુલંદ દરવાજો કોણે બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુલંદ દરવાજો અકબરે ફતેહપુર સિક્રીમાં બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરનો 'બુલંદ' ઈરાદો અને 'બુલંદ' દરવાજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દિલ્હીનો લાલ કિલ્લો કોણે બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હીનો લાલ કિલ્લો શાહજહાંએ બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શાહ' જેવો ભવ્ય લાલ કિલ્લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અકબરના દરબારના સૌથી પ્રખ્યાત ગાયક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરના દરબારના સૌથી પ્રખ્યાત ગાયક તાનસેન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાનસેન એટલે સંગીતની તાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બાબરની આત્મકથાનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબરની આત્મકથાનું નામ 'તુઝુક-એ-બાબરી' (બાબરનામા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાબરની વાતો એટલે બાબરનામા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'અકબરનામા' ગ્રંથની રચના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'અકબરનામા' ગ્રંથની રચના અબુલ ફઝલે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબુલ ફઝલ = અકબરનો 'ફાસ્ટ' લેખક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "છત્રપતિ શિવાજી મહારાજનો રાજ્યાભિષેક ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજનો રાજ્યાભિષેક ઈ.સ. 1674 માં રાયગઢના કિલ્લામાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાયગઢમાં રાય (રાજા) નો અભિષેક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ભારતનો છેલ્લો મુઘલ શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનો છેલ્લો મુઘલ શાસક બહાદુરશાહ ઝફર હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાદુરશાહ 'ઝફર' - જેણે 1857 માં કર્યો સફર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "હુમાયુની બહેન ગુલબદન બેગમે કયું પુસ્તક લખ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હુમાયુની બહેન ગુલબદન બેગમે 'હુમાયુનામા' લખ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુની બહેને લખ્યું હુમાયુનામા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "અકબરે કયા પવિત્ર સ્થળે ઇબાદતખાનું બંધાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે ફતેહપુર સિક્રીમાં ઇબાદતખાનું બંધાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇબાદત એટલે પ્રાર્થના, પ્રાર્થના માટે સિક્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મારવાડના શાસક જસવંતસિંહના મૃત્યુ પછી મુઘલો સામે કોણે સંઘર્ષ ચાલુ રાખ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુર્ગાદાસ રાઠોડે મુઘલો સામે સંઘર્ષ ચાલુ રાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુર્ગાદાસ = જે કિલ્લા (દુર્ગ) ની જેમ અડીખમ રહ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "શીખ ધર્મના કયા ગુરુની હત્યા ઔરંગઝેબે કરાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીખ ધર્મના નવમા ગુરુ તેગ બહાદુરની હત્યા ઔરંગઝેબે કરાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેગ એટલે તલવાર, બહાદુરીથી શહીદ થયા તેગ બહાદુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "શિવાજી મહારાજના મંત્રીમંડળને શું કહેવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજના મંત્રીમંડળને 'અષ્ટપ્રધાન મંડળ' કહેવામાં આવતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અષ્ટ એટલે આઠ મંત્રીઓનું જૂથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જહાંગીરના સમયમાં કયા બે અંગ્રેજો ભારત આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેપ્ટન હોકિન્સ અને સર ટોમસ રો જહાંગીરના સમયમાં ભારત આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાજમાં (જહાંગીર) આવ્યા હોકિન્સ અને રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કયા મુઘલ રાજાએ જિઝિયાવેરો ફરીથી નાખ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબે હિન્દુઓ પર ફરીથી જિઝિયાવેરો નાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરે કાઢ્યો, ઔરંગઝેબે નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "શેરશાહ સુરીએ કઈ ચલણી પદ્ધતિ અમલમાં મૂકી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સુરીએ રુદ્રમ (ચાંદીનો સિક્કો - રૂપિયો) ચલણમાં મૂક્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરશાહ = રૂપિયાનો જનક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મુઘલ વંશનો સૌથી વધુ સહિષ્ણુ શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ વંશનો સૌથી વધુ સહિષ્ણુ શાસક અકબર હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અકબર અને 'અ' થી ઉદાર.</p></div>"
+    }
+  ]
+}
