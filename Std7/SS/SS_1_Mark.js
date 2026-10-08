@@ -647,3 +647,261 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "મધ્યકાલીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "શિલ્પકલા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિલ્પીના મનમાં જાગતા ભાવોને છીણી-હથોડી વડે પાષાણ, લાકડા કે ધાતુ પર કંડારિત કરવાની કલા એટલે શિલ્પકલા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનના ભાવ + છીણી-હથોડી = શિલ્પકલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સ્થાપત્ય માટે બીજો કયો શબ્દ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાપત્ય માટે 'વાસ્તુ' શબ્દ પણ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહેવાનું સ્થાન એટલે વાસ્તુ (મકાન બાંધકામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોણાર્કનું સૂર્યમંદિર કયા રાજ્યમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણાર્કનું સૂર્યમંદિર ઓડિશા રાજ્યના પુરી જિલ્લામાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓ કોણ છે?' (ઓ-ઓડિશા, કોણ-કોણાર્ક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોણાર્કનું સૂર્યમંદિર કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણાર્કનું સૂર્યમંદિર 'કાળા પેગોડા' (Black Pagoda) તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળા પથ્થરો હોવાથી - કાળો પેગોડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઉત્તર ભારતમાં મંદિરોની કઈ શૈલી પ્રચલિત હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર ભારતમાં મંદિરોની 'નાગર શૈલી' પ્રચલિત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તરમાં નાગ રહે (ઉત્તર ભારત - નાગર શૈલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હૂમાયુનો મકબરો કોણે બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૂમાયુનો મકબરો હૂમાયુની પત્ની હમીદા બેગમે બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હ-હ (હૂમાયુ - હમીદા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અકબરે કયા નવા શહેરની સ્થાપના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે આગ્રા પાસે 'ફતેહપુર સિક્રી' નામના શહેરની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરને ફતેહ (જીત) મળી એટલે ફતેહપુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુનિયાનો સૌથી ઊંચો દરવાજો કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફતેહપુર સિક્રીમાં આવેલો 'બુલંદ દરવાજો' દુનિયાનો સૌથી ઊંચો દરવાજો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની બુલંદી સૌથી વધુ તે - બુલંદ દરવાજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દિલ્હીમાં આવેલો લાલ કિલ્લો કોણે બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હીનો લાલ કિલ્લો મુઘલ બાદશાહ શાહજહાંએ બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લો અને તાજમહાલ બંનેનો રાજા 'શાહજહાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સુવર્ણ મંદિર કયા શહેરમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુવર્ણ મંદિર પંજાબના અમૃતસર શહેરમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમૃત જેવું સોનું (અમૃતસર - સુવર્ણ મંદિર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સોમનાથ મંદિરનો જીર્ણોદ્ધાર ક્યારે થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોમનાથ મંદિરનો છેલ્લો જીર્ણોદ્ધાર ઈ.સ. 1951માં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદી પછી તરત (1951).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જૂનાગઢમાં કયો કિલ્લો આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂનાગઢમાં 'ઉપરકોટ' નો કિલ્લો આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનાગઢ ડુંગરની 'ઉપર' એટલે ઉપરકોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અડી-ચડીની વાવ અને નવઘણ કૂવો ક્યાં આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડી-ચડીની વાવ અને નવઘણ કૂવો જૂનાગઢમાં આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અડી-ચડી જૂનાગઢ ચડી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રાણીની વાવ કોણે બંધાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાણીની વાવ રાણી ઉદયમતીએ બંધાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણીનો સૂર્ય 'ઉદય' થયો (રાણી - ઉદયમતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાણીની વાવને કયું આંતરરાષ્ટ્રીય સન્માન મળેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાણીની વાવને UNESCO દ્વારા 'વર્લ્ડ હેરિટેજ સાઈટ'નો દરજ્જો મળેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટણની વાવ, દુનિયામાં સાવ (World Heritage).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સિદ્ધરાજ જયસિંહ દ્વારા કયા મહાલયનું નિર્માણ થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિદ્ધરાજ જયસિંહ દ્વારા સિદ્ધપુરમાં 'રુદ્ર મહાલય'નું નિર્માણ થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિદ્ધરાજ - સિદ્ધપુર - રુદ્ર મહાલય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અમદાવાદ શહેરની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમદાવાદ શહેરની સ્થાપના અહમદશાહે ઈ.સ. 1411 માં કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ-અ (અહમદશાહ - અમદાવાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સીદી સૈયદની જાળી કયા શહેરમાં આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીદી સૈયદની જાળી અમદાવાદ શહેરમાં આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદની શાન, સીદી સૈયદની જાળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાટણનું કયું વસ્ત્ર મધ્યકાળથી પ્રખ્યાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાટણનું 'પટોળું' મધ્યકાળથી પ્રખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પા-પ (પાટણ - પટોળા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિજય સ્તંભ (કીર્તિ સ્તંભ) ક્યાં આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજય સ્તંભ ચિત્તોડગઢમાં આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્તોડનો વિજય (વિજય સ્તંભ - ચિત્તોડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઢાઈ દિન કા ઝોંપડા શું છે અને તે ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઢાઈ દિન કા ઝોંપડા એક મસ્જિદ છે અને તે અજમેરમાં આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ-ઝ (અજમેર - ઝોંપડા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તાજમહાલ કોની યાદમાં બંધાવવામાં આવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાજમહાલ મુમતાઝ મહલની યાદમાં શાહજહાંએ બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુમતાઝનો તાજ (તાજમહાલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રાજસ્થાનની કઈ ચિત્રશૈલી પ્રખ્યાત હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજસ્થાનની મેવાડ, જયપુર, મારવાડ અને કોટા શૈલી પ્રખ્યાત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજસ્થાની રજવાડાઓની શૈલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાંગડા શૈલી કયા ક્ષેત્રમાં વિકસી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંગડા શૈલી હિમાચલ પ્રદેશના પહાડી વિસ્તારોમાં વિકસી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંગડા પહાડી (કાંગડા - હિમાચલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તાનસેન કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાનસેન અકબરના દરબારનો સૌથી મહાન શાસ્ત્રીય ગાયક (સંગીતકાર) હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગીતનો સેન એટલે તાનસેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હમ્પી કયા સામ્રાજ્યની રાજધાની હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હમ્પી વિજયનગર સામ્રાજ્યની રાજધાની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજય થયો એટલે હમ્પી (હેપ્પી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મધ્યકાળમાં ગુજરાતનું કયું શહેર આંતરરાષ્ટ્રીય બંદર હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યકાળમાં સુરત અને ખંભાત ગુજરાતના આંતરરાષ્ટ્રીય બંદરો હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુ-ખ (સુરત - ખંભાત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કયા મુઘલ બાદશાહના સમયને 'સ્થાપત્યનો સુવર્ણ યુગ' કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાંના સમયને મુઘલ સ્થાપત્યનો સુવર્ણ યુગ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાંએ સૌથી વધુ 'શાહી' ઈમારતો બનાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સૌરાષ્ટ્રમાં કયા પાળિયાઓ જાણીતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જામનગર પાસે ભૂચર મોરીનો સૂરજકુંવરબાનો પાળિયો અને સોમનાથ મંદિર પાસેના હમીરજી ગોહિલના પાળિયા જાણીતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહીદોની સ્મૃતિ એટલે પાળિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મોઢેરાનું સૂર્યમંદિર કયા રાજાના શાસનકાળમાં બંધાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોઢેરાનું સૂર્યમંદિર સોલંકી વંશના રાજા ભીમદેવ પ્રથમના સમયમાં બંધાયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીમ જેવું મોટું મંદિર (ભીમદેવ - મોઢેરા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગુજરાતમાં જરીકામ માટે કયું શહેર જાણીતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં જરીકામ માટે સુરત શહેર જાણીતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરી જોઈને સુરત જવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "દિલ્હી સલ્તનત સમયનું સૌથી મોટું સ્થાપત્ય કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુતુબમિનાર એ દિલ્હી સલ્તનત સમયનું સૌથી જાણીતું અને ઊંચું સ્થાપત્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુતુબ એટલે ઊંચો મિનારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "મલાવ તળાવ ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલાવ તળાવ ધોળકામાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોળકાનું મલાવ તળાવ (ન્યાય જોવો હોય તો મલાવ તળાવ જુઓ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સહસ્ત્રલિંગ તળાવ ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહસ્ત્રલિંગ તળાવ પાટણમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટણના પટોળા અને પાટણનું તળાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મોઢેરાના સૂર્યમંદિરનું પ્રવેશદ્વાર કઈ દિશામાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોઢેરાના સૂર્યમંદિરનું પ્રવેશદ્વાર પૂર્વ દિશામાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય પૂર્વમાં ઊગે એટલે દ્વાર પણ પૂર્વમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "રુદ્ર મહાલયનો નાશ કોણે કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખીલજીએ ગુજરાત પરના આક્રમણ દરમિયાન રુદ્ર મહાલયનો નાશ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખીલજી - વિનાશક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અડાલજની વાવ કોણે બંધાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડાલજની વાવ રાણી રૂડાબાઈએ તેમના પતિ વીરસિંહની યાદમાં બંધાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂડાબાઈની રૂડી (સુંદર) વાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગિરનાર પર કયું સુપ્રસિદ્ધ કુંડ આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગિરનાર પર દામોદર કુંડ આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિરનારના દામોદર ભગવાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સીદી સૈયદની જાળીની વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીદી સૈયદની જાળી તેની અત્યંત બારીક કોતરણી અને પથ્થરમાં કંડારેલી વનસ્પતિની ભાત માટે વિશ્વભરમાં પ્રખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરમાં જાદુઈ કોતરણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પાટણના પટોળાની કલા કેટલા વર્ષ જૂની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાટણના પટોળાની કલા આશરે 850 વર્ષ કરતાં પણ વધુ જૂની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 850+ વર્ષની પરંપરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "મધ્યકાલીન સમયમાં કયું શહેર કાપડ ઉદ્યોગનું કેન્દ્ર હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યકાલીન સમયમાં ઢાકા અને ભારતના ઘણા શહેરો કાપડ માટે જાણીતા હતા, પણ વેપારનું મુખ્ય કેન્દ્ર સુરત હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત - કાપડનું હબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બૃહદેશ્વર મંદિર ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૃહદેશ્વર મંદિર તમિલનાડુના તાંજોર (થંજાવુર) માં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત-ત (તમિલનાડુ - તાંજોર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "મુઘલ ચિત્રકલાનો પાયો કોણે નાખ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૂમાયુએ ઈરાનથી બે ચિત્રકારો લાવી મુઘલ ચિત્રકલાનો પાયો નાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૂમાયુ પાયો લાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કોના સમયમાં ચિત્રકલાનો સૌથી વધુ વિકાસ થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીરના સમયમાં મુઘલ ચિત્રકલાનો સૌથી વધુ વિકાસ થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર પોતે મોટો ચિત્રપ્રેમી હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પાળિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ વીર પુરુષના બલિદાન કે શૌર્યની યાદમાં જે પથ્થરનું સ્માર્ક બનાવવામાં આવે તેને 'પાળિયા' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીરતાનું પ્રતીક એટલે પાળિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "બુલંદ દરવાજો કયા વિજયની યાદમાં બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે ગુજરાત વિજયની યાદમાં ફતેહપુર સિક્રીમાં બુલંદ દરવાજો બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાત જીત્યાની ખુશીમાં બુલંદ દરવાજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વીર હમીરજી ગોહિલનો પાળિયો ક્યાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીર હમીરજી ગોહિલનો પાળિયો સોમનાથ મંદિર પાસે આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમનાથના રક્ષક હમીરજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "શત્રુંજય પર્વત પર કયાં જૈન મંદિરો આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાવનગર જિલ્લાના પાલીતાણામાં શત્રુંજય પર્વત પર જૈન મંદિરો આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલીતાણા - જૈન તીર્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "તાજમહાલ કઈ નદીના કિનારે આવેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાજમહાલ યમુના નદીના કિનારે આગ્રામાં આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યમુનાનો કિનારો અને સંગેમરમરનો તાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "મધ્યકાલીન શહેરોમાં સુરત શા માટે પ્રખ્યાત હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરત તેના હીરા ઉદ્યોગ, જરીકામ અને આંતરરાષ્ટ્રીય વેપારના મોટા કેન્દ્ર તરીકે પ્રખ્યાત હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત એટલે સોનાની મૂરત (વેપારનું કેન્દ્ર).</p></div>"
+    }
+  ]
+}
