@@ -206,3 +206,236 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "દિલ્હી સલ્તનત",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દિલ્હી સલ્તનતની સ્થાપના ક્યારે અને કોના દ્વારા કરવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇ.સ. 1206 માં કુતબુદ્દીન ઐબક દ્વારા દિલ્હી સલ્તનતની સ્થાપના કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર-છ' (1206) માં 'ઐબક' આવ્યો દિલ્હી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દિલ્હી સલ્તનતના શાસનકાળ દરમિયાન કુલ કેટલા વંશોએ સત્તા ભોગવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હી સલ્તનતમાં કુલ 5 વંશોએ શાસન કર્યું હતું: ૧. ગુલામ વંશ, ૨. ખલજી વંશ, ૩. તુગલક વંશ, ૪. સૈયદ વંશ અને ૫. લોદી વંશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુ-ખ-તુ-સ-લો' (ક્રમ યાદ રાખવા પ્રથમ અક્ષરો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઇલ્તુત્મિશે કયું દળ બનાવીને પોતાના રાજ્યને મજબૂત કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલ્તુત્મિશે 40 તુર્ક અમીરોના દળ 'ચાહલગાન' (દળ-ચાલીસા) ની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાહલગાન' એટલે 'ચાલીસા' (40).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દિલ્હી સલ્તનતનો સાચો સ્થાપક કોને માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલ્તુત્મિશને દિલ્હી સલ્તનતનો સાચો સ્થાપક માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐબકે પાયો નાખ્યો, ઇલ્તુત્મિશે 'સાચો' મહેલ બનાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દિલ્હીની ગાદી પર બેસનાર પ્રથમ મહિલા શાસક કોણ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલ્તુત્મિશની પુત્રી 'રઝિયા સુલ્તાના' દિલ્હીની ગાદી પર બેસનાર પ્રથમ મહિલા શાસક હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રઝિયા' = 'રાણી' (પ્રથમ સ્ત્રી શાસક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગિયાસુદ્દીન બલબને કઈ પદ્ધતિઓનો નાશ કરીને શાસન વ્યવસ્થા મજબૂત કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બલબને 'ચાહલગાન' (દળ-ચાલીસા) દળનો નાશ કરીને અમીરોની પકડ હળવી કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલબન 'બળ' બતાવી 'ચાલીસા' હટાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખલજી વંશની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલાલુદ્દીન ખલજીએ ખલજી વંશની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખલજી વંશનો 'જલાલ' (જલાલુદ્દીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અલાઉદ્દીન ખલજીએ કયા કયા વહીવટી સુધારા કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખલજીએ સૈન્યના ઘોડા અને સૈનિકો માટે 'દાગ' અને 'ચહેરા' પદ્ધતિની શરૂઆત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીનનો 'દાગ' અને સૈનિકનો 'ચહેરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રખ્યાત કવિ અમીર ખુસરો કોના દરબારમાં હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રખ્યાત કવિ અને વિદ્વાન અમીર ખુસરો અલાઉદ્દીન ખલજીના દરબારમાં હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીર ખુસરો = અલાઉદ્દીન (બંનેમાં 'અ' થી શરૂઆત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "તુગલક વંશ દરમિયાન કયા શાસકે દિલ્હીથી દોલતાબાદ રાજધાની સ્થળાંતરિત કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુહમ્મદ બિન તુગલકે પોતાની રાજધાની દિલ્હીથી દોલતાબાદ ખસેડી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુગલકની 'તરંગી' યોજના (દિલ્હી ટુ દોલતાબાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મુહમ્મદ બિન તુગલકની યોજનાઓ ઇતિહાસમાં કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુહમ્મદ બિન તુગલકની યોજનાઓ ઇતિહાસમાં 'તરંગી યોજનાઓ' તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત' થી તુગલક, 'ત' થી તરંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આફ્રિકન મુસાફર ઇબ્નબતૂતા કોના સમયમાં ભારતની મુલાકાતે આવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આફ્રિકન (મોરોક્કો) મુસાફર ઇબ્નબતૂતા મુહમ્મદ બિન તુગલકના સમયમાં ભારત આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બતૂતા' આવ્યો 'તુગલક' ના રાજમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સૈયદ વંશની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખિજ્રખાંએ સૈયદ વંશની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૈયદ' વંશમાં 'ખિજ' (ખિજ્રખાં) ચડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લોદી વંશનો સ્થાપક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહલોલ લોદી લોદી વંશનો સ્થાપક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોદી વંશનો 'બહલોલ' (બહુ લોલ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દિલ્હી સલ્તનતનો છેલ્લો શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇબ્રાહીમ લોદી દિલ્હી સલ્તનતનો છેલ્લો શાસક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇબ્રાહીમ' છેલ્લે હાર્યો અને સલ્તનત પૂરી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ ક્યારે અને કોની કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું પ્રથમ યુદ્ધ ઇ.સ. 1526 માં ઇબ્રાહીમ લોદી અને બાબર વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15-26: બાબર vs લોદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સલ્તનતકાળમાં મંત્રીમંડળના વડાને શું કહેવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સલ્તનતકાળમાં મંત્રીમંડળના વડાને 'વઝીર' કહેવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વઝીર = મુખ્ય મંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સલ્તનતકાળમાં પ્રાંતને શું કહેવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સલ્તનતકાળમાં પ્રાંતને 'ઈક્તા' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાંત = 'ઈક્તા' (ઈક્તા પ્રણાલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઈક્તાના વડાને કયા નામે ઓળખવામાં આવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈક્તાના વડાને 'મુક્તિ' અથવા 'વલી' કહેવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈક્તાનો વડો 'મુક્તિ' અપાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કુતબ મિનાર ક્યાં આવેલો છે અને તેનું બાંધકામ કોણે શરૂ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુતબ મિનાર દિલ્હીમાં આવેલો છે અને તેનું બાંધકામ કુતબુદ્દીન ઐબકે શરૂ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુતબ' મિનાર - 'કુતબુદ્દીન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કુતબ મિનારનું અધૂરું કાર્ય કોણે પૂર્ણ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુતબ મિનારનું બાંધકામ ઇલ્તુત્મિશે પૂર્ણ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાએ પાયો નાખ્યો (ઐબક), પુત્ર (જમાઈ) એ પૂરો કર્યો (ઇલ્તુત્મિશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અજમેરમાં આવેલી 'ઢાઈ દિન કા ઝોંપડા' નામની મસ્જિદ કોણે બંધાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુતબુદ્દીન ઐબકે અજમેરમાં 'ઢાઈ દિન કા ઝોંપડા' મસ્જિદ બંધાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઐબક' એ 'અજમેર' માં 'ઝોંપડું' (મસ્જિદ) બાંધ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અલાઉદ્દીન ખલજીએ કયા જાણીતા સ્થાપત્યનું નિર્માણ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલાઉદ્દીન ખલજીએ 'અલાઈ દરવાજા', સીરીનો કિલ્લો અને સીરી નગર વસાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અલાઉદ્દીન અને 'અ' થી અલાઈ દરવાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિજયનગર સામ્રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇ.સ. 1336 માં હરિહરરાય અને બુક્કારાય નામના બે ભાઈઓએ વિજયનગર સામ્રાજ્યની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરિ' અને 'બુક્કા' એ મેળવ્યો 'વિજય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિજયનગર કઈ નદીના કિનારે વસેલું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજયનગર તુંગભદ્રા નદીના કિનારે વસેલું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિજય' મેળવીને 'તુંગ' (ઊંચા) થયા (તુંગભદ્રા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિજયનગર સામ્રાજ્યનો સર્વશ્રેષ્ઠ શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુલુવ વંશનો 'કૃષ્ણદેવરાય' વિજયનગર સામ્રાજ્યનો સર્વશ્રેષ્ઠ શાસક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગરમાં 'કૃષ્ણ' નું શાસન સર્વોપરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કૃષ્ણદેવરાયને કયા હુલામણા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃષ્ણદેવરાયને 'આંધ્રના ભોજ' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ = આંધ્રના ભોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "તાલીકોટાનું યુદ્ધ ક્યારે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાલીકોટાનું યુદ્ધ 23 જાન્યુઆરી, 1565 ના રોજ થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15-65 માં વિજયનગરનો અંત આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બહમની રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝફરખાંએ (હસન ગંગુ) ઇ.સ. 1347 માં બહમની રાજ્યની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહમની' માં 'ઝફર' (ઝળક્યો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બહમની સામ્રાજ્યનો સમર્થ મંત્રી કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહમૂદ ગવાં બહમની સામ્રાજ્યનો સક્ષમ અને સમર્થ મંત્રી હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહમનીને 'ગવાં' (ગમાવ્યું) નહીં પણ મજબૂત કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સલ્તનતકાળમાં જિલ્લાને શું કહેવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સલ્તનતકાળમાં જિલ્લાને 'શિક' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિલ્લામાં 'શિક' (શીખ) આપવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સલ્તનતકાળમાં તાલુકાને શું કહેવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સલ્તનતકાળમાં તાલુકાને 'પરગણા' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાલુકો = પરગણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કયા શાસકે કુતબુદ્દીન ઐબકના સમયમાં માત્ર એક જ માળ બાંધેલા કુતબ મિનારનું કામ આગળ વધાર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલ્તુત્મિશે કુતબ મિનારનું કામ આગળ વધાર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિનારને 'ઇલ્તુ' એ ઊંચો કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "તુગલક વંશના કયા શાસકે ફિરોઝાબાદ અને હિસ્સાર જેવા નગરો વસાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિરોઝશાહ તુગલકે ફિરોઝાબાદ અને હિસ્સાર જેવા નગરો વસાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફિરોઝ' એ વસાવ્યું 'ફિરોઝાબાદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ઇબ્રાહીમ લોદી કોની સામે યુદ્ધમાં હાર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇબ્રાહીમ લોદી બાબર સામે પાણીપતના પ્રથમ યુદ્ધમાં હાર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇબ્રાહીમ vs બાબર (1526).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ગામનો વહીવટ કોણ કરતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામનો વહીવટ મુકદ્દમ કે પટવારી કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામનો 'મુકદ્દમ' (મુખ્ય માણસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "તુગલક શાસન પછી દિલ્હીમાં કયા વંશની સ્થાપના થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુગલક શાસન પછી દિલ્હીમાં સૈયદ વંશની સ્થાપના થઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુગલક પછી 'સૈયદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કૃષ્ણદેવરાયે વિજયનગરની પાસે કયું નવું નગર વસાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃષ્ણદેવરાયે વિજયનગર પાસે 'નાગલપુર' નામનું નવું નગર વસાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણદેવરાય - 'નાગલપુર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સલ્તનતકાળના શાસકોના કેન્દ્રમાં કોણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સલ્તનતકાળના શાસનના કેન્દ્રમાં 'સુલ્તાન' પોતે હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્તનત = સુલ્તાનનું શાસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "હરિહરરાય અને બુક્કારાય કયા વંશના હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિહરરાય અને બુક્કારાય 'સંગમ વંશ' ના હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિ-બુક્કાનો 'સંગમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ઝફરખાંએ કયું નામ ધારણ કરીને બહમની પર શાસન કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝફરખાંએ 'અલાઉદ્દીન બહમનશાહ' નામ ધારણ કરીને શાસન કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝફરખાં બન્યો 'બહમનશાહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કુતબુદ્દીન ઐબકનું મૃત્યુ કેવી રીતે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇ.સ. 1210 માં પોલો (ચૌગાન) રમતા ઘોડા પરથી પડી જવાથી ઐબકનું મૃત્યુ થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐબક 'પોલો' રમતા 'પડ્યો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સલ્તનતકાળમાં લશ્કરી વિભાગના વડાને શું કહેવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લશ્કરી વિભાગના વડાને 'આરીઝ-એ-મમાલિક' કહેવામાં આવતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લશ્કર = આરીઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કૃષ્ણદેવરાયે તેલુગુમાં કયો ગ્રંથ લખ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃષ્ણદેવરાયે તેલુગુ ભાષામાં 'આમુક્તમાલ્યદા' ગ્રંથ લખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણની માલ્યદા (આમુક્તમાલ્યદા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "દિલ્હી સલ્તનતનો સમયગાળો કયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇ.સ. 1206 થી ઇ.સ. 1526 સુધીનો સમયગાળો દિલ્હી સલ્તનતનો ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1206 (સ્ટાર્ટ) - 1526 (એન્ડ).</p></div>"
+    }
+  ]
+}
