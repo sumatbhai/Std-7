@@ -1138,3 +1138,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં મધ્યકાલીન ધાર્મિક આંદોલનોની શરૂઆત કયા ભાગથી થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મધ્યકાલીન ધાર્મિક આંદોલનોની શરૂઆત દક્ષિણ ભારતથી થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ' થી દક્ષિણ અને 'દ' થી ધાર્મિક શરૂઆત - યાદ રાખવું સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દક્ષિણ ભારતમાં 'અલવાર' સંતો કોના ઉપાસક હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલવાર સંતો ભગવાન વિષ્ણુના ઉપાસક (વૈષ્ણવ) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અલ-વિ' (અલવાર - વિષ્ણુ) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દક્ષિણ ભારતમાં 'નયનાર' સંતો કોની ભક્તિ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નયનાર સંતો ભગવાન શિવના ઉપાસક (શૈવ) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નયન' એટલે આંખ, અને શિવજીને ત્રીજું નયન હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભક્તિ આંદોલનનો મુખ્ય ઉદ્દેશ્ય શું હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભક્તિ આંદોલનનો મુખ્ય ઉદ્દેશ્ય ઈશ્વર પ્રત્યેનો પ્રેમ અને માનવતાવાદનો પ્રસાર કરી ઉચ્ચ-નીચના ભેદભાવ દૂર કરવાનો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્તિ = પ્રેમ + સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આદિ શંકરાચાર્યનો જન્મ કયા સ્થળે થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિ શંકરાચાર્યનો જન્મ કેરળના 'કાલડી' ગામે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર ભગવાન 'કાળ'ના પણ કાળ છે, એટલે 'કાલડી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આદિ શંકરાચાર્યના પિતા અને માતાનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમના પિતાનું નામ શિવગુરુ અને માતાનું નામ અંબાબાઈ (આર્યામ્બા) હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવના ભક્ત શિવગુરુ અને અંબા માતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રામાનુજાચાર્યનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામાનુજાચાર્યનો જન્મ તમિલનાડુના 'પેરુમ્બતુર' મુકામે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામજીના 'પેર' (પગ) - પેરુમ્બતુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રામાનુજાચાર્યના માતા-પિતાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામાનુજાચાર્યના પિતા કેશવ ભટ્ટ અને માતા કાંતિમતી હતાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ = કેશવ (કૃષ્ણ) નું જ રૂપ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઉત્તર ભારતમાં ભક્તિ આંદોલન ફેલાવવાનું શ્રેય કોને ફાળે જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર ભારતમાં ભક્તિ આંદોલન ફેલાવવાનું મુખ્ય શ્રેય રામાનંદ જેવા સંતોને ફાળે જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉત્તર' માં 'રામ' નું રાજ્ય - રામાનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંત કબીર કયા વ્યવસાય સાથે જોડાયેલા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત કબીર વણકરના વ્યવસાય સાથે જોડાયેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીરજી દોહાઓ વણીને સમજાવતા - વણકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સંત કબીરના કાવ્યસંગ્રહનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત કબીરના કાવ્યસંગ્રહનું નામ 'બીજક' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીરના જ્ઞાનનું 'બીજ' - બીજક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શીખ ધર્મના સ્થાપક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીખ ધર્મના સ્થાપક ગુરુ નાનક હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી 'નાના' એટલે કે પ્રથમ - ગુરુ નાનક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રૈદાસ (રવિદાસ) કયા સંતના શિષ્ય હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૈદાસ સ્વામી રામાનંદના શિષ્ય હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીર અને રૈદાસ બંને ગુરુભાઈ હતા (રામાનંદના શિષ્યો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગુજરાતના કયા ભક્ત કવિએ 'વૈષ્ણવજન તો તેને રે કહીએ' ભજનની રચના કરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાએ આ પ્રખ્યાત ભજનની રચના કરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતના આદિકવિ - નરસિંહ મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નરસિંહ મહેતાના પદો કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાના પદો 'પ્રભાતિયાં' તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રભાતે' (સવારે) ગવાય તે પ્રભાતિયાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મીરાંબાઈ કોના પુત્રી હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાંબાઈ મેડતાના રાજવી રત્નસિંહના પુત્રી હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાંના પિતા 'રત્ન' જેવા હતા - રત્નસિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મીરાંબાઈના ગુરુ કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત રૈદાસ મીરાંબાઈના ગુરુ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૈદાસ-મીરાં (ગુરુ-શિષ્યા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચૈતન્ય મહાપ્રભુએ બંગાળમાં કઈ પ્રથા શરૂ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૈતન્ય મહાપ્રભુએ બંગાળમાં 'હરિ સંકીર્તન' ની પ્રથા શરૂ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળ + ચૈતન્ય = કીર્તન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મહારાષ્ટ્રમાં ભક્તિ આંદોલનનું મુખ્ય કેન્દ્ર કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પંઢરપુરનું 'વિઠોબા મંદિર' મહારાષ્ટ્રમાં ભક્તિ આંદોલનનું મુખ્ય કેન્દ્ર હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંઢરપુરના વિઠ્ઠલ માઉલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભગવદ્ ગીતા પર 'જ્ઞાનેશ્વરી' ટીકા કોણે લખી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત જ્ઞાનેશ્વરે ભગવદ્ ગીતા પર મરાઠી ભાષામાં 'જ્ઞાનેશ્વરી' લખી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે - જ્ઞાનેશ્વર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સંત તુકારામના કાવ્ય સંગ્રહનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત તુકારામના કાવ્ય સંગ્રહનું નામ 'અભંગો' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુકારામના 'અભંગ' ભક્તિ પદો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમર્થ રામદાસ કોના ગુરુ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમર્થ રામદાસ છત્રપતિ શિવાજી મહારાજના ગુરુ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી - રામદાસ (વીરતા અને ભક્તિનો સંગમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સૂફી શબ્દ કઈ ભાષા પરથી ઉતરી આવ્યો છે અને તેનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂફી શબ્દ અરબી ભાષાના 'સફ' (પવિત્રતા) પરથી ઉતરી આવ્યો છે, જેનો અર્થ ઊનનું વસ્ત્ર પહેરનાર પવિત્ર સાધુ પણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂફી = શુદ્ધ/પવિત્ર મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભારતમાં ચિશ્તી પરંપરાની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ખ્વાજા મોઈનુદ્દીન ચિશ્તીએ ચિશ્તી પરંપરાની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજમેરના ખ્વાજા - મોઈનુદ્દીન ચિશ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સુરદાસ કોના શિષ્ય હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરદાસ વલ્લભાચાર્યના શિષ્ય હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલ્લભ-સુર (ભક્તિનો સૂર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તુલસીદાસે કયા પ્રસિદ્ધ ગ્રંથોની રચના કરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તુલસીદાસે 'રામચરિતમાનસ' અને 'વિનયપત્રિકા' જેવા ગ્રંથોની રચના કરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુલસીદાસ એટલે રામભક્તિનો 'માનસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શીખ ધર્મના પવિત્ર ગ્રંથનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીખ ધર્મના પવિત્ર ગ્રંથનું નામ 'ગુરુ ગ્રંથ સાહિબ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ જ ગ્રંથ અને ગ્રંથ જ ગુરુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નરસિંહ મહેતાનો જન્મ કયા ગામે થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાનો જન્મ ભાવનગર જિલ્લાના 'તળાજા' ગામે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવનગરનું 'તળાજા' - નરસિંહનું જન્મસ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મીરાંબાઈના લગ્ન કોની સાથે થયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાંબાઈના લગ્ન મેવાડના રાજકુમાર ભોજરાજ સાથે થયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેવાડના રાણી મીરાંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મહારાષ્ટ્રના કયા સંતે ઉચ્ચ-નીચના ભેદભાવનો વિરોધ કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત એકનાથે મહારાષ્ટ્રમાં ઉચ્ચ-નીચના અને જાતિ-પાતિના ભેદભાવનો સખત વિરોધ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા 'એક' છે તેવું કહેનાર - એકનાથ.</p></div>"
+    }
+  ]
+}
