@@ -1945,3 +1945,136 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પર્યાવરણ’ શબ્દ કયા બે શબ્દોનો બનેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘પર્યાવરણ’ શબ્દ ‘પરિ’ અને ‘આવરણ’ એમ બે શબ્દોનો બનેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિ = આજુબાજુ + આવરણ = પડ; એટલે કે આજુબાજુનું પડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પર્યાવરણના મુખ્ય કેટલા ઘટકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણના મુખ્ય ચાર ઘટકો છે: (1) મૃદાવરણ (2) જલાવરણ (3) વાતાવરણ અને (4) જીવાવરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃ-જ-વા-જી' (મૃદાવરણ, જલાવરણ, વાતાવરણ, જીવાવરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મૃદાવરણ પૃથ્વીની સપાટીનો આશરે કેટલા ટકા ભાગ રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃદાવરણ પૃથ્વીની સપાટીનો આશરે 29 ટકા ભાગ રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૯% જમીન અને ૭૧% પાણી (૨૯ + ૭૧ = ૧૦૦).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જલાવરણ પૃથ્વીની સપાટીનો કેટલા ટકા ભાગ રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલાવરણ પૃથ્વીની સપાટીનો આશરે 71 ટકા ભાગ રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પર 'જલ' (પાણી) વધારે છે એટલે કે ૭૧%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પૃથ્વી પરના ચાર મુખ્ય મહાસાગરો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર ચાર મુખ્ય મહાસાગરો છે: (1) પેસિફિક (2) એટલાન્ટિક (3) હિન્દ અને (4) આર્કટિક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PAIA' (Pacific, Atlantic, Indian, Arctic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાતાવરણ પૃથ્વીની સપાટીથી આશરે કેટલા કિમી સુધી વિસ્તરેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણ પૃથ્વીની સપાટીથી આશરે 1600 કિમી સુધી વિસ્તરેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણની ઊંચાઈ '૧૬૦૦' કિમી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જીવાવરણમાં કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીવાવરણમાં વનસ્પતિ, પ્રાણીઓ, જીવજંતુઓ અને માનવનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં 'જીવ' છે તે બધું જ જીવાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સૂર્યના અત્યંત ગરમ પારજાંબલી કિરણોનું શોષણ કયો ગેસ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યના અત્યંત ગરમ પારજાંબલી કિરણોનું શોષણ ‘ઓઝોન’ વાયુ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન = પૃથ્વીની છત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભરતી-ઓટ કોના કારણે આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્ય અને ચંદ્રના ગુરુત્વાકર્ષણ બળના કારણે પૃથ્વી પર ભરતી-ઓટ આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય-ચંદ્રનું 'ખેંચાણ' (ગુરુત્વાકર્ષણ) એટલે ભરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બે ભરતી કે બે ઓટ વચ્ચેનો સમયગાળો આશરે કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ભરતી કે બે ઓટ વચ્ચેનો સમયગાળો આશરે 12.25 કલાક જેટલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૨ કલાક અને ઉપર ૨૫ મિનિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કયા દિવસે સૌથી મોટી ભરતી આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમાસ અને પૂનમના દિવસે સૌથી મોટી ભરતી આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂનમ-અમાસે સૂર્ય, ચંદ્ર અને પૃથ્વી સીધી રેખામાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમુદ્રના પ્રવાહોના ઉદ્ભવના કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્રના પ્રવાહોના ઉદ્ભવના મુખ્ય કારણો: સૌરશક્તિ, પવનો, સમુદ્રજળની ક્ષારતા અને પૃથ્વીનું પરિભ્રમણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન + ક્ષાર + ગરમી + પૃથ્વીનું ફરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માનવ નિર્મિત પર્યાવરણને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવ નિર્મિત પર્યાવરણને 'સાંસ્કૃતિક પર્યાવરણ' તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવીએ બનાવેલી સંસ્કૃતિ = સાંસ્કૃતિક પર્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પ્રદૂષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણના હાનિકારક ફેરફારોને પ્રદૂષણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોખ્ખું બગડે તે પ્રદૂષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભૂમિ (જમીન) પ્રદૂષણ અટકાવવાનો એક ઉપાય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસ્ટિક અને રાસાયણિક ખાતરોનો વપરાશ ઘટાડવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્લાસ્ટિક મુક્ત જમીન, સ્વસ્થ જમીન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હવાનું પ્રદૂષણ ફેલાવનારા ઘટકોને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવાનું પ્રદૂષણ ફેલાવનારા ઘટકોને ‘વાયુ પ્રદૂષકો’ (Air Pollutants) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા બગાડે તે વાયુ પ્રદૂષકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ધ્વનિ પ્રદૂષણ (ઘોંઘાટ) માપવાનો એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્વનિ પ્રદૂષણ માપવાનો એકમ 'ડેસિબલ' (Decibel) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોંઘાટ = ડેસિબલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાતાવરણમાં સૌથી વધુ પ્રમાણમાં કયો વાયુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં સૌથી વધુ પ્રમાણમાં 'નાઈટ્રોજન' (78%) વાયુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન ૭૮% (સૌથી વધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પર્યાવરણના અજૈવિક ઘટકોમાં કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજૈવિક ઘટકોમાં ભૂમિ, જળ અને હવાનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્જીવ વસ્તુઓ = અજૈવિક ઘટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મીઠા પાણીના મુખ્ય સ્ત્રોત કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિમશિખરો, ભૂગર્ભ જળ, નદીઓ અને સરોવરો એ મીઠા પાણીના મુખ્ય સ્ત્રોત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીવાલાયક પાણી એટલે મીઠું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહાસાગરોમાં કયા પ્રકારના પ્રવાહો જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાસાગરોમાં ગરમ અને ઠંડા એમ બે પ્રકારના પ્રવાહો જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાગરના પાણીના બે સ્વભાવ: ગરમ અને ઠંડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ધ્વનિ પ્રદૂષણ અટકાવવા માટે સિનેમાઘરોમાં શું લગાવવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્વનિ પ્રદૂષણ અટકાવવા માટે સિનેમાઘરોમાં 'ધ્વનિશોષક' પડદા કે સાધનો લગાવવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ શોષી લે તેવા પડદા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પૃથ્વી પરના કયા આવરણને કારણે આપણે સૂર્યોદય અને સૂર્યાસ્ત સમયે રંગીન દ્રશ્યો જોઈ શકીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં રહેલા રજકણોને કારણે સૂર્યોદય અને સૂર્યાસ્ત સમયે રંગીન દ્રશ્યો જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રજકણો = પ્રકાશનું પરાવર્તન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ આશરે 21 ટકા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવવા માટે ૨૧% ઓક્સિજન જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "હવાનું પ્રદૂષણ અટકાવવા કયા બળતણનો ઉપયોગ વધારવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવાનું પ્રદૂષણ અટકાવવા CNG અને LPG જેવા બળતણનો ઉપયોગ વધારવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો ઓછો, CNG-LPG વધુ.</p></div>"
+    }
+  ]
+}
