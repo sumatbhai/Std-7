@@ -1554,3 +1554,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "અઢારમી સદીના રાજકીય શાસકો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મુઘલ વંશના કયા શાસકના અવસાન પછી ભારતની રાજકીય સ્થિતિમાં પરિવર્તન આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ બાદશાહ ઔરંગઝેબના અવસાન પછી ભારતની રાજકીય સ્થિતિમાં મોટું પરિવર્તન આવ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઔરંગઝેબ' - મુઘલ સામ્રાજ્યનો છેલ્લો શક્તિશાળી 'ઝેબ' (ખિસ્સો) ખાલી થયો એટલે ફેરફાર આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઔરંગઝેબનું મૃત્યુ કયા વર્ષમાં થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબનું મૃત્યુ ઈ.સ. 1707 માં થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭-૦૭ (એક સાત - શૂન્ય સાત) લકી નંબર જેવું યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઔરંગઝેબના મૃત્યુ પછી મુઘલ ગાદી પર કોણ આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબના મૃત્યુ પછી બહાદુરશાહ નામનો સુલતાન મુઘલ ગાદી પર આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઔરંગ' પછી 'બહાદુર' આવ્યો - ક્રમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બહાદુરશાહે કયા બે સમુદાયો સાથે શાંતિપૂર્ણ સંબંધો રાખ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહાદુરશાહે મરાઠા અને શિખ સમુદાયો સાથે શાંતિપૂર્ણ સંબંધો રાખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MS (Maratha-Sikh) - બહાદુરશાહનો મેસેજ (MS) શાંતિનો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મુઘલ ગાદી પર 'લંપટ મૂર્ખ' તરીકે કોણ ઓળખાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ શાસક જહાદરશાહ તેના નબળા શાસનને કારણે ઇતિહાસમાં 'લંપટ મૂર્ખ' જેવું સ્થાન પામ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જહા' (જહાદરશાહ) ત્યાં 'લંપટ' - પ્રાસ મેળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઈ.સ. 1739 માં ભારત પર કોણે આક્રમણ કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈ.સ. 1739 માં ઈરાનના શાહ નાદિરશાહે ભારત પર આક્રમણ કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈરાનનો 'નાદ' (અવાજ) ભારત સુધી સંભળાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મુઘલ સામ્રાજ્યનો છેલ્લો બાદશાહ કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ સામ્રાજ્યનો છેલ્લો બાદશાહ બહાદુરશાહ ઝફર હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત 'બાબર' થી અને અંત 'બહાદુર' (ઝફર) થી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હૈદરાબાદ રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિઝામ-ઉલ-મુલ્ક (આસફજાહ) એ ઈ.સ. 1724 માં હૈદરાબાદ રાજ્યની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૈદરાબાદ = નિઝામનું શહેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બંગાળમાં સ્વતંત્ર રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુર્શિદકુલી ખાન અને અલીવર્દી ખાને બંગાળમાં સ્વતંત્ર રાજ્યની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળની 'મૂર્તિ' (મુર્શિદ) અલી જેવી સુંદર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્લાસીનું યુદ્ધ ક્યારે લડાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસીનું યુદ્ધ ઈ.સ. 1757 માં લડાયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસીમાં '૫' (પાંચ) આવે અને વર્ષમાં '૫૭' (સત્તાવન) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજપૂત શાસકોમાં સૌથી શક્તિશાળી શાસક કોણ ગણાતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જયપુરના રાજા સવાઈ જયસિંહ રાજપૂત શાસકોમાં સૌથી શક્તિશાળી અને પ્રતિભાશાળી શાસક હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સવાઈ' એટલે સામાન્ય કરતા પણ સવા ગણા શક્તિશાળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજા સવાઈ જયસિંહે કયા શહેરની સ્થાપના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજા સવાઈ જયસિંહે ઈ.સ. 1727 માં જયપુર શહેરની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જય'સિંહ દ્વારા 'જય'પુરની સ્થાપના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સવાઈ જયસિંહે કયા શહેરોમાં ખગોળીય વેધશાળાઓ સ્થાપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમણે દિલ્હી, જયપુર, ઉજ્જૈન અને મથુરામાં આધુનિક વેધશાળાઓ સ્થાપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DJ-UM (Delhi, Jaipur, Ujjain, Mathura) - રાજા જયસિંહની વેધશાળાનું મ્યુઝિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શિખ ધર્મના સ્થાપક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિખ ધર્મના સ્થાપક ગુરુ નાનક હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિખ ધર્મના 'નાયક' એટલે 'નાનક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શિખોને એકતાના તાંતણે બાંધી કોણે લડાયક સમુદાય બનાવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દસમા ગુરુ ગોવિંદસિંહજીએ શિખોને એકતાના તાંતણે બાંધી લડાયક સમુદાય બનાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦મા ગુરુએ 'ખાલસા'ની કરી ગોઠવણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગુરુ ગોવિંદસિંહ પછી મુઘલો સામે કોણે વિદ્રોહ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ ગોવિંદસિંહના મૃત્યુ પછી બંદા બહાદુરે મુઘલ સામ્રાજ્ય સામે ભયંકર વિદ્રોહ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ પછી 'બંદા' (બંદા બહાદુર) મેદાનમાં આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રણજીતસિંહ કયા શિખ મિસલના શક્તિશાળી નેતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાજા રણજીતસિંહ 'સુકરચકિયા' મિસલના શક્તિશાળી નેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણજીતસિંહનું કામ 'સુપર' (સુકરચકિયા) હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મહારાજા રણજીતસિંહે કયા મહત્વના શહેરો જીતી લીધા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમણે લાહોર અને અમૃતસર જેવા મહત્વના શહેરો જીતી લીધા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LA (Lahore, Amritsar) - રણજીતસિંહનું LA કનેક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મહારાઠા સામ્રાજ્યના સ્થાપક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રપતિ શિવાજી મહારાજ મરાઠા સામ્રાજ્યના સ્થાપક હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરાઠા શૌર્યના પ્રતીક એટલે શિવાજી મહારાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાહુને મુઘલ કેદમાંથી કોણે મુક્ત કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુઘલ બાદશાહ બહાદુરશાહે સાહુને કેદમાંથી મુક્ત કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહાદુર' કામ કર્યું સાહુને છોડવાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્રથમ પેશ્વા કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાલાજી વિશ્વનાથ પ્રથમ પેશ્વા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશ્વ'માં 'પ્રથમ' પેશ્વા બાલાજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બાલાજી વિશ્વનાથના પુત્રનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાલાજી વિશ્વનાથના પુત્રનું નામ બાજીરાવ પહેલો હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિશ્વનાથ પછી રાવ (બાજીરાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કયા પેશ્વા કુશળ યોદ્ધા અને ચતુર રાજનીતિજ્ઞ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેશ્વા બાજીરાવ પહેલો કુશળ યોદ્ધા અને ચતુર રાજનીતિજ્ઞ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાજી' હંમેશા બાજીરાવના હાથમાં જ રહેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ ક્યારે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું ત્રીજું યુદ્ધ ઈ.સ. 1761 માં થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭-૬૧ (૧૭૬૧) - ઉલટા અંક જેવું યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું ત્રીજું યુદ્ધ મરાઠાઓ અને અફઘાન શાસક અહમદશાહ અબ્દાલી વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M vs A (Maratha vs Abdali).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાણીપતના ત્રીજા યુદ્ધમાં કોની હાર થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતના ત્રીજા યુદ્ધમાં મરાઠાઓની હાર થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમનસીબે મરાઠાઓની હાર થઈ અને અંગ્રેજોને રસ્તો મળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બાજીરાવ પ્રથમ પછી પેશ્વા પદે કોણ આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજીરાવ પ્રથમ પછી તેનો પુત્ર બાલાજી બાજીરાવ પેશ્વા પદે આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદાનું નામ (બાલાજી) પૌત્રમાં આવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અવધમાં સ્વતંત્ર રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુરહાન-ઉલ-મુલ્ક સાઆદત ખાને અવધમાં સ્વતંત્ર રાજ્યની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અવધ'માં 'આદત' (સાઆદત) પડી સ્વતંત્ર થવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભરતપુરના જાટ રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચુડામન અને બદનસિંહે ભરતપુરમાં જાટ રાજ્યની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચુડા' અને 'બદન' - જાટ શક્તિનું વદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જાટ શાસકોમાં સૌથી શક્તિશાળી શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરજમલ જાટ શાસકોમાં સૌથી શક્તિશાળી શાસક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાટ સામ્રાજ્યનો 'સૂરજ' એટલે સુરજમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "શાહુ મહારાજ અને તારાબાઈ વચ્ચે કયો સંઘર્ષ થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહુ મહારાજ અને તારાબાઈ વચ્ચે વારસા વિગ્રહ (ગાદી માટેનો સંઘર્ષ) થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહુ vs તારાબાઈ = મરાઠા ફેમિલી ફાઈટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બાજીરાવ પ્રથમે કયા મુઘલ વિસ્તારને જીતી લીધો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાજીરાવ પ્રથમે માળવા અને ગુજરાત જેવા વિસ્તારો જીતીને મરાઠા સામ્રાજ્યનો વિસ્તાર કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રની બહાર 'માળવા' અને 'ગુજરાત' પર બાજી મારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "મહારાજા રણજીતસિંહના લશ્કરમાં કયા દેશના સેનાપતિઓ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાજા રણજીતસિંહના લશ્કરમાં યુરોપિયન સેનાપતિઓ અને સૈનિકો હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણજીતસિંહનું સૈન્ય = દેશી જુસ્સો + યુરોપિયન ટ્રેનિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "શિખ ધર્મમાં 'મિસલ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 18મી સદીમાં શિખો 12 જેટલા જૂથોમાં વિભાજિત હતા, જેને 'મિસલ' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૨ મિસલ - શિખોની ૧૨ ટીમો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બક્સરનું યુદ્ધ ક્યારે લડાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બક્સરનું યુદ્ધ ઈ.સ. 1764 માં લડાયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસીના ૭ વર્ષ પછી બક્સર (૫૭+૭ = ૬૪).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સવાઈ જયસિંહ કયા વિષયના પ્રકાંડ પંડિત હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાઈ જયસિંહ ગણિતશાસ્ત્ર અને ખગોળશાસ્ત્રના પ્રકાંડ પંડિત હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાઈ જયસિંહ = સ્પેસ સાયન્ટિસ્ટ ઓફ ૧૮મી સદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કયા શાસકે જયપુરમાં વૈજ્ઞાનિક ઢબે શહેરનું આયોજન કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજા સવાઈ જયસિંહે જયપુરમાં વૈજ્ઞાનિક ઢબે શહેરનું આયોજન કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયપુર = પિંક સિટી + પ્લાન્ડ સિટી બાય જયસિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નાદિરશાહના આક્રમણ વખતે દિલ્હીનો બાદશાહ કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાદિરશાહના આક્રમણ વખતે દિલ્હીનો બાદશાહ મુહમ્મદશાહ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાદિર' સામે 'મુહમ્મદ' - યાદ રાખવું સહેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "મુઘલ વંશના કયા શાસકોને સૈયદ બંધુઓએ ગાદી પરથી હટાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૈયદ બંધુઓએ ફરૂખશિયરને ગાદી પરથી હટાવી મુહમ્મદશાહને બાદશાહ બનાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈયદ બંધુઓ = કિંગ મેકર્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નિઝામ-ઉલ-મુલ્કે કઈ સાલમાં હૈદરાબાદમાં સ્વતંત્ર રાજ્યની સ્થાપના કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિઝામ-ઉલ-મુલ્કે ઈ.સ. 1724 માં હૈદરાબાદમાં સ્વતંત્ર રાજ્યની સ્થાપના કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૪ કલાક નિઝામની સેવા - ૧૭૨૪.</p></div>"
+    }
+  ]
+}
