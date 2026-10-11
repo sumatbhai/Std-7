@@ -2735,3 +2735,261 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારત કેવા પ્રકારનું રાષ્ટ્ર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત એક વિશાળ લોકશાહી ધરાવતું સંઘીય (Union) રાષ્ટ્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી + સંઘીય = આપણું ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતમાં કેટલા સ્તરની સરકાર કાર્યરત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં બે સ્તરની સરકાર કાર્યરત છે: ૧. રાજ્ય સરકાર અને ૨. કેન્દ્ર સરકાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સ્તર - રાજ્ય અને દેશ (કેન્દ્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રાજ્ય સરકારના મુખ્ય કેટલા અંગો છે? કયા-કયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્ય સરકારના મુખ્ય ત્રણ અંગો છે: ૧. ધારાસભા, ૨. કારોબારી અને ૩. ન્યાયતંત્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધા-કા-ન્યા (ધારાસભા, કારોબારી, ન્યાયતંત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રાજ્યની ધારાસભાના નીચલા ગૃહને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની ધારાસભાના નીચલા ગૃહને 'વિધાનસભા' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચેની સભા = વિધાનસભા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રાજ્યની ધારાસભાના ઉપલા ગૃહને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની ધારાસભાના ઉપલા ગૃહને 'વિધાનપરિષદ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરની પરિષદ = વિધાનપરિષદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુજરાતની ધારાસભા કયું ગૃહ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતની ધારાસભા માત્ર નીચલું ગૃહ એટલે કે 'વિધાનસભા' ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં માત્ર સભા છે, પરિષદ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિધાનસભાના સભ્યને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાના સભ્યને 'ધારાસભ્ય' અથવા 'MLA' (Member of Legislative Assembly) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MLA = ધારાસભ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગુજરાત વિધાનસભામાં કુલ કેટલી બેઠકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત વિધાનસભામાં કુલ ૧૮૨ (182) બેઠકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-આઠ-બે (182).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુજરાત વિધાનસભાનું ભવન ક્યાં આવેલું છે અને તેનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત વિધાનસભાનું ભવન ગાંધીનગર ખાતે આવેલું છે અને તેનું નામ 'વિઠ્ઠલભાઈ પટેલ ભવન' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિઠ્ઠલભાઈ - ગાંધીનગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ધારાસભ્ય બનવા માટે કેટલી ઉંમર હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભ્ય બનવા માટે ઉમેદવારની ઉંમર ૨૫ વર્ષ કે તેથી વધુ હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભ્ય એટલે પાંચડે પચીસ (25).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિધાનસભાની મુદત કેટલા વર્ષની હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાની મુદત સામાન્ય રીતે ૫ (પાંચ) વર્ષની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનસભા = 5 વર્ષનો પંચો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિધાનસભાના સભ્યો કોના દ્વારા ચૂંટાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાના સભ્યો રાજ્યના મતદારો દ્વારા ગુપ્ત મતદાન પદ્ધતિથી સીધી રીતે ચૂંટાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનતા દ્વારા સીધી ચૂંટણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિધાનસભાનું સંચાલન કરનારને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાનું સંચાલન કરનારને 'અધ્યક્ષ' (સ્પીકર) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભાના મોભી એટલે અધ્યક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રાજ્યના બંધારણીય વડા કોણ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યના બંધારણીય વડા 'રાજ્યપાલ' (Governor) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યના રાજા જેવા વડા = રાજ્યપાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાજ્યપાલની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલની નિમણૂક દેશના રાષ્ટ્રપતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ < રાષ્ટ્રપતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રાજ્યપાલ બનવા માટે કેટલી વય હોવી જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ બનવા માટે વ્યક્તિની વય ૩૫ વર્ષ કે તેથી વધુ હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ = ૩૫ વર્ષ (મોટી ઉંમર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મુખ્યમંત્રીની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્યમંત્રીની નિમણૂક રાજ્યપાલ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુમતી પક્ષના નેતાને રાજ્યપાલ બોલાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રાજ્યની કારોબારીના વડા કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની કારોબારીના વડા મુખ્યમંત્રી હોય છે (વાસ્તવિક વડા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ કરનાર મુખ્ય એટલે મુખ્યમંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિધાનસભામાં પ્રશ્નોત્તરી દરમિયાન કોને ઉદ્દેશીને પ્રશ્નો પૂછવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભામાં અધ્યક્ષને ઉદ્દેશીને પ્રશ્નો પૂછવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધ્યક્ષ = રેફરી (જેને સંબોધન કરાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કારોબારીનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભાએ ઘડેલા કાયદાઓનો અમલ કરાવવાનું કાર્ય કારોબારીનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક-થી કારોબારી, ક-થી કાયદાનો અમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ધારાસભાનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભાનું મુખ્ય કાર્ય કાયદા ઘડવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભા = કાયદાની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રાજ્ય સરકારના કાર્યોને કેટલા ભાગમાં વહેંચવામાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્ય સરકારના કાર્યોને મુખ્યત્વે લોકકલ્યાણના સંદર્ભમાં શિક્ષણ, આરોગ્ય, ખેતી જેવા વિવિધ વિભાગોમાં વહેંચવામાં આવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુમુખી સેવાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ન્યાયતંત્રનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયદાનો ભંગ કરનારને સજા કરવાનું અને ન્યાય આપવાનું કાર્ય ન્યાયતંત્રનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યાય + સજા = ન્યાયતંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રાજ્યપાલના પગાર-ભથ્થાં કોણ નક્કી કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલના પગાર-ભથ્થાં અને સેવાશરતો સંસદ દ્વારા નક્કી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ માટે સંસદ સર્વોપરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મંત્રીમંડળ કોને જવાબદાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મંત્રીમંડળ સંયુક્ત રીતે વિધાનસભાને જવાબદાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંત્રીઓનો જવાબ વિધાનસભામાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "આરોગ્ય એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરોગ્ય એટલે શારીરિક, માનસિક, સામાજિક અને આધ્યાત્મિક રીતે સંપૂર્ણ ક્ષેમકુશળતાની અવસ્થા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર બીમારીનો અભાવ નહીં, પણ સંપૂર્ણ સુખાકારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જાહેર આરોગ્ય સેવાઓ કોણ પૂરી પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેર આરોગ્ય સેવાઓ સરકાર દ્વારા સંચાલિત સરકારી હોસ્પિટલો અને દવાખાનાઓ પૂરી પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેર = સરકારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ખાનગી આરોગ્ય સેવાઓ કોણ પૂરી પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાનગી આરોગ્ય સેવાઓ વ્યક્તિગત ડોક્ટરો કે ટ્રસ્ટ દ્વારા સંચાલિત હોસ્પિટલો પૂરી પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનગી = પ્રાઈવેટ ડોક્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "WHO નું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> WHO એટલે 'વર્લ્ડ હેલ્થ ઓર્ગેનાઈઝેશન' (World Health Organization - વિશ્વ આરોગ્ય સંસ્થા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: W = World, H = Health, O = Org.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુખ્યમંત્રી અમૃતમ (MA) યોજનાનો લાભ કોને મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરીબી રેખા હેઠળ જીવતા અને મધ્યમ વર્ગના પરિવારોને ગંભીર બીમારીઓના મફત ઓપરેશન માટે MA યોજનાનો લાભ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા યોજના = આરોગ્યનું રક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ખિલખિલાટ ડ્રોપબેક સુવિધા કોના માટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રસુતિ પછી માતા અને નવજાત શિશુને સરકારી હોસ્પિટલમાંથી ઘરે સુરક્ષિત પહોંચાડવા માટે આ સુવિધા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્પિટલ થી ઘર = ખિલખિલાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "તાત્કાલિક સારવાર માટે ગુજરાતમાં કઈ હેલ્પલાઇન સેવા કાર્યરત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાત્કાલિક સારવાર માટે '૧૦૮' (108) ઇમરજન્સી સેવા કાર્યરત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-શૂન્ય-આઠ (108).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "આરોગ્ય વિષયક કયો દિવસ વિશ્વભરમાં ઉજવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭ એપ્રિલને 'વિશ્વ આરોગ્ય દિવસ' તરીકે ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતમી એપ્રિલ = હેલ્થ ડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ભારતમાં કયા રાજ્યમાં વિધાનપરિષદ છે? (કોઈપણ બે નામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિહાર, ઉત્તર પ્રદેશ, મહારાષ્ટ્ર જેવા રાજ્યોમાં વિધાનપરિષદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: UP-બિહાર-મહારાષ્ટ્રમાં ડબલ ગૃહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિધાનપરિષદના સભ્યોની મુદત કેટલા વર્ષની હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનપરિષદના દરેક સભ્યની મુદત ૬ (છ) વર્ષની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનપરિષદ = 6 વર્ષ (કાયમી ગૃહ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિધાનસભાનું વિસર્જન કોણ કરી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાનું વિસર્જન રાજ્યપાલ કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્જનની સત્તા રાજ્યપાલ પાસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શું વિધાનપરિષદ કાયમી ગૃહ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, વિધાનપરિષદ એ કાયમી ગૃહ છે, તેનું ક્યારેય સંપૂર્ણ વિસર્જન થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિષદ = કાયમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ચૂંટણીમાં વિજેતા બનેલા પક્ષને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૂંટણીમાં બહુમતી મેળવનાર પક્ષને 'શાસક પક્ષ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીતે તે શાસક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ચૂંટણીમાં બહુમતી ન મેળવનાર પક્ષને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૂંટણીમાં બીજા ક્રમે રહેલા પક્ષને 'વિરોધ પક્ષ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હારે તે વિરોધ પક્ષ (પણ લોકશાહીમાં જરૂરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "રાજ્યપાલ કોની સલાહ મુજબ મંત્રીમંડળના સભ્યોની નિમણૂક કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ મુખ્યમંત્રીની સલાહ મુજબ મંત્રીમંડળના સભ્યોની નિમણૂક કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલાહ CM ની, સહી રાજ્યપાલની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "રાજ્યમાં રાષ્ટ્રપતિ શાસન કોણ લાદી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલની ભલામણથી રાષ્ટ્રપતિ રાજ્યમાં 'રાષ્ટ્રપતિ શાસન' લાદી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલનો રિપોર્ટ -> રાષ્ટ્રપતિનું શાસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "રાજ્યની વડી અદાલતના ન્યાયાધીશોની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની વડી અદાલતના ન્યાયાધીશોની નિમણૂક રાષ્ટ્રપતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જજની નિમણૂક = રાષ્ટ્રપતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ચિરંજીવી યોજના કયા હેતુ માટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રસૂતિ દરમિયાન માતા અને બાળકનું મૃત્યુદર ઘટાડવા અને મફત પ્રસૂતિ સેવા પૂરી પાડવા માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરક્ષિત પ્રસૂતિ = ચિરંજીવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "ગામડામાં આરોગ્યની પ્રાથમિક સુવિધા ક્યાં મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામડામાં આરોગ્યની પ્રાથમિક સુવિધા 'પ્રાથમિક આરોગ્ય કેન્દ્ર' (PHC) ખાતે મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડું = PHC.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "તંદુરસ્ત માનવ સંસાધન કોના પર નિર્ભર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંદુરસ્ત માનવ સંસાધન રાજ્યના આરોગ્ય અને શિક્ષણની સુવિધાઓ પર નિર્ભર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંદુરસ્ત નાગરિક = દેશનો વિકાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "આરોગ્ય સેવાઓમાં સરકાર કયા રોગોના નિયંત્રણ માટે કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરકાર પોલિયો, ક્ષય (TB), મલેરિયા, અછબડા જેવા રોગોના નિયંત્રણ માટે કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસીકરણ અને જાગૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિધાનસભામાં કોણ બેસે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભામાં ચૂંટાયેલા ધારાસભ્યો અને મંત્રીઓ બેસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભા = બધા ધારાસભ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "આયુષ્માન ભારત યોજના એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્ર સરકાર દ્વારા ચલાવવામાં આવતી સ્વાસ્થ્ય વીમા યોજના છે, જે ગરીબોને મફત સારવાર આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયુષ્માન = આરોગ્ય કવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ગુજરાતના પ્રથમ મુખ્યમંત્રી કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતના પ્રથમ મુખ્યમંત્રી ડો. જીવરાજ મહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવરાજ = પ્રથમ રાજ (CM).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ગુજરાતના પ્રથમ રાજ્યપાલ કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતના પ્રથમ રાજ્યપાલ મહેંદી નવાઝ જંગ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગ (રાજ્યપાલ) થી શરૂઆત.</p></div>"
+    }
+  ]
+}
