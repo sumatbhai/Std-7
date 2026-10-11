@@ -2286,3 +2286,136 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ અને વ્યવસ્થાપન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સામાન્ય રીતે 'આપત્તિ' શબ્દ પ્રયોજાય ત્યારે લોકોના મનમાં કયો વિચાર આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે 'આપત્તિ' શબ્દ પ્રયોજાય ત્યારે લોકોના મનમાં ભય, વિનાશ અને નુકસાનના વિચારો આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપત્તિ = આફત અને નુકસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આપત્તિના મુખ્ય કેટલા પ્રકારો છે અને કયા કયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિના મુખ્ય બે પ્રકારો છે: (૧) કુદરતી આપત્તિઓ અને (૨) માનવસર્જિત આપત્તિઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી (પ્રકૃતિ દ્વારા) + માનવસર્જિત (માણસ દ્વારા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કઈ કુદરતી આપત્તિઓની પૂર્વઆગાહી શક્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર, વાવાઝોડું, સુનામી અને દુષ્કાળ જેવી આપત્તિઓની પૂર્વઆગાહી શક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર-વા-સુ-દુ (આ ચારની આગાહી થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કઈ કુદરતી આપત્તિઓની પૂર્વઆગાહી શક્ય નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ, જ્વાળામુખી અને દાવાનળ જેવી આપત્તિઓની પૂર્વઆગાહી શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂ-જ્વા-દા (જે અચાનક આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભૂકંપ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના પેટાળમાં થતી ભૂગર્ભિક હલચલને કારણે પૃથ્વીની સપાટીનો નબળો ભાગ એકાએક વેગથી ધ્રૂજી ઊઠે તેને ભૂકંપ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂ (જમીન) + કંપ (ધ્રુજારી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભૂકંપ કેન્દ્ર (Epicenter) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપના મોજાં પૃથ્વીની સપાટીએ જે સ્થળે સૌથી પહેલા પહોંચતા હોય અને તેની અસર સૌથી વધુ અનુભવાતી હોય તેને ભૂકંપ કેન્દ્ર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી વધુ અસર જ્યાં થાય તે કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભૂકંપની તીવ્રતા માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપની તીવ્રતા અને ઉદ્ગમસ્થાન જાણવા માટે 'સિસ્મોગ્રાફ' (ભૂકંપ આલેખક) સાધનનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા જાણવા 'સિસ્મોગ્રાફ' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભૂકંપની તીવ્રતા કયા એકમમાં માપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપની તીવ્રતા 'રિક્ટર સ્કેલ' (Richter Scale) એકમમાં માપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ વજન કિલોમાં તેમ ભૂકંપ રિક્ટરમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાવાઝોડું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાને કારણે ઉદ્ભવતા તોફાની પવનોને વાવાઝોડું (ચક્રવાત) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાના દબાણનો લોચો = વાવાઝોડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતમાં વાવાઝોડું કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં વાવાઝોડું 'ચક્રવાત' તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત = ચક્રવાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પૂર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકાએક આવતા પાણીના વિશાળ જથ્થાને પૂર કહેવામાં આવે છે, જે નદીના કિનારાના વિસ્તારોને જળબંબાકાર કરી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પાણી + નદી બહાર = પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સુનામી કયા શબ્દ પરથી ઉતરી આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'સુનામી' એ જાપાનીઝ ભાષાનો શબ્દ છે, જેનો અર્થ 'વિનાશક મોજાં' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાપાનનું સુનામી = દરિયાઈ તોફાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુષ્કાળ (Drought) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ષાઋતુના સમયે સળંગ બે-ત્રણ વર્ષ સુધી વરસાદ ન પડે અથવા બહુ ઓછો પડે ત્યારે જે પરિસ્થિતિ સર્જાય તેને દુષ્કાળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદની ગેરહાજરી = દુષ્કાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દાવાનળ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોમાં પરસ્પર ડાળીઓના ઘર્ષણ અથવા આકાશમાંથી વીજળી પડવાને કારણે લાગતી આગને 'દાવાનળ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલની આગ = દાવાનળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તીડ (Locusts) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તીડ એ એક પ્રકારનું કીટક છે જે મોટા ટોળામાં આવીને ખેતીના પાકનો નાશ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકનો શત્રુ = તીડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગુજરાતના કયા જિલ્લાઓમાં તીડનો હુમલો વધુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતના બનાસકાંઠા અને પાટણ જેવા સરહદી જિલ્લાઓમાં તીડનો ઉપદ્રવ વધુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉતર ગુજરાતના સરહદી જિલ્લા (બનાસકાંઠા-પાટણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભૂકંપ સમયે શાળામાં હોઈએ તો શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ સમયે શાળામાં હોઈએ તો પાટલી (બેન્ચ) નીચે બેસી જવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ચ નીચે 'સેફ' રહો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સુનામી આવવાનું મુખ્ય કારણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્ર કે મહાસાગરના તળિયે થતો ભૂકંપ સુનામી આવવાનું મુખ્ય કારણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્રી ભૂકંપ = સુનામી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દુષ્કાળથી બચવા માટે કયો શ્રેષ્ઠ ઉપાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળથી બચવા માટે વધુમાં વધુ વૃક્ષો વાવવા અને જળ સંચય કરવો એ શ્રેષ્ઠ ઉપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વૃક્ષો = વધુ વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "માનવસર્જિત આપત્તિઓના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (૧) આગ અને (૨) ઔદ્યોગિક અકસ્માત (અથવા બોમ્બ વિસ્ફોટ/હુલ્લડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસની ભૂલથી થતી આફત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આપત્તિ વ્યવસ્થાપનમાં કોની ભૂમિકા મહત્વની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિ વ્યવસ્થાપનમાં સરકારની સાથે સાથે દરેક નાગરિકની જાગૃતતા અને સહકારની ભૂમિકા મહત્વની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકાર + જનતા = સફળ વ્યવસ્થાપન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વાવાઝોડાની ચેતવણી મળતા માછીમારોએ શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવાઝોડાની ચેતવણી મળતા માછીમારોએ દરિયો ખેડવા જવું જોઈએ નહીં અને બોટ સલામત સ્થળે લાંગરી દેવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયો નહીં ખેડવાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પૂર આવ્યા પછી કઈ સાવચેતી રાખવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર આવ્યા પછી પાણી ઉકાળીને પીવું જોઈએ જેથી રોગચાળો ફેલાય નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર પછી પાણી ઉકાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગુજરાતમાં કઈ નદીમાં સૌથી વિનાશક પૂર આવ્યું હતું (પુસ્તક મુજબ)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોરબીની મચ્છુ નદીમાં (૧૯૭૯) સૌથી વિનાશક પૂર આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરબી + મચ્છુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આપત્તિના સમયે કયો નંબર ઈમરજન્સી સેવા માટે જાણીતો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિના સમયે ૧૦૮ નંબર ઈમરજન્સી એમ્બ્યુલન્સ સેવા માટે જાણીતો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૮ = જીવનરક્ષક.</p></div>"
+    }
+  ]
+}
