@@ -2419,3 +2419,186 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "સંસાધનોનું જતન અને સંરક્ષણ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંસાધન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર મળતા અને માનવીને ઉપયોગમાં આવતા કુદરતી પદાર્થોને 'સંસાધન' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસાધન = પૃથ્વી પરની વસ્તુ + માનવીનો ઉપયોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંસાધનોના મુખ્ય બે જૂથો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસાધનોના મુખ્ય બે જૂથો કુદરતી સંસાધનો અને માનવસર્જિત સંસાધનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી (Nature) + માનવસર્જિત (Man-made).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નવીનીકરણીય સંસાધન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંસાધનો પોતાની મેળે જ ચોક્કસ સમયમાં વપરાયેલા હિસ્સાની પૂર્તિ કરે છે અથવા તે અખૂટ હોય તેને નવીનીકરણીય સંસાધન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવીનીકરણીય = ક્યારેય ખૂટે નહીં તેવું (દા.ત. સૂર્યપ્રકાશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અનવીનીકરણીય સંસાધન કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંસાધનો એકવાર વપરાયા પછી ફરી ઉપયોગમાં લઈ શકાતા નથી અથવા ફરી બનાવી શકાતા નથી તેને અનવીનીકરણીય સંસાધન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનવીનીકરણીય = ખૂટી જાય તેવું (દા.ત. કોલસો, પેટ્રોલિયમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જમીન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના ઉપરના પડને જેમાં વનસ્પતિ ઊગે છે તેને આપણે 'જમીન' કહીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરનું પડ + વનસ્પતિ = જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભારતીય કૃષિ સંશોધન પરિષદ (ICAR) દ્વારા ભારતની જમીનને કેટલા પ્રકારમાં વહેંચવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતની જમીનને મુખ્ય 8 (આઠ) પ્રકારમાં વહેંચવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ICAR = 8 અક્ષર (કાલ્પનિક રીતે યાદ રાખો) = 8 પ્રકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કઈ જમીન કપાસની ખેતી માટે વધુ અનુકૂળ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળી જમીન (રેગુર) કપાસની ખેતી માટે સૌથી વધુ અનુકૂળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક થી કાળી અને ક થી કપાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રાતી જમીન લાલ રંગની કેમ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાતી જમીનમાં ફેરિક ઓક્સાઈડની હાજરીને કારણે તે લાલ રંગની દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ રંગ = ફેરિક ઓક્સાઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેટેરાઈટ જમીનને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેટેરાઈટ જમીનને 'પડખાઉ જમીન' તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેટેરાઈટ = પડખાઉ (વરસાદને લીધે ધોવાઈ ગયેલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જમીન ધોવાણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીનના કણોનું ગતિશીલ હવા કે પાણી દ્વારા એક સ્થળેથી બીજા સ્થળે ખસેડાવું તેને 'જમીન ધોવાણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુઆ (હવા) + પા (પાણી) = જમીનનું સ્થળાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જમીન સંરક્ષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન સંરક્ષણ એટલે જમીનનું ધોવાણ રોકીને જમીનની ગુણવત્તા જાળવવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષણ = ધોવાણ અટકાવવું + ગુણવત્તા જાળવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પૃથ્વી પર જળનો મુખ્ય સ્ત્રોત કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર જળનો મુખ્ય સ્ત્રોત 'વરસાદ' (વૃષ્ટિ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ પાણી છેવટે તો આકાશમાંથી (વરસાદ) જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પૃથ્વી સપાટી પર પીવાલાયક મીઠું પાણી કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર પીવાલાયક મીઠું પાણી આશરે 3% જેટલું જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 માંથી માત્ર 3 જ પીવા લાયક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખનીજ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિશ્ચિત રાસાયણિક બંધારણ ધરાવતા કુદરતી અકાર્બનિક પદાર્થોને 'ખનીજ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી + અકાર્બનિક + રાસાયણિક માળખું = ખનીજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લોખંડ, તાંબુ, સોનું કયા પ્રકારના ખનીજો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોખંડ, તાંબુ અને સોનું એ 'ધાતુમય' (Metallic) ખનીજો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાંથી ધાતુ મળે તે ધાતુમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારતનું કયું રાજ્ય એશિયાઈ સિંહોનું એકમાત્ર નિવાસસ્થાન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનું 'ગુજરાત' રાજ્ય (ગીરના જંગલો) એશિયાઈ સિંહોનું એકમાત્ર નિવાસસ્થાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતનું ગૌરવ = એશિયાઈ સિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અભયારણ્ય એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમના માથે વિનાશનું જોખમ હોય તેવા વન્ય જીવોના સંરક્ષણ માટેનો સુરક્ષિત વિસ્તાર એટલે 'અભયારણ્ય'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અભય + અરણ્ય = જ્યાં પ્રાણીઓને ભય ન હોય તેવું જંગલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રણ પ્રકારની જમીન ભારતના કયા રાજ્યોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણ પ્રકારની જમીન મુખ્યત્વે રાજસ્થાન, ગુજરાત, પંજાબ અને હરિયાણાના શુષ્ક વિસ્તારોમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ ભારત (RGPH) = રણ પ્રકારની જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વૃષ્ટિ જળ સંચયનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃષ્ટિ જળ સંચયનો મુખ્ય ઉદ્દેશ્ય ભૂગર્ભ જળની સપાટી ઊંચી લાવવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બચાવો + જમીનમાં ઉતારો = વોટર ટેબલ અપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગુજરાતમાં કયા સ્થળે ઘોરાડ પક્ષી જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં કચ્છના રણ અને જામનગરના વિસ્તારોમાં ઘોરાડ પક્ષી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોરાડ = કચ્છનું રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વન્ય જીવ સંરક્ષણ માટે ગુજરાતમાં કયા બે મુખ્ય રાષ્ટ્રીય ઉદ્યાનો આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં ગીર રાષ્ટ્રીય ઉદ્યાન અને વેળાવદર રાષ્ટ્રીય ઉદ્યાન મુખ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીર (સિંહ) + વેળાવદર (કાળિયાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખેતી માટે કઈ પદ્ધતિ જમીન ધોવાણ અટકાવવા ઉપયોગી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતીય ક્ષેત્રોમાં સીડીદાર ખેતી અને ઢોળાવ પર વૃક્ષારોપણ જમીન ધોવાણ અટકાવવા ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીડીદાર ખેતી = પાણીનો વેગ ધીમો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સંસાધનોનું સંરક્ષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસાધનોનો વિવેકપૂર્ણ અને સુયોજિત ઉપયોગ કરવો તેને સંસાધનોનું 'સંરક્ષણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષણ = વેડફાટ રોકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાંપની જમીનનું નિર્માણ કોના દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંપની જમીનનું નિર્માણ નદીઓ દ્વારા પથરાયેલા કાંપને લીધે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી + કાંપ = ફળદ્રુપ જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કઈ જમીન ભીની થાય ત્યારે ચીકણી અને સુકાય ત્યારે તેમાં તિરાડો પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'કાળી જમીન' ભીની થાય ત્યારે ચીકણી થાય છે અને સુકાય ત્યારે તેમાં તિરાડો પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળી જમીન = તિરાડોવાળી જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પર્યટન ઉદ્યોગથી કયા સંસાધનોને નુકસાન થઈ શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યટન ઉદ્યોગથી વન્ય જીવો અને કુદરતી વનસ્પતિના સંસાધનોને નુકસાન થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ લોકો + કચરો = પ્રકૃતિને નુકસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પૃથ્વી પર જળ જથ્થો કેવો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર જળ જથ્થો મર્યાદિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ઘણું છે પણ મીઠું પાણી લિમિટેડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જંગલોનું પ્રમાણ વધારવા માટે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોનું પ્રમાણ વધારવા માટે વધુમાં વધુ વૃક્ષારોપણ કરવું જોઈએ અને જંગલો કપાતા રોકવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બાળક, એક ઝાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ખનીજોનો ઉપયોગ કેવી રીતે કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખનીજો અખૂટ નથી, તેથી તેનો ઉપયોગ ખૂબ જ કરકસરપૂર્વક અને વિવેકપૂર્ણ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂટી જાય તેવી વસ્તુ = કરકસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રણની જમીનને ફળદ્રુપ બનાવવા શું કરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણની જમીનમાં જો સિંચાઈની સુવિધા ઉપલબ્ધ કરવામાં આવે તો તેમાં ખેતી કરી શકાય છે (દા.ત. નર્મદા કેનાલ દ્વારા રાજસ્થાન અને ગુજરાતમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ + પાણી = ખેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રાષ્ટ્રીય ઉદ્યાન કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી વનસ્પતિ, વન્ય જીવો અને કુદરતી સૌંદર્યના સ્થળોના રક્ષણ માટેનો રાજ્ય કે કેન્દ્ર સરકાર દ્વારા સુરક્ષિત વિસ્તાર એટલે 'રાષ્ટ્રીય ઉદ્યાન'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રીય ઉદ્યાન = વધુ કડક નિયમો વાળો વિસ્તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "રણના આગળ વધતા અટકાવવા શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણની ધાર પર મોટા પ્રમાણમાં વૃક્ષો ઉગાડીને 'રક્ષક મેખલા' બનાવવી જોઈએ જેથી રણ આગળ વધતું અટકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષોની દીવાલ = રણ સ્ટોપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ચૂનાનો પથ્થર, અબરખ, જીપ્સમ કેવા ખનીજો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ બધા 'અધાતુમય' (Non-metallic) ખનીજો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં ધાતુ ન હોય તે અધાતુમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "લુપ્ત થતા વન્ય જીવો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રાણીઓની સંખ્યા ખૂબ જ ઓછી થઈ ગઈ હોય અને જો તેને બચાવવામાં ન આવે તો તે પૃથ્વી પરથી અદ્રશ્ય થઈ જાય તેને 'લુપ્ત થતા જીવો' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લુપ્ત = ગાયબ થવાની અણી પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ભારતમાં સૌથી વધુ જંગલો કયા પ્રદેશમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં આંદામાન-નિકોબાર દ્વીપસમૂહ તથા ઉત્તર-પૂર્વના રાજ્યોમાં જંગલોનું પ્રમાણ વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વરસાદ = વધુ જંગલો.</p></div>"
+    }
+  ]
+}
