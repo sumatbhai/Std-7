@@ -2602,3 +2602,136 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "લોકશાહીમાં સમાનતા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "લોકશાહીની સૌથી સરળ વ્યાખ્યા કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહી એટલે લોકોનું, લોકો વડે અને લોકો માટે ચાલતું શાસન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લોકો' શબ્દને 3 વાર યાદ રાખો (નું, વડે, માટે) = લોકશાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિશ્વમાં સૌથી મોટી લોકશાહી ધરાવતો દેશ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત વિશ્વમાં સૌથી મોટી લોકશાહી ધરાવતો દેશ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટી વસ્તી + લોકશાહી = ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દેશનું સંચાલન કરવા માટેની માર્ગદર્શિકાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેશનું સંચાલન કરવા માટેની માર્ગદર્શિકાને 'બંધારણ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમોનું પુસ્તક = બંધારણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિશ્વનું સૌથી મોટું લેખિત બંધારણ કયા દેશનું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વનું સૌથી મોટું લેખિત બંધારણ ભારત દેશનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું દેશ, મોટું લેખિત બંધારણ = ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતના બંધારણમાં કયા કયા પ્રકારની સમાનતા આપવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના બંધારણમાં ધર્મ, ભાષા, જાતિ, જ્ઞાતિ, લિંગ અને આર્થિક અસમાનતા સામે સૌને સમાનતાનો અધિકાર આપ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધ-ભા-જા-જ્ઞા-લી' (ધર્મ, ભાષા, જાતિ, જ્ઞાતિ, લિંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાર્વત્રિક પુખ્તવય મતાધિકાર કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૮ વર્ષ કે તેથી વધુ ઉંમરના દરેક નાગરિકને કોઈપણ ભેદભાવ વગર મતાધિકાર આપવો તેને સાર્વત્રિક પુખ્તવય મતાધિકાર કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 18 વર્ષ + વોટિંગ પાવર = સાર્વત્રિક મતાધિકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભારતમાં મતાધિકાર મેળવવા માટે કેટલી ઉંમર નક્કી કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મતાધિકાર મેળવવા માટે ૧૮ વર્ષની ઉંમર નક્કી કરવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-આઠ (18) વર્ષે વોટની થાય ઠાઠ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બંધારણમાં મતાધિકાર બાબતે કઈ સમાનતા આપવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક નાગરિકને ધર્મ, જ્ઞાતિ, શિક્ષણ કે આર્થિક સ્થિતિના ભેદભાવ વગર 'એક મત' આપવાની સમાનતા આપવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક વ્યક્તિ = એક મત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચૂંટણીમાં કોણ મતદાન કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે નાગરિકનું નામ મતદારયાદીમાં નોંધાયેલું હોય તે તમામ મતદાન કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ યાદીમાં તો જ વોટ પેટીમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાળમજૂરી એ શાનો ભંગ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળમજૂરી એ શિક્ષણ મેળવવાના સમાન અધિકારનો ભંગ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણવાની ઉંમરે કામ = અધિકારનો હરામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભારત સરકારે કેટલા વર્ષથી નીચેના બાળકોને મજૂરી રાખવા પર પ્રતિબંધ મૂક્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત સરકારે ૧૪ વર્ષથી નીચેની ઉંમરના બાળકોને મજૂરીએ રાખવા પર પ્રતિબંધ મૂક્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 વર્ષ સુધી મજૂરીની 'નો એન્ટ્રી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શિક્ષણ મેળવવાનો અધિકાર કેટલા વર્ષના બાળકો માટે મફત અને ફરજિયાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૬ થી ૧૪ વર્ષના તમામ બાળકોને મફત અને ફરજિયાત શિક્ષણ મેળવવાનો અધિકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 થી 14 = ભણવાનું ફ્રી અને પાકું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સૌપ્રથમ કયા રાજ્યમાં મધ્યાહન ભોજન યોજના શરૂ કરવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌપ્રથમ તમિલનાડુ રાજ્યમાં મધ્યાહન ભોજન યોજના શરૂ કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત' થી તમિલનાડુ અને 'ત' થી જમવાનું (ભોજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મધ્યાહન ભોજન યોજના પાછળનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળકોને પૂરતો પોષણક્ષમ આહાર મળે અને શાળામાં હાજરી વધે તે તેનો મુખ્ય ઉદ્દેશ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોષણ + શિક્ષણ = મધ્યાહન ભોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમાનતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાનતા એટલે સૌને સમાન તક, સમાન રક્ષણ અને સમાન દરજ્જો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાન' શબ્દ સાથે તક અને રક્ષણ જોડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લોકશાહીમાં કોને ભગવાન માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં મતદાર (લોકો) ને સર્વોપરી ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનતા જ જનાર્દન (સર્વોપરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચૂંટણી પંચનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિષ્પક્ષ અને શાંતિપૂર્ણ રીતે ચૂંટણીઓનું આયોજન કરવું તે ચૂંટણી પંચનું મુખ્ય કાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલેક્શન મેનેજર = ચૂંટણી પંચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાયદા સમક્ષ સમાનતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયદા સમક્ષ સમાનતા એટલે કોઈ પણ વ્યક્તિ કાયદાથી ઉપર નથી, દરેક માટે કાયદો સરખો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયદો બધા માટે એક જ લાકડીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા પ્રકારના ભેદભાવો લોકશાહી માટે પડકારરૂપ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાતિગત, લિંગભેદ અને અમીર-ગરીબ વચ્ચેના ભેદભાવો લોકશાહી માટે પડકારરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેદભાવ = લોકશાહીનો દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આપણા દેશમાં સ્ત્રી-પુરુષ સમાનતા માટે કઈ જોગવાઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધારણ મુજબ સ્ત્રી અને પુરુષને સમાન કામ માટે સમાન વેતન અને સમાન તક આપવાની જોગવાઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખું કામ = સરખો પગાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગામડાની સ્થાનિક સ્વરાજ્યની સંસ્થામાં ચૂંટણી કેટલા વર્ષે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામડાની ગ્રામ પંચાયતની ચૂંટણી દર ૫ વર્ષે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચાયતનો 'પ' અને પાંચ (5) વર્ષનો 'પ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દિવ્યાંગો માટે ચૂંટણીમાં શું ખાસ વ્યવસ્થા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિવ્યાંગો માટે મતદાન મથક પર વ્હીલચેર અને રેમ્પ જેવી ખાસ સુવિધાઓ રાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવ્યાંગો માટે 'સરળ મતદાન' વ્યવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ભારત કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત 'સૌનો સાથ, સૌનો વિકાસ' અને 'સમાનતા' ના સિદ્ધાંત પર કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકાસ માટે સમાનતા જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લોકશાહીમાં સમાનતાનું મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાનતા લોકશાહીનો પાયો છે, જેના દ્વારા દરેક નાગરિક ગૌરવપૂર્ણ જીવન જીવી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતા = ગૌરવ (Self-respect).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બંધારણે કોને દેશના વડા તરીકે સ્વીકાર્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધારણે રાષ્ટ્રપતિને દેશના પ્રથમ નાગરિક અને બંધારણીય વડા તરીકે સ્વીકાર્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રપતિ = દેશના Head.</p></div>"
+    }
+  ]
+}
