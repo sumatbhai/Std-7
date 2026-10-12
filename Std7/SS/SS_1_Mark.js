@@ -3151,3 +3151,261 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "સંચાર માધ્યમ અને જાહેરાત",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંચાર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક સ્થળેથી બીજા સ્થળે માહિતી અથવા સંદેશો પહોંચાડવાની પ્રક્રિયાને સંચાર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંચાર = 'સંદેશાની આપ-લે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રાચીન સમયમાં સંદેશો મોકલવા માટે કયા પક્ષીનો ઉપયોગ થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાચીન સમયમાં સંદેશો મોકલવા માટે 'કબૂતર'નો ઉપયોગ કરવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબૂતર = કુદરતી ટપાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આધુનિક સંચાર તંત્રનો પાયો શાનાથી નખાયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધુનિક સંચાર તંત્રનો પાયો ટપાલ પદ્ધતિ, ટેલિગ્રાફ, ટેલિફોન અને છાપખાના જેવી શોધોથી નખાયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટ' પરથી યાદ રાખો - ટપાલ, ટેલિગ્રાફ, ટેલિફોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતમાં આધુનિક ટપાલ સેવાની શરૂઆત ક્યારે થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં આધુનિક ટપાલ સેવાની શરૂઆત ઈ.સ. 1854 માં થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1857 ના વિપ્લવના 3 વર્ષ પહેલા (1854).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લોકો ડાયરી કે પત્રોના બદલે હવે સંદેશા વ્યવહાર માટે શાનો વધુ ઉપયોગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકો હવે સંદેશા વ્યવહાર માટે 'ઈ-મેઈલ' કે 'સોશિયલ મીડિયા' એપનો ઉપયોગ વધુ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્રની જગ્યાએ હવે 'ડિજિટલ પત્ર' એટલે કે ઈ-મેઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પિનકોડ (PIN Code) કેટલા અંકનો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિનકોડ કુલ 6 (છ) અંકનો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિનકોડ = 'છ' અક્ષર યાદ રાખો (380001 જેવું કોઈ ઉદાહરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટેલિગ્રામ (તાર) ની શોધ ક્યારે થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિગ્રામ (તાર) ની શોધ ઈ.સ. 1850 માં થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટપાલ (1854) કરતા 4 વર્ષ પહેલા તાર (1850) આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતમાં ટેલિગ્રામ સેવા સૌપ્રથમ કયા બે શહેરો વચ્ચે શરૂ થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ટેલિગ્રામ સેવા સૌપ્રથમ કોલકાતા અને ડાયમંડ હાર્બર વચ્ચે શરૂ થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'KD' - Kolkata to Diamond Harbour.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતમાં ટેલિગ્રામ (તાર) સેવા ક્યારે બંધ કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ટેલિગ્રામ સેવા 13 જુલાઈ, 2003 ના રોજ બંધ કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 21મી સદીની શરૂઆતમાં (2003) તાર કપાયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દુનિયામાં સૌથી મોટું ટપાલ નેટવર્ક કયા દેશનું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુનિયામાં સૌથી મોટું ટપાલ નેટવર્ક 'ભારત' દેશનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તીમાં અને ટપાલમાં ભારત મોખરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પુસ્તકોને શાના ભંડાર ગણવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુસ્તકોને 'જ્ઞાનના ભંડાર' ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક = જ્ઞાનની તિજોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વર્તમાન સમયમાં 'ઈ-બુક' વાંચવા માટે શાનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈ-બુક વાંચવા માટે મોબાઈલ ફોન, ટેબ્લેટ કે ઈ-રીડરનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈ-બુક એટલે ઈલેક્ટ્રોનિક બુક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુનિયામાં બનતી ઘટનાઓ લોકો સુધી પહોંચાડવા કયું માધ્યમ સૌથી સસ્તું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચારપત્રો (અખબારો) દુનિયાની ઘટનાઓ પહોંચાડવાનું સૌથી સસ્તું માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરરોજ સવારે ઘરે આવતું સસ્તું જ્ઞાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેડિયો એ કયા પ્રકારનું સંચાર માધ્યમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયો એ 'શ્રાવ્ય' (માત્ર સાંભળી શકાય તેવું) સંચાર માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો = શ્રાવ્ય (સાંભળવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રેડિયોની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયોની શોધ ઈટાલીના 'માર્કોની' (Guglielmo Marconi) એ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો ન ચાલે તો 'કોણી' (માર્કોની) મારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારતમાં સૌપ્રથમ રેડિયો સ્ટેશન કોણે સ્થાપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં સૌપ્રથમ રેડિયો સ્ટેશન મુંબઈ અને કોલકાતામાં ખાનગી કંપનીઓએ સ્થાપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા શહેરો - મુંબઈ અને કોલકાતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આકાશવાણી (All India Radio) નું નામ ક્યારે રાખવામાં આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈ.સ. 1957 માં રેડિયો સ્ટેશનનું નામ બદલીને 'આકાશવાણી' રાખવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદી પછી દસ વર્ષે (1957) આકાશવાણી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ટેલિવિઝન (TV) ની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિવિઝનની શોધ 'જ્હોન લોગી બેયર્ડ' (John Logie Baird) એ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીવી જોવામાં 'લોગી' (લોકો) બેયર્ડ (વ્યસ્ત) રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભારતમાં પ્રથમ ટેલિવિઝન પ્રસારણ કેન્દ્ર ક્યાં શરૂ થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં પ્રથમ ટેલિવિઝન પ્રસારણ કેન્દ્ર 15 સપ્ટેમ્બર, 1959 ના રોજ 'દિલ્હી' ખાતે શરૂ થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશની રાજધાની દિલ્હીથી શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગુજરાતમાં 'પીજ' કેન્દ્ર (TV) ક્યારે શરૂ થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં ખેડા જિલ્લાના પીજ ખાતે 1975 માં ટીવી કેન્દ્ર શરૂ થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડા = પીજ (1975).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સિનેમા શાનું મનોરંજન પૂરું પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિનેમા એ 'દ્રશ્ય-શ્રાવ્ય' (જોઈ અને સાંભળી શકાય તેવું) મનોરંજન પૂરું પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિનેમા = જોવું + સાંભળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંચાર સાધનોમાં કયું સાધન અત્યંત લોકપ્રિય અને અનિવાર્ય બન્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'મોબાઈલ ફોન' એ અત્યંત લોકપ્રિય અને અનિવાર્ય સંચાર સાધન બન્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખિસ્સામાં રહેતું દુનિયાનું જ્ઞાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કૃત્રિમ ઉપગ્રહ (Satellite) નો ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી સંસાધનોની માહિતી મેળવવા અને હવામાનની આગાહી કરવા માટે કૃત્રિમ ઉપગ્રહનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાંથી પૃથ્વી પર નજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જાહેરાત એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ પણ વસ્તુ કે સેવાની માહિતી લોકો સુધી પહોંચાડવાના માધ્યમને જાહેરાત (Advertising) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાત = વેચાણ વધારવાની કળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વ્યાપારીઓ જાહેરાતનો ઉપયોગ કેમ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોતાની વસ્તુનું વેચાણ વધારવા અને લોકોમાં વસ્તુની ઓળખ ઉભી કરવા વ્યાપારીઓ જાહેરાતનો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વેચાણ = વધુ જાહેરાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જાહેરાતના બે માધ્યમો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીંતચિત્રો, રેડિયો, ટેલિવિઝન, સોશિયલ મીડિયા વગેરે જાહેરાતના માધ્યમો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીવી અને હોર્ડિંગ્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જાહેરાતનો મુખ્ય ફાયદો શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતથી વસ્તુની ગુણવત્તાની ચકાસણી કરી શકાય છે અને તેના વિશે માહિતી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાત = વસ્તુની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જાહેરાતનો ગેરફાયદો શું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘણીવાર જાહેરાત જોઈને લોકો બિનજરૂરી વસ્તુઓ ખરીદવાની લાલચમાં આવી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલચમાં ખોટો ખર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સામાજિક જાહેરાતનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બેટી બચાવો, બેટી પઢાવો' એ સામાજિક જાગૃતિ લાવતી જાહેરાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાજિક જાહેરાત = સમાજ સુધારણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ટેલિવિઝન પર આવતી કઈ જાહેરાતથી સાવધાન રહેવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે જાહેરાતોમાં અતિશયોક્તિભર્યા દાવા કરવામાં આવ્યા હોય તેનાથી સાવધાન રહેવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોભામણી જાહેરાતથી બચો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "લોકશાહીમાં સંચાર માધ્યમો શું કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં સંચાર માધ્યમો સરકારની કામગીરી લોકો સુધી પહોંચાડવાનું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકાર અને જનતા વચ્ચેનો સેતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઈન્ટરનેટના કારણે દુનિયા કેવી બની ગઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈન્ટરનેટના કારણે આખી દુનિયા એક 'વૈશ્વિક ગ્રામ' (Global Village) બની ગઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ટરનેટ = ગ્લોબલ વિલેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કયા સંચાર સાધન દ્વારા લાઈવ પ્રસારણ જોઈ શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિવિઝન અને સ્માર્ટફોન દ્વારા લાઈવ પ્રસારણ જોઈ શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈવ મેચ = ટીવી/મોબાઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જાહેરાત બનાવવા માટે કઈ બાબતનું ધ્યાન રાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતમાં કોઈની ધાર્મિક લાગણી દુભાય નહીં તેનું ધ્યાન રાખવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૈતિકતા અને સન્માન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વોકી-ટોકીનો ઉપયોગ કોણ વધુ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વોકી-ટોકીનો ઉપયોગ મુખ્યત્વે 'પોલીસ' દળ દ્વારા કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોકી-ટોકી = પોલીસની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "દ્રશ્ય-શ્રાવ્ય માધ્યમ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે માધ્યમમાં જોઈ શકાય અને સાંભળી પણ શકાય તેને દ્રશ્ય-શ્રાવ્ય માધ્યમ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રશ્ય (જોવું) + શ્રાવ્ય (સાંભળવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સંચાર માધ્યમોના વધુ પડતા ઉપયોગથી શું નુકસાન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંચાર માધ્યમોના વધુ પડતા ઉપયોગથી આંખો અને સ્વાસ્થ્ય પર વિપરીત અસર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ સ્ક્રીન ટાઈમ = નબળી આંખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ભારત સરકાર કયા માધ્યમથી યોજનાઓની જાહેરાત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત સરકાર રેડિયો, ટીવી, વર્તમાનપત્રો અને સોશિયલ મીડિયા દ્વારા યોજનાઓની જાહેરાત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી જાહેરાત = જન કલ્યાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પ્રાચીન કાળમાં સંકેત દ્વારા સંદેશો આપવા શાનો ઉપયોગ થતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાચીન કાળમાં ઢોલ વગાડીને કે ધુમાડો કરીને સંદેશો આપવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ અને ધુમાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નૈતિક જાહેરાત એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે જાહેરાત સાચી માહિતી આપે અને સમાજનું ભલું કરે તેને નૈતિક જાહેરાત કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્ય માહિતી = નૈતિકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સેટેલાઈટ ફોનનો ઉપયોગ ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યાં સામાન્ય નેટવર્ક ન હોય તેવા દુર્ગમ વિસ્તારો કે આપત્તિના સમયે સેટેલાઈટ ફોન વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો નેટવર્ક એરિયા = સેટેલાઈટ ફોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "દુનિયામાં સૌથી વધુ સમાચારપત્રો કયા દેશમાં છપાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત દેશમાં સૌથી વધુ સંખ્યામાં સમાચારપત્રો છપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત = વાંચન પ્રેમી દેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ઈ-કોમર્સ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈન્ટરનેટના માધ્યમથી થતા વ્યાપાર કે ખરીદ-વેચાણને ઈ-કોમર્સ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઈન શોપિંગ = ઈ-કોમર્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જાહેરાતના કારણે ગ્રાહકને શું નુકસાન થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતના ખર્ચને કારણે ઘણીવાર વસ્તુની કિંમત વધી જાય છે જે ગ્રાહકે ચૂકવવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાત ખર્ચ = મોંઘી વસ્તુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સંચાર માધ્યમમાં કઈ પદ્ધતિથી ઝડપી પ્રતિસાદ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોબાઈલ અને ઈન્ટરનેટ દ્વારા સૌથી ઝડપી પ્રતિસાદ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્સ્ટન્ટ મેસેજિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ભારતનો પ્રથમ કૃત્રિમ ઉપગ્રહ કયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનો પ્રથમ કૃત્રિમ ઉપગ્રહ 'આર્યભટ્ટ' હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતશાસ્ત્રી આર્યભટ્ટના નામ પરથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "સંચાર સાધનોએ પૃથ્વીને કેવું બનાવી દીધું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંચાર સાધનોએ પૃથ્વીને એક નાનકડા 'વૈશ્વિક ગામ' માં ફેરવી દીધું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર ઘટી ગયું, ગામ બની ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ખાદ્યપદાર્થોની જાહેરાત માટે કયા ચિહ્નનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાદ્યપદાર્થોની ગુણવત્તા માટે 'Agmark' (એગમાર્ક) કે 'FSSAI' ના લોગોનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ ખોરાકની નિશાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સી.સી.ટી.વી (CCTV) નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CCTV એટલે 'Closed Circuit Television'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજી આંખ - CCTV.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "રેડિયો દ્વારા શૈક્ષણિક કાર્યક્રમો પ્રસારિત થાય છે તે સાચું કે ખોટું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, રેડિયો દ્વારા ઘણા શૈક્ષણિક અને ખેતીવાડીના કાર્યક્રમો પ્રસારિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો = મનોરંજન + જ્ઞાન.</p></div>"
+    }
+  ]
+}
