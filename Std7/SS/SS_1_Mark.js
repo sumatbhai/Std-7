@@ -2993,3 +2993,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જાતિગત ભિન્નતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોકરા અને છોકરીઓના ઉછેરમાં રહેલી સમાનતા કે અસમાનતાને જાતિગત ભિન્નતા કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાતિગત = છોકરા-છોકરી વચ્ચેનો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતીય બંધારણે નાગરિકોને કયો સમાન અધિકાર આપ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતીય બંધારણે દરેક નાગરિકને 'સમાનતાનો અધિકાર' આપ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ = બધા સમાન (સમાનતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "છોકરા-છોકરીઓના ઉછેરમાં કઈ બાબતોમાં ભેદભાવ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાક, શિક્ષણ, પહેરવેશ, અભ્યાસની તકો અને હરવા-ફરવા જેવી બાબતોમાં ભેદભાવ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાક થી ખેલ સુધી બધે જ ભેદભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આપણા દેશમાં સ્ત્રી-પુરુષના પ્રમાણમાં અસમાનતા કેમ ઊભી થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂઢિગત માન્યતાઓને કારણે અને છોકરીઓને શિક્ષણ તેમજ આરોગ્યની ઓછી તકો મળવાને લીધે અસમાનતા ઊભી થઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વિચારધારા (રૂઢિ) = અસમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગૃહિણીનું કામ કેવું ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગૃહિણીનું ઘરકામ કોઈ પણ જાતના આર્થિક વળતર વગરનું અને અમૂલ્ય ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરકામ = વિના મૂલ્ય પણ અમૂલ્ય સેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીમતી પ્રતિભાસિંહ પાટીલ ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રની શાન = પ્રતિભા (પ્રતિભાસિંહ પાટીલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભારતના પ્રથમ મહિલા વડાપ્રધાન કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીમતી ઈન્દિરા ગાંધી ભારતના પ્રથમ મહિલા વડાપ્રધાન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈ' પરથી ઈન્દિરા અને 'ઈ' પરથી ઈન્ડિયાના પીએમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિશ્વના દેશોમાં સૌથી વધુ મહિલા સભ્યો કયા દેશની સંસદમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વના દેશોમાં રુવાન્ડા દેશની સંસદમાં સૌથી વધુ મહિલા સભ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રુ' પરથી રુવાન્ડા = સ્ત્રી શક્તિનો વાવટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતીય મૂળના પ્રથમ મહિલા અવકાશયાત્રી કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલ્પના ચાવલા ભારતીય મૂળના પ્રથમ મહિલા અવકાશયાત્રી હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં ઉડવાની 'કલ્પના' સાચી કરી = કલ્પના ચાવલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતમાં દર કેટલા વર્ષે વસ્તીગણતરી કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં દર 10 વર્ષે વસ્તીગણતરી કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તીનો આંકડો = 10 વર્ષનો તબક્કો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કઈ સરકારી યોજનાનો મુખ્ય હેતુ સ્ત્રી-પુરુષના ભેદભાવ દૂર કરવાનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બેટી બચાવો, બેટી પઢાવો' યોજનાનો મુખ્ય હેતુ જાતિગત ભેદભાવ દૂર કરવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બચાવો + પઢાવો = ભેદભાવ ભગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિશ્વમાં મહિલા દિવસ ક્યારે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વમાં 8મી માર્ચના દિવસને 'વિશ્વ મહિલા દિવસ' તરીકે ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 માર્ચ = આઠડે આઠ - નારી શક્તિનો પાઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્વતંત્રતા સંગ્રામમાં કયા અગ્રણી મહિલા નેતાએ ભાગ લીધો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુષ્મા સ્વરાજ, વિજયાલક્ષ્મી પંડિત અને સરોજિની નાયડુ જેવા અનેક મહિલાઓએ મહત્વનું યોગદાન આપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' પરથી સરોજિની અને સુષ્મા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "છોકરીઓને ઘરકામમાં શા માટે વધુ જોતરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાજમાં પ્રવર્તતી એવી માન્યતાને કારણે કે ઘરની જવાબદારી માત્ર સ્ત્રીઓની જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂઢિચુસ્ત માન્યતા = ઘરકામમાં કન્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "છોકરીઓ માટે કઈ બાબત ભણતરમાં અવરોધરૂપ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાની ઉંમરે લગ્ન (બાલલગ્ન) અને ઘરકામનો બોજ છોકરીઓના ભણતરમાં અવરોધરૂપ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની ઉંમર + લગ્ન = ભણતરનો અંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારત સરકાર કન્યા કેળવણી માટે શું પ્રયત્નો કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરકાર કન્યાઓ માટે મફત અને ફરજિયાત શિક્ષણ, શિષ્યવૃત્તિ અને સાયકલ સહાય જેવી યોજનાઓ અમલમાં મૂકી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણશે દીકરી, તો જ આગળ વધશે દીકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સુષ્મા સ્વરાજને કયા પદ માટેના શ્રેષ્ઠ મહિલા વક્તા તરીકે ઓળખવામાં આવતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુષ્મા સ્વરાજને ભારતના વિદેશ મંત્રી તરીકેના શ્રેષ્ઠ અને પ્રભાવશાળી મહિલા વક્તા ગણવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુષ્મા = શ્રેષ્ઠ વક્તા + વિદેશ મંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભારતની સૌથી વધુ વયે વસ્તીગણતરી કઈ સાલમાં થઈ હતી? (પાઠ્યપુસ્તક મુજબ છેલ્લે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં છેલ્લી મોટી વસ્તીગણતરી વર્ષ 2011 માં થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૧ નો આંકડો = વસ્તીગણતરીનો આંકડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખેતીકામમાં સ્ત્રીઓનું શું યોગદાન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીમાં બીજ રોપવા, નિંદામણ કરવું, લણણી કરવી અને પશુપાલનમાં સ્ત્રીઓ પુરુષો જેટલું જ કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી થી ડેરી સુધી સ્ત્રીઓની બધે જ હાજરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયા ક્ષેત્રોમાં સ્ત્રીઓની સંખ્યા પુરુષો કરતા ઓછી જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજ્ઞાન, ટેકનોલોજી, સંરક્ષણ અને રાજકારણ જેવા ક્ષેત્રોમાં હજી પણ સ્ત્રીઓની સંખ્યા ઓછી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઘરા ક્ષેત્રો = હજી પણ સ્ત્રીઓની ઓછી સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નારી સશક્તિકરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીઓને સામાજિક, આર્થિક અને રાજકીય રીતે સક્ષમ બનાવીને તેમને સમાન તકો પૂરી પાડવી તેને નારી સશક્તિકરણ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સશક્ત = શક્તિશાળી નારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગુજરાત સરકાર દ્વારા કઈ સાલથી બેટી બચાવો અભિયાન શરૂ કરવામાં આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત સરકાર દ્વારા વર્ષ 2005 થી 'બેટી બચાવો' અભિયાન શરૂ કરવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૦૦૫ = દીકરીઓને બચાવવાની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગાયિકા તરીકે જાણીતા ભારતીય મહિલા કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લતા મંગેશકર વિશ્વભરમાં ગાયિકા તરીકે જાણીતા ભારતીય મહિલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરોની રાણી = લતા દીદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કઈ રમતમાં ભારતીય મહિલાઓએ આંતરરાષ્ટ્રીય સ્તરે નામ રોશન કર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રિકેટ, બેડમિન્ટન, કુસ્તી અને બોક્સિંગ જેવી રમતોમાં ભારતીય મહિલાઓએ નામ રોશન કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત કોઈ પણ હોય, સ્ત્રીઓ અવ્વલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શા માટે ગ્રામીણ વિસ્તારોમાં છોકરીઓનો ડ્રોપ-આઉટ રેશિયો વધુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરીબી, અંતરિયાળ વિસ્તાર અને રૂઢિચુસ્ત માનસિકતાને કારણે ગ્રામીણ વિસ્તારોમાં છોકરીઓ અધવચ્ચેથી અભ્યાસ છોડી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડું + ગરીબી = શિક્ષણમાં વિરામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રથમ વસ્તીગણતરી ક્યારે કરવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં પ્રથમ વસ્તીગણતરી ઈ.સ. 1881 માં કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૮-૮૧ = વસ્તીની પહેલી ગણતરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બાળકને સૌથી વધુ કોણ પ્રભાવિત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળકને તેના ઘરનું વાતાવરણ અને તેના માતા-પિતાના સંસ્કાર સૌથી વધુ પ્રભાવિત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર એ બાળકની પ્રથમ શાળા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સુનીતા વિલિયમ્સ કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનીતા વિલિયમ્સ ભારતીય મૂળના બીજા મહિલા અવકાશયાત્રી છે જેમણે અવકાશમાં લાંબો સમય વિતાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશની રાણી = સુનીતા વિલિયમ્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મહિલાઓને કઈ તકો આપવાથી જાતિગત ભિન્નતા ઓછી થઈ શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહિલાઓને શિક્ષણ, સમાન વેતન અને નિર્ણય લેવાની પ્રક્રિયામાં ભાગીદારી આપવાથી જાતિગત ભિન્નતા ઓછી થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન તક = સમાન અધિકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શા માટે 2011 ની વસ્તીગણતરી ચિંતાજનક હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તેમાં સ્ત્રી-પુરુષના પ્રમાણમાં મોટો તફાવત (લિંગ પ્રમાણ ઘટ્યું હતું) જોવા મળ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૦૧૧ = ઓછી દીકરીઓ (ચિંતાનો વિષય).</p></div>"
+    }
+  ]
+}
