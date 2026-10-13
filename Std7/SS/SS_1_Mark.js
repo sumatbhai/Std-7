@@ -3409,3 +3409,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બજાર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર એટલે જ્યાં ચીજવસ્તુઓનું વેચાણ કરનારા વેચાણકર્તાઓ અને ખરીદનારા ગ્રાહકો એકઠા થતા હોય તેવું સ્થળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર = લેનાર + વેચનારનો સંગમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મહોલ્લા બજારની મુખ્ય વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ બજારમાં દુકાનો આપણા ઘરની આસપાસ હોય છે અને ગ્રાહક ગમે ત્યારે (દિવસ દરમિયાન) ખરીદી કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહોલ્લો = ઘરની બાજુમાં, ગમે ત્યારે હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાપ્તાહિક બજારને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ્તાહિક બજારને 'ગુજરી બજાર' તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઠવાડિયામાં એક વાર = ગુજરી બજાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શા માટે સાપ્તાહિક બજારમાં વસ્તુઓ સસ્તી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ્તાહિક બજારમાં કાયમી દુકાનનું ભાડું, વેરો કે વીજળી ખર્ચ હોતો નથી, તેથી વસ્તુઓ સસ્તી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખર્ચ ઓછો, ભાવ સસ્તો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નિયંત્રિત બજાર (APMC) ની સ્થાપના શા માટે કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડૂતની ખેતપેદાશોના વેચાણમાં થતા શોષણને અટકાવવા માટે નિયંત્રિત બજારની સ્થાપના કરવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC = ખેડૂતનું રક્ષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુજરાતમાં સાપ્તાહિક બજારને કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં તેને 'હાટ' અથવા 'ગુજરી' નામે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરી = હાટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શોપિંગ કોમ્પ્લેક્સ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ બિલ્ડિંગમાં જુદી જુદી બ્રાન્ડની અનેક દુકાનો હોય તેને શોપિંગ કોમ્પ્લેક્સ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બિલ્ડિંગ, અનેક દુકાન = કોમ્પ્લેક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઓનલાઇન બજારનો મુખ્ય ફાયદો શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓનલાઇન બજારમાં ગ્રાહક ઘરે બેઠા કોઈપણ સમયે વસ્તુની પસંદગી અને ખરીદી કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઇન = હોમ ડિલિવરીની સુવિધા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જથ્થાબંધ વેપારી કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વેપારી મોટા જથ્થામાં માલ સામાન ખરીદીને છૂટક વેપારીઓને વેચે છે, તેને જથ્થાબંધ વેપારી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ = મોટો જથ્થો (Bulk)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "છૂટક વેપારી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વેપારી જથ્થાબંધ વેપારી પાસેથી માલ ખરીદીને ગ્રાહકોને તેમની જરૂરિયાત મુજબ વેચે છે તેને છૂટક વેપારી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છૂટક = સીધો ગ્રાહક સાથે સંપર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગ્રાહક કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વ્યક્તિ પોતાની જરૂરિયાત માટે કિંમત ચૂકવીને વસ્તુ કે સેવા ખરીદે છે તેને ગ્રાહક કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિંમત આપે + વસ્તુ લે = ગ્રાહક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બજારની કડીમાં અંતિમ ગ્રાહક કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે પોતે, જે વસ્તુનો સીધો વપરાશ કરીએ છીએ તે અંતિમ ગ્રાહક છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વપરાશ કરનાર = અંતિમ કડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુકાનદાર વસ્તુ ક્યાંથી ખરીદે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુકાનદાર જથ્થાબંધ વેપારી પાસેથી અથવા સીધો માર્કેટિંગ યાર્ડમાંથી વસ્તુ ખરીદે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુકાનદાર <- જથ્થાબંધ વેપારી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખેડૂત ખેતીમાં શું શું વાપરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડૂત ખેતીમાં બિયારણ, ખાતર, જંતુનાશક દવાઓ અને કૃષિ સાધનોનો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિયારણ + ખાતર = ખેતીની પાયાની જરૂરિયાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બજારમાં સમાનતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજારમાં ગ્રાહક તરીકે દરેક વ્યક્તિ સમાન છે, જ્યાં ધનિક કે ગરીબનો ભેદભાવ રાખ્યા વગર સૌને વસ્તુ ખરીદવાનો અધિકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર + ગ્રાહક = સમાન અધિકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગ્રાહક જાગૃતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહક પોતે છેતરાય નહીં તે માટે તેના હકો અને ફરજો પ્રત્યે જાગૃત બને તેને ગ્રાહક જાગૃતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગો ગ્રાહક જાગો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માર્કેટિંગ યાર્ડમાં હરાજીનો મુખ્ય ફાયદો શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરાજી દ્વારા ખેડૂતોને તેમની ખેતપેદાશના મહત્તમ અને પોષણક્ષમ ભાવ મળી રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરાજી = શ્રેષ્ઠ કિંમત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મોલ (Mall) માં કયા પ્રકારની વસ્તુઓ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોલમાં નાની-મોટી અને બ્રાન્ડેડ તથા લોકલ એમ તમામ પ્રકારની ચીજવસ્તુઓ એકસાથે મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ = બધું જ એક છત નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બજારની કઈ વ્યવસ્થામાં વચેટિયાઓનું પ્રમાણ ઓછું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓનલાઇન બજાર અને ડાયરેક્ટ માર્કેટિંગમાં વચેટિયાઓનું પ્રમાણ ઓછું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઇન = No Middlemen!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગ્રાહકે ખરીદી કરતી વખતે કઈ બાબતનું ધ્યાન રાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહકે વસ્તુની કિંમત, ગુણવત્તા, પેકિંગની તારીખ અને એક્સપાયરી ડેટ વગેરે તપાસવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેક કરો - ભાવ અને તારીખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મૂડીવાદી બજારમાં કોનું પ્રભુત્વ વધારે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂડીવાદી બજારમાં મોટા ઉદ્યોગપતિઓ અને મૂડીદારોનું પ્રભુત્વ વધારે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂડીવાદી = પૈસાવાળાનું રાજ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગ્રાહક સુરક્ષા અધિનિયમ ક્યારે અમલમાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત સરકાર દ્વારા ગ્રાહક સુરક્ષા અધિનિયમ 1986 માં અમલમાં મૂકવામાં આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1986 = ગ્રાહકનો કાયદો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ડિજિટલ પેમેન્ટ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોકડ રકમને બદલે નેટ બેંકિંગ, ક્રેડિટ/ડેબિટ કાર્ડ કે UPI દ્વારા નાણાંની ચુકવણી કરવાની પદ્ધતિને ડિજિટલ પેમેન્ટ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cashless = Digital!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તમારે મોબાઈલ ફોન ખરીદવો હોય તો કયા બજારમાં જશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોબાઈલ ફોન ખરીદવા માટે શોરૂમ, શોપિંગ મોલ કે ઓનલાઇન બજારમાં જઈ શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોનિક્સ = શોરૂમ કે ઓનલાઇન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બજારની વ્યવસ્થામાં કોની ભૂમિકા મહત્વની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજારની વ્યવસ્થામાં વેચાણકર્તા અને ગ્રાહક બંનેની ભૂમિકા મહત્વની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેચનાર + લેનાર = બજારના બે પાયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શાકાહારી ખાદ્ય સામગ્રી પર કયા રંગનું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાકાહારી ખાદ્ય સામગ્રી પર લીલા રંગનું ટપકું (ગ્રીન માર્ક) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાકભાજી = લીલો રંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "માંસાહારી ખાદ્ય સામગ્રી પર કયા રંગનું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માંસાહારી ખાદ્ય સામગ્રી પર લાલ રંગનું ટપકું (રેડ માર્ક) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંસાહારી = લાલ રંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ISI માર્ક કઈ વસ્તુઓ પર જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ISI માર્ક મોટે ભાગે ઘરવપરાશની વીજળીથી ચાલતી વસ્તુઓ પર જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ISI = ઇલેક્ટ્રિક વસ્તુઓ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ખેતપેદાશો માટે કયું નિશાન વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતપેદાશોની ગુણવત્તા માટે 'એગમાર્ક' (AGMARK) નું નિશાન વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Agriculture + Mark = AGMARK!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સોના-ચાંદીના દાગીના પર કયું માર્ક હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોના-ચાંદીના દાગીના પર 'હોલમાર્ક' (Hallmark) નું નિશાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરેણાં = હોલમાર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વસ્તુ પર લખાતી કિંમતને ટૂંકમાં શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસ્તુ પર લખાતી મહત્તમ છૂટક કિંમતને ટૂંકમાં MRP (Maximum Retail Price) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MRP = આનાથી વધુ ભાવ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બજારના કેટલા પ્રકારો પાઠ્યપુસ્તકમાં દર્શાવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહોલ્લા બજાર, સાપ્તાહિક બજાર, શોપિંગ કોમ્પ્લેક્સ/મોલ, નિયંત્રિત બજાર અને ઓનલાઇન બજાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 મુખ્ય પ્રકારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ગ્રાહકનું શોષણ કેવી રીતે થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું વજન આપીને, વધુ કિંમત વસૂલીને કે હલકી ગુણવત્તાવાળી વસ્તુ પધરાવીને ગ્રાહકનું શોષણ થઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેતરપિંડી = શોષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જાહેરાતનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતનો મુખ્ય ઉદ્દેશ્ય વસ્તુની માહિતી ગ્રાહકો સુધી પહોંચાડીને વેચાણ વધારવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાત = માહિતી + વેચાણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મોલમાં વસ્તુઓના ભાવ શા માટે વધારે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોલમાં એસી, લિફ્ટ, સિક્યુરિટી અને શોરૂમનું ભાડું વગેરે ખર્ચ વધુ હોવાથી વસ્તુઓ મોંઘી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ઝરી સુવિધા = મોંઘો ભાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ખેડૂતો પોતાની પેદાશો ક્યાં વેચે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડૂતો પોતાની પેદાશો માર્કેટિંગ યાર્ડમાં વેચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતનું વેચાણ કેન્દ્ર = માર્કેટિંગ યાર્ડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ખરીદીનું બિલ શા માટે માંગવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભવિષ્યમાં વસ્તુમાં કોઈ ખામી જણાય તો બિલના આધારે ગ્રાહક સુરક્ષામાં ફરિયાદ કરી શકાય અથવા વસ્તુ બદલાવી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ = ખરીદીનો પાક્કો પુરાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નાના વેપારીઓને બજારમાં કઈ મુશ્કેલી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટા વેપારીઓ સામે સ્પર્ધામાં ટકી રહેવું અને ઓછી મૂડી હોવી એ નાના વેપારીઓની મુખ્ય મુશ્કેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની મૂડી, મોટી હરીફાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઉત્પાદક કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વ્યક્તિ કે સંસ્થા કાચા માલમાંથી નવી વસ્તુ બનાવે છે તેને ઉત્પાદક કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્પાદક = બનાવનાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બજાર આપણને કઈ રીતે ઉપયોગી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર આપણી જરૂરિયાતની વસ્તુઓ પૂરી પાડે છે અને અનેક લોકોને રોજગારી આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર = જરૂરિયાત + રોજગારી!</p></div>"
+    }
+  ]
+}
