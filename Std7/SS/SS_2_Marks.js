@@ -578,3 +578,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્યાવરણ એટલે શું? તેના મુખ્ય ઘટકો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણ એટલે પૃથ્વીની આસપાસ રચાયેલું કુદરતી ઘટકોનું આવરણ. પર્યાવરણના મુખ્ય ચાર ઘટકો છે: (1) મૃદાવરણ, (2) જલાવરણ, (3) વાતાવરણ અને (4) જીવાવરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુ-જ-વા-જી' (મૃદાવરણ, જલાવરણ, વાતાવરણ, જીવાવરણ) – આ ચાર નામ યાદ રાખવા માટેની સરળ ચાવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મૃદાવરણનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃદાવરણ માનવીને રહેવા માટે ઘર, ખેતી માટે જમીન અને ઉદ્યોગો માટે જરૂરી ખનીજો પૂરા પાડે છે. આ ઉપરાંત, તે વનસ્પતિ અને ઘાસચારા માટે પણ અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રહેઠાણ-ખેતી-ખનીજ' = મૃદાવરણનું કામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જલાવરણ કોને કહેવાય? પૃથ્વી પર તેનું પ્રમાણ કેટલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પરના પાણીના ઘેરાયેલા ભાગને 'જલાવરણ' કહેવામાં આવે છે. પૃથ્વીની સપાટી પર જલાવરણ આશરે 71% ભાગ રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલ એટલે પાણી, જે પૃથ્વીના 71% ભાગ પર 'રાજ' કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાતાવરણ પૃથ્વી માટે રક્ષણાત્મક ઢાલ જેવું કામ કેવી રીતે કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં રહેલું ઓઝોન સ્તર સૂર્યના અત્યંત ગરમ પારજાંબલી (Ultra Violet) કિરણોનું શોષણ કરી પૃથ્વી પરના જીવોનું રક્ષણ કરે છે. આથી તે રક્ષણાત્મક ઢાલ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓઝોન = કુદરતી છત્રી'. જે સૂર્યના તાપથી બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માનવ-નિર્મિત પર્યાવરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવી પોતાની બુદ્ધિશક્તિથી કુદરતી ઘટકોનો ઉપયોગ કરી તેમાં પરિવર્તન લાવીને જે નવું પર્યાવરણ બનાવે છે, તેને માનવ-નિર્મિત પર્યાવરણ (સાંસ્કૃતિક પર્યાવરણ) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવી + ટેકનોલોજી + કુદરતી સંસાધન = માનવ-નિર્મિત પર્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જીવાવરણમાં કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના મૃદાવરણ, જલાવરણ અને વાતાવરણના જે ભાગમાં સજીવ સૃષ્ટિ વ્યાપેલી છે, તેને જીવાવરણ કહે છે. તેમાં માનવી, વનસ્પતિ અને પ્રાણીસૃષ્ટિનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ છે જ્યાં, જીવાવરણ છે ત્યાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાણીના પ્રદૂષણને અટકાવવાના બે ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ઉદ્યોગોના રાસાયણિક પાણીને શુદ્ધ કર્યા પછી જ જળાશયોમાં છોડવું જોઈએ. (2) ઘરવપરાશના ગંદા પાણીને ગટર દ્વારા નિકાલ કરી શુદ્ધિકરણ પ્લાન્ટમાં પ્રોસેસ કરવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદા પાણીને 'ક્લીન' કરીને જ 'ડ્રેઇન' કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભૂમિ (જમીન) પ્રદૂષણ રોકવા શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીમાં રાસાયણિક ખાતરોને બદલે જૈવિક અને દેશી ખાતરનો ઉપયોગ કરવો જોઈએ. આ ઉપરાંત, પ્લાસ્ટિક અને ઘન કચરાનું રિસાયકલિંગ કરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ 'નો', ઓર્ગેનિક 'યસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ધ્વનિ પ્રદૂષણ (અવાજનું પ્રદૂષણ) ઘટાડવાના બે ઉપાયો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) વાહનોમાં બિનજરૂરી હોર્ન વગાડવાનું ટાળવું જોઈએ. (2) સિનેમાઘરો અને જાહેર હોલમાં ધ્વનિશોષક પડદા કે યંત્રોનો ઉપયોગ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નો હોર્ન' + 'વધારે વૃક્ષો' = ઓછો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્યાવરણના બે પ્રકારો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણના મુખ્ય બે પ્રકારો છે: (1) કુદરતી પર્યાવરણ, જેમાં જૈવિક અને અજૈવિક ઘટકોનો સમાવેશ થાય છે. (2) માનવ-નિર્મિત પર્યાવરણ, જે માનવીની પ્રવૃત્તિઓ દ્વારા રચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુદરતી' (ગોડ ગિફ્ટેડ) અને 'માનવ' (સેલ્ફ મેડ).</p></div>"
+    }
+  ]
+}
