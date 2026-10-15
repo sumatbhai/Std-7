@@ -520,3 +520,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્યાવરણ શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણ શબ્દ બે શબ્દોનો બનેલો છે: 'પરિ' એટલે કે આજુબાજુ કે ચારેબાજુ અને 'આવરણ' એટલે કે પડ અથવા સ્તર. પૃથ્વીની આસપાસ રચાયેલું કુદરતી ઘટકોનું આવરણ એટલે પર્યાવરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્યાવરણ = પરિ (ચારેબાજુ) + આવરણ (પડ). બસ, આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પર્યાવરણના મુખ્ય ચાર ઘટકો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણ મુખ્ય ચાર ઘટકોનું બનેલું છે: (1) મૃદાવરણ, (2) જલાવરણ, (3) વાતાવરણ અને (4) જીવાવરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃ-જ-વા-જી' (મૃદાવરણ, જલાવરણ, વાતાવરણ, જીવાવરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મૃદાવરણ કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના ઉપરના ઘન પોપડાને 'મૃદાવરણ' કહે છે. આ પોપડો ખડક, ખનીજો અને માટીનો બનેલો હોય છે. મૃદાવરણ સજીવો માટે રહેઠાણ, ખેતી માટે જમીન અને ઉદ્યોગો માટે ખનીજો પૂરા પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદા = માટી. પૃથ્વીનું માટીનું પડ એટલે મૃદાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જલાવરણ એટલે શું? તે પૃથ્વીનો કેટલા ટકા ભાગ રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પરના પાણીના ઘેરાયેલા વિસ્તારને 'જલાવરણ' કહે છે. પૃથ્વીની સપાટીનો આશરે 71% ભાગ જલાવરણ રોકે છે, જેમાં મહાસાગરો, સમુદ્રો, નદીઓ અને સરોવરોનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલ = પાણી. 71% ભાગ પાણીથી ઢંકાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાતાવરણમાં કયા કયા વાયુઓ આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં મુખ્યત્વે નાઇટ્રોજન (78%), ઓક્સિજન (21%), આર્ગોન (0.93%), કાર્બન ડાયોક્સાઈડ (0.03%) અને અન્ય વાયુઓ ખૂબ જ ઓછી માત્રામાં આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N2 (78%) + O2 (21%) = વાતાવરણનો મુખ્ય હિસ્સો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "માનવનિર્મિત પર્યાવરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુષ્યે પોતાની જરૂરિયાત મુજબ કુદરતી પર્યાવરણમાં બુદ્ધિશક્તિથી ફેરફાર કરીને જે પર્યાવરણનું નિર્માણ કર્યું છે તેને 'માનવનિર્મિત પર્યાવરણ' કહે છે. તેને સામાજિક-સાંસ્કૃતિક પર્યાવરણ તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુષ્ય દ્વારા જે બનાવવામાં આવ્યું તે માનવનિર્મિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જીવાવરણમાં કોનો કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના મૃદાવરણ, જલાવરણ અને વાતાવરણના જે ભાગમાં સજીવ સૃષ્ટિ વ્યાપેલી છે, તેને 'જીવાવરણ' કહે છે. તેમાં વનસ્પતિ, પ્રાણીઓ, જીવજંતુઓ અને માનવીઓનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવાવરણ = જીવતા સજીવોની દુનિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભૂમિ પ્રદૂષણ (જમીન પ્રદૂષણ) રોકવાના બે ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પ્લાસ્ટિક અને રાસાયણિક ખાતરોનો ઉપયોગ જરૂર પૂરતો જ કરવો જોઈએ. (2) ખેતીમાં રાસાયણિક ખાતરને બદલે જૈવિક અને કુદરતી ખાતર (છાણિયું ખાતર) વાપરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્લાસ્ટિક ટાળો, કુદરતી ખાતર અપનાવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હવાનું પ્રદૂષણ ઘટાડવા શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવાનું પ્રદૂષણ ઘટાડવા માટે ઉદ્યોગોમાં ફિલ્ટર્સ અને પ્રેસિપિટેટર્સ જેવા સાધનો વાપરવા જોઈએ. આ ઉપરાંત, કોલસા અને પેટ્રોલ-ડીઝલના બદલે CNG, LPG અને સૌર ઉર્જા જેવા બળતણનો ઉપયોગ વધારવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CNG + સૌર ઉર્જા = સ્વચ્છ હવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ધ્વનિ પ્રદૂષણની માનવી પર કઈ અસરો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ પડતા ઘોંઘાટથી માણસમાં બહેરાશ આવી શકે છે, માનસિક સ્વાસ્થ્ય પર વિપરીત અસર થાય છે અને સ્વભાવમાં ચિડિયાપણું આવે છે. વધુ પડતા અવાજથી કાર્ય કરવાની ક્ષમતામાં પણ ઘટાડો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોંઘાટ = બહેરાશ + ચિડિયાપણું.</p></div>"
+    }
+  ]
+}
