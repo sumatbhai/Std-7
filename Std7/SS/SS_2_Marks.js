@@ -462,3 +462,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીના મુખ્ય ત્રણ સ્તરો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી ડુંગળીની જેમ એક ઉપર એક સ્તરથી ગોઠવાયેલી છે. તેના મુખ્ય ત્રણ સ્તરો નીચે મુજબ છે:<br>૧. મૃદાવરણ (સીયાલ - સૌથી ઉપરનું પડ)<br>૨. મિશ્રાવરણ (મેન્ટલ - મધ્ય સ્તર)<br>૩. ભૂગર્ભ (નિફે - સૌથી આંતરિક સ્તર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સી-મે-ની' (સીયાલ, મેન્ટલ, નિફે) - ઉપરથી નીચે ક્રમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'સીયાલ' (Sial) સ્તર કયા ખનીજોનું બનેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટીના સૌથી ઉપલા સ્તરને 'સીયાલ' કહેવામાં આવે છે. તે મુખ્યત્વે 'સિલિકા' અને 'એલ્યુમિના' જેવા ખનીજોનું બનેલું છે. આથી તેને 'Si' (સિલિકા) + 'Al' (એલ્યુમિના) પરથી 'સીયાલ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Si + Al = Sial (સિલિકા + એલ્યુમિના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખડકોના મુખ્ય ત્રણ પ્રકારોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્માણ પ્રક્રિયાના આધારે ખડકોના મુખ્ય ત્રણ પ્રકારો નીચે મુજબ છે:<br>૧. અગ્નિકૃત ખડકો (Igneous Rocks)<br>૨. પ્રસ્તર અથવા જળકૃત ખડકો (Sedimentary Rocks)<br>૩. રૂપાંતરિત ખડકો (Metamorphic Rocks)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ-પ્ર-રૂ' (અગ્નિ, પ્રસ્તર અને રૂપાંતરિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જીવાશ્મિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખડકોના સ્તરોની વચ્ચે દબાયેલા મૃત વનસ્પતિ અને પ્રાણીઓના અવશેષોને 'જીવાશ્મિ' કહેવામાં આવે છે. આ અવશેષો લાખો વર્ષો સુધી દબાયેલા રહેવાથી પથ્થર જેવી રચનામાં ફેરવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ + અશ્મિ (પથ્થર) = જીવાશ્મિ (પથ્થરમાં સચવાયેલો જીવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નિફે (Nife) સ્તર વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીનું સૌથી આંતરિક સ્તર 'નિફે' તરીકે ઓળખાય છે. તે મુખ્યત્વે નિકલ (Ni) અને લોખંડ (Fe - ફેરસ) જેવા ભારે ખનીજોનું બનેલું છે. અહીં તાપમાન અને દબાણ ખૂબ જ વધારે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ni (નિકલ) + Fe (ફેરસ/લોખંડ) = Nife.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જ્વાળામુખી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પર આવેલું એવું છિદ્ર કે મુખ, જેમાંથી પૃથ્વીના પેટાળનો ગરમ મેગ્મા (લાવા), રાખ, પથ્થર અને વાયુઓ અચાનક બહાર ફેંકાય છે, તેને જ્વાળામુખી કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્વાળા (આગ) જેવું મુખ એટલે જ્વાળામુખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભૂકંપ નિર્ગમન કેન્દ્ર કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના પેટાળમાં જ્યાંથી ભૂકંપની શરૂઆત થાય છે તેને 'કેન્દ્ર' કહે છે. આ કેન્દ્રની બરાબર ઉપર પૃથ્વીની સપાટી પર આવેલા સૌથી નજીકના સ્થળ કે બિંદુને 'નિર્ગમન કેન્દ્ર' (Epicenter) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર હોય તે કેન્દ્ર, ઉપર હોય તે 'નિર્ગમન' (બહાર નીકળતું બિંદુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રણ પ્રદેશમાં 'છત્રક ખડક' કેવી રીતે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણ પ્રદેશમાં પવન ખડકના ઉપરના ભાગની સરખામણીએ નીચેના ભાગને વધુ ઝડપથી ઘસે છે. આથી આવા ખડકોનો નીચેનો ભાગ સાંકડો અને ઉપરનો ભાગ છત્રી જેવો પહોળો બની જાય છે, તેને 'છત્રક ખડક' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન દ્વારા બનતી પથ્થરની 'છત્રી' એટલે છત્રક ખડક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નદીનો મુખત્રિકોણ પ્રદેશ (ડેલ્ટા) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદી જ્યારે સમુદ્રને મળે છે ત્યારે તેનો વેગ ખૂબ ધીમો પડી જાય છે. નદી પોતાની સાથે લાવેલ કાંપ, રેતી અને માટીનું નિક્ષેપણ કરે છે. આ નિક્ષેપણથી બનતા ત્રિકોણ આકારના ફળદ્રુપ મેદાનને 'મુખત્રિકોણ' કે 'ડેલ્ટા' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીનું અંતિમ સ્ટેશન + કાંપનો ઢગલો = ડેલ્ટા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હિમોઢ (Moraine) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિમનદી જ્યારે પહાડો પરથી નીચે ઉતરે છે ત્યારે તે પોતાની સાથે લાવેલા પદાર્થો જેવા કે નાના-મોટા ખડકો, રેતી અને કાંપનું કિનારા પર કે ખીણમાં નિક્ષેપણ (જમા) કરે છે. આ નિક્ષેપિત રચનાને 'હિમોઢ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમનદીનો કચરો જ્યારે જમા થાય ત્યારે તેને 'હિમોઢ' કહેવાય.</p></div>"
+    }
+  ]
+}
