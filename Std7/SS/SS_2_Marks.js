@@ -868,3 +868,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જાતિગત ભિન્નતા એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણા દેશમાં છોકરા અને છોકરીઓના ઉછેરમાં જે તફાવત જોવા મળે છે તેને જાતિગત ભિન્નતા કહે છે. ઉદાહરણ તરીકે, છોકરાઓને રમવા માટે ગાડી કે સાયકલ આપવામાં આવે છે, જ્યારે છોકરીઓને ઢીંગલી કે રસોડાના સાધનો આપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાતિગત = છોકરા-છોકરી વચ્ચેનો તફાવત (સાદું અને સ્પષ્ટ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગૃહિણીનું મૂલ્ય અને તેના કાર્ય વિશે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગૃહિણી ઘરના તમામ કામો જેવા કે રસોઈ બનાવવી, ઘરની સાફ-સફાઈ અને બાળકોના ઉછેરની જવાબદારી નિભાવે છે. જોકે આ કામનું કોઈ આર્થિક વળતર મળતું નથી, પરંતુ કુટુંબના સંચાલનમાં તેનું મૂલ્ય અમૂલ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગૃહિણી = ઘરનું એન્જિન (જે પગાર વગર કામ કરે છે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નારી સશક્તિકરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહિલાઓને આર્થિક, સામાજિક અને શૈક્ષણિક રીતે મજબૂત બનાવવાની પ્રક્રિયાને નારી સશક્તિકરણ કહેવાય છે. તેનાથી મહિલાઓ પોતાના નિર્ણયો જાતે લઈ શકે છે અને સમાજમાં સમાન દરજ્જો મેળવી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સશક્તિકરણ = શક્તિ + નિર્ણય લેવાની ક્ષમતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ કોણ હતા? તેમની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ શ્રીમતી પ્રતિભાસિંહ પાટીલ હતા. તેમણે આપણા દેશના સર્વોચ્ચ બંધારણીય પદની શોભા વધારી હતી અને રાજસ્થાનના રાજ્યપાલ તરીકે પણ સેવા આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રતિભા' એ જ રાષ્ટ્રપતિની 'પ્રતિષ્ઠા' વધારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મહિલા મુખ્યમંત્રી તરીકે સુષ્મા સ્વરાજનું યોગદાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુષ્મા સ્વરાજ દિલ્હીના પ્રથમ મહિલા મુખ્યમંત્રી હતા. તેઓ ભારતના વિદેશ મંત્રી તરીકે પણ ખૂબ જ લોકપ્રિય બન્યા હતા અને અનેક કટોકટીમાં ભારતીયોની મદદ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુષ્મા = 'શ્રેષ્ઠ વક્તા' + 'વિદેશ મંત્રી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કન્યા કેળવણી (શિક્ષણ) માટે સરકાર કેવા પ્રયત્નો કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરકાર કન્યાઓને મફત શિક્ષણ, શિષ્યવૃત્તિ, સાયકલ વિતરણ (સરસ્વતી સાધના યોજના) અને દીકરીઓને શાળાએ લાવવા માટે વાલીઓને પ્રોત્સાહન આપે છે. 'બેટી બચાવો, બેટી પઢાવો' આ અભિયાનનો મુખ્ય ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મફત શિક્ષણ + સાયકલ = ભણશે દીકરી, વધશે દીકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વસ્તી ગણતરી (Census) શા માટે કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેશમાં સ્ત્રી-પુરુષોનું પ્રમાણ જાણવા અને જાતિગત તફાવત સમજવા માટે દર દસ વર્ષે વસ્તી ગણતરી કરવામાં આવે છે. આ માહિતીના આધારે જ સરકાર વિકાસની યોજનાઓ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તી ગણતરી = દેશનું આયોજન (દર 10 વર્ષે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રમતગમત ક્ષેત્રે નામ મેળવનાર કોઈ પણ બે ભારતીય મહિલાઓના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સાયના નેહવાલ (બેડમિન્ટન) અને (2) પી.ટી. ઉષા (દોડ - એથ્લેટિક્સ). આ સિવાય મિતાલી રાજ (ક્રિકેટ) અને ગીતા ફોગટ (કુસ્તી) પણ જાણીતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયના (S) = Shuttle (બેડમિન્ટન), ઉષા (U) = ઉડનપરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતના પ્રથમ મહિલા વડાપ્રધાન કોણ હતા? તેમનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના પ્રથમ મહિલા વડાપ્રધાન શ્રીમતી ઇન્દિરા ગાંધી હતા. તેમણે લોખંડી મહિલા (Iron Lady) તરીકેની ઓળખ મેળવી હતી અને દેશની અખંડિતતા માટે કડક નિર્ણયો લીધા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્દિરા = 'આયર્ન લેડી' (Iron Lady).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "છોકરીઓને ભણાવવા બાબતે જૂના વિચારો કેવા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂના સમયમાં લોકો માનતા હતા કે દીકરીઓને ભણાવીને શું કામ છે, તેમને તો રસોઈ જ કરવાની છે. સામાજિક માન્યતાઓને કારણે દીકરીઓને ઉચ્ચ શિક્ષણથી વંચિત રાખવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂઢિચુસ્ત વિચાર = દીકરી એટલે માત્ર ઘરકામ.</p></div>"
+    }
+  ]
+}
