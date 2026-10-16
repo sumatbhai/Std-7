@@ -636,3 +636,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ અને વ્યવસ્થાપન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપત્તિ એટલે શું? તેના મુખ્ય પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે આપત્તિને આપણે 'આફત', 'હોનારત' કે 'પ્રકોપ' તરીકે ઓળખીએ છીએ. તેના મુખ્ય બે પ્રકારો છે: (1) કુદરતી આપત્તિઓ (દા.ત. ભૂકંપ, પૂર, સુનામી) અને (2) માનવસર્જિત આપત્તિઓ (દા.ત. આગ, હુલ્લડ, બોમ્બ વિસ્ફોટ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપત્તિ = અચાનક આવતી 'આફત' (કુદરતી + માનવસર્જિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભૂકંપ દરમિયાન કઈ સાવચેતી રાખવી જોઈએ? (ગમે તે બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ સમયે નીચે મુજબની સાવચેતી રાખવી જોઈએ: <br>1. જો તમે શાળામાં હોવ તો પાટલી (બેન્ચ) નીચે બેસી જવું. <br>2. વીજળીના થાંભલા અને તારથી દૂર રહેવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપમાં 'બેન્ચ' નીચે અને 'થાંભલા'થી દૂર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સુનામી એટલે શું? તે શાના કારણે ઉદભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્ર કે મહાસાગરના તળિયે થતા ભૂકંપ, જ્વાળામુખી વિસ્ફોટથી કે સમુદ્રના તળિયે ભૂસ્ખલન થવાથી પેદા થતા વિનાશક મોજાંને 'સુનામી' કહે છે. તે મુખ્યત્વે સમુદ્રી ભૂકંપને કારણે ઉદભવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનામી = દરિયાની અંદરનો ભૂકંપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પૂર એટલે શું? પૂર આવવા માટેના કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદીમાં આવતા પાણીના ધસમસતા પ્રવાહને 'પૂર' કહે છે. પૂર આવવાના મુખ્ય બે કારણો છે: (1) ચોમાસામાં નદીના ઉપરવાસમાં અતિશય વરસાદ પડવો. (2) નદી પરનો બંધ (ડેમ) તૂટવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર = અતિ વરસાદ + ડેમનું તૂટવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દુષ્કાળથી બચવા માટે કેવા ઉપાયો કરવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળથી બચવા નીચે મુજબના ઉપાયો કરવા જોઈએ: <br>1. પાણીનો કરકસરયુક્ત ઉપયોગ કરવો અને ટપક સિંચાઈ પદ્ધતિ અપનાવવી. <br>2. વરસાદી પાણીના સંગ્રહ માટે ચેકડેમ અને ખેત-તલાવડી બનાવવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બચાવો + ટપક પદ્ધતિ અપનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાવાઝોડું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાને કારણે ઉદભવતા પ્રચંડ વેગીલા પવનને 'વાવાઝોડું' કે 'ચક્રવાત' કહે છે. તે ભારતના દરિયા કિનારાના વિસ્તારોમાં વધુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવાઝોડું = હવાનું દબાણ + તોફાની પવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દાવાનળ કોને કહેવાય? તેની અસરો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોમાં વૃક્ષોના પરસ્પર ઘર્ષણ કે આકાશમાંથી પડતી વીજળીને કારણે કે અન્ય માનવીય કારણોસર લાગતી આગને 'દાવાનળ' કહે છે. તેની અસરથી જંગલની વનસ્પતિ અને વન્યજીવોને ભારે નુકસાન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાવાનળ = જંગલની વિનાશક આગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આપત્તિ સમયે બચાવ કામગીરીમાં કયા સાધનો ઉપયોગી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિ સમયે બચાવ કામગીરીમાં ફર્સ્ટ એઈડ બોક્સ (પ્રાથમિક સારવાર કીટ), ટોર્ચ, દોરડું, વ્હિસલ (સીટી), પીવાનું પાણી અને સૂકો નાસ્તો જેવા સાધનો ખૂબ જ ઉપયોગી નીવડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપત્તિ કીટ = ટોર્ચ + દવા + ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પૂર પછી કેવા પગલાં લેવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર પછી પાણી ઉતરી જાય ત્યારે જંતુનાશક દવાઓનો છંટકાવ કરવો જોઈએ. પીવાના પાણીને ઉકાળીને વાપરવું જોઈએ જેથી રોગચાળો ન ફેલાય અને સત્તાવાળાઓની સૂચના મુજબ જ સલામત સ્થળે પરત ફરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર પછી = ઉકાળેલું પાણી + દવાનો છંટકાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભૂકંપ સમયે શું ન કરવું જોઈએ? (ગમે તે બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ સમયે: <br>1. ગભરાઈને બૂમાબૂમ કે નાસભાગ ન કરવી. <br>2. બહુમાળી મકાનોમાં નીચે ઉતરવા માટે લિફ્ટનો ઉપયોગ ન કરવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાસભાગ 'ના' કરો, લિફ્ટ 'ના' વાપરો.</p></div>"
+    }
+  ]
+}
