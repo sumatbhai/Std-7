@@ -284,3 +284,136 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'પરીક્ષા' પાઠના લેખકનું નામ શું છે?\n(A) નર્મદ\n(B) પન્નાલાલ પટેલ\n(C) ઉમાશંકર જોશી\n(D) ધૂમકેતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પન્નાલાલ પટેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરીક્ષા' આપવા માટે 'પન્ના' (પેજ) ભરવા પડે, એટલે 'પન્ના'લાલ પટેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'પરીક્ષા' પાઠનો સાહિત્ય પ્રકાર જણાવો.\n(A) કવિતા\n(B) નાટક\n(C) બોધકથા\n(D) નિબંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બોધકથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક 'પરીક્ષા' આપણને કંઈક 'બોધ' (શીખ) આપે છે, તેથી બોધકથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાઠમાં કઈ ઋતુનું વર્ણન કરવામાં આવ્યું છે?\n(A) શિયાળો\n(B) ઉનાળો\n(C) ચોમાસું\n(D) વસંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) શિયાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનો સૂર્ય અને ઘઉં-ચણાનો મોલ હંમેશા 'શિયાળા' માં જોવા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેતરમાં શું જોઈને મહાદેવના પગ થંભી ગયા?\n(A) સાપને જોઈને\n(B) ગાયને જોઈને\n(C) કુતરાને જોઈને\n(D) શિક્ષકને જોઈને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગાયને જોઈને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો મુખ્ય વિલન 'ગાય' છે જે મહાદેવને પરીક્ષામાં મોડો પાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મહાદેવ અને તેના મિત્રો કઈ પરીક્ષા આપવા જઈ રહ્યા હતા?\n(A) બોર્ડની પરીક્ષા\n(B) વાર્ષિક પરીક્ષા\n(C) શિષ્યવૃત્તિની પરીક્ષા\n(D) ચિત્રકામની પરીક્ષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શિષ્યવૃત્તિની પરીક્ષા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોશિયાર વિદ્યાર્થીઓ પૈસા (શિષ્યવૃત્તિ) મેળવવા પરીક્ષા આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગાય કોના ખેતરમાં સૌથી પહેલાં પેઠી?\n(A) શંકાના\n(B) મહાદેવના માસીના\n(C) ખુશાલમાના\n(D) કાકાના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) કાકાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત ઘરથી જ થાય, કાકા એ ઘરના સભ્ય ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'કાપલો કાઢી નાખવાની' - રૂઢિપ્રયોગનો અર્થ શું થાય?\n(A) કાપડ કાપવું\n(B) બધું જ ખાઈ જવું\n(C) પાસ થઈ જવું\n(D) ચોરી કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બધું જ ખાઈ જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય ખેતરમાં આવે એટલે પાકનો 'કાપલો' (સફાયો) કરી નાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઇન્સ્પેક્ટરે મહાદેવની આંખમાં શું જોયું?\n(A) આંસુ\n(B) ડર\n(C) માનવતાના આમી\n(D) ગુસ્સો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માનવતાના આમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવે ગાયને કાઢીને 'માનવતા' બતાવી હતી, જે ઇન્સ્પેક્ટરને દેખાઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મહાદેવના મિત્રનું નામ શું હતું, જેણે તેની દફતર પકડ્યું હતું?\n(A) શંકો\n(B) નરેશ\n(C) પરેશ\n(D) રાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) શંકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવને ગાય કાઢવા મોકલતા 'શંકા' થઈ એટલે 'શંકો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'મોલ' શબ્દનો અર્થ શું થાય?\n(A) કિંમત\n(B) બજાર\n(C) પાક\n(D) મહેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં જે 'મોલાત' લહેરાય તેને 'મોલ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાય કોના ખેતરમાંથી પસાર થઈને છેલ્લે કોના ખેતરમાં ગઈ?\n(A) મહાદેવના પોતાના\n(B) ગામના મુખીના\n(C) પાડોશીના\n(D) શિક્ષકના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મહાદેવના પોતાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવે બધાના ખેતર બચાવ્યા પણ છેલ્લે ગાય એના જ ખેતરમાં પહોંચી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મહાદેવને પરીક્ષામાં મોડું થવાનું કારણ શું હતું?\n(A) તે સૂઈ ગયો હતો\n(B) તે રસ્તો ભૂલી ગયો હતો\n(C) ગાયને ખેતરોમાંથી બહાર કાઢવા જતાં\n(D) તે બીમાર હતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગાયને ખેતરોમાંથી બહાર કાઢવા જતાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરોપકાર (બીજાની સેવા) કરવામાં મહાદેવને વાર લાગી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાઠમાં 'સૂર્યની ગતિ શાળા તરફ વધતી જતી હતી' એટલે શું?\n(A) સૂર્ય દોડતો હતો\n(B) સમય વીતતો જતો હતો\n(C) ગરમી વધતી હતી\n(D) શાળા સૂર્ય પાસે હતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમય વીતતો જતો હતો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય ઉપર આવે એટલે સમજવું કે 'મોડું' થઈ રહ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'પાટી મેલાવવી' રૂઢિપ્રયોગનો અર્થ આપો.\n(A) લખવા બેસવું\n(B) ખૂબ ઝડપથી દોડાવવું\n(C) પાટી સાફ કરવી\n(D) રમત રમવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખૂબ ઝડપથી દોડાવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડો હોય કે ગાય, પાટી મેલાવવી એટલે ફુલ સ્પીડમાં દોડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઇન્સ્પેક્ટરે મહાદેવને પેપર આપતા શું કહ્યું?\n(A) 'તારું દફતર ક્યાં છે?'\n(B) 'તું નાપાસ છે.'\n(C) 'આપી દો એને પેપર.'\n(D) 'ઘરે જા.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 'આપી દો એને પેપર.'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચી પરીક્ષામાં પાસ થનારને ઇન્સ્પેક્ટર પેપર આપવાની ના ન પાડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાય કોના ખેતરમાંથી ઘઉંનો કાપલો કાઢી નાખવાની હતી?\n(A) કાકાના\n(B) માસીના\n(C) મહાદેવના\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયને કોઈના પ્રત્યે ભેદભાવ નહોતો, તે બધાના ખેતરમાં ફરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાયને હાંકવા માટે મહાદેવે શું લીધું?\n(A) લાકડી\n(B) સોટી\n(C) આંકડો (લાકડું)\n(D) પથ્થર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આંકડો (લાકડું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તા પર જે મળ્યું તે 'આંકડા'નું લાકડું લઈને ગાય પાછળ પડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'હરાયું' ગાય એટલે કેવી ગાય?\n(A) પાળેલી ગાય\n(B) રખડતી/છૂટી મૂકેલી ગાય\n(C) બીમાર ગાય\n(D) દૂધ આપતી ગાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રખડતી/છૂટી મૂકેલી ગાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરાયું' એટલે જેનો કોઈ માલિક અત્યારે ધ્યાન ન રાખતું હોય તેવી રખડતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મહાદેવની આંખોમાં આંસુ કેમ હતા?\n(A) પરીક્ષામાં મોડું થયું હોવાથી\n(B) ગાય ખેતરમાં ખાઈ જતી હોવાથી\n(C) પપ્પા લડશે એવા ડરથી\n(D) (A) અને (B) બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (A) અને (B) બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરનો પાક બગડવાનું દુઃખ અને પરીક્ષા છૂટવાનો ડર બંને ભેગા થયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શિષ્યવૃત્તિની પરીક્ષામાં કેટલા વિદ્યાર્થીઓ બેસવાના હતા?\n(A) પાંચ\n(B) દસ\n(C) પંદર\n(D) વીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દસ' આંગળીઓ જેટલા જ એટલે કે 'દસ' વિદ્યાર્થીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'ખાલી ઘોડા દોડાવવા' એટલે શું?\n(A) ઘોડેસવારી કરવી\n(B) નકામા વિચારો કરવા\n(C) રેસ જીતવી\n(D) ખૂબ મહેનત કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નકામા વિચારો કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કામ ન કરીએ અને માત્ર પ્લાનિંગ કરીએ તેને 'ઘોડા દોડાવવા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઇન્સ્પેક્ટરે મહાદેવને કઈ પરીક્ષામાં પાસ જાહેર કર્યો?\n(A) ગણિતની\n(B) વિજ્ઞાનની\n(C) ઇન્સાનિયતની (માનવતાની)\n(D) અંગ્રેજીની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઇન્સાનિયતની (માનવતાની)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણતર કરતા 'ગણતર' અને માનવતા મોટી છે, એટલે ઇન્સાનિયતની પરીક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મહાદેવના પિતાનું નામ શું હતું?\n(A) વિઠ્ઠલભાઈ\n(B) દેવજીભાઈ\n(C) (પાઠમાં ઉલ્લેખ નથી)\n(D) પન્નાલાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (પાઠમાં ઉલ્લેખ નથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં મહાદેવના પિતાના નામનો સીધો ઉલ્લેખ કરવામાં આવ્યો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'સોના જેવો મોલ' એટલે કેવો મોલ?\n(A) સોનાનો બનેલો પાક\n(B) ખૂબ જ કિંમતી તૈયાર થયેલો પાક\n(C) પીળા રંગનો પાક\n(D) સસ્તો પાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખૂબ જ કિંમતી તૈયાર થયેલો પાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂત માટે તેનો પાક 'સોના' સમાન કિંમતી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાય ખેતરની કઈ બાજુથી નીકળી?\n(A) દરવાજાથી\n(B) વાડ કૂદીને\n(C) છીંડા વાટે\n(D) રસ્તા પરથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છીંડા વાટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડમાં જે જગ્યા (કાણું) હોય તેને 'છીંડું' કહેવાય, ગાય ત્યાંથી જ ભાગે.</p></div>"
+    }
+  ]
+}
