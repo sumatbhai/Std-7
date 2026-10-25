@@ -550,3 +550,136 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘રાનમાં’ કાવ્યના કવિનું નામ શું છે?\n(A) ન્હાનાલાલ\n(B) ધ્રુવ ભટ્ટ\n(C) ઉમાશંકર જોશી\n(D) સુંદરમ્",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધ્રુવ ભટ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાન' (જંગલ) માં 'ધ્રુવ' તારો દેખાય - એટલે રાનમાં કાવ્યના લેખક ધ્રુવ ભટ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘રાનમાં’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.\n(A) લોકગીત\n(B) ભજન\n(C) પ્રકૃતિગીત\n(D) સોનેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રકૃતિગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન એટલે જંગલ, અને જંગલ એટલે પ્રકૃતિ, માટે આ પ્રકૃતિગીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાવ્યમાં ‘રાનમાં’ શબ્દનો અર્થ શું થાય છે?\n(A) મેદાનમાં\n(B) બગીચામાં\n(C) જંગલમાં\n(D) આકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જંગલમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન = વન = જંગલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ક્યાં ચોમાસું ગાજે છે?\n(A) રાનમાં\n(B) વાડમાં\n(C) સીમમાં\n(D) મકાનમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રાનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની પહેલી પંક્તિ યાદ કરો: 'ક્યાંક ચોમાસું ગાજે છે રાનમાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાડ પર સૂતેલી સઘળી લીલાશ હવે ક્યાં ઉતરશે?\n(A) નદીમાં\n(B) ઘરમાં\n(C) મેદાનમાં\n(D) આકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મેદાનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડ પરથી લીલાશ ઉતરીને સીધી 'મેદાન' (ગ્રાઉન્ડ) પર આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આકાશમાંથી હવે શું નીચે ઉતરશે?\n(A) પક્ષીઓ\n(B) વાદળાં\n(C) ધોધમાર હેલી (ચોમાસું)\n(D) પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધોધમાર હેલી (ચોમાસું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચેથી નીચે શું આવે? વરસાદની ધારાઓ જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભીંજાતા વાયરાઓ શું સંદેશો આપશે?\n(A) ઠંડી પડશે\n(B) ચોમાસું બેસી ગયું છે\n(C) તડકો નીકળશે\n(D) પવન ફૂંકાશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોમાસું બેસી ગયું છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરા ભીના ક્યારે હોય? જ્યારે ચોમાસું શરૂ થાય ત્યારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદમાં ભીંજાવાનો આનંદ કોણ કોણ લેશે?\n(A) પહાડ અને દળદળતા ઝરણા\n(B) નેવાં અને પંખી\n(C) આપણને પણ\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં ડુંગર, નેવાં, પંખી અને માણસ (આપણને) બધાને આનંદ મળવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘ઘેઘૂર’ શબ્દનો અર્થ શો થાય?\n(A) આછું\n(B) ગાઢ\n(C) સૂકું\n(D) નરમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગાઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘેઘૂર વાદળ એટલે એકદમ ઘટાદાર કે ગાઢ વાદળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વરસાદ સાથે કયું પક્ષી ગહેકી ઉઠે છે?\n(A) ચકલી\n(B) પોપટ\n(C) મોર (પંખી)\n(D) કાગડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મોર (પંખી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગહેકવું' શબ્દ હંમેશા મોર કે ટહુકા સાથે જોડાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મકાનના છાપરાના છેડા ઉપરના નળિયા, જેમાંથી પાણી બહાર પડે છે તેને શું કહેવાય?\n(A) નેવાં\n(B) ડેલી\n(C) ઓટલો\n(D) મોભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) નેવાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળિયામાંથી 'નીચે' પાણી પડે તેને 'નેવાં' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પવનના વેગથી ઉડતા વરસાદના ટીપાં માટે કયો શબ્દ વપરાયો છે?\n(A) ઝાકળ\n(B) વાંછટ\n(C) કરા\n(D) બુંદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાંછટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનથી ઉડીને ઘરમાં આવે તેને 'વાંછટ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્યમાં ‘ડુંગર’ ને કોનો આનંદ થાય છે?\n(A) પક્ષીનો\n(B) સૂર્યનો\n(C) વરસાદમાં ભીંજાવાનો\n(D) પવનનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વરસાદમાં ભીંજાવાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'થાય છે નેવાંથી દળદળતા ગામને, થાય છે ડુંગરને...' ડુંગર વરસાદથી ન્હાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધ્રુવ ભટ્ટનું જન્મસ્થળ કયું છે?\n(A) ભાવનગર જિલ્લાનું નિંગાળા\n(B) અમદાવાદ\n(C) રાજકોટ\n(D) સુરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ભાવનગર જિલ્લાનું નિંગાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધ્રુવ' તારો 'ભાવ' વધારે છે, એટલે ભાવનગરનું નિંગાળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નીચેનામાંથી કઈ કૃતિ ધ્રુવ ભટ્ટની નથી?\n(A) કર્ણલોક\n(B) સમુદ્રાન્તિકે\n(C) અતરાપી\n(D) સત્યના પ્રયોગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સત્યના પ્રયોગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્યના પ્રયોગો ગાંધીજીની આત્મકથા છે, ધ્રુવ ભટ્ટની નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વરસાદ પડવાથી કોને ટહુકો કરવાનું મન થાય છે?\n(A) કવિને\n(B) પંખીને\n(C) ખેડૂતને\n(D) માળીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પંખીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટહુકો પંખી જ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘ગામ’ ને શાનો અનુભવ થાય છે?\n(A) ડરનો\n(B) ઠંડીનો\n(C) નેવાંથી દળદળતા પાણીનો\n(D) ગરમીનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નેવાંથી દળદળતા પાણીનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ: 'થાય છે નેવાંથી દળદળતા ગામને'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં વરસાદી માહોલ ક્યાં સર્જાયો છે?\n(A) માત્ર શહેરમાં\n(B) માત્ર વનમાં\n(C) રાનમાં, મેદાનમાં અને મકાનમાં\n(D) માત્ર દરિયામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રાનમાં, મેદાનમાં અને મકાનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ જંગલથી શરૂ થઈને મેદાન થઈને ઘર સુધી પહોંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘વાછટની’ શી અસર થશે?\n(A) ગરમી લાગશે\n(B) કપડાં સૂકાઈ જશે\n(C) વસ્તુઓ ભીંજાશે\n(D) મકાનમાં વરસાદની અસર દેખાશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મકાનમાં વરસાદની અસર દેખાશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંછટ એટલે પવનથી આવતા છાંટા, જે ઘરની અંદર પણ પહોંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ કાવ્યમાં કઈ ઋતુનું વર્ણન છે?\n(A) શિયાળો\n(B) ઉનાળો\n(C) ચોમાસું\n(D) વસંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોમાસું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા કાવ્યમાં વરસાદની જ વાત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘ગેબ’ શબ્દનો અર્થ શું થાય?\n(A) જમીન\n(B) આકાશ/અદ્રશ્ય\n(C) અવાજ\n(D) પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આકાશ/અદ્રશ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગેબી અવાજ' એટલે જે દેખાતો નથી, આકાશમાંથી આવતો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ધ્રુવ ભટ્ટની કઈ નવલકથા પરથી ‘રેવા’ ફિલ્મ બની છે?\n(A) અતરાપી\n(B) તત્ત્વમસિ\n(C) અકૂપાર\n(D) સમુદ્રાન્તિકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તત્ત્વમસિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તત્ત્વમસિ' નર્મદા નદી પર આધારિત છે અને રેવા પણ નર્મદાનું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વરસાદ પડતા શું રેલાઈ જશે?\n(A) તેલ\n(B) રંગ\n(C) માટી\n(D) ઘટનાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઘટનાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જે ઘટનામાં જે ડુંગરને થાય... થાય છે નેવાંથી દળદળતા ગામને'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘લીલાશ’ ક્યાં સૂતેલી છે?\n(A) ધરતી પર\n(B) વાડ પર\n(C) આકાશમાં\n(D) નદીમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાડ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ યાદ કરો: 'વાડ પરે સૂતેલી સઘળી લીલાશ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વરસાદ કેવો વરસી રહ્યો છે?\n(A) મુશળધાર/ધોધમાર\n(B) આછો આછો\n(C) ફુવારા જેવો\n(D) માત્ર છાંટા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મુશળધાર/ધોધમાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'ધોધમાર હેલી' શબ્દ વપરાયો છે.</p></div>"
+    }
+  ]
+}
