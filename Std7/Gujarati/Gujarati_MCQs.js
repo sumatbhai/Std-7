@@ -417,3 +417,136 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘બે ખાનાનો પરિગ્રહ’ પાઠના લેખિકા કોણ છે?\n(A) ધીરુબેન પટેલ\n(B) મનુબહેન ગાંધી\n(C) વર્ષા અડાલજા\n(D) કુંદનિકા કાપડિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મનુબહેન ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીની પૌત્રી 'મનુ' એ આ પ્રસંગ લખ્યો છે, એટલે મનુબહેન ગાંધી. (મનુ + ગાંધી = યાદ રહી ગયું!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘બે ખાનાનો પરિગ્રહ’ પાઠનો સાહિત્ય પ્રકાર જણાવો.\n(A) વાર્તા\n(B) નિબંધ\n(C) પ્રસંગલેખ\n(D) નાટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રસંગલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનમાં બનેલી ઘટના કે 'પ્રસંગ' નું વર્ણન એટલે 'પ્રસંગલેખ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીને કયા વાઇસરોયને મળવા દિલ્હી જવાનું હતું?\n(A) લોર્ડ કર્ઝન\n(B) લોર્ડ રિપન\n(C) લોર્ડ માઉન્ટબેટન\n(D) લોર્ડ ડેલહાઉસી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લોર્ડ માઉન્ટબેટન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદી સમયના છેલ્લા વાઇસરોય 'માઉન્ટબેટન' હતા, બસ એ જ યાદ રાખવાના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીને કયા સ્થળેથી દિલ્હી જવાનું હતું?\n(A) સાબરમતીથી\n(B) મુંબઈથી\n(C) પટણાથી\n(D) વર્ર્ધાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પટણાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિહારના 'પટણા' (હાલનું પટના) થી દિલ્હીની મુસાફરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાઇસરોયે ગાંધીજીને દિલ્હી બોલાવવા માટે કયા વાહનની સગવડ કરી હતી?\n(A) મોટરકાર\n(B) વિમાન\n(C) ખાસ ટ્રેન\n(D) સ્ટીમર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા લોકો ઉડીને જાય એટલે 'વિમાન' ઓફર કર્યું હતું, પણ બાપુ તો ટ્રેનવાળા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગાંધીજીએ વિમાનમાં જવાની ના કેમ પાડી?\n(A) તેઓ વિમાનથી ડરતા હતા\n(B) જેમાં કરોડો ગરીબો મુસાફરી ન કરી શકે તેમાં પોતે કેવી રીતે બેસે?\n(C) વિમાનમાં બેસવાથી તબિયત બગડે તેમ હતી\n(D) વિમાન મોડું આવવાનું હતું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જેમાં કરોડો ગરીબો મુસાફરી ન કરી શકે તેમાં પોતે કેવી રીતે બેસે?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુ એટલે ગરીબોના બેલી. ગરીબ ન જઈ શકે ત્યાં બાપુ પણ ન જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મનુબહેને ટ્રેનના ડબ્બાના કેટલા ખાના પસંદ કર્યા હતા?\n(A) એક\n(B) બે\n(C) ત્રણ\n(D) ચાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'બે ખાના' એટલે જવાબ પણ 'બે' જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મનુબહેને ગાંધીજીની સગવડ માટે શું વિચાર્યું હતું?\n(A) એક ખાનામાં સામાન રાખવો અને બીજામાં બાપુએ સૂવું-બેસવું\n(B) એક ખાનામાં રસોઈ કરવી અને બીજામાં બાપુએ આરામ કરવો\n(C) એક ખાનામાં બાપુને ભણાવવા અને બીજામાં મુલાકાતીઓને મળવું\n(D) બંને ખાનામાં માત્ર સામાન જ ભરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એક ખાનામાં રસોઈ કરવી અને બીજામાં બાપુએ આરામ કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેનને એમ કે બાપુને ખલેલ ન પહોંચે એટલે એક ખાનું સ્પેશિયલ રસોઈ માટે રાખ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પટણાથી દિલ્હી જતી ટ્રેન કેટલા વાગ્યે ઉપડતી હતી?\n(A) સવારે 8:30\n(B) સવારે 9:30\n(C) રાત્રે 10:30\n(D) બપોરે 12:30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સવારે 9:30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવ ને ત્રીસ (9:30), મુસાફરીની ફિક્સ ફીસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીએ મનુબહેનને શા માટે ઠપકો આપ્યો?\n(A) મનુબહેન મોડા આવ્યા હતા\n(B) મનુબહેને બે ખાના રાખ્યા હતા\n(C) મનુબહેને સામાન ખોઈ નાખ્યો હતો\n(D) મનુબહેને રસોઈ બનાવી નહોતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મનુબહેને બે ખાના રાખ્યા હતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુ અપરિગ્રહી હતા, વધુ પડતી સગવડ તેમને ખપે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘પરિગ્રહ’ શબ્દનો શો અર્થ થાય છે?\n(A) ત્યાગ કરવો\n(B) જરૂરિયાત કરતાં વધારે વાપરવું\n(C) દાન આપવું\n(D) સંગ્રહ ન કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જરૂરિયાત કરતાં વધારે વાપરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિ' એટલે આજુબાજુનું બધું 'ગ્રહ'ણ (ભેગું) કરવું, એટલે કે સંગ્રહખોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજીએ કયા સ્ટેશને સ્ટેશન માસ્તરને બોલાવ્યા હતા?\n(A) દિલ્હી\n(B) પટણા\n(C) ઈટાવા\n(D) આગ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઈટાવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈ'ટલા બધા લોકો લટકતા હતા એટલે 'ઈ'ટાવા સ્ટેશને માસ્તરને બોલાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીએ મનુબહેનને શું કરવા કહ્યું?\n(A) વધારાનું ખાનું ખાલી કરવા\n(B) સામાન ફેંકી દેવા\n(C) ટ્રેનમાંથી ઉતરી જવા\n(D) બીજા ડબ્બામાં બેસવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વધારાનું ખાનું ખાલી કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ખાના હતા, એટલે બાપુએ એક ખાલી કરવાનું કહ્યું જેથી લટકતા મુસાફરો બેસી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘ખૂનસી’ શબ્દનો અર્થ શું થાય?\n(A) ખુરશી\n(B) ખૂની\n(C) જૂનું\n(D) નાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ખુરશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની ગુજરાતીમાં 'ખૂનસી' એટલે 'ખુરશી'. (શબ્દના ઉચ્ચાર મળતા આવે છે)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્ટેશન માસ્તરે ગાંધીજીને શું વિનંતી કરી?\n(A) તમે બે ખાના રાખો\n(B) હું બીજો ડબ્બો જોડી દઉં છું\n(C) તમે વિમાનમાં જાઓ\n(D) ગાડી ઊભી રાખું છું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હું બીજો ડબ્બો જોડી દઉં છું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશન માસ્તર બાપુની સગવડ સાચવવા 'વધારાનો ડબ્બો' જોડવાની ઓફર કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાંધીજીએ મનુબહેનને શું કહીને ઠપકો આપ્યો?\n(A) તું બહુ આળસુ છે\n(B) તારો આ સાચો પ્રેમ નથી, પણ અંધપ્રેમ છે\n(C) તને ભણતા આવડતું નથી\n(D) તું સામાન કેમ લાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તારો આ સાચો પ્રેમ નથી, પણ અંધપ્રેમ છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિચાર્યા વગરની સગવડ એ 'અંધપ્રેમ' કહેવાય - બાપુની શિખામણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આ પ્રસંગમાંથી મનુબહેનને કઈ મોટી કેળવણી મળી?\n(A) રેલવેમાં મુસાફરી ન કરવી\n(B) ઓછો સામાન રાખવો\n(C) ખપ કરતાં વધુ વાપરવું તે એક પ્રકારની હિંસા છે\n(D) વિમાનમાં જ મુસાફરી કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખપ કરતાં વધુ વાપરવું તે એક પ્રકારની હિંસા છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત (ખપ) થી વધુ લેવું = હિંસા. આ પાઠનો મુખ્ય બોધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીએ મનુબહેનને આ ઠપકો કેમ આપ્યો હતો?\n(A) મનુબહેનને સુધારવા માટે\n(B) મનુબહેનને ખીજવવા માટે\n(C) મનુબહેનને દુઃખી કરવા માટે\n(D) સ્ટેશન માસ્તર સામે દેખાવ કરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મનુબહેનને સુધારવા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલો હંમેશા આપણને સાચો માર્ગ બતાવવા અને સુધારવા માટે જ ઠપકો આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મનુબહેન ગાંધીજીના શું થતા હતા?\n(A) પુત્રી\n(B) પૌત્રી\n(C) ભત્રીજી\n(D) ભાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પૌત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેન ગાંધીજીના પુત્રના પુત્રી એટલે કે 'પૌત્રી' (Granddaughter) હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાંધીજીએ 'ઇનકાર' શબ્દનો વિરોધી શબ્દ કયો છે?\n(A) ના\n(B) અસ્વીકાર\n(C) સ્વીકાર\n(D) તિરસ્કાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્વીકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇનકાર એટલે 'ના પાડવી' અને સ્વીકાર એટલે 'હા પાડવી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખિકાએ પાઠમાં ગાંધીજી માટે કયો શબ્દ વાપર્યો છે?\n(A) પરમપિતા\n(B) મહાત્મા\n(C) બાપુ\n(D) રાષ્ટ્રપિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બાપુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા દેશના એ પિતા છે, એટલે પ્રેમથી આપણે 'બાપુ' કહીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘કેળવણી’ શબ્દનો સમાનાર્થી શબ્દ જણાવો.\n(A) ભણતર\n(B) રમકડું\n(C) કાગળ\n(D) પેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ભણતર/શિક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેળવવું એટલે શીખવવું, તેથી શિક્ષણ કે ભણતર એનો અર્થ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગાંધીજી મુસાફરીમાં પણ પોતાનું કયું કામ નિયમિત કરતા હતા?\n(A) ઊંઘવાનું\n(B) કાંતવાનું અને લખવાનું\n(C) વાતો કરવાનું\n(D) જમવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાંતવાનું અને લખવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુ એટલે ચરખો અને લખવાની ટેવ. ટ્રેનમાં પણ તે રેંટિયો કાંતતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘કસૂર’ શબ્દનો અર્થ શું થાય?\n(A) ફાયદો\n(B) ભૂલ કે વાંક\n(C) મદદ\n(D) ઈનામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભૂલ કે વાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે ઘણીવાર કહીએ છીએ કે 'મારો શું કસૂર?' એટલે કે 'મારી શું ભૂલ?'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાંધીજીએ વધારાનું ખાનું કોના માટે ખાલી કરાવ્યું?\n(A) પોતાના આરામ માટે\n(B) લટકતા મુસાફરો માટે\n(C) સામાન મૂકવા માટે\n(D) ટ્રેનના ડ્રાઈવર માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લટકતા મુસાફરો માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુને ખબર હતી કે બહાર ગરીબો લટકે છે, એટલે તેમણે જગ્યા ખાલી કરાવી.</p></div>"
+    }
+  ]
+}
