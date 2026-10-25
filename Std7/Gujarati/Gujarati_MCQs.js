@@ -1274,3 +1274,191 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'માલમ હલેસાં માર' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "options": "A. લોકગીત, B. ભજન, C. ગઝલ, D. સોનેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગીત લોકો દ્વારા ગવાય અને લોકસમૂહમાં પ્રચલિત હોય તેને લોકગીત કહેવાય. આ કાવ્ય પણ એક સુંદર લોકગીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્યમાં કોને 'હલેસાં મારવા' માટે કહેવામાં આવ્યું છે?",
+      "options": "A. ભાઈને, B. માલમને, C. ખેડૂતને, D. વેપારીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માલમને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલમ એટલે વહાણ ચલાવનાર. વહાણ આગળ વધારવા માલમને વિનંતી કરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દેરને મેણું કોણે માર્યું છે?",
+      "options": "A. માતાએ, B. બહેને, C. ભાભીએ, D. પત્નીએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ભાભીએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાભીનું મેણું' - આ શબ્દ યાદ રાખો, કારણ કે આખી વાત ભાભીના મેણાથી જ શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભાભીએ દેરને કેવો કહ્યો છે?",
+      "options": "A. હોશિયાર, B. મહેનતુ, C. આળસુ, D. ડરપોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આળસુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભી કહે છે કે દેર તો 'અળસું' (આળસુ) નો અવતાર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દેર કયા બંદરે કમાવવા જવા ઈચ્છે છે?",
+      "options": "A. સુરત, B. જાવ બંદરે, C. મુંબઈ, D. ખંભાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જાવ બંદરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાવ' એટલે જવું એવું નહીં પણ ઇન્ડોનેશિયાનો એક ટાપુ (બંદર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સિંહલ દ્વીપમાં દેર શું કરવા જવા માંગે છે?",
+      "options": "A. વેપાર કરવા, B. ફરવા માટે, C. પદમણી નાર પરણવા, D. ભણવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પદમણી નાર પરણવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહલ દ્વીપ (શ્રીલંકા) - ઉત્તમ સ્ત્રી (પદમણી) મેળવવા માટે જાણીતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'જાવ બંદરે જે કોઈ જાય, એના ...... પાછા ન આવે' - ખાલી જગ્યા પૂરો.",
+      "options": "A. રૂપિયા, B. વહાણ, C. ઘોડલા, D. માણસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઘોડલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ છે: 'ગયા રે જાવના કોઈ પાછા ન આવે, આવે તો બેડલો પાર રે'. ઘોડલા એટલે અહી પ્રગતિના પ્રતીક રૂપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દેરની બુદ્ધિ કેવી રીતે સુધરી?",
+      "options": "A. ભણવાથી, B. ભાભીના મેણાથી, C. મુસાફરીથી, D. વડીલોના આશીર્વાદથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ભાભીના મેણાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્યારેક કોઈનું કડવું વેણ આપણી પ્રગતિનું દ્વાર ખોલે છે. મેણું = મોટિવેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'માલમ' શબ્દનો અર્થ શું થાય?",
+      "options": "A. સામાન, B. વહાણનો દોરનાર/સુકાની, C. માલસામાન રાખનાર, D. મજૂર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વહાણનો દોરનાર/સુકાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માલમ' એટલે કેપ્ટન (Captain) જે દિશા બતાવે અને વહાણ ચલાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દેર કોના જેવી નારી પરણવા માંગે છે?",
+      "options": "A. દેવી જેવી, B. પદમણી, C. રૂપાળી, D. રાણી જેવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પદમણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદમણી એટલે ગુણિયલ અને સુંદર સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભાભી માટે 'જીવો' શબ્દ કાવ્યમાં કોણે વાપર્યો છે?",
+      "options": "A. ભાઈએ, B. માતાએ, C. દેરે, D. ગામના લોકોએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દેરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેર ભાભીનો આભાર માને છે એટલે કહે છે 'જીવો તમારી જીભલડીની ધાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'બેડલો પાર થવો' રૂઢિપ્રયોગનો અર્થ આપો.",
+      "options": "A. પાણી ભરવું, B. ડૂબી જવું, C. સફળતા મળવી / મુશ્કેલીમાંથી ઉગરી જવું, D. વહાણ ચલાવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સફળતા મળવી / મુશ્કેલીમાંથી ઉગરી જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેડલો પાર થવો એટલે કે આપણું ધાર્યું કામ સફળ થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દેર કયા સાગરમાં વહાણ હંકારવા માંગે છે?",
+      "options": "A. અરબી સમુદ્ર, B. હિન્દ મહાસાગર, C. મધદરિયે, D. બંગાળની ખાડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મધદરિયે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની પંક્તિ મુજબ: 'મેં તો મધદરિયાની માલીપા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'મેણું' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "options": "A. વખાણ, B. કડવું વેણ / ટોણો, C. આશીર્વાદ, D. ઉપદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કડવું વેણ / ટોણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું એટલે કોઈને લાગે એવું બોલવું તે (Sarcasm/Taunt).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'કેસરભીના' શબ્દ કોના માટે વપરાયો છે?",
+      "options": "A. ભાભી માટે, B. ભાઈ માટે, C. દેર માટે, D. માલમ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ભાભી માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેસરભીના તમે ભાભી મારા' - અહીં ભાભીને માન આપવા અને સુંદરતા દર્શાવવા આ શબ્દ વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાવ્ય મુજબ દેરની કમાણીથી કોનું ઘર ભરાય છે?",
+      "options": "A. પડોશીનું, B. ભાઈનું, C. ભાભીનું, D. મિત્રનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ભાઈનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભી કહે છે કે દેર બેસી રહે છે અને મોટા ભાઈ કમાણી કરે છે (મોટા ભાઈની કમાણીએ તું જલસા કરે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'ઘોડલા' શબ્દનો અહીં શો અર્થ છે?",
+      "options": "A. રમકડાં, B. પશુઓ, C. નસીબ / પ્રગતિ, D. વાહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. નસીબ / પ્રગતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘોડલા ખૂંદવા' એટલે સફળતા મેળવી પ્રગતિ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સિંહલ દ્વીપ એટલે અત્યારનું કયું રાષ્ટ્ર?",
+      "options": "A. જાપાન, B. ચીન, C. શ્રીલંકા, D. અમેરિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શ્રીલંકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇતિહાસમાં શ્રીલંકાને 'સિંહલ દ્વીપ' તરીકે ઓળખવામાં આવતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભાભીએ દેરની કઈ શક્તિને જગાડી?",
+      "options": "A. ખાવાની, B. ઊંઘવાની, C. આત્મવિશ્વાસ અને પુરુષાર્થની, D. લડવાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આત્મવિશ્વાસ અને પુરુષાર્થની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું ખાવાથી માણસને ખોટું લાગવાને બદલે કંઇક કરી બતાવવાની ઈચ્છા થાય તેને પુરુષાર્થ જાગ્યો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'જાવ' અને 'સિંહલ દ્વીપ' શું છે?",
+      "options": "A. પર્વતો, B. નદીઓ, C. ટાપુઓ / પ્રદેશો, D. ગામો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ટાપુઓ / પ્રદેશો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુના સમયમાં દરિયાપારના આ પ્રદેશો વેપાર માટે ખૂબ જાણીતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'ભાભીએ મોટું મેણું માર્યું' - આ વાક્યમાં વિશેષણ કયું છે?",
+      "options": "A. ભાભીએ, B. મોટું, C. મેણું, D. માર્યું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું કેવું? તો કે 'મોટું'. નામની વિશેષતા બતાવે તે વિશેષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દેર ભાભીને કેવી જીભલડી જીવવાનું કહે છે?",
+      "options": "A. કડવી, B. મધ જેવી, C. જેણે મેણું મારી બુદ્ધિ સુધારી, D. ચંચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જેણે મેણું મારી બુદ્ધિ સુધારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીભલડી એટલે કે ભાભીના શબ્દો, જેના કારણે દેરની આંખ ઉઘડી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'લક્ષ્મી' શબ્દનો સમાનાર્થી શબ્દ કાવ્યના સંદર્ભમાં જણાવો.",
+      "options": "A. દેવી, B. સંપત્તિ / કમાણી, C. નસીબ, D. પત્ની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સંપત્તિ / કમાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાવ બંદરે લક્ષ્મી (ધન) મેળવવા માટે જવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દેરના મનમાં શો નિર્ધાર થયો?",
+      "options": "A. ઘર છોડી જવાનો, B. આળસ છોડી કમાવા જવાનો, C. ભાભી સાથે લડવાનો, D. ઊંઘી જવાનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આળસ છોડી કમાવા જવાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતનો મુખ્ય ઉદ્દેશ્ય જ આળસ ત્યાગી પુરુષાર્થ કરવાનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'મધદરિયાની માલીપા' એટલે શું?",
+      "options": "A. દરિયા કિનારે, B. સમુદ્રની વચ્ચે, C. નદીમાં, D. હોડીમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સમુદ્રની વચ્ચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલીપા એટલે અંદર. મધદરિયાની માલીપા એટલે દરિયાની વચ્ચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લોકગીતમાં ભાભી અને દેર વચ્ચે કેવો સંબંધ દર્શાવ્યો છે?",
+      "options": "A. દુશ્મનાવટનો, B. અણગમાનો, C. મીઠા ઠપકા અને આદરનો, D. અજ્ઞાનતાનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મીઠા ઠપકા અને આદરનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભીએ ઠપકો આપ્યો પણ તે દેરના ભલા માટે હતો, તેથી અંતે આદર વ્યક્ત થયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'બુદ્ધિના બારદાન' એટલે શું?",
+      "options": "A. હોશિયાર માણસ, B. સાવ ઠોઠ કે અક્કલ વગરનો માણસ, C. વેપારી, D. ભણેલો ગણેલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સાવ ઠોઠ કે અક્કલ વગરનો માણસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એક રૂઢિપ્રયોગ જેવો શબ્દ છે જે આળસુ કે ઠોઠ વ્યક્તિ માટે વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાવ્યમાં 'ધારે' શબ્દ શેના માટે વપરાયો છે?",
+      "options": "A. નદીની ધાર, B. તલવારની ધાર, C. જીભની ધાર (બોલવું), D. ડુંગરની ધાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જીભની ધાર (બોલવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીભલડીની ધારે' એટલે કે ભાભીના ધારદાર અને અસરકારક શબ્દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'ખૂંદવા' શબ્દનો અર્થ અહીં શું થાય?",
+      "options": "A. પગથી દબાવવું, B. મુસાફરી કરવી / સર કરવું, C. લડવું, D. નાચવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મુસાફરી કરવી / સર કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘોડલા ખૂંદવા' એટલે વિજય મેળવીને કે સફળ થઈને પાછા આવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આ કાવ્ય દ્વારા શું શીખ મળે છે?",
+      "options": "A. આળસ કરવી, B. દરિયામાં ફરવું, C. મેણું સાંભળી હારી જવું, D. મહેનત કરી સફળ થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. મહેનત કરી સફળ થવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કાવ્યનો મુખ્ય સાર 'પુરુષાર્થ' (Hard work) છે.</p></div>"
+    }
+  ]
+}
