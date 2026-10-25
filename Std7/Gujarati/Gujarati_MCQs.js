@@ -991,3 +991,286 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "જીવનપાથેય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘જીવનપાથેય’ પાઠના લેખક કોણ છે?",
+      "options": {
+        "A": "ગાંધીજી",
+        "B": "કાકાસાહેબ કાલેલકર",
+        "C": "પન્નાલાલ પટેલ",
+        "D": "ઝવેરચંદ મેઘાણી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) કાકાસાહેબ કાલેલકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનનો ‘કાકો’ એટલે કાલેલકર! (જીવનપાથેય = કાકાસાહેબ કાલેલકર)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાકાસાહેબ કાલેલકરનું પૂરું નામ શું છે?",
+      "options": {
+        "A": "દત્તાત્રેય બાલકૃષ્ણ કાલેલકર",
+        "B": "દત્તુ બાલકૃષ્ણ કાલેલકર",
+        "C": "દત્તાત્રેય રઘુનાથ કાલેલકર",
+        "D": "બાલકૃષ્ણ કાલેલકર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) દત્તાત્રેય બાલકૃષ્ણ કાલેલકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ-બા-કા' (દત્તાત્રેય - બાલકૃષ્ણ - કાલેલકર) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘જીવનપાથેય’ સાહિત્યનો પ્રકાર જણાવો.",
+      "options": {
+        "A": "નવલિકા",
+        "B": "નાટક",
+        "C": "આત્મકથાખંડ",
+        "D": "નિબંધ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) આત્મકથાખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક પોતાના ‘જીવન’ની વાત કરે તેને ‘આત્મકથા’ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘જીવનપાથેય’ એટલે શું?",
+      "options": {
+        "A": "જીવનની સાધનસામગ્રી",
+        "B": "જીવનનું માર્ગદર્શન / જીવનમાં ઉપયોગી ભાથું",
+        "C": "જીવનનો અંત",
+        "D": "જીવનની સફળતા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) જીવનનું માર્ગદર્શન / જીવનમાં ઉપયોગી ભાથું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાથેય = મુસાફરીમાં સાથે રાખવાનું ભાથું. જીવનની મુસાફરીનું ભાથું એટલે જીવનપાથેય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકના કેટલા ભાઈઓ બી.એ. (B.A.) સુધી પહોંચ્યા હતા?",
+      "options": {
+        "A": "ત્રણ",
+        "B": "પાંચ",
+        "C": "એક પણ નહીં",
+        "D": "બે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ પાંચ ભાઈઓ હતા, જેમાંથી માત્ર બે જ B.A. સુધી પહોંચી શક્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકના પિતાશ્રી શા માટે ખૂબ જ હતાશ થયા હતા?",
+      "options": {
+        "A": "લેખક નાપાસ થયા હતા તેથી",
+        "B": "આર્થિક તંગીને કારણે",
+        "C": "પુત્રોના શિક્ષણમાં મળેલી નિષ્ફળતાને કારણે",
+        "D": "નોકરી છૂટી ગઈ હતી તેથી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પુત્રોના શિક્ષણમાં મળેલી નિષ્ફળતાને કારણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મહેનત ફળ ન આપે ત્યારે પિતા 'હતાશ' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકે કઈ પરીક્ષા પસાર કરી હતી ત્યારે તેમના પિતાશ્રી ખુશ થયા હતા?",
+      "options": {
+        "A": "મેટ્રિકની",
+        "B": "ગ્રેજ્યુએશનની",
+        "C": "એન્જિનિયરિંગની",
+        "D": "પી.એચ.ડી.ની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) મેટ્રિકની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે જમાનામાં મેટ્રિક પાસ થવું એ મોટી સફળતા મનાતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકને એન્જિનિયર થવાની ઈચ્છા કેમ હતી?",
+      "options": {
+        "A": "દેશની સેવા કરવા",
+        "B": "ટૂંકા રસ્તે પૈસાદાર થવા અને મોજમજા કરવા",
+        "C": "મકાનો બાંધવા",
+        "D": "પિતાજીની ઈચ્છા હતી એટલે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ટૂંકા રસ્તે પૈસાદાર થવા અને મોજમજા કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકની યુવાનીની ‘અધમ’ વિચારણા - એન્જિનિયર બનીને કમાણી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકના પિતાજીએ એમને ભણવા માટે ક્યાં મોકલ્યા હતા?",
+      "options": {
+        "A": "મુંબઈ",
+        "B": "અમદાવાદ",
+        "C": "પુણે",
+        "D": "દિલ્હી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પુણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુણેની કોલેજ અને જીવનની કોલેજ બંને એકસાથે શરૂ થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખકે એમના પિતાશ્રીને કઈ સલાહ આપી હતી?",
+      "options": {
+        "A": "વધારે મહેનત કરવાની",
+        "B": "નોકરી છોડવાની",
+        "C": "પ્રોમિસરી નોટો સસ્તા ભાવે ખરીદી સરકારી નફામાંથી હિસ્સો લેવાની",
+        "D": "ખર્ચ ઓછો કરવાની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પ્રોમિસરી નોટો સસ્તા ભાવે ખરીદી સરકારી નફામાંથી હિસ્સો લેવાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલાહ ખોટી હતી, પણ પિતા માટે 'કમાણી' નો રસ્તો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પુત્રની વાત સાંભળી પિતાની સ્થિતિ કેવી થઈ ગઈ?",
+      "options": {
+        "A": "તેઓ ખૂબ રાજી થયા",
+        "B": "તેઓ ગુસ્સે થઈ ગયા",
+        "C": "તેઓ ગદગદિત થઈ ગયા અને સ્તબ્ધ થઈ ગયા",
+        "D": "તેઓ હસવા લાગ્યા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) તેઓ ગદગદિત થઈ ગયા અને સ્તબ્ધ થઈ ગયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાની ઈમાનદારી અને પુત્રની હલકી વાતનો આઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘દત્તુ, મેં માન્યું નહોતું કે તારામાં આવી હીનતા હશે.’ - આ વાક્ય કોણ બોલે છે?",
+      "options": {
+        "A": "લેખક",
+        "B": "લેખકના મોટાભાઈ",
+        "C": "લેખકના પિતાજી",
+        "D": "શિક્ષક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) લેખકના પિતાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘દત્તુ’ એટલે લેખકનું લાડકું નામ, જે પિતાશ્રી જ બોલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખકના પિતાશ્રીએ કયું સાચું શિક્ષણ આપ્યું?",
+      "options": {
+        "A": "ગણિતનું",
+        "B": "વિજ્ઞાનનું",
+        "C": "પ્રામાણિકતા અને કુળની આબરૂ જાળવવાનું",
+        "D": "એન્જિનિયરિંગનું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પ્રામાણિકતા અને કુળની આબરૂ જાળવવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચું શિક્ષણ ડિગ્રીમાં નહીં, સંસ્કારમાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘ઉમેદ’ શબ્દનો અર્થ શું થાય?",
+      "options": {
+        "A": "નિરાશા",
+        "B": "આશા / ઈચ્છા",
+        "C": "નસીબ",
+        "D": "ગરીબ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) આશા / ઈચ્છા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉમેદવાર' એટલે જેની 'આશા' હોય તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકના મતે કઈ લાઈનમાં લાંચ લેવાની વધુ તક રહેતી હતી?",
+      "options": {
+        "A": "વકીલાત",
+        "B": "મેડિકલ",
+        "C": "એન્જિનિયરિંગ (બાંધકામ)",
+        "D": "શિક્ષણ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) એન્જિનિયરિંગ (બાંધકામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોન્ટ્રાક્ટર પાસેથી ‘ટકા’ (કમિશન) લેવા એન્જિનિયરિંગ લાઇન પસંદ કરવાની લેખકની બુદ્ધિ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘શાખ’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "options": {
+        "A": "ઝાડની ડાળી",
+        "B": "આબરૂ / પ્રતિષ્ઠા",
+        "C": "મિત્ર",
+        "D": "શેરી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) આબરૂ / પ્રતિષ્ઠા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાજમાં આપણી ‘શાખ’ હોવી જોઈએ એટલે કે ‘ઈજ્જત’ હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખકને આખા રસ્તે શું થતું રહ્યું?",
+      "options": {
+        "A": "આનંદ",
+        "B": "પશ્ચાતાપ",
+        "C": "ઉંઘ આવતી રહી",
+        "D": "ભૂખ લાગી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) પશ્ચાતાપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાની ભૂલ સમજાય ત્યારે હંમેશા ‘પશ્ચાતાપ’ (પસ્તાવો) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખક કઈ કોલેજમાં જવાના હતા?",
+      "options": {
+        "A": "ફર્ગ્યુસન કોલેજ",
+        "B": "એન્જિનિયરિંગ કોલેજ",
+        "C": "આર્ટ્સ કોલેજ",
+        "D": "સાયન્સ કોલેજ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) એન્જિનિયરિંગ કોલેજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકને L.C.E. થઈને એન્જિનિયર બનવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘ગદગદિત થવું’ રૂઢિપ્રયોગનો અર્થ શું થાય?",
+      "options": {
+        "A": "બી જવું",
+        "B": "ભાવવિભોર થઈ જવું",
+        "C": "ગુસ્સે થવું",
+        "D": "રડવા માંડવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ભાવવિભોર થઈ જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગદગદિત = હૃદય ભરાઈ આવવું, લાગણીવશ થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લેખકે કોને ‘હરામનું ધન’ ગણાવ્યું છે?",
+      "options": {
+        "A": "મહેનતની કમાણીને",
+        "B": "વારસામાં મળેલી મિલકતને",
+        "C": "લાંચ-રુશ્વતની કમાણીને",
+        "D": "ઇનામમાં મળેલી રકમને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) લાંચ-રુશ્વતની કમાણીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વગર મહેનતે કે છેતરીને મેળવેલું ધન એટલે ‘હરામનું’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખક કયા સ્ટેશનેથી પુણે જવા ગાડીમાં બેઠા હતા?",
+      "options": {
+        "A": "સાંગલી",
+        "B": "બેલગામ",
+        "C": "અમદાવાદ",
+        "D": "મુંબઈ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) બેલગામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેલગામથી પુણેની ગાડી અને જીવનની નવી કેડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પિતાશ્રી સાંગલી શું કરવા ગયા હતા?",
+      "options": {
+        "A": "ફરવા માટે",
+        "B": "ટ્રેઝરી ઓફિસર તરીકે નોટો વટાવવા",
+        "C": "દવા લેવા માટે",
+        "D": "નોકરી માટે ઇન્ટરવ્યૂ આપવા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ટ્રેઝરી ઓફિસર તરીકે નોટો વટાવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેઝરી એટલે સરકારી ખજાનો, ત્યાં નોટો વટાવવાનું કામ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખકને એન્જિનિયરિંગમાં કઈ ડિગ્રી મેળવવી હતી?",
+      "options": {
+        "A": "B.E.",
+        "B": "L.C.E.",
+        "C": "M.Tech.",
+        "D": "Diploma"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) L.C.E.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે સમયની સિવિલ એન્જિનિયરિંગની ડિગ્રી એટલે L.C.E.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાકાસાહેબ કાલેલકરને ગાંધીજીએ કયું બિરુદ આપ્યું હતું?",
+      "options": {
+        "A": "રાષ્ટ્રીય શાયર",
+        "B": "સવાઈ ગુજરાતી",
+        "C": "લોકલાડીલા",
+        "D": "મહાત્મા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સવાઈ ગુજરાતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની માતૃભાષા ગુજરાતી ન હોવા છતાં ગુજરાતીમાં ઉત્તમ લખે તે ‘સવાઈ ગુજરાતી’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લેખકના પિતાશ્રી કયા વિભાગમાં નોકરી કરતા હતા?",
+      "options": {
+        "A": "શિક્ષણ વિભાગ",
+        "B": "પોલીસ વિભાગ",
+        "C": "મહેસૂલ (ટ્રેઝરી) વિભાગ",
+        "D": "રેલવે વિભાગ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) મહેસૂલ (ટ્રેઝરી) વિભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસાની લેવડ-દેવડ હોય ત્યાં ટ્રેઝરી (મહેસૂલ) વિભાગ હોય.</p></div>"
+    }
+  ]
+}
