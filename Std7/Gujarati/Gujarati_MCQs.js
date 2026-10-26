@@ -1728,3 +1728,136 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "જનની (કાવ્ય)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘જનની’ કાવ્યના કવિ કોણ છે?\n(A) નરસિંહ મહેતા\n(B) દામોદર ખુશાલદાસ બોટાદકર\n(C) ઝવેરચંદ મેઘાણી\n(D) દલપતરામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દામોદર ખુશાલદાસ બોટાદકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘જનની’ નો જન્મ ‘બોટાદ’ માં થયો એમ યાદ રાખો એટલે ‘બોટાદકર’ કવિનું નામ યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કવિએ કાવ્યમાં કોના પ્રેમની જોડ મળવી મુશ્કેલ કહી છે?\n(A) પિતાની\n(B) ભાઈની\n(C) જનનીની (માતાની)\n(D) મિત્રની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જનનીની (માતાની)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યનું નામ જ ‘જનની’ છે, અને જનની એટલે માં, જેની તોલે કોઈ ન આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘મીઠા મધુ ને મીઠા મેહુલા રે લોલ’ - આ પંક્તિમાં ‘મધુ’ શબ્દનો અર્થ શું થાય?\n(A) ખાંડ\n(B) ગોળ\n(C) મધ\n(D) પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધુ = મધ. બંને શબ્દો 'મ' થી શરૂ થાય છે અને બંને ગળ્યા હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "માતાની આંખો શેનાથી ભરેલી છે?\n(A) ગુસ્સાથી\n(B) અમીથી (અમૃતથી)\n(C) ઊંઘથી\n(D) કાજળથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અમીથી (અમૃતથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમી = અમૃત. માની આંખ હંમેશા વહાલ અને અમૃત જેવી ઠંડક આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "‘જનનીની જોડ સખી! નહીં જડે રે લોલ’ - અહીં ‘જોડ’ એટલે શું?\n(A) જોડીદાર\n(B) સરખામણી/સમાનતા\n(C) જોડાણ\n(D) બૂટની જોડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સરખામણી/સમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા જેવું બીજું કોઈ નથી, એટલે કે માની કોઈ ‘જોડ’ કે ‘મેચ’ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "માતાના વેણ (શબ્દો) શેનાથી ભરેલા છે?\n(A) વહાલથી\n(B) ઝેરથી\n(C) પાણીથી\n(D) અભિમાનથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વહાલથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘વ’ થી વેણ અને ‘વ’ થી વહાલ. મા બોલે ત્યારે વહાલ જ વરસે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માતાનું હૈયું કોના જેવું શીતળ છે?\n(A) બરફ જેવું\n(B) હિમાલય જેવું\n(C) હેમ (સુવર્ણ/સોના) જેવું\n(D) ચંદ્ર જેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હેમ (સુવર્ણ/સોના) જેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘હૈયું હેમંત જેવું શીતળ’ – કાવ્યની પંક્તિ મુજબ સોના જેવું પવિત્ર અને શીતળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કોનો પ્રેમ પ્રવાહ એકસરખો હોય છે?\n(A) ગંગાનો\n(B) જનનીનો\n(C) વરસાદનો\n(D) નર્મદાનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જનનીનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી સુકાઈ જાય પણ માનો પ્રેમ ક્યારેય ન સુકાય, એ કાયમ ‘એકસરખો’ વહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘મેહુલો’ શબ્દનો અર્થ જણાવો.\n(A) પવન\n(B) સૂરજ\n(C) વરસાદ\n(D) મેળાપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેહુલો = મેઘરાજા. મેઘ એટલે વરસાદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચંદ્રની કળામાં શું થાય છે, જે માતાના પ્રેમમાં થતું નથી?\n(A) વધ-ઘટ\n(B) પ્રકાશ\n(C) અંધકાર\n(D) શીતળતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વધ-ઘટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાંદો વધે ને ઘટે (પૂનમ-અમાસ), પણ માનો પ્રેમ હંમેશા ફૂલ-ટાઈમ પૂનમ જેવો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માતાના હાથ શેનાથી ગૂંથેલા છે?\n(A) ઘરેણાંથી\n(B) ફૂલોથી\n(C) હીર (રેશમ) થી\n(D) માટીથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હીર (રેશમ) થી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીર એટલે રેશમ. માના હાથ રેશમ જેવા સુવાળા અને મૂલ્યવાન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘જગનો આધાર એની આંગળી રે લોલ’ - પંક્તિમાં ‘જગ’ એટલે શું?\n(A) જગ (પાણીનું વાસણ)\n(B) દુનિયા\n(C) જાગવું\n(D) જમીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દુનિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગ = જગત = દુનિયા. આખી દુનિયાનો આધાર માની આંગળી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દેવોને પણ કોના દૂધ દુર્લભ છે?\n(A) ગાયના\n(B) જનનીના\n(C) ભેંસના\n(D) બકરીના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જનનીના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિ કહે છે કે દેવો પાસે બધું છે, પણ માનો ખોળો અને માનું દૂધ મેળવવા તેઓ પણ તલસે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિ બોટાદકર કયા જિલ્લાના વતની હતા?\n(A) અમદાવાદ\n(B) ભાવનગર\n(C) બોટાદ\n(D) રાજકોટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બોટાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ ગામ છે - ‘બોટાદ’કર એટલે ‘બોટાદ’ ના વતની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘ચોખલિયું’ શબ્દનો અર્થ શું થાય?\n(A) ચોખ્ખું\n(B) પવિત્ર/નિર્મળ\n(C) ચોખા\n(D) ગંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પવિત્ર/નિર્મળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનું હૈયું ‘ચોખલિયું’ એટલે કે એકદમ પવિત્ર અને સાફ હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘વ્યોમ’ શબ્દનો સમાન અર્થ આપો.\n(A) પૃથ્વી\n(B) આકાશ\n(C) પાતાળ\n(D) સમુદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યોમ, નભ, આકાશ, ગગન - આ બધા એક જ ભાઈબંધો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માતાનો ખોળો શેનાથી ભરેલો છે?\n(A) રમકડાંથી\n(B) પૈસાથી\n(C) ચંદ્રની ચાંદનીથી (શીતળતાથી)\n(D) ધૂળથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચંદ્રની ચાંદનીથી (શીતળતાથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ: ‘ચોખલિયું ચાંદનીએ આંચળેલું રે લોલ’ - એટલે કે માનો ખોળો ચાંદની જેવો શીતળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘જનની’ કાવ્યનો પ્રકાર કયો છે?\n(A) ભક્તિગીત\n(B) લોકગીત\n(C) ઉર્મિગીત\n(D) હાસ્યગીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉર્મિગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં હૃદયની ‘ઉર્મિ’ (લાગણી) વ્યક્ત થાય તે ઉર્મિગીત. મા માટે તો લાગણી જ હોય ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘માતાના કાળજામાં શું ભરેલા છે?’\n(A) સપનાં\n(B) ક્રોધ\n(C) કોડ (અરમાન)\n(D) દુઃખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કોડ (અરમાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળજામાં ‘કોડ’ ભરેલા એટલે કે સંતાન માટેના અનેક અરમાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કયું જોડકું સાચું નથી?\n(A) મધુ - મધ\n(B) વ્યોમ - આકાશ\n(C) જનની - માં\n(D) મેહુલો - સૂર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મેહુલો - સૂર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેહુલો એટલે વરસાદ થાય, સૂર્ય નહીં. સૂર્યને તો રવિ કે ભાનુ કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘અચળ’ શબ્દનો વિરોધી શબ્દ કયો છે?\n(A) સ્થિર\n(B) ચલિત/ચંચળ\n(C) મજબૂત\n(D) પથ્થર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચલિત/ચંચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ચળે નહીં તે ‘અચળ’, અને જે હલે-ચલે તે ‘ચલિત’!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માતાના પ્રેમની સરખામણીમાં કવિ કોને ટૂંકા ગણાવે છે?\n(A) આકાશને\n(B) ધરતીને\n(C) ચંદ્રને\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિ મુજબ કુદરતની બધી વસ્તુઓ (ચંદ્ર, વરસાદ, આકાશ) માં વધ-ઘટ થાય, પણ માનો પ્રેમ તો અનંત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "‘ગંગાના નીર તો વધે ઘટે રે લોલ’ - અહીં ‘નીર’ એટલે શું?\n(A) કિનારો\n(B) હોડી\n(C) પાણી\n(D) માછલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીર = વારિ = જલ = પાણી. નદીમાં પાણી જ વધે-ઘટે ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયા કાવ્યસંગ્રહમાંથી ‘જનની’ કાવ્ય લેવામાં આવ્યું છે?\n(A) રાસતરંગિણી\n(B) કલ્લોલિની\n(C) સ્ત્રોતસ્વિની\n(D) નિર્ઝરિણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રાસતરંગિણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનની ‘રાસ’ રમે એમ યાદ રાખો, એટલે ‘રાસતરંગિણી’ યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કવિએ માતાને કોના જેવી ‘અચળ’ કહી છે?\n(A) દીવા જેવી\n(B) ધરતી માતા જેવી\n(C) પર્વત જેવી\n(D) તારા જેવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધરતી માતા જેવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ છે: ‘ધરણી માતાએ ધ્રૂજતી હશે રે લોલ, અચળ માતનો રે માય’ - એટલે કે ધરતી ધ્રૂજે પણ માનો પ્રેમ ન ડગે!</p></div>"
+    }
+  ]
+}
