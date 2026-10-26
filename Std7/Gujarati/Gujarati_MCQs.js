@@ -1462,3 +1462,161 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "બાનો વાડો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘બાનો વાડો’ પાઠના લેખકનું નામ જણાવો.",
+      "options": "A. પન્નાલાલ પટેલ, B. પ્રવીણ દરજી, C. રઘુવીર ચૌધરી, D. ઝવેરચંદ મેઘાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રવીણ દરજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાનો વાડો' પ્રવીણ છે (એટલે કે લેખક પ્રવીણ દરજી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘બાનો વાડો’ સાહિત્યનો કયો પ્રકાર છે?",
+      "options": "A. વાર્તા, B. નિબંધ (લલિત નિબંધ), C. નાટક, D. કવિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નિબંધ (લલિત નિબંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડાનું વર્ણન નિબંધ સ્વરૂપે સુંદર રીતે 'લલિત' કલા જેવું કરવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાની ઉંમર અત્યારે કેટલી હતી?",
+      "options": "A. 60 વર્ષ, B. 70 વર્ષ, C. 75 વર્ષ, D. 80 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 75 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતડે પાંચડે પંચોતેર, બાની ઉંમરનો ઘેરો ઘેર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકના પિતાજી (બાપા) નું મૃત્યુ ક્યારે થયું હતું?",
+      "options": "A. 5 વર્ષ પહેલાં, B. 10 વર્ષ પહેલાં, C. 15 વર્ષ પહેલાં, D. 20 વર્ષ પહેલાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 10 વર્ષ પહેલાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપા ગયા દસ (10) વર્ષે, પણ બા અડગ રહી હર્ષે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બાના જીવનનું સૂત્ર શું હતું?",
+      "options": "A. ખાવું-પીવું ને મજા કરવી, B. સુઈ રહેવું, C. કામ જ રાખવું અને કામ જ કરાવવું, D. વાતો કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કામ જ રાખવું અને કામ જ કરાવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા એટલે 'વર્કિંગ મશીન' - પોતે કરે અને બીજા પાસે કરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખક માટે બાનો વાડો એ શું હતો?",
+      "options": "A. માત્ર જમીન, B. કિલ્લો, C. એક આખું જગત, D. રમતનું મેદાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. એક આખું જગત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા માટે વાડો = આખું બ્રહ્માંડ (જગત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાના વાડામાં કયા ઔષધીય છોડ હતા?",
+      "options": "A. તુલસી, અરડૂસી, જેઠીમધ, B. ગુલાબ, ગલગોટા, C. રીંગણ, બટાકા, D. આંબા, લીમડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. તુલસી, અરડૂસી, જેઠીમધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત-અ-જે' (તુલસી, અરડૂસી, જેઠીમધ) - બાની કુદરતી હોસ્પિટલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાના વાડામાં કયા ફૂલોની સુગંધ રાત્રે આવતી હતી?",
+      "options": "A. મોગરો, B. ગુલાબ, C. રાતરાણી, D. જાસૂદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. રાતરાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'રાત' છે, એટલે રાતરાણી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બા ફૂલો કોને આપતી હતી?",
+      "options": "A. માત્ર સગાંવહાલાંને, B. પડોશીઓને ધાર્મિક કાર્ય માટે, C. કોઈને નહીં, D. બજારમાં વેચતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પડોશીઓને ધાર્મિક કાર્ય માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાનું દિલ ઉદાર, પડોશીને આપે હાર (ફૂલો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાના વાડામાં કયા ફળના ઝાડ હતાં?",
+      "options": "A. સફરજન, B. પપૈયાં અને લીંબુ, C. દ્રાક્ષ, D. ચીકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પપૈયાં અને લીંબુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપૈયાં અને લીંબુ - વાડાના 'સ્ટાર' ફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લેખકના મતે બા શેની બનેલી હતી?",
+      "options": "A. લોખંડની, B. માટીની, C. ખમીર અને અડગતાની, D. પથ્થરની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ખમીર અને અડગતાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસીબતોમાં બા 'ખમીર' અને 'અડગતા' થી જીતી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાઠમાં ‘તડકી-છાંયડી’ શબ્દનો અર્થ શું થાય?",
+      "options": "A. સવાર-સાંજ, B. સુખ-દુઃખ, C. ગરમી-ઠંડી, D. અજવાળું-અંધારું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સુખ-દુઃખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો એટલે દુઃખ અને છાંયડો એટલે સુખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બા ક્યારે ખૂબ જ વ્યગ્ર બની જતી હતી?",
+      "options": "A. જ્યારે કોઈ ફૂલો ચોરી જતું, B. જ્યારે કોઈ વગર કામના લીંબુ માંગતું, C. જ્યારે વરસાદ ન પડે, D. જ્યારે મહેમાન આવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જ્યારે કોઈ વગર કામના લીંબુ માંગતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મફતના લીંબુ લેવા માટે બહાના કાઢે ત્યારે બાને 'લીંબુ' જેવી ખટાશ ચઢતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘બાનો વાડો’ માં બાની સરખામણી કોની સાથે કરી શકાય?",
+      "options": "A. દેવી સાથે, B. કુદરત સાથે, C. પર્વત સાથે, D. નદી સાથે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કુદરત સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા પોતે જ એક જીવંત 'કુદરત' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શાકભાજી લેવા આવનાર પ્રત્યે બાનો વ્યવહાર કેવો હતો?",
+      "options": "A. કંજૂસ, B. ઉદાર અને હેતભર્યો, C. કડક, D. ગુસ્સાવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઉદાર અને હેતભર્યો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાનું શાકભાજી અને પ્રેમ બંને મફત અને અનલિમિટેડ હતાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બાનો વાડો ક્યાં આવેલો હતો?",
+      "options": "A. શહેરની મધ્યમાં, B. લેખકના ઘરની પાછળના ભાગે, C. ખેતરમાં, D. નદી કિનારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લેખકના ઘરની પાછળના ભાગે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરની 'પાછળ' બાનો અસલી 'વારસો' એટલે વાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બા સવારે વહેલા ઉઠીને શું કરતી?",
+      "options": "A. મંદિરે જતી, B. વાડામાં છોડની સંભાળ લેતી, C. રસોઈ કરતી, D. છાપું વાંચતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વાડામાં છોડની સંભાળ લેતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાની 'ગુડ મોર્નિંગ' વાડાના છોડ સાથે જ થતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બાના વાડામાં કયા વેલા (Creepers) ચઢેલા હતા?",
+      "options": "A. ગુલાબના, B. ગલગોટાના, C. દૂધી અને કારેલાના, D. મરચીના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. દૂધી અને કારેલાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંડવા ઉપર દૂધી અને કારેલા - વાડાની સુંદરતા વધારતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બાના ચહેરા પર શું દેખાતું હતું?",
+      "options": "A. થાક, B. નિરાશા, C. પ્રસન્નતા અને મક્કમતા, D. કંટાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પ્રસન્નતા અને મક્કમતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 75 વર્ષની ઉંમરે પણ બા 'પાવરફુલ' અને 'હેપ્પી' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બાના જીવનની એકમાત્ર પૂંજી (મિલકત) શું હતી?",
+      "options": "A. સોનાના દાગીના, B. તેનો વાડો, C. મોટું ઘર, D. બેંક બેલેન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તેનો વાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા માટે તેનો વાડો જ તેની અસલી 'પ્રોપર્ટી' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'કુદરતના સંગાથમાં રહેનાર'",
+      "options": "A. વનવાસી, B. પ્રકૃતિપ્રેમી, C. રખડુ, D. ભિખારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રકૃતિપ્રેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા જેવું જે કુદરતને ચાહે તેને 'પ્રકૃતિપ્રેમી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘નિરંતર’ શબ્દનો સાચો સમાનાર્થી શબ્દ જણાવો.",
+      "options": "A. ક્યારેક, B. કાયમ (હંમેશા), C. થોડો સમય, D. ક્યારેય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કાયમ (હંમેશા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરંતર = જેનો અંત ન હોય તેવું એટલે કે 'હંમેશા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બાના જીવનની ‘શ્રદ્ધા અને ઝીંદાદિલી’ ક્યાં દેખાતી હતી?",
+      "options": "A. તેના પહેરવેશમાં, B. તેના બોલવામાં, C. તેના વાડામાં, D. તેના રસોડામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. તેના વાડામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાનો વાડો એ બાની મહેનત અને ઉત્સાહનો જીવતો જાગતો પુરાવો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લેખક ક્યારેક બાના વાડા વિશે શું વિચારતા?",
+      "options": "A. વાડો વેચી દેવો જોઈએ, B. વાડો નાનો છે, C. વાડો એ બાનો શ્વાસ છે, D. વાડો નકામો છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વાડો એ બાનો શ્વાસ છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ માણસ શ્વાસ વગર ન જીવી શકે, તેમ બા વાડા વગર ન જીવી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બાના વાડામાં કયા સુગંધીદાર છોડ હતા?",
+      "options": "A. મરચાં અને ડુંગળી, B. ડમરો અને તુલસી, C. બટાટા, D. રીંગણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ડમરો અને તુલસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડમરો અને તુલસી - વાડાના 'પરફ્યુમ'.</p></div>"
+    }
+  ]
+}
