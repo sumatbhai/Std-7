@@ -2257,3 +2257,131 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "આવો, પધારો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આવો, પધારો’ પાઠના લેખકનું નામ જણાવો.",
+      "options": "A. જ્યોતીન્દ્ર દવે, B. શાહબુદ્દીન રાઠોડ, C. વિનોદ ભટ્ટ, D. બકુલ ત્રિપાઠી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શાહબુદ્દીન રાઠોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ ખૂબ જાણીતા હાસ્ય કલાકાર છે, અને મહેમાનોને 'આવો પધારો' કહીને હસાવે છે તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘આવો, પધારો’ પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "options": "A. નવલકથા, B. ઉર્મિગીત, C. હાસ્યલેખ, D. લોકકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. હાસ્યલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડના નામે જ 'હાસ્ય' જોડાયેલું છે, માટે આ હાસ્યલેખ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખક શાહબુદ્દીન રાઠોડ કયા જિલ્લાના વતની છે?",
+      "options": "A. સુરેન્દ્રનગર, B. રાજકોટ, C. જામનગર, D. ભાવનગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સુરેન્દ્રનગર (થાનગઢ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ - સુરેન્દ્રનગર (S-S યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકે પાઠમાં કઈ કહેવતનો ઉલ્લેખ હાસ્ય પેદા કરવા માટે કર્યો છે?",
+      "options": "A. અતિથિ દેવો ભવ, B. ઘરના છોકરા ઘંટી ચાટે, C. મહેમાન એટલે ભગવાન, D. આપ સમાન બળ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. અતિથિ દેવો ભવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આવો પધારો' એટલે જ મહેમાનને બોલાવવા અને અતિથિ એટલે મહેમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મહેમાન આવવાના સમાચાર સાંભળીને લેખક અને તેમના પત્નીની શી સ્થિતિ થાય છે?",
+      "options": "A. ખુશ થઈ જાય છે, B. ગભરાઈ જાય છે, C. મૂંઝવણમાં મુકાઈ જાય છે, D. ઝઘડો કરે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મૂંઝવણમાં મુકાઈ જાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમ વર્ગના ઘરમાં અચાનક મહેમાન આવે ત્યારે હંમેશા 'મૂંઝવણ' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખક કયા પુસ્તક દ્વારા હાસ્ય પીરસે છે?",
+      "options": "A. હાસ્યનું હાઈવે, B. લખવાણું તેટલું, C. હસતા હસતા, D. લખણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. લખણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડનું જાણીતું પુસ્તક 'લખણું' છે (જેમ કે લેખનનું લખાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મહેમાન જ્યારે ઘરે આવે છે ત્યારે લેખક શું આપવાની વાત કરે છે?",
+      "options": "A. જમવાનું, B. ઠંડું પીણું, C. ચા-પાણી, D. ફળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચા-પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી સંસ્કૃતિમાં કોઈ પણ મહેમાન આવે એટલે સૌથી પહેલા 'ચા-પાણી' જ પુછાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકના મિત્ર મહેમાન બનીને આવ્યા ત્યારે લેખક ક્યાં હતા?",
+      "options": "A. બજારમાં, B. પલંગમાં, C. રસોડામાં, D. ઓફિસમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પલંગમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક આરામ કરતા હતા ત્યારે જ મહેમાન આવી ચઢ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકના ઘરે મહેમાન કયા સમયે આવ્યા હતા?",
+      "options": "A. સવારે વહેલા, B. બપોરે ઊંઘવાના સમયે, C. મોડી રાત્રે, D. સાંજે નવરાશના સમયે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બપોરે ઊંઘવાના સમયે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્ય ત્યારે જ જન્મે જ્યારે કોઈ 'અવખતે' (ખોટા સમયે) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘આવો, પધારો’ પાઠમાં લેખકે માનવીના કયા સ્વભાવ પર કટાક્ષ કર્યો છે?",
+      "options": "A. લોભી સ્વભાવ, B. દેખાડાનો સ્વભાવ, C. મહેમાનગતિમાં થતો દેખાડો, D. આળસુ સ્વભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મહેમાનગતિમાં થતો દેખાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ સ્વાગત સૂચવે છે, જે હકીકતમાં ક્યારેક કૃત્રિમ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લેખકને ત્યાં મહેમાન આવ્યા ત્યારે તેમની પત્ની શું કરતા હતા?",
+      "options": "A. રસોઈ, B. આરામ, C. વાસણ સાફ, D. ટીવી જોતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આરામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક અને પત્ની બંને બપોરની ઊંઘ (સીએસ્ટા) માણી રહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘પરબ’ એ કયા સાહિત્ય પ્રકાર માટે જાણીતું છે?",
+      "options": "A. હાસ્યલેખ, B. ગઝલ, C. મુખપત્ર (સામયિક), D. વાર્તા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મુખપત્ર (સામયિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી સાહિત્ય પરિષદનું મુખપત્ર 'પરબ' છે, જેનો ઉલ્લેખ લેખક પરિચયમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખકે મહેમાન માટે કયા શબ્દનો ઉપયોગ કર્યો છે?",
+      "options": "A. ભગવાન, B. આફત, C. દેવતા, D. ઉપરોક્ત તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ભગવાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિથિ દેવો ભવ - અતિથિ ભગવાન સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાઠના આધારે જણાવો કે કોના આગમનથી લેખકના ઘરમાં ઉત્સાહ નથી રહેતો?",
+      "options": "A. બાળકોના, B. પડોશીના, C. ન ગમતા મહેમાનના, D. કુટુંબીજનોના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ન ગમતા મહેમાનના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્યલેખમાં અનિચ્છનીય મહેમાન જ મુખ્ય પાત્ર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકની લેખનશૈલી કેવી છે?",
+      "options": "A. ગંભીર, B. કરુણ, C. હાસ્ય-કટાક્ષ યુક્ત, D. ભક્તિભાવ વાળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. હાસ્ય-કટાક્ષ યુક્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ એટલે હાસ્યના સમ્રાટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘પધારો’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "options": "A. પકડાવું, B. આવો, C. જાઓ, D. બેસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. આવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવો-પધારો બંને સ્વાગત માટે વપરાતા શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખક શાહબુદ્દીન રાઠોડને કયા એવોર્ડથી સન્માનિત કરવામાં આવ્યા છે?",
+      "options": "A. જ્ઞાનપીઠ, B. પદ્મશ્રી, C. સાહિત્ય અકાદમી, D. રણજિતરામ સુવર્ણચંદ્રક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પદ્મશ્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન સાહેબને ભારત સરકાર દ્વારા પદ્મશ્રી મળેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મહેમાન માટે કઈ વસ્તુ લેવા જવાનું લેખક બહાનું કાઢે છે?",
+      "options": "A. ખાંડ, B. દૂધ, C. શાકભાજી, D. પાન-માવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દૂધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચા બનાવવા દૂધ તો જોઈએ ને? એટલે લેખક દૂધનું બહાનું કાઢે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘આવો, પધારો’ પાઠમાં લેખકનો કેવો દ્રષ્ટિકોણ જોવા મળે છે?",
+      "options": "A. નેગેટિવ, B. પોઝિટિવ અને હળવો, C. ગુસ્સાવાળો, D. ઉદાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પોઝિટિવ અને હળવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્યલેખ હંમેશા હળવી શૈલીમાં અને હકારાત્મક રીતે લખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મહેમાનને જોઈને લેખકને મનમાં શું થાય છે?",
+      "options": "A. આનંદ, B. કંટાળો, C. ડર, D. આશ્ચર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કંટાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરે ઊંઘ બગડે ત્યારે કોઈ પણને કંટાળો જ આવે!</p></div>"
+    }
+  ]
+}
