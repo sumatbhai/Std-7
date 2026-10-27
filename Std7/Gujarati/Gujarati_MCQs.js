@@ -2385,3 +2385,161 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "ગ્રામમાતા (કાવ્ય)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ગ્રામમાતા’ કાવ્યના કવિનું નામ જણાવો.\n(A) કવિ ન્હાનાલાલ\n(B) સુરસિંહજી તખ્તસિંહજી ગોહિલ (કલાપી)\n(C) દલપતરામ\n(D) ઝવેરચંદ મેઘાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સુરસિંહજી તખ્તસિંહજી ગોહિલ (કલાપી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રામ'ની રક્ષા કરવાની 'કલા' રાજા પાસે હોય, એટલે 'કલાપી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ગ્રામમાતા’ કાવ્યનો સાહિત્ય પ્રકાર કયો છે?\n(A) સોનેટ\n(B) ઉર્મિગીત\n(C) ખંડકાવ્ય\n(D) ભક્તિગીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખંડકાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રામમાતાની આખી ઘટના એક 'ખંડ' (ટુકડા) સમાન છે, તેથી ખંડકાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાવ્યની શરૂઆતમાં આકાશ કેવું દેખાય છે?\n(A) વાદળોથી ઘેરાયેલું\n(B) લાલ રંગનું\n(C) ભૂરું અને સ્વચ્છ\n(D) અંધકારમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ભૂરું અને સ્વચ્છ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ યાદ કરો: 'ઊગે છે સુરખી ભરી રવિ મૃદુ હેમંતનો પૂર્વમાં, ભૂરું છે નભ સ્વચ્છ...'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હેમંત ઋતુમાં સવારનો પવન કેવો વાય છે?\n(A) ગરમ અને લૂ જેવો\n(B) ભેજવાળો\n(C) ઉત્સાહ જગાડતો અને શીતળ\n(D) વરસાદી પવન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉત્સાહ જગાડતો અને શીતળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડો (શીતળ) પવન હંમેશા શરીરમાં 'ઉત્સાહ' ભરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખેતરમાં શેનો પાક લહેરાઈ રહ્યો છે?\n(A) ઘઉંનો\n(B) બાજરીનો\n(C) શેરડીનો\n(D) મકાઈનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શેરડીનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી (સેલડી) નો રસ જ તો રાજા પીવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વૃદ્ધા અને ખેડૂત ક્યાં બેઠા છે?\n(A) ઝાડ નીચે\n(B) સગડી પાસે\n(C) નદી કિનારે\n(D) ઘરના છાપરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સગડી પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેમંત ઋતુની ઠંડી હોય તો તાપવા માટે 'સગડી' જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘોડેસવારને જોતા વૃદ્ધા શું કહીને ઊભા થાય છે?\n(A) 'કોણ છે તું?'\n(B) 'શું કામ છે?'\n(C) 'ભાઈ, શા સમાચાર છે?'\n(D) 'કર્તા અહો! કંઈક દેવ પસાય નક્કી!'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 'કર્તા અહો! કંઈક દેવ પસાય નક્કી!'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજાણ્યા મહેમાનને જોઈને ગામડાની માતા 'દેવ' ની કૃપા માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘોડેસવારે વૃદ્ધા પાસે શું માંગ્યું?\n(A) ખાવાનું\n(B) પાણી\n(C) આશરો\n(D) પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરસ્યા માણસની પહેલી માંગ હંમેશા 'પાણી' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાણીને બદલે વૃદ્ધાએ ઘોડેસવારને શું આપ્યું?\n(A) દૂધ\n(B) શેરડીનો રસ\n(C) છાશ\n(D) શરબત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શેરડીનો રસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસે શેરડીનું ખેતર હતું, એટલે મીઠો 'રસ' જ આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વૃદ્ધાએ શેરડીની કાતળી પર શું માર્યું ત્યારે પ્યાલો ભરાઈ ગયો?\n(A) પથ્થર\n(B) લાકડી\n(C) છરી (છરીની જરાક લકીર)\n(D) કુહાડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છરી (છરીની જરાક લકીર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી કાપવા માટે નાની 'છરી' નો ઉપયોગ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રસ પીતા પીતા રાજાના મનમાં શું વિચાર આવ્યો?\n(A) આ ડોશી બહુ દયાળુ છે\n(B) આ ખેડૂતો બહુ ધનવાન છે, મારે કર વધારવો જોઈએ\n(C) મારે અહીં જ રોકાઈ જવું જોઈએ\n(D) શેરડી બહુ મીઠી છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આ ખેડૂતો બહુ ધનવાન છે, મારે કર વધારવો જોઈએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાના મનમાં 'લોભ' જાગ્યો એટલે 'કર' (Tax) વધારવાનો વિચાર આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બીજી વખત છરી મારવા છતાં શેરડીમાંથી રસ કેમ ન નીકળ્યો?\n(A) શેરડી સુકાઈ ગઈ હતી\n(B) વૃદ્ધાની શક્તિ ઘટી ગઈ હતી\n(C) રાજાના મનમાં લોભ જાગ્યો અને ઈશ્વર રૂઠ્યા\n(D) છરીની ધાર જતી રહી હતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રાજાના મનમાં લોભ જાગ્યો અને ઈશ્વર રૂઠ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રસહીન ધરા થઈ છે, દયાહીન થયો નૃપ' - રાજા દયાહીન થયો એટલે ધરતી રસહીન થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘નૃપ’ શબ્દનો સમાનાર્થી શબ્દ આપો.\n(A) સૈનિક\n(B) રાજા\n(C) પ્રધાન\n(D) સેવક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નૃપ' એટલે નર (માણસો) નો પાલક = રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વૃદ્ધા રડતા રડતા શું બોલે છે?\n(A) 'મારા છોકરા ભૂખ્યા છે'\n(B) 'ધરતી રસહીન થઈ ગઈ છે, ચોક્કસ રાજા દયાહીન થયો છે'\n(C) 'મને માફ કરો'\n(D) 'રાજા તમે અહીંથી જાવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 'ધરતી રસહીન થઈ ગઈ છે, ચોક્કસ રાજા દયાહીન થયો છે'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકૃતિમાં ફેરફાર રાજાના હૃદયના ફેરફારને કારણે આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કલાપીનું જન્મસ્થળ કયું છે?\n(A) અમરેલી\n(B) લાઠી\n(C) જેતપુર\n(D) ભાવનગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લાઠી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલાપી (મોર) 'લાઠી' ના દરબારમાં નાચે - લાઠી (અમરેલી જિલ્લો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘મૃદુ’ શબ્દનો વિરોધી શબ્દ જણાવો.\n(A) કોમળ\n(B) કઠોર\n(C) નરમ\n(D) કુણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કઠોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુ એટલે કોમળ, તેનું ઊલટું કઠોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રાજા પશ્ચાતાપ કરતા શું કરે છે?\n(A) ઘોડો વેચી દે છે\n(B) રડવા લાગે છે અને વૃદ્ધાની માફી માંગે છે\n(C) ગામ છોડી દે છે\n(D) ખેતર સળગાવી દે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રડવા લાગે છે અને વૃદ્ધાની માફી માંગે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચાતાપ કરનાર હંમેશા પોતાની ભૂલ સ્વીકારી માફી માંગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં ‘રવિ’ શબ્દનો અર્થ શું થાય?\n(A) ચંદ્ર\n(B) તારો\n(C) સૂર્ય\n(D) આકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સૂર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવાર એટલે સૂર્યનો દિવસ, એટલે રવિ = સૂર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વૃદ્ધાના પગે કોણ પડી ગયું?\n(A) એનો પુત્ર\n(B) એનો પતિ\n(C) ઘોડેસવાર (રાજા)\n(D) પડોશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘોડેસવાર (રાજા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુનો કરનાર રાજા જ હતો, એટલે તે જ પગે પડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘કટોરો’ શબ્દ માટે કાવ્યમાં કયો શબ્દ વપરાયો છે?\n(A) ગ્લાસ\n(B) વાટકો\n(C) પ્યાલો\n(D) લોટો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્યાલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ: 'પ્યાલો ભરી દે ફરી પાત્ર વ્હાલું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાવ્યમાં કયા પક્ષીનો ઉલ્લેખ છે?\n(A) મોર\n(B) પોપટ\n(C) ચકલી\n(D) સારસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સારસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મીઠા ગીતો ગાઈ રહ્યા સારસ જોડાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બાળકો શું કરી રહ્યા હતા?\n(A) ભણી રહ્યા હતા\n(B) ઊંઘતા હતા\n(C) રમી રહ્યા હતા\n(D) કામ કરતા હતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રમી રહ્યા હતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનો કુમળો તડકો હોય તો બાળકો 'રમે' જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "‘અનિલ’ શબ્દનો પર્યાય શબ્દ આપો.\n(A) અગ્નિ\n(B) પવન\n(C) પાણી\n(D) ધરતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનિલ (પવન) વાય છે, પણ અનલ (અગ્નિ) બળે છે. યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રાજાએ અંતે શું કર્યું?\n(A) ગામ કબજે કર્યું\n(B) વૃદ્ધાને દંડ આપ્યો\n(C) ફરીથી ઈશ્વરને પ્રાર્થના કરી અને હૃદય શુદ્ધ કર્યું\n(D) ત્યાંથી ભાગી ગયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ફરીથી ઈશ્વરને પ્રાર્થના કરી અને હૃદય શુદ્ધ કર્યું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાનું મન બદલાયું એટલે ફરીથી 'રસ' વહેવા લાગ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘ધરા’ એટલે શું?\n(A) આકાશ\n(B) પાતાળ\n(C) પૃથ્વી / ધરતી\n(D) સાગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પૃથ્વી / ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બધું 'ધરા'ણ (ધારણ) કરે તે ધરા - ધરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "આ કાવ્યમાં કઈ ઋતુનું વર્ણન છે?\n(A) શરદ\n(B) હેમંત\n(C) વસંત\n(D) ગ્રીષ્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હેમંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની પહેલી જ પંક્તિમાં 'હેમંત' શબ્દ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વૃદ્ધાની આંખમાં શું આવ્યું?\n(A) ધૂળ\n(B) હર્ષના આંસુ\n(C) દુઃખના આંસુ\n(D) ઊંઘ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દુઃખના આંસુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડીમાં રસ ન નીકળ્યો એટલે વૃદ્ધા ગભરાઈ ગઈ અને રડવા લાગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાજા ઘોડા પરથી ઉતરીને ક્યાં જોતો ઉભો રહ્યો?\n(A) પોતાના ઘોડા સામે\n(B) વૃદ્ધાના ઘર સામે\n(C) શેરડીના મોલ (પાક) સામે\n(D) આકાશ સામે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શેરડીના મોલ (પાક) સામે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાને ટેક્સ વધારવો હતો એટલે તે પાક (મોલ) ને ટીકી ટીકીને જોતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘શીત’ શબ્દનો અર્થ શું થાય?\n(A) ગરમ\n(B) ઠંડું\n(C) ઊનું\n(D) તીખું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઠંડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીતકાળ એટલે ઠંડીની ઋતુ, એટલે શીત = ઠંડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગામડાની સ્ત્રી માટે કયો શબ્દ વપરાયો છે?\n(A) શહેરીણી\n(B) ગ્રામમાતા\n(C) વનમાતા\n(D) નગરશેઠાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગ્રામમાતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું પ્રકરણ જ 'ગ્રામમાતા' નામે છે!</p></div>"
+    }
+  ]
+}
