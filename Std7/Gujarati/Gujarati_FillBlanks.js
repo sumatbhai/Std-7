@@ -189,3 +189,111 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સૂર્ય ઊગ્યો, ઘઉં-ચણાના મોલ ઉપર ____ છાંટવા માંડ્યું. (રૂપું, સોનું, તાંબું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યનો પ્રકાશ પીળો હોય છે, તેથી પાક પર પડે ત્યારે તે સોના જેવો ચળકે છે. (પીળો રંગ = સોનું)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શિષ્યવૃત્તિની પરીક્ષામાં આવનાર પહેલા ____ વિદ્યાર્થીઓને શિષ્યવૃત્તિ મળવાની હતી. (પાંચ, સાત, દસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દસ' યાદ રાખવા માટે વિચારો કે મહાદેવ દસમાં નંબરે પણ આવશે તો તેને શિષ્યવૃત્તિ મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પરીક્ષા આપવા જતાં ચાર છોકરાઓમાં મુખ્ય ____ હતો. (શંકર, મહાદેવ, રમેશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનો હીરો 'મહાદેવ' છે, જેણે ગાયને ખેતરમાંથી કાઢીને સાચી પરીક્ષા પાસ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મહાદેવના મિત્ર ____ એ કહ્યું કે, 'તારે જ પરીક્ષા આપવાની છે.' (શંકર, વિનુ, અનીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવ-શંકર જોડે હોય, તેમ મહાદેવની સાથે તેનો ખાસ મિત્ર શંકર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગાય સૌથી પહેલાં ____ ના ખેતરમાં પેઠી. (કાકા, માસી, મામા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પહેલા 'મા' સમાન માસી યાદ આવે, એટલે ગાય પહેલા માસીના ખેતરમાં ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મહાદેવે ગાયને હાંકવા માટે ____ નો લાકડા જેવો આંકડો લીધો. (લીમડા, બાવળ, આંકડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંકડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં જ 'આંકડો' શબ્દ હિન્ટ તરીકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગાય ____ ના ખેતરમાંથી પસાર થઈને કાબરાના ખેતરમાં ગઈ. (ખુશાલમાં, રામજીકાકા, વીજાનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુશાલમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિચારાં 'ખુશાલમાં' ને કોઈ દીકરો નહોતો, એટલે મહાદેવે ત્યાંથી ગાય કાઢી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઇન્સ્પેક્ટરે મહાદેવની આંખમાં ____ નાં આંસુ જોયા. (માનવતા, દુઃખ, હાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવે બીજાના પાકને બચાવ્યો, જે તેની 'માનવતા' દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મહાદેવ જ્યારે શાળાએ પહોંચ્યો ત્યારે તે ____ થી લથબથ હતો. (લોહી, પરસેવા, કાદવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરસેવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયને કાઢવા માટે કરેલી સખત મહેનતને કારણે પરસેવો રેબઝેબ થઈ ગયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મહાદેવની પરીક્ષા લેનાર ઇન્સ્પેક્ટર ____ હતા. (કઠોર, ઉદાર, ગુસ્સાવાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્પેક્ટરે મોડું થવા છતાં મહાદેવને પરીક્ષામાં બેસવા દીધો, તે તેમની 'ઉદારતા' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'પરીક્ષા' પાઠના લેખકનું નામ ____ છે. (પન્નાલાલ પટેલ, ધૂમકેતુ, જ્યોતીન્દ્ર દવે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પન્નાલાલ પટેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ - પરીક્ષા અને પ - પન્નાલાલ પટેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મહાદેવે ખેતરમાં જે ગાય જોઈ તે ____ જેવી હષ્ટપુષ્ટ હતી. (હાથી, વાઘ, હરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરાયા (હાથી જેવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં ગાય માટે 'હરાઈ મસ્તાન ગાય' અને હાથી જેવી જાડી હોવાનું વર્ણન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાયે કોનું ખેતર પણ ન છોડ્યું? (શંકરનું, મહાદેવનું, શિક્ષકનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકરનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવને થયું કે જો તે ગાયને એમનેમ રહેવા દેશે તો તેના મિત્ર શંકરના ખેતરનો પાક પણ બગડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "____ શબ્દનો અર્થ પવન થાય છે. (વાયરો, તડકો, વાદળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરો વાય એટલે કે પવન ફૂંકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાઠમાં વપરાયેલ શબ્દ 'લોઢાના ચણા ચાવવા' એટલે ____. (ખૂબ મુશ્કેલ કામ કરવું, લોખંડ ખાવું, પરીક્ષા આપવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ મુશ્કેલ કામ કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડના ચણા ચાવવા અશક્ય અને મુશ્કેલ છે, તેથી આ રૂઢિપ્રયોગનો અર્થ અઘરું કામ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહાદેવને મોડું થતા તે ____ ને મળવા દોડ્યો. (હેડમાસ્ટર, પ્યુન, ઇન્સ્પેક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્સ્પેક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્યવૃત્તિની પરીક્ષા બહારથી આવેલા ઇન્સ્પેક્ટર લેતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઇન્સ્પેક્ટરે હેડમાસ્ટરને શું કહ્યું? 'આને ____ આપો.' (રજા, પેન, પેપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેપર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષા આપવા માટે પેપરની જરૂર પડે, ઇન્સ્પેક્ટરે મહાદેવની સત્યનિષ્ઠા જોઈને પેપર આપવા કહ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શાળાના સમય મુજબ મહાદેવ કેટલા સમય ____ પડ્યો હતો? (મોડો, વહેલો, સમયસર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં ગાયને કાઢવા જતાં તેને પરીક્ષામાં પહોંચતા મોડું થયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગાયને હાંકવા માટે મહાદેવ પાસે શું નહોતું? (સોટી, બૂટ, દફતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સોટી હોત તો તેને આંકડાનો ડોકો (લાકડું) શોધવો ન પડત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મહાદેવના મતે ગાય કોનો પાક ખાઈ રહી હતી? (સોના જેવો, કાદવ જેવો, નકામો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોના જેવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂત માટે તૈયાર થયેલો મોલ (પાક) સોના જેવો કિંમતી હોય છે.</p></div>"
+    }
+  ]
+}
