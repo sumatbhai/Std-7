@@ -297,3 +297,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘બે ખાનાનો પરિગ્રહ’ પાઠના લેખિકા ........... છે. (મનુબહેન ગાંધી, કસ્તુરબા, સરોજિની નાયડુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેન ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મ' થી મનુબહેન અને 'મ' થી મહાત્મા ગાંધીના પૌત્રી - જેણે આ પ્રસંગ લખ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીને મળવા વાઈસરોય લોર્ડ માઉન્ટબેટને ........... માં બોલાવ્યા હતા. (વિમાન, ટ્રેન, ગાડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા માણસ (વાઈસરોય) હંમેશા 'વિમાન' (આકાશ) ની ઓફર આપે તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મનુબહેન ગાંધીજીના ........... થતા હતા. (પુત્રી, પૌત્રી, ભત્રીજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૌત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌત્ર એટલે પુત્રનો પુત્ર, પણ અહીં મનુબહેન છે એટલે તે ગાંધીજીના પૌત્રી હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજી ........... થી દિલ્હી ટ્રેનમાં જવા રવાના થયા. (અમદાવાદ, પટણા, મુંબઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પટણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પટણા અને 'પ' થી પ્રવાસની શરૂઆત - બિહારના પટણાથી દિલ્હી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મનુબહેને ગાંધીજીની સગવડ માટે ટ્રેનના ........... ખાના રાખ્યા. (એક, બે, ત્રણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'બે' ખાનાનો પરિગ્રહ છે, એટલે જવાબ 'બે' જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરિગ્રહ એટલે લૌકિક દ્રષ્ટિએ જરૂરી હોય તેના કરતા ........... વાપરવું. (ઓછું, વધારે, સરખું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિગ્રહ = સંગ્રહખોરી. જરૂર કરતા 'વધારે' લેવું એ જ પરિગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટ્રેનમાં મુસાફરી દરમિયાન ગાંધીજી ........... લખવાનું કામ કરતા હતા. (નવજીવન, હરિજનબંધુ, યંગ ઇન્ડિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિજનબંધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી 'હરિ' ના ભક્ત હતા એટલે 'હરિજનબંધુ' અંક લખતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજીએ મનુબહેનને ........... સ્ટેશન પર ઠપકો આપ્યો. (પટણા, દિલ્હી, આબુ રોડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આબુ રોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તામાં આવતું મહત્વનું સ્ટેશન જ્યાં બાપુએ મનુબહેનને તેમની ભૂલ સમજાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્ટેશન માસ્તરે ગાંધીજીને વિનંતી કરી પણ ગાંધીજી ........... હતા. (નરમ, મક્કમ, ગુસ્સે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મક્કમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી તેમના સિદ્ધાંતોમાં હંમેશા પહાડ જેવા 'મક્કમ' રહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીના મતે જરૂર કરતા વધારે વાપરવું એ એક પ્રકારની ........... છે. (ચોરી, ભૂલ, હિંમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજાનો હક છીનવવો (વધારે વાપરવું) એ અહિંસાના પૂજારી માટે 'ચોરી' સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દિલ્હી જતી વખતે ટ્રેનમાં ગરમીનો પારો ........... ડિગ્રીએ પહોંચ્યો હતો. (૪૦, ૪૨, ૪૪)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૪૪</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ચોગડા (૪૪) - ડબલ ગરમી જેવો આંકડો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મનુબહેને ગાંધીજી માટે બીજા ખાનામાં ........... રાંધવાની સગવડ કરી હતી. (રસોઈ, કોલસાની સગડી, ખીચડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોલસાની સગડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં ટ્રેનમાં રસોઈ માટે 'કોલસાની સગડી' વપરાતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીએ મનુબહેનને ........... વધારાનું ખાનું સોંપી દેવા કહ્યું. (ટીસીને, ગાર્ડને, સ્ટેશન માસ્તરને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેશન માસ્તરને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશનનો માલિક (SM) જ ડબ્બાની વ્યવસ્થા કરી શકે, એટલે તેને જ સોંપવાનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગાંધીજીની મુસાફરી ........... ના વર્ષમાં થઈ હતી. (૧૯૪૫, ૧૯૪૭, ૧૯૫૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૯૪૭</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદીનું વર્ષ એટલે ૧૯૪૭ - જ્યારે લોર્ડ માઉન્ટબેટન ભારતમાં હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આ પ્રસંગમાંથી આપણને ગાંધીજીના ........... ગુણના દર્શન થાય છે. (સાદગી, લોભ, આળસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી એટલે જ 'સાદગી' અને અપરિગ્રહના પર્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખિકાએ બાપુજી માટે ........... માં દૂધ ગરમ કર્યું હતું. (તપેલી, લોટા, ગ્લાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તપેલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈના સાધનોમાં દૂધ ગરમ કરવા 'તપેલી' જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લોર્ડ માઉન્ટબેટન ........... હતા. (રાજા, વાઈસરોય, મંત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાઈસરોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજ શાસનના વડાને 'વાઈસરોય' કહેવામાં આવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીને ટ્રેનમાં ચડ્યા પછી ........... મિનિટમાં લખવાનું કામ પતાવવું પડતું. (૫, ૧૦, ૧૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુ સમયના બહુ પાબંદ હતા, ફટાફટ '૫' મિનિટમાં કામ પતાવી દેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગાંધીજીએ મનુબહેનને કહ્યું કે આ ........... કેળવણી છે. (મીઠો, કડવો, અઘરો) ઠપકો એ પણ એક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠપકો સુધારવા માટે હોય એટલે તે 'મીઠો' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મનુબહેને વિચાર્યું કે બાપુજીને ........... પડશે એટલે બે ખાના રાખ્યા. (તકલીફ, આરામ, મજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તકલીફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌત્રી તરીકે મનુબહેનને ચિંતા હતી કે બાપુને 'તકલીફ' ના પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગાંધીજી ........... ના યજ્ઞમાં ઝંપલાવ્યા પછી પહેલીવાર વાઈસરોયને મળવા જતા હતા. (બિહાર, બંગાળ, નોઆખલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નોઆખલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોઆખલીના રમખાણો શાંત કરવા ગાંધીજી ત્યાં ગયા હતા, જે પાઠમાં ઉલ્લેખિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જે ન જોઈતું હોય છતાં વધારે લેવું તેને ........... કહેવાય. (સંગ્રહ, પરિગ્રહ, અનુગ્રહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક યાદ રાખો - 'પરિગ્રહ' એટલે બિનજરૂરી સંગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્ટેશન માસ્તર ગાંધીજીની સામે ........... થઈ ગયા. (લાચાર, ખુશ, ગુસ્સે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બાપુ જેવી મહાન વ્યક્તિ કોઈ સુવિધા ના લે ત્યારે સામેવાળો 'લાચાર' જ બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મનુબહેન ગાંધીજીના ........... ના પુત્રના પુત્રી હતા. (દેવદાસ, મણિલાલ, ખુશાલભાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુશાલભાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેન ગાંધીજીના ભાઈ ખુશાલભાઈના પૌત્રી હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાંધીજીએ ટ્રેનના ડબ્બામાં ........... ની માફી માંગી. (પોતાની, મનુબહેનની, સરકારની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેનની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ મનુબહેનની હતી, એટલે બાપુએ તેમની તરફથી માફી માંગી.</p></div>"
+    }
+  ]
+}
