@@ -854,3 +854,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ મોટા હલેસાં માર (લોકગીત)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માલમ, તું મોટા ______ માર, મારે જવું મધદરિયાની પાર. (હલેસાં, ધક્કા, અવાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હલેસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયામાં નાવ ચલાવવા માટે 'હલેસાં' જ મારવા પડે, આ કાવ્યની પ્રથમ પંક્તિ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભાભીએ દિયરને ______ માર્યું છે. (મેણું, તીર, મહેણું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું એટલે કટાક્ષ. ભાભીના મેણાંથી જ દિયરની આળસ છૂટે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દિયરને કમાવા માટે ______ બંદરે જવું છે. (જાવા, સુરત, કંડલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાવા' એટલે કમાવા માટે જવાનું સ્થળ (ઇન્ડોનેશિયાનો એક ટાપુ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જાવા બંદરે જવાથી ______ ખૂટે નહીં એટલું કમાઈ શકાય છે. (લખમી, ખાવાનું, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લખમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લખમી' એટલે લક્ષ્મી (ધન-દોલત). કાવ્યની પંક્તિ: 'લખમીનો નહિ પાર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દિયરને ______ દ્વીપમાં પરણવા જવું છે. (સિંહલ, લક્ષદ્વીપ, આંદામાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંહલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહલ દ્વીપ એટલે અત્યારનું શ્રીલંકા, જ્યાં સુંદર સ્ત્રીઓ માટે જાણીતું હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સિંહલ દ્વીપની ______ નારને પરણવાની દિયરની ઈચ્છા છે. (પદમણી, રાજકુમારી, રૂપાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદમણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદમણી એટલે ઉત્તમ ગુણોવાળી સુંદર સ્ત્રી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભાભીએ દિયરને ______ નો સરદાર કહ્યો છે. (આળસ, મહેનત, બુદ્ધિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આળસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિયર કશું કામ નહોતો કરતો એટલે ભાભીએ તેને 'આળસનો સરદાર' કહ્યો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દિયરના મોટા ભાઈની કમાણી પર ભાભી ______ કરે છે. (મોજ, મજૂરી, રાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાઈ કમાય અને દિયર બેઠા બેઠા મોજ કરે એ ભાભીને ગમતું નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભાભીએ દિયરને મેણું મારીને તેની ______ સુધારી દીધી. (બુદ્ધિ, પરિસ્થિતિ, હવેલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બુદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની છેલ્લી પંક્તિ મુજબ: 'ખોલ્યા તે મનનાં દ્વાર' એટલે કે બુદ્ધિ સુધારી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દિયર ભાભીને ______ કહીને સંબોધે છે. (ભાભલડી, માતા, બહેન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાભલડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતમાં લાડ અને આદર માટે 'ભાભલડી' શબ્દ વપરાયો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભાભી માટે કાવ્યમાં ______ વિશેષણ વપરાયું છે. (કેસરભીનાં, ગુણવાન, ચતુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેસરભીનાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીવો ભાભલડી મારાં કેસરભીનાં' - અહીં કેસરભીનાં એટલે ઘરરખ્ખુ અને ઉમદા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દિયરને ઘોડલા ખેલવવા ______ પાછા આવવું છે. (ઘેર, દેશ, બજાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમાઈને અને પરણીને પાછા પોતાના 'ઘેર' આવવાની વાત છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દિયર તેની ભાભીને ______ વર્ષ જીવવાનું કહે છે. (સો, હજાર, લાખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીવો સો વરસ' એ આશીર્વાદ કે શુભેચ્છા રૂપે વપરાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભાભીની ______ થી દિયરનું જીવન બદલાઈ ગયું. (જીભલડી, આંખ, વાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીભલડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીભલડી' એ બોલવાની શક્તિ સૂચવે છે, જેના મેણાંએ કામ કર્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માલમ એટલે વહાણ ચલાવનાર ______. (નાવિક, પ્રવાસી, વેપારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલમ = વહાણનો દોરનાર/કેપ્ટન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભાભીના મેણાં દિયરને ______ જેવા લાગે છે. (કડવા, મીઠાં, ઝેર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કડવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું હંમેશા કડવું લાગે પણ તે સુધારા માટે હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દિયરને જલ્દી જવું છે કારણ કે તેણે ______ જવું છે. (મધદરિયાની પાર, નદી કિનારે, ખેતરે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધદરિયાની પાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયો પાર કરીને જ વિદેશ (જાવા) જઈ શકાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આ કાવ્યનો સાહિત્ય પ્રકાર ______ છે. (લોકગીત, વાર્તા, નિબંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગીત લોકો દ્વારા ગવાતું આવ્યું હોય તેને લોકગીત કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દિયર કમાઈને પાછો આવે ત્યારે તેનું ______ થાય તેવું તે ઈચ્છે છે. (સ્વાગત, અપમાન, લડાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વાગત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફળતા મેળવીને પાછા આવનારનું હંમેશા માનભેર સ્વાગત થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભાભીએ દિયરને ______ જેવો કિંમતી કીધો છે. (હીરા, સોના, મોતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હીરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભીએ દિયરને 'હીરો' કહ્યો છે પણ તે આળસુ હોવાથી તેને ટોક્યો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દિયર અને ભાભી વચ્ચેનો સંબંધ ______ હોય છે. (લાડ-કટાક્ષનો, શત્રુતાનો, અજાણ્યો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાડ-કટાક્ષનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતીય સંસ્કૃતિમાં દિયર-ભાભીનો સંબંધ મજાક અને પ્રેમનો હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સિંહલ દ્વીપમાં જઈને દિયર ______ ખેલવવા માંગે છે. (ઘોડલા, ક્રિકેટ, પતંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘોડલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘોડલા ખેલવવા' એટલે શાન અને ઠાઠથી રહેવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દિયરને દિલમાં જે ______ લાગ્યું હતું તે તેને જગાડી ગયું. (દુઃખ, મેણું, વાગ્યું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું દિલમાં વાગ્યું એટલે જ પરિવર્તન આવ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જ્યારે દિયર કમાઈને પાછો આવશે ત્યારે ભાભી તેને ______ થી વધાવશે. (મોતીડે, ફૂલડે, અક્ષત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોતીડે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોતીડે વધાવવા' એટલે ખૂબ જ માન અને આનંદથી સ્વાગત કરવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ કાવ્યમાં આળસ છોડીને ______ કરવાનો સંદેશ છે. (મહેનત, આરામ, સફર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહેનત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું કાવ્ય દિયરને બેઠાડુ મટીને મહેનતુ બનવા પ્રેરે છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
