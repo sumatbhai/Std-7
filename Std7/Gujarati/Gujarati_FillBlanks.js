@@ -1436,3 +1436,111 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "હાઈસ્કૂલમાં",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજીના હાઈસ્કૂલના હેડમાસ્તરનું નામ __________ હતું. (દોરાબજી એદલજી ગીમી, કૃષ્ણશંકર પંડ્યા, મહાદેવભાઈ દેસાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દોરાબજી એદલજી ગીમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગીમી' સાહેબ હાઈસ્કૂલના 'હેડ' હતા - 'જી' થી ગીમી અને 'જી' થી ગાંધીજીના શિક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીના મતે નઠારા અક્ષર એ __________ કેળવણીની નિશાની છે. (સંપૂર્ણ, અધૂરી, આદર્શ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધૂરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષર 'ખરાબ' તો ભણતર 'અધૂરું' - આ ગાંધીજીનો જીવનમંત્ર યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભૂમિતિનો વિષય __________ ધોરણથી શરૂ થતો હતો. (ચોથા, પાંચમા, છઠ્ઠા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂમિતિના 'ચાર' ખૂણા અને 'ચોથું' ધોરણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીને __________ વિષય શીખવનાર શિક્ષક બહુ કડક હતા. (સંસ્કૃત, ફારસી, અંગ્રેજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્કૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સંસ્કૃત અને 'સ' થી સખત (કડક) શિક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગાંધીજીના ફારસી શીખવનાર મૌલવી સાહેબ સ્વભાવે __________ હતા. (કડક, નરમ, રાગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફારસીના મૌલવી 'ફ્રી' (નરમ) હતા, એટલે વિદ્યાર્થીઓને ગમતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કસરતને બદલે ગાંધીજીએ પ્રકૃતિમાં __________ ની ટેવ પાડી હતી. (દોડવાની, રમવાની, ફરવાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફરવાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી 'ફરવા' ના શોખીન હતા, જે ખુલ્લી હવાની કસરત બની ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હેડમાસ્તરે ઉપરના ધોરણના વિદ્યાર્થીઓ માટે __________ અને ક્રિકેટ ફરજિયાત કર્યા હતા. (કસરત, ખો-ખો, કબડ્ડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કસરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીમી સાહેબ શિસ્તના આગ્રહી હતા એટલે 'કસરત' ફરજિયાત કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજીએ હાઈસ્કૂલમાં અભ્યાસ કર્યો તે સમયના તેમના અનુભવો __________ પુસ્તકમાં છે. (સત્યના પ્રયોગો, હિંદ સ્વરાજ, મંગલ પ્રભાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સત્યના પ્રયોગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી એટલે 'સત્ય' અને તેમની આત્મકથા એટલે 'સત્યના પ્રયોગો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શાળામાં મોડા પહોંચવાને કારણે ગાંધીજીને દંડ પેટે __________ આના આપવા પડ્યા. (એક કે બે, પાંચ, દસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક કે બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે જમાનામાં 'એક-બે' આનાની પણ બહુ કિંમત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીને કયા વિષયમાં 'રેડિયમ' ના જેવો પ્રકાશ દેખાયો? (ભૂમિતિ, ગણિત, વિજ્ઞાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂમિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂમિતિ અઘરી હતી, પણ સમજાયા પછી 'ચમકી' ઉઠી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાંધીજીને હાઈસ્કૂલમાં અભ્યાસ દરમિયાન __________ ની સેવા કરવાની તીવ્ર ઈચ્છા હતી. (માતા, પિતા, દેશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી 'શ્રવણ' ની જેમ પિતૃભક્ત હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજીએ પાછળથી સમજ્યું કે દરેક હિંદુ બાળકે __________ નો અભ્યાસ કરવો જ જોઈએ. (અંગ્રેજી, હિન્દી, સંસ્કૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્કૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિંદુ ધર્મના મૂળ 'સંસ્કૃત' ભાષામાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજી હાઈસ્કૂલમાં કેવા વિદ્યાર્થી તરીકે ગણાતા હતા? (ઠોઠ, સાધારણ, હોંશિયાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાધારણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી પોતે સ્વીકારે છે કે તેઓ 'સાધારણ' વિદ્યાર્થી હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કસરત અને ક્રિકેટ પ્રત્યે ગાંધીજીને શરૂઆતમાં __________ હતો. (શોખ, અણગમો, પ્રેમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અણગમો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરમાળ સ્વભાવને કારણે ગાંધીજીને રમતોમાં 'અણગમો' હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કયા ધોરણમાં ગાંધીજીને શિષ્યવૃત્તિ મળી હતી? (ચોથા-પાંચમા, પાંચમા-છઠ્ઠા, સાતમા-આઠમા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંચમા-છઠ્ઠા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્યવૃત્તિ માટે ભાગ્યશાળી રહ્યા એટલે 5 અને 6 યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાંધીજીના મતે બાળકોને ચિત્રકળા પહેલા શીખવવી જોઈએ જેથી તેમના __________ સુંદર આવે. (ચિત્રો, અક્ષરો, માર્ક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અક્ષરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રકળાથી હાથ મઠારાય તો 'અક્ષર' મોતીના દાણા જેવા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દક્ષિણ આફ્રિકામાં ગાંધીજીએ વકીલોના કેવા અક્ષરો જોયા હતા? (ખરાબ, સુંદર, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ આફ્રિકાના વકીલોના 'સુંદર' અક્ષર જોઈને જ ગાંધીજીને પસ્તાવો થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સંસ્કૃત શિક્ષક વિદ્યાર્થીઓને ઘણું __________ એવો લોભ રાખતા હતા. (રમાડવાનો, શીખવવાનો, ભણાવવાનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીખવવાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા શિક્ષક હંમેશા વધુ 'શીખવવાનો' લોભ રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગાંધીજીએ કયા પુસ્તકનો શ્લોક યાદ રાખ્યો હતો જે સંસ્કૃત શિક્ષક માટે હતો? (ગીતા, રામાયણ, મહાભારત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગીતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીના પ્રિય પુસ્તક 'ગીતા' પરથી આ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાંધીજીને કઈ વાતનું દુઃખ થયું હતું? (નાપાસ થવાનું, દંડ થવાનું, જૂઠા ઠરવાનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂઠા ઠરવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્યના પૂજારીને 'જૂઠા' કહેવાવું સૌથી વધુ ખૂંચે.</p></div>"
+    }
+  ]
+}
