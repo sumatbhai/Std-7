@@ -987,3 +987,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "બાનો વાડો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બા અત્યારે ________ વર્ષના થયા છે. (સાઠ, સિત્તેર, પંચોતેર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પંચોતેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાની ઉંમર એટલે 'પોણો સો' યાદ રાખવો, 75 વર્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બા માટે ________ શબ્દ જ વાપરવો જોઈએ. (નિરંતર ઉદ્યોગ, આળસુ, શાંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિરંતર ઉદ્યોગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા ક્યારેય નવરા બેસતા નથી, એટલે કે 'Continuous Work' = નિરંતર ઉદ્યોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાના જીવનનું એકમાત્ર સ્વજન એટલે તેમનો ________. (ઘર, વાડો, ખેતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'બાનો વાડો' છે, એટલે તે જ એમનું સ્વજન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દાદાજીના મૃત્યુ પછી બા ________ ગયા નહોતા. (થંભી, તૂટી, હારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તૂટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા મજબૂત હતા, મુસીબતમાં પણ 'તૂટે' નહીં તેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'બાનો વાડો' પાઠના લેખક ________ છે. (પન્નાલાલ પટેલ, પ્રવીણસિંહ ચાવડા, રઘુવીર ચૌધરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવીણસિંહ ચાવડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર' થી 'પ્રકૃતિ' અને 'પ્ર' થી 'પ્રવીણસિંહ', જેમણે પ્રકૃતિ (વાડો) વિશે લખ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાના વાડામાં ઔષધિય છોડમાં ________ પણ હતો. (તુલસી, અરડૂસી, ગૂગળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરડૂસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંસી થાય ત્યારે 'અરડૂસી' યાદ આવે, જે બાના વાડામાં હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બા સવારે વહેલા ઉઠીને પવિત્ર થઈ ________ ની તૈયારી કરતા. (રસોઈ, પૂજા, સફાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલો તોડ્યા પછી સીધી 'પૂજા' જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખક જ્યારે ઘેર જતાં ત્યારે બા તેમને ________ ભરીને ફળો આપતા. (થેલી, છાબડી, ખિસ્સા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાબડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં ફળ આપવા માટે 'છાબડી' શ્રેષ્ઠ સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બાના વાડામાં રીંગણા, મરચાં અને ________ જેવા શાકભાજી હતા. (કારેલાં, દૂધી, બટાકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારેલાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંડવા પર 'કારેલાં' અને 'કાકડી' લટકતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાના જીવનની આસપાસ જે દુનિયા હતી, તેનું કેન્દ્ર તેમનો ________ હતો. (પરિવાર, વાડો, ધર્મ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા માટે 'વાડો' એ જ તેમની સાચી મૂડી અને દુનિયા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાડામાં રાત્રે રાણી અને ________ ના ફૂલો સુગંધ ફેલાવતા. (મોગરો, ગલગોટા, ગુલાબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોગરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુગંધ માટે 'મોગરો' પ્રખ્યાત છે જે રાત્રે મઘમઘે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બાએ પોતાનું બધું જ દુઃખ ________ માં ઓગાળી દીધું હતું. (વાડા, ગીતો, કામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદાજીના ગયાનું દુઃખ બાએ વાડાની માવજતમાં ભૂલાવી દીધું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બાના મનનું 'રૂપ' એટલે કે તેમનો ________. (ચહેરો, પૌત્ર, વાડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડો ખીલેલો એટલે બા પણ ખીલેલા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બા કોઈને પણ ઉદાર હાથે ________ આપતા હતા. (પૈસા, ફૂલો-ફળો, જમીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂલો-ફળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાની ઉદારતા વાડાની પેદાશમાં દેખાતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બાને ________ જરાય ગમતું નહીં. (કામ કરવું, આળસમાં રહેવું, પૂજા કરવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આળસમાં રહેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરંતર ઉદ્યોગ હોય તે આળસ સહન ન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બાના વાડામાં ________ ના ઝાડ પર લાલ ચટાક ફૂલો આવતા. (મોગરા, જાસૂદ, કરેણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાસૂદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાસૂદનું ફૂલ હંમેશા 'લાલ ચટાક' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાનો વાડો એટલે એક પ્રકારનું 'કુદરતી ________'. (મ્યુઝિયમ, હોસ્પિટલ, બગીચો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોસ્પિટલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારણ કે ત્યાં બધી જ ઔષધિઓ (દવાઓ) મળી રહેતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બાની આંખોમાં હંમેશા ________ દેખાતી હતી. (નિરાશા, તાજગી, ઉદાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાજગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડાની હરિયાળી બાની આંખોમાં 'તાજગી' ભરતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાઠમાં બાને ________ સાથે સરખાવવામાં આવ્યા છે. (કમળ, અડગ પર્વત, સમુદ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડગ પર્વત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશ્કેલીમાં જે હાલતા નથી, તે 'અડગ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લીંબુ લેવા આવનારને બા ક્યારેય ________ પાછા કાઢતા નહીં. (ખાલી હાથે, ગુસ્સામાં, વઢ્યા વગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાલી હાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા 'દાની' (Generous) હતા, એટલે કોઈને નિરાશ ન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બાના વાડામાં સવારમાં ________ લેવા લોકોની ભીડ જામતી. (શાકભાજી, ફૂલો, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂજા કરવા માટે સવારે 'ફૂલો' ની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બા ________ ની જેમ વાડાનું નિરીક્ષણ કરતા. (બાળક, વૈજ્ઞાનિક, મા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ મા બાળકનું ધ્યાન રાખે, તેમ બા વાડાનું રાખતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બાના વાડામાં સોનચંપો અને ________ ના પણ ફૂલો હતા. (ગલગોટો, પારિજાત, સૂરજમુખી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પારિજાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં પારિજાતના ફૂલોનો ઉલ્લેખ વારંવાર આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લેખકને બાના વાડામાં ________ ની સુગંધનો અનુભવ થતો. (માટી, ભીની ધરતી, માનવતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીની ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડો હંમેશા પાણીથી સિંચાયેલો હોય એટલે ભીની ધરતીની મહેક આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બાના વાડામાં ________ ની વાડ કરવામાં આવી હતી. (પથ્થર, મહેંદી, લોખંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહેંદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં વાડાની સુરક્ષા માટે 'મહેંદી'ની જીવતી વાડ હોય.</p></div>"
+    }
+  ]
+}
