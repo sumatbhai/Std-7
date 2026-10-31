@@ -1885,3 +1885,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આવ ભાણા, આવ!",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'આવ ભાણા, આવ!' પાઠના લેખકનું નામ ........ છે. (રઘુવીર ચૌધરી, શાહબુદ્દીન રાઠોડ, જ્યોતીન્દ્ર દવે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહબુદ્દીન રાઠોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાઠોડ' સાહેબ હસાવે એટલે કે શાહબુદ્દીન રાઠોડની હાસ્યકથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'આવ ભાણા, આવ!' પાઠનો સાહિત્ય પ્રકાર ........ છે. (નવલકથા, હાસ્યકથા, લોકકથા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાસ્યકથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ સીવડાવવાના ધક્કા અને સંવાદો વાંચીને 'હાસ્ય' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખકના પુત્રનું નામ ........ હતું. (અકરમ, અફઝલ, અરબાઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફઝલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અફઝલ એટલે 'A' થી શરૂ થતું નામ, જેણે નવા બૂટની જીદ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અફઝલે લેખક પાસે ........ ના બૂટ લેવા માટે પૈસા માંગ્યા. (બાટા, લિબર્ટી, લખાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાટા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની અને જાણીતી બ્રાન્ડ - બાટા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકના જમાનામાં નવા બૂટ સીવડાવવા માટે ........ ની પરવાનગી લેવી પડતી. (મિત્રો, વડીલો, પાડોશીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વડીલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયુક્ત પરિવારમાં કોઈ પણ ખર્ચ માટે 'વડીલો' ની મંજૂરી મસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકના પરિવારમાં નવા બૂટનો પ્રશ્ન સમગ્ર ........ માટે જટિલ સમસ્યા બની જતો. (ગામ, પરિવાર, શાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ લેવા એ એક વ્યક્તિનો નહીં પણ આખા 'ફેમિલી' નો મુદ્દો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નવા બૂટના બદલે લેખકને બૂટમાં ........ નખાવવાની સલાહ મળતી. (નવા તળિયા, દોરી, સિંગલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંગલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું લેવા કરતાં રિપેર કરવા માટે 'સિંગલી' યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બૂટ સીવવા માટે લેખકને ........ પાસે મોકલવામાં આવ્યા. (રામજીમામા, દુધામામા, શામજીકાકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુધામામા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના મુખ્ય પાત્ર અને મોચીનું નામ - દુધામામા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દુધામામાની દુકાન ........ બજારમાં આવેલી હતી. (સાંકડી, સ્ટેશન, મોટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેશન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાડી પકડવી હોય તો સ્ટેશને જવું પડે, તેમ મોચી સ્ટેશન રોડ પર હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દુધામામા લેખકના પગનું માપ ........ પર લેતા. (પૂંઠા, કાપડ, છાપાના કાગળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાપાના કાગળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં કાગળ પર પેન્સિલથી લીટી દોરી માપ લેવાતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લેખકને ........ રંગના બૂટ સીવડાવવા હતા. (કાળા, સફેદ, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકની પસંદગી - 'લાલ' ચટાક બૂટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દુધામામાએ બૂટ માટે લેખકને ........ વારે આવવાનું કહ્યું હતું. (શનિવારે, સોમવારે, બુધવારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શનિવારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયદો હંમેશા અઠવાડિયાના અંતનો હોય એટલે કે 'શનિવાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખક જ્યારે શનિવારે ગયા ત્યારે દુધામામાએ બૂટને ........ માં મૂક્યા હોવાનું બહાનું કાઢ્યું. (ખાના, ઓઢણા, પેટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓઢણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચામડાના ટુકડાને 'ઓઢણું' કહેતા, ત્યાં બૂટ મુકાયા હતા તેમ કહ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દુધામામા બૂટને બદલે લેખક સાથે ........ ની વાતોએ વળગી જતાં. (રાજકારણ, ગામના પ્રસંગો, રમતગમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામના પ્રસંગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોના લગ્ન છે ને કોણ આવ્યું, એવી પંચાત એટલે ગામના પ્રસંગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકને બૂટ માટે ........ મહિના સુધી ધક્કા ખાવા પડ્યા. (બે, ચાર, આઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઠ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવા બૂટની તપસ્યા આખા 'આઠ' મહિના ચાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જ્યારે લેખક બૂટ માંગતા ત્યારે દુધામામા કહેતા, 'ભાણા, ........ જેવું કામ કરવું છે.' (રેઢીયાળ, ઓલિયા, ઉતાવળિયું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓલિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓલિયા એટલે ઉત્તમ અને પાકું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દુધામામા લેખકને પ્રેમથી ........ કહીને સંબોધતા. (ભાણા, દીકરા, ભાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ છે - 'આવ ભાણા, આવ!'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અફઝલના બૂટની કિંમત ........ રૂપિયા હતી. (વીસ, અઠ્ઠાવીસ, પચાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અઠ્ઠાવીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અફઝલના મોર્ડન બૂટ - 28 (અઠ્ઠાવીસ) રૂપિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લેખકે દુધામામાને અવારનવાર ........ આપ્યા છતાં બૂટ તૈયાર થતા નહીં. (પૈસા, ધમકી, વાયદા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોચી અને ગ્રાહક વચ્ચે 'વાયદા' ની જ રમત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યારે બૂટ મળ્યા ત્યારે લેખકને તે ........ અજાયબી જેવા લાગતા. (સાતમી, આઠમી, નવમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઠમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયામાં 7 છે, પણ લેખકના બૂટ એનાથી વધુ એટલે કે '8મી' અજાયબી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખક જ્યારે બૂટ લેવા ગયા ત્યારે દુધામામાએ ........ માંથી માપ કાઢ્યું. (કબાટ, ગાદી, ચોપડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોચી બેસે તેની નીચેની 'ગાદી' માંથી જ બધું નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દુધામામાએ બૂટનો દોરો ........ રંગનો રાખવાની વાત કરી હતી. (પીળા, કાળા, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ બૂટ પર 'કાળો' દોરો મેચિંગ માટે નક્કી થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાઠમાં 'તપસ્યા' શબ્દ ........ માટે વપરાયો છે. (ભણતર, બૂટ મેળવવા, ઉપવાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૂટ મેળવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહિનાઓ સુધી ધક્કા ખાવા એ ઋષિઓની તપસ્યા જેવું જ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દુધામામાના મતે બૂટ બનાવવામાં ........ મહિનાનો સમય લાગે. (એક, ત્રણ, છ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ તો એક મહિનાનું હતું પણ વાર આઠ મહિનાની લાગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ પાઠમાં આવતું 'દ્રશ્ય-શ્રાવ્ય' વાતાવરણ ........ ની દુકાનનું છે. (સુથાર, સોની, મોચી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોચી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ કોણ બનાવે? મોચી (દુધામામા).</p></div>"
+    }
+  ]
+}
