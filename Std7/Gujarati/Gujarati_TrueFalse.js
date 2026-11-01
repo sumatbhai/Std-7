@@ -397,3 +397,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજીને વાઈસરોય માઉન્ટબેટનને મળવા વિમાનમાં જવાનું આમંત્રણ મળ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાઈસરોય હંમેશા વિમાનની (મોટી) જ ઓફર આપે તેમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીએ વિમાનમાં મુસાફરી કરવાની હા પાડી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ગાંધીજી માનતા હતા કે જે વાહનમાં કરોડો ગરીબો મુસાફરી ન કરી શકે તેમાં બેસવાની તેમને શરમ આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = સાદગીનો પર્યાય, એટલે વિમાનને ના જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'બે ખાનાનો પરિગ્રહ' પાઠના લેખિકા મનુબહેન ગાંધી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એક પ્રસંગલેખ છે જે ગાંધીજીની પૌત્રી મનુબહેને લખ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મનુબહેન ગાંધીજીના પૌત્રી હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌત્રી એટલે પુત્રની પુત્રી (Granddaughter).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ટ્રેનમાં મનુબહેને ગાંધીજીની સગવડ માટે ત્રણ ડબ્બા પસંદ કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: મનુબહેને બે ખાના (ડબ્બા) પસંદ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'બે ખાનાનો પરિગ્રહ' છે, એટલે જવાબ 2 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગાંધીજી નોઆખલીના યજ્ઞમાં ઝંપલાવ્યા પછી પહેલીવાર લૉર્ડ માઉન્ટબેટનને મળવા જઈ રહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોઆખલી એ શાંતિ સ્થાપવા માટેનો ગાંધીજીનો મોટો યજ્ઞ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટ્રેન પટણાથી દિલ્હી જઈ રહી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટણા (બિહાર) થી રાજધાની દિલ્હી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજીએ રેલવેના સેકન્ડ ક્લાસના ડબ્બામાં બેસવાનો આગ્રહ રાખ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ગાંધીજીએ હંમેશા થર્ડ ક્લાસ (ત્રીજા વર્ગ) માં જ મુસાફરી કરવાનો આગ્રહ રાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = ત્રીજો વર્ગ (ગરીબોનો વર્ગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એક ખાનામાં ગાંધીજીને લખવા-વાંચવાનું અને બીજા ખાનામાં રસોઈ બનાવવાની સગવડ મનુબહેને રાખી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ખાનું બાપુ માટે, બીજું ખાનું કામકાજ/રસોઈ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીએ મનુબહેનને ઠપકો આપ્યો ન હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: મનુબહેને બે ખાના રાખ્યા તે બદલ ગાંધીજીએ તેમને મીઠો ઠપકો આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ કરો તો બાપુ ઠપકો આપે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાંધીજીએ જરૂરિયાત કરતાં વધારે વાપરવાને એક પ્રકારની હિંસા ગણાવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણજોઈતું વાપરવું = હિંસા (ગાંધીજીનો સિદ્ધાંત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજી દર અડધા કલાકે ફાળો ઉઘરાવવાનું કામ કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ગાંધીજી દર 'પાંચ મિનિટે' ફાળો ઉઘરાવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 મિનિટ = ફાળો (સમયની કિંમત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીએ સ્ટેશન માસ્તરને બોલાવીને બીજું ખાનું ખાલી કરી આપ્યું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુએ વધારાની સગવડ જતી કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ટ્રેનના ડબ્બાની બહાર લોકો લટકીને મુસાફરી કરી રહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડ વધુ હતી એટલે લોકો લટકતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્ટેશન માસ્તરે ગાંધીજીની વાત માનીને બીજું ખાનું પેસેન્જરો માટે વાપરવાની છૂટ આપી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીના આગ્રહ સામે સ્ટેશન માસ્તરે નમવું પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મનુબહેનને ગાંધીજીની આ વાતથી ખૂબ જ દુઃખ થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: મનુબહેનને પસ્તાવો થયો અને તેમને આ પ્રસંગમાંથી અમૂલ્ય કેળવણી (શીખ) મળી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુઃખ નહીં, પણ જીવનનો પાઠ મળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાંધીજીએ કહ્યું કે 'આ તો હિન્દુસ્તાનના પિતા છે, એમને સગવડ મળવી જ જોઈએ'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: આ વાક્ય મનુબહેનના મનમાં આવતા વિચારો હતા, ગાંધીજીએ આવું ક્યારેય કહ્યું નહોતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી પોતાને સેવક માનતા, પિતા તરીકેનો અહંકાર નહોતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પરિગ્રહ એટલે સંગ્રહ કરવાની માનસિકતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિગ્રહ = ભેગું કરવું (Hoarding).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સ્ટેશન માસ્તરે ગાંધીજીને વિનંતી કરી કે તેઓ બીજા ખાનાના બદલે એસી (AC) કોચમાં બેસે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સ્ટેશન માસ્તરે ગાંધીજીને બીજું ખાનું રાખવા માટે આજીજી કરી હતી, AC કોચની વાત પાઠમાં નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ 1947 ના સમયનો છે, ત્યારે ત્રીજા વર્ગ અને બીજા વર્ગની જ મુખ્ય વાત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ પ્રસંગમાંથી સાદગી અને અપરિગ્રહનો બોધ મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીના પાઠનો મુખ્ય ઉદ્દેશ સાદગી જ હોય.</p></div>"
+    }
+  ]
+}
