@@ -156,3 +156,136 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "આજની ઘડી રળિયામણી (ભક્તિગીત)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આજની ઘડી રળિયામણી’ કાવ્યના કવિ નર્મદ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આ કાવ્યના કવિ નરસિંહ મહેતા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, ગુજરાતીમાં પ્રભાતિયાં અને કૃષ્ણ ભક્તિ માટે 'નરસિંહ મહેતા' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્યમાં ‘વાહલાજી’ શબ્દ ભગવાન શ્રીકૃષ્ણ માટે વપરાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ મહેતા હંમેશા કૃષ્ણને 'વાહલાજી' કહીને સંબોધતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગોપીને ભગવાન આવવાના સમાચાર તેની સખીએ આપ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સખી આજની ઘડી રળિયામણી' - અહીં સખી એકબીજાને સમાચાર આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તરિયાતોરણમાં આસોપાલવ, આંબો અને લીમડા એમ ત્રણ વૃક્ષોના પાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તરિયાતોરણમાં આસોપાલવ, આંબો અને નારિયેળ (કસબ) ના પાન હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ-આ-ના' (આસોપાલવ, આંબો, નારિયેળ) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "‘રળિયામણી’ શબ્દનો અર્થ ‘સુંદર’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રળિયામણી = મનને ગમે તેવી સુંદર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભગવાનના પગ પખાળવા માટે નર્મદાનું પાણી મંગાવવામાં આવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ગંગા અને જમના નદીના નીર મંગાવવામાં આવ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ મથુરાના હતા એટલે ત્યાંની જાણીતી નદીઓ 'ગંગા-જમના' યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચોક પૂરવા માટે અબીલ-ગુલાલનો ઉપયોગ કરવાનું કાવ્યમાં જણાવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચોક પૂરવા માટે ‘મોતીડા’નો ઉપયોગ કરવાનું કહ્યું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોતીડે ચોક પુરાવીએ' - ભક્તિમાં મોંઘી અને પવિત્ર વસ્તુ (મોતી) વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "‘આલા લીલા વાંસ વઢાવવી’ એટલે થોડા સુકા અને થોડા ભીના વાંસ કાપવા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલું એટલે થોડું ભીનું અને લીલું એટલે તાજું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કૃષ્ણની ચાલને કવિએ ‘ગજગતિ’ કહી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજ એટલે હાથી. હાથી જેવી ઠસ્સાદાર ચાલ એટલે ગજગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘આજની ઘડી રળિયામણી’ એ એક પ્રાર્થના ગીત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આ એક ‘ભક્તિગીત’ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ મહેતાના પદો મુખ્યત્વે ભક્તિગીત કે પ્રભાતિયાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સૌભાગ્યવતી સ્ત્રીને કાવ્યમાં ‘સુહાગણ’ કહેવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુહાગણ = જેનો પતિ હયાત હોય તેવી સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મંગળ ગીતો ગાવા માટે પડોશીઓને બોલાવ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મંગળ ગીતો ગાવા માટે ‘સખીઓ’ ને બોલાવી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની શરૂઆત જ 'સખી' સંબોધનથી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્યમાં ‘મલપતો’ શબ્દનો અર્થ ‘ઉતાવળે ચાલતો’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મલપતો એટલે ઉમંગમાં ઠાઠથી ધીમે ધીમે ચાલતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભગવાન ક્યારેય ઉતાવળ ન કરે, એ તો ઠાઠથી જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નરસિંહ મહેતાએ કૃષ્ણને ‘નરસૈયાનો સ્વામી’ કહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી પંક્તિ યાદ કરો: 'નરસૈયાનો સ્વામી મેં દીઠડો જી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાવ્યમાં ‘નીર’ શબ્દનો પર્યાયવાચી શબ્દ ‘પાણી’ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીર = જળ = પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વાહલાજી માટે મંડપ બનાવવા આસોપાલવના વાંસ તૈયાર કરવાનું કહ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મંડપ બનાવવા માટે ‘આલા લીલા વાંસ’ વઢાવવાનું કહ્યું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંસ એ ઘાસનો પ્રકાર છે, તે કોઈ વૃક્ષ (આસોપાલવ) માંથી ન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘ઘડી’ એટલે 24 મિનિટનો સમયગાળો પણ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી ગણતરી મુજબ એક ઘડી એટલે ચોવીસ મિનિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કૃષ્ણને વધાવવા માટે સાથિયા પૂરવાની વાત કાવ્યમાં છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પૂરો પૂરો સોહાગણ સાથિયો' પંક્તિ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભક્તિગીતમાં ગોપીનો વિરહ વ્યક્ત થયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આ કાવ્યમાં ભક્તિ અને સ્વાગતનો આનંદ વ્યક્ત થયો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રળિયામણી' શબ્દ જ આનંદ સૂચવે છે, વિરહ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘તરિયાતોરણ’ માં કસબના તારનું તોરણ પણ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ જાતના પાન ઉપરાંત કસબ (જરી) નો પણ ઉપયોગ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાવ્યમાં ‘ચોક’ શબ્દનો અર્થ ‘ઘરનું આંગણું’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં અને જૂના ઘરોમાં વચ્ચે ખુલ્લી જગ્યા (આંગણું) હોય તેને ચોક કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આ કાવ્યમાં ગાયોને ચરાવવા જવાની વાત કરવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આ કાવ્યમાં ભગવાનના સ્વાગતની તૈયારીની વાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ ભગવાન ગોવાળ હતા, પણ આ કાવ્ય તો તેમના સ્વાગતનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિ નરસિંહ મહેતાનો જન્મ ભાવનગર જિલ્લાના તળાજા ગામમાં થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવનગરનું તળાજા અને જૂનાગઢ તેમની કર્મભૂમિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘પખાળવું’ એટલે ‘ધૂળથી સાફ કરવું’.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (પખાળવું એટલે ‘પાણીથી ધોવું’.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરણ પખાળવા એટલે પાણીથી પગ ધોવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સખીના ઘરે આજે વાહલાજી પધારવાના છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાહલાજી (કૃષ્ણ) આવવાના સમાચાર મળતા જ આખું વાતાવરણ બદલાય છે.</p></div>"
+    }
+  ]
+}
