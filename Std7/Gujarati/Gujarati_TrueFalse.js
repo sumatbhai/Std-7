@@ -505,3 +505,112 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં (પ્રકૃતિગીત)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'રાનમાં' કાવ્યના કવિનું નામ ધ્રુવ ભટ્ટ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાનમાં 'ધ્રુવ' તારો ચમકે એમ યાદ રાખવું કે આ કાવ્ય ધ્રુવ ભટ્ટનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'રાનમાં' કાવ્યનો સાહિત્ય પ્રકાર લોકગીત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> 'રાનમાં' કાવ્યનો સાહિત્ય પ્રકાર 'પ્રકૃતિગીત' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન એટલે જંગલ, અને જંગલ એ પ્રકૃતિ છે, માટે આ પ્રકૃતિગીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચોમાસું ક્યાંક રાનમાં ગાજે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની પહેલી પંક્તિ જ છે: 'ક્યાંક ચોમાસું ગાજે છે રાનમાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'રાન' શબ્દનો અર્થ 'પર્વત' થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> 'રાન' શબ્દનો અર્થ 'જંગલ' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન = વન/જંગલ. રાન-વન પ્રાસ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાડ પર સૂતેલી સઘળી લીલાશ હવે મેદાનમાં ઉતરશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ આવતા જ બધી હરિયાળી મેદાનમાં ફેલાઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીંજાતા વાયરાઓ ઉનાળો આવવાનો સંદેશો લાવશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ભીંજાતા વાયરાઓ 'ચોમાસું ધારધાર બેઠું' છે એવો સંદેશો લાવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરા ભીના ક્યારે હોય? જ્યારે ચોમાસું હોય ત્યારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘેરાયેલા વાદળોથી આખું આકાશ નીચું ઉતરતું દેખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઊંચેથી આરપાર સરતું આકાશ હવે ઊતરશે ધોધમાર હેઠું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદમાં ભીંજાવાનો આનંદ માત્ર પક્ષીઓને જ મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> વરસાદમાં ભીંજાવાનો આનંદ ડુંગરને, નેવાંને, જંગલને અને કવિને (માણસને) પણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ તો સાર્વત્રિક છે, બધાને જ આનંદ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નેવેથી દડદડતા ગામને પણ વરસાદની ઘટનાનો આનંદ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'થાય નેવેથી દડદડતા ગામને' - આ પંક્તિમાં આનો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કવિને વરસાદમાં 'ટહુકો' થઈને ઝાડ નીચે ગહેકવાનું મન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાલ ટહુકો થઈ જાઉં' - કવિ પક્ષીની જેમ બોલવા ઈચ્છે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'વાછંટ' એટલે પવનની ગતિ સાથે આવતા વરસાદના ટીપાં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન સાથે જે છાંટા રૂમમાં આવે તેને વાછંટ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચોમાસું આવતા જ બધા પર્વતો સુકાઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ચોમાસું આવતા પર્વતો અને જંગલોમાં હરિયાળી છવાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ એટલે જીવન, સુકાય નહીં પણ ખીલી ઉઠે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ધ્રુવ ભટ્ટની નવલકથા 'અકૂપાર' ખૂબ જાણીતી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુવ ભટ્ટ = અકૂપાર, તત્વમસિ, સમુદ્રાન્તિકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'તમનેય થાય' પંક્તિમાં કવિ વાચકોને પણ વરસાદનો આનંદ લેવા કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિ પોતાની સાથે બીજાને પણ પ્રકૃતિ સાથે જોડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વરસાદ પડવાથી વાડ પરની લીલાશ આકાશમાં જશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> વાડ પરની લીલાશ 'મેદાનમાં' ઉતરશે, આકાશમાં નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલાશ હંમેશા જમીન (મેદાન) પર ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગહેકવું એટલે પક્ષીની જેમ આનંદથી બૂમ પાડવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર ગહેકે છે, એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'નેવું' એટલે છાપરાના છેડા ઉપરના નળિયા જ્યાંથી પાણી નીચે પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નેવું એટલે પાણી પડવાની જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચોમાસું ધારધાર બેઠું છે એવું 'પક્ષીઓ' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ચોમાસું ધારધાર બેઠું છે એવો સંદેશો 'વાયરાઓ' (પવન) વહેશે.",
+      "shortcut": "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંદેશો પવન (વાયરા) લઈને આવે છે."
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધોધમાર વરસાદથી આકાશ નીચે ઉતરી આવ્યું હોય તેવું લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાંથી પાણી પડે એટલે આકાશ નીચે આવતું હોય તેવું લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'રાનમાં' કાવ્યમાં મોરના ટહુકાનો ઉલ્લેખ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> કવિ પોતે ટહુકો થઈને ઝાડ તળે ગહેકવાની વાત કરે છે, જે ટહુકો સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ અને ટહુકો એકબીજાના પર્યાય છે.</p></div>"
+    }
+  ]
+}
