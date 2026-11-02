@@ -614,3 +614,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભીખુ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ભીખુ’ પાઠના લેખકનું નામ ગૌરીશંકર ગોવર્ધનરામ જોશી ‘ધૂમકેતુ’ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધૂમકેતુ એટલે આકાશનો તારો, અને ભીખુની વાર્તા પણ આકાશ જેવી વિશાળ ભાવનાવાળી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભીખુની ઉંમર આશરે ૧૫-૧૬ વર્ષની હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ભીખુની ઉંમર આશરે ૧૦-૧૨ વર્ષની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો ભીખુ, મોટું કામ! (૧૦-૧૨ વર્ષ યાદ રાખવા)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "છોકરો રસ્તો ઓળંગતા મોટરની નીચે આવતા આવતા બચી ગયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર્તાની શરૂઆતમાં જ અકસ્માતનો ડર ભીખુ પ્રત્યે દયા જગાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભીખુએ છ પૈસાની જલેબી ખરીદી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છ ગણી જલેબી (૬ પૈસાની જલેબી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકે ભીખુને મદદ કરવા માટે પાંચ રૂપિયા આપ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> લેખકે ભીખુને માત્ર ત્રણ પૈસા આપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક પાસે માત્ર ત્રણ જ પૈસા બચ્યા હતા તે તેમણે આપ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીખુએ દુકાને જઈને ધરાઈને જલેબી ખાધી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ભીખુએ જલેબી ખાધી નહોતી, પણ તે માત્ર નિહાળી રહ્યો હતો અને પછી ઘરના માટે લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ પોતે ભૂખ્યો રહ્યો, પણ ભાઈ-ભાંડુને યાદ રાખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભીખુના કુટુંબમાં કુલ પાંચ ભાઈ-બહેનો હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં ઉલ્લેખ છે: ત્રણ છોકરા, એક છોકરી અને પોતે ભીખુ = કુલ ૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભીખુએ દાળિયા પોતે રસ્તામાં જ ખાઈ લીધા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> તેણે દાળિયા ખાવાનો ડોળ કર્યો હતો પણ ખાધા નહોતા, એણે દાળિયા ભાંડુઓ માટે રાખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાળિયાના પડીકાને તેણે પાછું બાંધી લીધું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભીખુએ તેની મા પાસે ખોટું બોલ્યો કે તેણે ધરાઈને ખાધું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માને સંતોષ આપવા માટે ભીખુએ 'મીઠું જૂઠું' બોલ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભીખુની મા લુલી-લંગડી અને માંદી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબી અને માંદગી ભીખુના કુટુંબની મુખ્ય સમસ્યા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લેખકે ભીખુનો પીછો કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકની જિજ્ઞાસા જ આપણને ભીખુનું સત્ય જણાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભીખુએ કુલ એક પૈસાના દાળિયા ખરીદ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> તેણે ત્રણ પૈસાના દાળિયા ખરીદ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ પૈસાના દાળિયા અને ૬ પૈસાની જલેબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભીખુના ભાઈઓએ દાળિયા જોઈને રાડારાડ કરી મૂકી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખથી પીડાતા બાળકો ખોરાક જોઈને આનંદિત થઈ ગયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સિનેમા જોનારા લોકો મોજમજા કરતા બહાર નીકળી રહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં અમીરી અને ગરીબીનો તફાવત બતાવવા આ દ્રશ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘એક કંગાલ પર ઇતની રહમ કરો’ – આ શબ્દો ભીખુના હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહમ એટલે દયા, ભીખુ આ જ શબ્દોથી ભીખ માંગતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભીખુ પાઠનો સાહિત્ય પ્રકાર ‘નાટક’ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ભીખુ પાઠનો સાહિત્ય પ્રકાર ‘સંવેદનકથા’ (ટૂંકી વાર્તા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દિલને સ્પર્શી જાય તેને સંવેદનકથા કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હલવાઈની દુકાન પર મીઠાઈના થાળ સજાવેલા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠાઈ જોઈને ભીખુના મોઢામાં પાણી આવતું હતું પણ એ સંયમી હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભીખુની મા તેને ખીજાઈને કહી રહી હતી કે 'તેં શું ખાધું?'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> તેની મા વહાલ અને ચિંતાથી પૂછતી હતી, ખીજાતી નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનો પ્રેમ હંમેશા ચિંતાના સ્વરૂપે હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "છોકરાએ જલેબીના પડીકાને છાતી સરસું ચાંપી દીધું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેને જલેબી તેના ભાઈ-બહેનો જેટલી જ વહાલી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દુકાનદારે ભીખુને મફતમાં જલેબી આપી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ભીખુએ તેના પૈસાથી જલેબી ખરીદી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ સ્વાભિમાની પણ હતો, તેણે ખરીદી કરી હતી.</p></div>"
+    }
+  ]
+}
