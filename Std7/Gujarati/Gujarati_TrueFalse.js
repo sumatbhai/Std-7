@@ -855,3 +855,161 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર (લોકગીત)",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'માલમ હલેસાં માર' એ એક પ્રાર્થના ગીત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આ કાવ્ય સાહિત્યનો પ્રકાર 'લોકગીત' છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીત એટલે લોકો દ્વારા ગવાયેલું, આમાં દરિયાની અને લોકજીવનની વાત છે એટલે તે લોકગીત જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દિયરને મેણું એની ભાભીએ માર્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ છે: 'મેણું માર્યું છે મને ભાભલડીએ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભાભીએ દિયરને 'આળસુનો સરદાર' કહ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિયર કામ નહોતો કરતો એટલે ભાભીએ તેને આળસુનો સરદાર કહ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દિયર કમાવા માટે અમેરિકા જવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દિયર કમાવા માટે 'જાવા' બંદરે જવા માંગે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં કમાવા માટે 'જાવા' અને 'સિંહલ દ્વીપ' જાણીતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જાવા બંદરે જવાથી પુષ્કળ લક્ષ્મી (ધન) મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય મુજબ: 'જાય જે જાવા, ગયા તે ન આવે, આવે તો બેડલો પાર' - એટલે કે ધનવાન બનીને જ પાછા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દિયર સિંહલ દ્વીપમાં વેપાર કરવા જવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દિયર સિંહલ દ્વીપમાં 'પદમણી નાર' (સુંદર સ્ત્રી) પરણવા જવા માંગે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાવા = કમાવા, સિંહલ દ્વીપ = પરણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સિંહલ દ્વીપ એટલે અત્યારનું શ્રીલંકા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐતિહાસિક રીતે સિંહલ દ્વીપ શ્રીલંકા માટે વપરાતું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભાભીના મેણાંથી દિયરને માઠું લાગ્યું અને તે ઘર છોડીને રડવા લાગ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મેણાંથી તેની બુદ્ધિ જાગી ગઈ અને તેણે પુરુષાર્થ કરવાનો નિર્ણય લીધો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું માર્યું પણ દિયર હિંમત હાર્યો નહીં, બુદ્ધિ સુધારી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાવ્યના અંતે દિયર ભાભી પ્રત્યે આદર અને આભારની લાગણી વ્યક્ત કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભીએ મેણું માર્યું એટલે જ દિયરની આંખ ઉઘડી, માટે તે આભાર માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'ઘોડલા ખેલવવા' એટલે ઘોડા પર સવારી કરીને મજા કરવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાઈ કમાય અને દિયર લહેર કરે તે માટે આ રૂઢિપ્રયોગ વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'બેડલો પાર થવો' એટલે નદી પાર કરવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: 'બેડલો પાર થવો' એટલે સફળ થવું અથવા નસીબ ખૂલવું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કંઈક મોટું કામ પૂરું થાય ત્યારે આપણે કહીએ છીએ કે બેડલો પાર થઈ ગયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દિયર પોતાના ભાઈને 'બજર' જેવો કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાવ્યમાં ભાઈ માટે 'મોટા ભાઈ' શબ્દ વપરાયો છે, બજર નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોટા ભાઈની કમાણી' - દિયર ભાઈના પૈસે જલસા કરતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માલમ એટલે વહાણ ચલાવનાર નાવિક.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયામાં જે દિશા બતાવે અને વહાણ હાંકે તેને માલમ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આ લોકગીતમાં આળસુ માણસની મજાક ઉડાવવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ગીત આળસ છોડી પુરુષાર્થ કરવા વિશે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભાભીએ દિયરને ઝેર પીવા કહ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભાભીએ મેણું માર્યું હતું જે દિયરને ઝેર જેવું કડવું લાગ્યું હતું, પણ પીવા નહોતું કહ્યું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝેર' શબ્દ મેણાંની કડવાશ બતાવવા માટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દિયર મધદરિયે જવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માલમ હલેસાં માર મારે જાવું મધદરિયે' - આ પહેલી પંક્તિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દિયરની બુદ્ધિ ભાભીના પ્રેમથી સુધરી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દિયરની બુદ્ધિ ભાભીના 'મેણાં' (કડવા વેણ) થી સુધરી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્યારેક કડવા શબ્દો પણ જિંદગી સુધારી દે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પદમણી નાર એટલે અત્યંત સુંદર અને ગુણવાન સ્ત્રી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદમણી એટલે કમળ જેવી કોમળ અને સુંદર સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આ લોકગીતમાં પુરુષાર્થનો મહિમા ગાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આળસ છોડીને કામ કરવા જવાની વાત એટલે પુરુષાર્થનો મહિમા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'લક્ષ્મી' શબ્દનો અર્થ અહીં પત્ની થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: અહીં 'લક્ષ્મી' એટલે ધન-સંપત્તિ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમાવા જઈએ ત્યારે ધન (લક્ષ્મી) જ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દિયર પાછો આવીને ભાભીને હાર પહેરાવવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દિયર પાછો આવીને ભાભીને ખુશ કરવા અને પોતાની સફળતા બતાવવા માંગે છે, હારની વાત નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિયરનો ઉદ્દેશ્ય ભાભીને એ બતાવવાનો છે કે તે આળસુ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'જિભલડી' એટલે નાની જીભ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (અહીં લાક્ષણિક અર્થમાં બોલવાની વાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -ડી પ્રત્યય ઘણીવાર નાનકડું કે વહાલું દર્શાવવા વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દિયર દરિયો ઓળંગીને બર્મા જવા માંગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દિયર 'જાવા' અને 'સિંહલ દ્વીપ' જવા માંગે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્મા નહીં પણ જાવા (ઇન્ડોનેશિયાનો ટાપુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભાભીએ દિયરના મનના દ્વાર ખોલી નાખ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી પંક્તિ - 'ખોલી નાખ્યા તમે મનના મારા દ્વાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માલમે હલેસાં મારવાની ના પાડી દીધી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: દિયર માલમને વિનંતી કરે છે કે હલેસાં માર જેથી તે જલ્દી પહોંચી શકે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલમ તો વહાણ ચલાવવાની તૈયારી જ કરતો હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દિયર અને ભાભી વચ્ચેનો ઝઘડો કાયમી હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આ એક મીઠો ઠપકો હતો જેનાથી દિયરનું ભલું થયું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌટુંબિક સંબંધોમાં મીઠા મેણાં પ્રગતિ કરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'કેસરિયા' એટલે કેસરી રંગના કપડાં પહેરીને નીકળવું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (શૌર્ય અને સાહસનું પ્રતીક છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેસરિયા કરવા' એટલે સાહસિક કાર્ય માટે નીકળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આ લોકગીતમાં ભાભીને ઉમંગમાં બતાવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (કારણ કે તે દિયરને પડકાર આપે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભીના વેણ દિયર માટે પ્રેરણા બન્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'ભાભલડી' શબ્દમાં આદરનો ભાવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું. (લોકગીતમાં લાગણી દર્શાવવા આવા શબ્દો વપરાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિયર-ભાભીના સંબંધની મીઠાશ 'ભાભલડી' શબ્દમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લોકગીતના રચયિતાનું નામ પુસ્તકમાં આપેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: લોકગીત લોકો દ્વારા રચાયેલું હોય છે, તેના કોઈ ચોક્કસ લેખક હોતા નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીત = લોકોનું, લોકો દ્વારા, લોકો માટે!</p></div>"
+    }
+  ]
+}
