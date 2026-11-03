@@ -1279,3 +1279,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'અખબાર' શબ્દ મૂળ સંસ્કૃત ભાષાનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અખબાર શબ્દ મૂળ અરબી ભાષાના 'ખબર' શબ્દનું બહુવચન છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અખબાર અને 'અ' થી અરબી યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અખબારને ગુજરાતી ભાષામાં 'સમાચારપત્ર' પણ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર આપતું પત્ર એટલે સમાચારપત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ન્યૂઝ' (News) શબ્દ અંગ્રેજીના ચાર દિશાઓના નામ પરથી બન્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (North, East, West, South પરથી News બન્યું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચારેય દિશાઓની ખબર એટલે NEWS.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અખબારી નોંધને અંગ્રેજીમાં 'પ્રેસ નોટ' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર છાપવા માટે અપાતી નોંધ એટલે પ્રેસ નોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અખબારી નોંધ છપાવવા માટે તંત્રીને વિનંતીપત્ર મોકલવો જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કોઈપણ અખબારી નોંધ મોકલતી વખતે તંત્રીને ઉદ્દેશીને વિનંતીપત્ર મોકલવો જ પડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્ટાચાર માટે વિનંતીપત્ર 'મસ્ટ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અખબારી નોંધમાં સમાચાર મોકલનાર વ્યક્તિ કે સંસ્થાનું નામ-સરનામું હોવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોકલનારની ઓળખ વગર સમાચાર ન છપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાચાર લેખનમાં મુખ્ય પાંચ 'ડબલ્યુ' (W) ને ધ્યાનમાં લેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સમાચાર લેખનમાં 5 'W' અને 1 'H' એમ કુલ 6 બાબતો મુખ્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5W + 1H = સચોટ સમાચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાચારની વિગતમાં 'ક્યારે' એટલે અંગ્રેજીમાં 'Where' થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ('ક્યારે' એટલે 'When' અને 'ક્યાં' એટલે 'Where' થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'When' હંમેશા સમય (Time) બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સામાજિક, ધાર્મિક અને શૈક્ષણિક વિગતો અખબારી નોંધમાં છપાવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકોના હિતની દરેક વિગત અખબારમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મૃત્યુ કે બેસણાની નોંધ અખબારમાં વિનામૂલ્યે છાપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (મોટાભાગના અખબારો માનવતાના ધોરણે આ નોંધ વિનામૂલ્યે છાપે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુઃખદ સમાચારમાં સેવા ભાવ મુખ્ય હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અખબારી નોંધની કોલમને 'કટાર' તરીકે પણ ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂઝ પેપરની ઉભી લાઇન એટલે કટાર (Column).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાચારમાં 'શા માટે' જાણવા માટે 'How' પ્રશ્ન પૂછવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ('શા માટે' એટલે 'Why' અને 'કેવી રીતે' એટલે 'How' થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Why = કારણ (Reason).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તંત્રીને સમાચાર મોકલતી વખતે તે કયા દિવસે પ્રસિદ્ધ કરવા તે જણાવવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારીખ વગરની પ્રેસ નોટ નકામી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અખબારી નોંધ હંમેશા ટૂંકી અને સચોટ હોવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબુ લખાણ વાચકોને કંટાળો આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઇનામ વિતરણના સમાચાર અખબારી નોંધમાં ન આપી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઇનામ વિતરણ એ શૈક્ષણિક કે સામાજિક ગૌરવની બાબત છે, તે ચોક્કસ આપી શકાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિદ્ધિના સમાચાર હંમેશા છપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અખબારના માલિકને 'તંત્રી' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અખબારનું સંપાદન કરનારને 'તંત્રી' (Editor) કહેવાય, જે માલિક હોવા જરૂરી નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંત્રી એટલે કન્ટેન્ટ મેનેજ કરનાર વ્યક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તંત્રીને મોકલવામાં આવતા વિનંતીપત્રમાં મોકલનારની સહી હોવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહી એટલે વિશ્વસનીયતાની ખાતરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અખબારોમાં 'જાહેર નિવિદા' જેવી વિગતો પણ આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેન્ડર કે નોટિસ એ પણ એક પ્રકારના સમાચાર જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમાચારની વિગતમાં 'કોણ' માટે 'What' શબ્દ વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ('કોણ' માટે 'Who' વપરાય છે અને 'શું' માટે 'What' વપરાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Who = વ્યક્તિ (Person).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અખબારી નોંધના વિવિધ પ્રકારોમાં 'ધાર્મિક સમાચાર' પણ એક પ્રકાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપ્તાહ, પૂજા કે મહોત્સવ એ ધાર્મિક અખબારી નોંધ છે.</p></div>"
+    }
+  ]
+}
