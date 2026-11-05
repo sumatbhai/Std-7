@@ -1861,3 +1861,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આવ ભાણા આવ!",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આવ ભાણા આવ!’ પાઠના લેખકનું નામ શાહબુદ્દીન રાઠોડ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ તેમના હાસ્ય માટે જાણીતા છે અને આ પાઠ એક હાસ્યકથા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આ પાઠનો સાહિત્ય પ્રકાર ‘નાટક’ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: આ પાઠનો સાહિત્ય પ્રકાર ‘હાસ્યકથા’ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસાવતા પાઠ હંમેશા ‘હાસ્યકથા’ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અફઝલે લેખક પાસે બૂટ લેવા માટે પૈસા માંગ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અફઝલ લેખકનો પુત્ર છે અને ત્યાંથી જ વાર્તાની શરૂઆત થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકના જમાનામાં બૂટ પહેરવા એ વિલાસ ગણાતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના સમયમાં બૂટ મોંઘી વસ્તુ ગણાતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકને બૂટ અપાવવાનો નિર્ણય ઘરમાં તરત જ લેવાઈ ગયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: બૂટ માટે ઘરમાં મોટી મીટિંગ ભરાતી અને વડીલોની મંજૂરી લેવી પડતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીટિંગ = મોડો નિર્ણય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દુમા મામા લેખકના સગા મામા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: દુમા મામા ગામના મોચી હતા, લેખક તેમને માનથી મામા કહેતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામના કારીગરોને સંબોધવા માટે ‘મામા’ કે ‘કાકા’ શબ્દ વપરાતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બૂટ બનાવવા માટે લેખકને બે રૂપિયા અને આઠ આના નક્કી કરવામાં આવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: બૂટની કિંમત બે રૂપિયા અને ચાર આના (₹ ૨.૨૫) નક્કી થઈ હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨-૪ યાદ રાખો (બે રૂપિયા, ચાર આના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકને લાલ બૂટ સીવડાવવાની ઈચ્છા હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકની પસંદગી લાલ અને વાધરીવાળા બૂટ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દુમા મામાએ લેખકને તરત જ બૂટ સીવી આપ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: દુમા મામાએ લેખકને અસંખ્ય ધક્કા ખવડાવ્યા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુમા મામા એટલે ‘ધક્કાના મામા’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખક બૂટની ઉઘરાણી કરવા માટે રોજ સવારે મોચીની દુકાને જતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવા બૂટની ઉત્તેજનામાં લેખક રોજ સવારે હાજર થઈ જતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુમા મામાએ લેખકને ભાણો કહીને સંબોધતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ ‘આવ ભાણા આવ!’ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખકને બૂટ બનાવવાની પરવાનગી વડીલોની મીટિંગ પછી મળી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરમાં જે રીતે બજેટ પાસ થાય તેમ બૂટનું પણ બજેટ પાસ થતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખકને અંતે શ્રાવણ મહિનામાં બૂટ મળ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: લેખકને અંતે જેઠ મહિનામાં બૂટ મળ્યા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠેઠ જેઠમાં બૂટ મળ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દુમા મામા બૂટ સીવવા માટે કાળું ચામડું લેવાનું કહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: લેખક લાલ બૂટ સીવડાવવા માંગતા હતા, માટે લાલ ચામડું હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં લાલ બૂટનો ક્રેઝ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "આ પાઠમાં મધ્યમવર્ગના સંઘર્ષને હળવી શૈલીમાં રજૂ કરાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકની વિશેષતા જ એ છે કે તે ગંભીર બાબતને હળવી બનાવી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દુમા મામા બૂટને ઓપ આપવા માટે રાતે બેસતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ લંબાવવા માટે દુમા મામા રાતના બહાના કાઢતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખકને બૂટ સીવડાવવા માટે અફઝલે મદદ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: અફઝલ તો લેખકનો પુત્ર છે જે અત્યારના સમયમાં બૂટ માંગે છે, લેખકના બાળપણની વાત અલગ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્રોના સંબંધો યાદ રાખો - અફઝલ = દીકરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખક બૂટ લેવા માટે એટલા આતુર હતા કે તેમને ઊંઘ પણ નહોતી આવતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળસહજ ઉત્તેજના એટલે રાતની ઊંઘ ઉડી જવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પરિવારમાં બૂટ આપવા માટે 'બૂટ સમિતિ' જેવું વાતાવરણ સર્જાતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંજૂરી માટેની પ્રક્રિયાને સમિતિ સાથે સરખાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દુમા મામાએ લેખકને બૂટ આપવા માટે કુલ ૮ થી ૧૦ મહિના રાહ જોવડાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લગભગ આખું વર્ષ બૂટના ધક્કા ખાવામાં ગયું હતું.</p></div>"
+    }
+  ]
+}
