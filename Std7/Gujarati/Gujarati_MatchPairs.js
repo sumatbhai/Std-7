@@ -114,3 +114,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) 'પરીક્ષા' પાઠના લેખક, (2) 'પરીક્ષા' પાઠનો સાહિત્ય પ્રકાર \nવિભાગ 'બ': (A) બોધકથા, (B) પન્નાલાલ પટેલ, (C) નવલકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરીક્ષા' માં સારા ગુણ લાવવા 'પન્ના' (લેખક પન્નાલાલ) ભરવા પડે અને તેમાંથી 'બોધ' (બોધકથા) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દ અને તેના અર્થના યોગ્ય જોડકાં જોડો: \nવિભાગ 'અ': (1) મોલ, (2) વાયરો \nવિભાગ 'બ': (A) પવન, (B) તૈયાર થયેલો પાક, (C) કિંમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં 'મોલ' (પાક) લહેરાય અને આકાશમાં 'વાયરો' (વાયરો = વાયુ/પવન) ફૂંકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થના જોડકાં જોડો: \nવિભાગ 'અ': (1) ટાપસી પૂરવી, (2) પાટી મેલાવવી \nવિભાગ 'બ': (A) ખૂબ દોડાવવું, (B) ચાલતી વાતને ટેકો આપવો, (C) ભણવા બેસવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટાપસી' એટલે 'ટેકો' અને ઘોડાની જેમ 'પાટી' એટલે 'દોડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેતર અને તેના માલિકના યોગ્ય જોડકાં જોડો: \nવિભાગ 'અ': (1) પહેલું ખેતર, (2) બીજું ખેતર \nવિભાગ 'બ': (A) કાકાનું ખેતર, (B) માસીનું ખેતર, (C) ઇન્સ્પેક્ટરનું ખેતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: પહેલા 'માસી' વહાલા હોય એટલે પહેલું ખેતર માસીનું, પછી 'કાકા' નું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાત્ર અને તેની વિશેષતાના જોડકાં જોડો: \nવિભાગ 'અ': (1) મહાદેવ, (2) ઇન્સ્પેક્ટર \nવિભાગ 'બ': (A) માનવતાની પરખ કરનાર, (B) ઈમાનદારીની પરીક્ષા આપનાર, (C) ગાયને મારનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવ 'વિદ્યાર્થી' હતો એટલે પરીક્ષા આપે, ઇન્સ્પેક્ટર 'સાહેબ' હતા એટલે પરખ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો: \nવિભાગ 'અ': (1) ગાયોનું ટોળું, (2) અંકુશ વગરનું રખડતું ઢોર \nવિભાગ 'બ': (A) હરાયું, (B) ધણ, (C) કાપલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયોનું 'ધણ' હોય અને જે કોઈનું ન માને તે 'હરાયું' (હાર માને નહીં તેવું) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખેતરના પાક અને તેના વર્ણનના જોડકાં જોડો: \nવિભાગ 'અ': (1) ઘઉં-ચણાનો મોલ, (2) સૂર્યનો તડકો \nવિભાગ 'બ': (A) સોના જેવો વસંતનો તડકો, (B) રૂપેરી રાત, (C) સોના જેવો લહેરાતો મોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ છે - મોલ અને તડકો બંનેને 'સોના' સાથે સરખાવ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થના જોડકાં જોડો: \nવિભાગ 'અ': (1) લોઢાના ચણા ચાવવા, (2) આકાશ-પાતાળ એક કરવા \nવિભાગ 'બ': (A) ખૂબ જ મહેનત કરવી, (B) અત્યંત મુશ્કેલ કામ કરવું, (C) લોખંડ ખાવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોઢું ચાવવું એટલે 'મુશ્કેલ' અને આકાશ-પાતાળ એટલે 'વધારે મહેનત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરુદ્ધાર્થી શબ્દોના જોડકાં જોડો: \nવિભાગ 'અ': (1) ઈમાનદાર, (2) મંજૂર \nવિભાગ 'બ': (A) નામંજૂર, (B) બેઈમાન, (C) પ્રામાણિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધાર્થીમાં મોટે ભાગે 'બે' અથવા 'ના' આગળ લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠના અન્ય પાત્રોના જોડકાં જોડો: \nવિભાગ 'અ': (1) નારજી કાકા, (2) ખુશાલમા \nવિભાગ 'બ': (A) બિચારા અને ગરીબ હતા, (B) ખૂબ જ કંજૂસ હતા, (C) ખૂબ જ દયાળુ હતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારજી કાકા 'નથી' આપતા (કંજૂસ) અને ખુશાલમા 'ખુશ' નથી (ગરીબ છે).</p></div>"
+    }
+  ]
+}
