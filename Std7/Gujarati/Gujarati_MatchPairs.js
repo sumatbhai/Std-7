@@ -172,3 +172,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br>વિભાગ 'અ': (1) બે ખાનાનો પરિગ્રહ, (2) મનુબહેન ગાંધી <br>વિભાગ 'બ': (A) લેખિકા, (B) પાઠનો પ્રકાર (પ્રસંગલેખ), (C) કવિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મનુબહેન' લેખિકા છે અને આ સત્ય ઘટના એટલે કે 'પ્રસંગલેખ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દાર્થ મુજબ યોગ્ય જોડકાં જોડો: <br>વિભાગ 'અ': (1) પરિગ્રહ, (2) ખેવના <br>વિભાગ 'બ': (A) સંગ્રહ કરવો, (B) કાળજી / સંભાળ, (C) લોભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિગ્રહ' એટલે સંગ્રહ અને 'ખેવના' એટલે કોઈની કેર (કાળજી) લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાત્ર અને તેની ઓળખના જોડકાં જોડો: <br>વિભાગ 'અ': (1) લોર્ડ માઉન્ટબેટન, (2) મનુબહેન <br>વિભાગ 'બ': (A) ગાંધીજીના પૌત્રી, (B) વાઈસરોય, (C) સ્ટેશન માસ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઉન્ટબેટન અંગ્રેજ 'વાઈસરોય' હતા અને મનુબહેન ગાંધીજીના પૌત્રી (પૌત્રની પુત્રી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સ્થળ અને ઘટનાના જોડકાં જોડો: <br>વિભાગ 'અ': (1) પટણા, (2) નોઆખલી <br>વિભાગ 'બ': (A) હિંસા રોકવા માટેનું સ્થળ, (B) જ્યાંથી મુસાફરી શરૂ થઈ, (C) ગાંધીજીનું જન્મસ્થળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટણાથી ટ્રેન પકડી અને નોઆખલીમાં ગાંધીજી યજ્ઞમાં ઝંપલાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દના જોડકાં જોડો: <br>વિભાગ 'અ': (1) ઘર જેવી સગવડવાળો રેલવેનો ડબ્બો, (2) જરૂર કરતાં વધુ વાપરવું તે <br>વિભાગ 'બ': (A) પરિગ્રહ, (B) સલૂન, (C) એરોપ્લેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોજશોખનો ડબ્બો એટલે 'સલૂન' અને વધુ સંગ્રહ એટલે 'પરિગ્રહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરુદ્ધાર્થી શબ્દોના જોડકાં જોડો: <br>વિભાગ 'અ': (1) અસહ્ય, (2) ઇનકાર <br>વિભાગ 'બ': (A) સ્વીકાર, (B) સહ્ય, (C) દુઃખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' કાઢી નાખો એટલે વિરોધી મળી જશે: અસહ્ય - સહ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાઠના સંદર્ભમાં જોડકાં જોડો: <br>વિભાગ 'અ': (1) ગાંધીજી, (2) સ્ટેશન માસ્તર <br>વિભાગ 'બ': (A) લાચાર બનીને ઉભા રહ્યા, (B) બે ખાના રાખવા બદલ ઠપકો આપ્યો, (C) મુસાફરી માટે મનાઈ કરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીએ મનુબહેનને 'ઠપકો' આપ્યો અને રેલવે અધિકારી 'લાચાર' હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દાર્થ મુજબ યોગ્ય જોડકાં જોડો: <br>વિભાગ 'અ': (1) નિશ્ચય, (2) કસૂર <br>વિભાગ 'બ': (A) ભૂલ, (B) નિર્ણય, (C) ઈનામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશ્ચય એટલે પાક્કો 'નિર્ણય' અને કસૂર એટલે વાંક કે 'ભૂલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પદવી અને તેના અર્થના જોડકાં જોડો: <br>વિભાગ 'અ': (1) આઈ.સી.એસ., (2) વાઈસરોય <br>વિભાગ 'બ': (A) રાજાનો પ્રતિનિધિ, (B) સનદી સેવા (એક પદવી), (C) ડ્રાઈવર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ICS એ ભણતરની 'પદવી' છે અને વાઈસરોય એ મોટું 'પદ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમય અને કાર્યના જોડકાં જોડો: <br>વિભાગ 'અ': (1) સવારે 9:30 વાગ્યે, (2) ઈ.સ. 1947 <br>વિભાગ 'બ': (A) આઝાદીનું વર્ષ, (B) ટ્રેન ઉપડવાનો સમય, (C) સૂવાનો સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં સવારની ટ્રેન 9:30 ની હતી અને વાઈસરોયને મળવાનું વર્ષ 1947 હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરુદ્ધાર્થી શબ્દોના જોડકાં જોડો: <br>વિભાગ 'અ': (1) સગવડ, (2) બાહ્ય <br>વિભાગ 'બ': (A) આંતરિક, (B) અગવડ, (C) મધ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સગવડની આગળ 'અ' લગાડવો અને બાહ્યનું વિરોધી આંતરિક થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાઠમાં વપરાયેલા શબ્દોના અર્થ જોડો: <br>વિભાગ 'અ': (1) ભીડ, (2) અમૂલ્ય <br>વિભાગ 'બ': (A) કિંમતી, (B) ગિરદી, (C) મફત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેનમાં લોકોની 'ગિરદી' (ભીડ) હોય અને ગાંધીજીનો સમય 'અમૂલ્ય' (કિંમતી) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કર્તા અને ક્રિયાના જોડકાં જોડો: <br>વિભાગ 'અ': (1) મનુબહેને કર્યું, (2) ગાંધીજીએ કર્યું <br>વિભાગ 'બ': (A) નાની સરખી ભૂલનું પ્રાયશ્ચિત, (B) બીજા ખાનામાં સામાન રાખ્યો, (C) ટ્રેન ચલાવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેને 'સામાન' ગોઠવ્યો અને ગાંધીજીએ 'પ્રાયશ્ચિત' કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દાર્થ મુજબ યોગ્ય જોડકાં જોડો: <br>વિભાગ 'અ': (1) નિપુણ, (2) પશ્ચાતાપ <br>વિભાગ 'બ': (A) પસ્તાવો, (B) હોશિયાર / કુશળ, (C) આળસુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ કામમાં 'નિપુણ' હોવું એટલે એક્સપર્ટ હોવું, અને ભૂલ પછી 'પશ્ચાતાપ' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રૂઢિપ્રયોગના અર્થ સાથે જોડો: <br>વિભાગ 'અ': (1) ભાન આવી જવું, (2) ઝંપલાવવું <br>વિભાગ 'બ': (A) સાહસપૂર્વક કામમાં પડવું, (B) સમજ આવી જવી, (C) ડરી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠપકો મળતા 'ભાન' (સમજ) આવી ગઈ અને આઝાદીના જંગમાં 'ઝંપલાવ્યું' (કામમાં પડ્યા).</p></div>"
+    }
+  ]
+}
