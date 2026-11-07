@@ -489,3 +489,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર! (લોકગીત)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ ‘અ’ ને વિભાગ ‘બ’ સાથે યોગ્ય રીતે જોડો: <br> 1. માલમ <br> 2. મેણું <br> 3. બંદર <br> 4. હલેસાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - વહાણ ચલાવનાર <br> 2 - કડવા વચન <br> 3 - વહાણ લાંગરવાનું સ્થળ <br> 4 - વહાણ ચલાવવાનું સાધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલમ એટલે 'માલિક' (વહાણનો) અને મેણું એટલે 'માર' (શબ્દોનો માર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સ્થળ અને તેની વિશેષતાના જોડકાં જોડો: <br> 1. સિંહલદ્વીપ <br> 2. જાવદ્વીપ <br> 3. ઘોડલા <br> 4. ભાભીનું મેણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - પદમણી નાર <br> 2 - લક્ષ્મી (લખમી) કમાવા <br> 3 - ખેલવવા <br> 4 - આળસુનો સરદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહલ (શ્રીલંકા) માં 'પદમણી' અને જાવમાં 'જાવ' (કમાવા જાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાત્ર અને તેની ક્રિયાના જોડકાં જોડો: <br> 1. ભાભી <br> 2. દિયર <br> 3. માલમ <br> 4. પદમણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - મેણું મારનાર <br> 2 - આળસ ખંખેરનાર <br> 3 - હલેસાં મારનાર <br> 4 - સુંદર સ્ત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભી 'બોલે' (મેણું) અને દિયર 'દોડે' (કમાવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દાર્થ અને તેના પર્યાય જોડો: <br> 1. વેણ <br> 2. સાર <br> 3. જાવું <br> 4. કેસરભીના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - વચન / વાણી <br> 2 - કસ / સત્ત્વ <br> 3 - જવું <br> 4 - ઉમંગી / ઉત્સાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેણ = વચન (બંને 'વ' થી શરૂ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાવ્ય પંક્તિના સંદર્ભમાં જોડો: <br> 1. લખમીનો <br> 2. આળસુનો <br> 3. બુદ્ધિના <br> 4. જીવ્યામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - નહીં પાર <br> 2 - સરદાર <br> 3 - કમાડ <br> 4 - સાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની પ્રાસ (Rhyming) યાદ રાખો: સરદાર-પાર, કમાડ-બાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંબંધ અને પાત્ર જોડો: <br> 1. દિયર <br> 2. ભાભી <br> 3. માલમ <br> 4. પદમણી નાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - નાનો ભાઈ (પતિનો) <br> 2 - મોટા ભાઈની પત્ની <br> 3 - નાવિક <br> 4 - ઉત્તમ સ્ત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભી એટલે ભાઈની 'ભા' અને પત્નીની 'ભી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ક્રિયાપદ અને તેના હેતુને જોડો: <br> 1. હલેસાં માર <br> 2. મેણું માર્યું <br> 3. ઘોડલા ખેલવવા <br> 4. કમાડ ખોલવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - વહાણ ચલાવવા <br> 2 - જાગૃત કરવા <br> 3 - પ્રભાવ પાડવા <br> 4 - બુદ્ધિ આવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું હંમેશા સુધારવા માટે હોય, મારવા માટે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો: <br> 1. આળસુ <br> 2. સુધરે <br> 3. ખોલવું <br> 4. જીવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - મહેનતુ / ઉદ્યમી <br> 2 - બગડે <br> 3 - બંધ કરવું <br> 4 - મરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આળસુનું ઉલટું ઉદ્યમી (જે મહેનત કરે તે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તળપદા શબ્દો અને શિષ્ટ શબ્દો જોડો: <br> 1. કમાડ <br> 2. નાર <br> 3. લખમી <br> 4. વેણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - દરવાજો <br> 2 - સ્ત્રી <br> 3 - લક્ષ્મી <br> 4 - વચન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળપદા શબ્દો ગામઠી હોય, શિષ્ટ શબ્દો ચોપડીના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્યની પંક્તિઓ પૂર્ણ કરવા જોડો: <br> 1. જાવું છે મારે <br> 2. પરણવા છે મારે <br> 3. ભાભીએ મને <br> 4. દિયર મારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - સિંહલદ્વીપમાં <br> 2 - પદમણી નારને <br> 3 - મેણું માર્યું <br> 4 - આળસુનો સરદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિમાં છેલ્લે આવતા શબ્દો પકડો: સિંહલદ્વીપ-પદમણી નાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિષયવસ્તુના આધારે જોડો: <br> 1. હલેસાં મારવાની વિનંતી <br> 2. મેણું માર્યાનો આનંદ <br> 3. કમાણીનું સ્થળ <br> 4. જીતવાનું લક્ષ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - માલમ <br> 2 - જ્ઞાન લાધ્યું <br> 3 - જાવદ્વીપ <br> 4 - પદમણી નાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્ય હંમેશા 'પદમણી' (શ્રેષ્ઠતા) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દના જોડકાં: <br> 1. વહાણ ચલાવનાર <br> 2. પદ્મ જેવી સુગંધવાળી સ્ત્રી <br> 3. પતિનો નાનો ભાઈ <br> 4. ભાઈની પત્ની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - માલમ <br> 2 - પદમણી <br> 3 - દિયર <br> 4 - ભાભી / ભોજાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ્મ એટલે કમળ, માટે પદમણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (વિશેષણ) અને 'બ' (વિશેષ્ય) જોડો: <br> 1. કેસરભીના <br> 2. પદમણી <br> 3. આળસુનો <br> 4. કડવાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - દિયર <br> 2 - નાર <br> 3 - સરદાર <br> 4 - મેણાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેસર દિયર પર છંટાય, મેણાં કડવાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાવ્યના ભાવ મુજબ જોડો: <br> 1. ડર/આળસ <br> 2. પડકાર <br> 3. ઉદ્યમ <br> 4. ગૌરવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - આળસુનો સરદાર <br> 2 - ભાભીનું મેણું <br> 3 - કમાવા જવું <br> 4 - ઘોડલા ખેલવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમાણી = ઉદ્યમ, મેણું = પડકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ધ્વનિ શ્રેણી (જોડણી) ના આધારે જોડો: <br> 1. સિંહલદ્વીપ <br> 2. લક્ષ્મી <br> 3. કમાડ <br> 4. હલેસાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1 - સ + ઇ + હ + અ + લ + અ + દ + વ + ઈ + પ + અ <br> 2 - લ + અ + ક્ + ષ્ + મ + ઈ <br> 3 - ક + અ + મ + આ + ડ + અ <br> 4 - હ + અ + લ + એ + સ + આઁ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડાક્ષર (ક્ષ = ક્+ષ્) ધ્યાનથી અલગ કરો.</p></div>"
+    }
+  ]
+}
