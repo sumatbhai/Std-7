@@ -323,3 +323,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભીખુ (લેખક: ધૂમકેતુ)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' સાથે વિભાગ 'બ' ને યોગ્ય રીતે જોડો:\nવિભાગ 'અ':\n(1) પાઠનું નામ\n(2) લેખકનું નામ\nવિભાગ 'બ':\n(ક) ગૌરીશંકર ગોવર્ધનરામ જોશી\n(ખ) ભીખુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભીખુ' માં 'ધૂમકેતુ' જેવો ચમકારો છે, એટલે લેખક ધૂમકેતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (પાત્ર) ને વિભાગ 'બ' (વિગત) સાથે જોડો:\nવિભાગ 'અ':\n(1) ભીખુ\n(2) લેખકનું ઉપનામ\nવિભાગ 'બ':\n(ક) ધૂમકેતુ\n(ખ) ૧૨ વર્ષનો છોકરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ નાની ઉંમરે મોટું કામ કરે છે (૧૨ વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (વસ્તુ) ને વિભાગ 'બ' (કિંમત/માપ) સાથે જોડો:\nવિભાગ 'અ':\n(1) જલેબી\n(2) દલિયા\nવિભાગ 'બ':\n(ક) સાત પૈસાના\n(ખ) એક શેર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલેબી શેરમાં (વજન) મપાય અને દલિયા સાત પૈસાના સસ્તા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' (શબ્દ) ને વિભાગ 'બ' (સમાનાર્થી) સાથે જોડો:\nવિભાગ 'અ':\n(1) કંગાલ\n(2) વદન\nવિભાગ 'બ':\n(ક) ચહેરો\n(ખ) ગરીબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંગાલ એટલે જેની પાસે કાંઈ નથી (ગરીબ) અને વદન એટલે મોઢું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (સ્થળ) ને વિભાગ 'બ' (ઘટના) સાથે જોડો:\nવિભાગ 'અ':\n(1) સિનેમા હોલ\n(2) મીઠાઈની દુકાન\nવિભાગ 'બ':\n(ક) ભીખુનું એકીટશે જોવું\n(ખ) લેખકનું ઊભા રહેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક સિનેમા પાસે હતા અને ભીખુ મીઠાઈ જોઈ લલચાયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' (શબ્દ) ને વિભાગ 'બ' (વિરુદ્ધાર્થી) સાથે જોડો:\nવિભાગ 'અ':\n(1) સુગંધ\n(2) સ્મૃતિ\nવિભાગ 'બ':\n(ક) વિસ્મૃતિ\n(ખ) દુર્ગંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુ' ની સામે 'દુ' (સુગંધ-દુર્ગંધ) અને 'અ' કે 'વિ' લગાડવાથી વિરોધી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' (શબ્દસમૂહ) ને વિભાગ 'બ' (એક શબ્દ) સાથે જોડો:\nવિભાગ 'અ':\n(1) ખાંડ વગરના શેકેલા અનાજના ટુકડા\n(2) રસ્તાનો પથ્થર કે સ્તંભ\nવિભાગ 'બ':\n(ક) થાંભલો/સ્તંભ\n(ખ) દલિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દલિયા એટલે ગરીબનું ભોજન અને સ્તંભ એટલે સપોર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (રૂઢિપ્રયોગ) ને વિભાગ 'બ' (અર્થ) સાથે જોડો:\nવિભાગ 'અ':\n(1) મોં લાલ થઈ જવું\n(2) આનાકાની કરવી\nવિભાગ 'બ':\n(ક) હા-ના કરવી\n(ખ) ખૂબ ગુસ્સે થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુસ્સામાં મોઢું ટમેટા જેવું લાલ થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ':\n(1) સાહિત્ય પ્રકાર\n(2) પાઠનો મુખ્ય ભાવ\nવિભાગ 'બ':\n(ક) પરોપકાર અને ત્યાગ\n(ખ) સંવેદનકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ પાઠ હૃદયને સ્પર્શી જાય એટલે તે 'સંવેદનકથા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' (વિશેષણ) ને વિભાગ 'બ' (વિશેષ્ય) સાથે જોડો:\nવિભાગ 'અ':\n(1) ગરમાગરમ\n(2) દયામણું\nવિભાગ 'બ':\n(ક) મોઢું/વદન\n(ખ) જલેબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલેબી હંમેશા ગરમ સારી લાગે અને ભિખારીનું મોઢું દયામણું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' (સંખ્યા) સાથે જોડો:\nવિભાગ 'અ':\n(1) ભીખુના ભાઈ-ભાંડુની સંખ્યા\n(2) લેખકે ભીખુને આપેલા પૈસા\nવિભાગ 'બ':\n(ક) ત્રણ (૩)\n(ખ) ત્રણ (૩) પૈસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ક), (2) - (ખ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો આ પાઠમાં '૩' નો આંકડો મહત્વનો છે (બાળકો પણ ૩ અને પૈસા પણ ૩).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' (ક્રિયા) ને વિભાગ 'બ' (પાત્ર) સાથે જોડો:\nવિભાગ 'અ':\n(1) 'એ સાંભળ્યું હોય તેમ લારીવાળાએ જરાક મોઢું ફેરવ્યું.'\n(2) 'એણે ક્યારની એ મીઠાઈની દુકાન તરફ મોઢું રાખ્યું હતું.'\nવિભાગ 'બ':\n(ક) ભીખુ\n(ખ) લારીવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લારીવાળો કામ કરતો હતો અને ભીખુ મીઠાઈ જોઈ રહ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (શબ્દ) ને વિભાગ 'બ' (સાચી જોડણી) સાથે જોડો:\nવિભાગ 'અ':\n(1) જલેબી (ખોટી)\n(2) કંગાલ (સાચી)\nવિભાગ 'બ':\n(ક) કંગાલ\n(ખ) જલેબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દોને ધ્યાનથી લખો, 'જલેબી' માં 'જ' આવે અને 'કંગાલ' માં અનુસ્વાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' (કથન) ને વિભાગ 'બ' (કોણ બોલે છે) સાથે જોડો:\nવિભાગ 'અ':\n(1) \"મા, તેં કાંઈ ખાધું?\"\n(2) \"હા મા, મેં તો ધરાઈ ધરાઈને ખાધું.\"\nવિભાગ 'બ':\n(ક) ભીખુ\n(ખ) નાનો ભાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ જૂઠું બોલે છે જેથી પરિવાર ખાઈ શકે (ભીખુનો ત્યાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' (વિગત) સાથે જોડો:\nવિભાગ 'અ':\n(1) ભીખુની મા\n(2) ભીખુના હાથમાં શું હતું?\nવિભાગ 'બ':\n(ક) ફાટેલી લૂગડીની પોટલી\n(ખ) એક કંગાલ સ્ત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ખ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા ગરીબ (કંગાલ) હતી અને ભીખુ પાસે પોટલી હતી.</p></div>"
+    }
+  ]
+}
