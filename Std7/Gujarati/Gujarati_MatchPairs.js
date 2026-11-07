@@ -255,3 +255,71 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) રાનમાં (2) ધ્રુવ ભટ્ટ<br>વિભાગ 'બ': (A) કવિ (B) સાહિત્ય પ્રકાર (C) કાવ્યનું નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાન' એ કાવ્યનું નામ છે અને 'ભટ્ટ' સાહેબ તેના લેખક (કવિ) છે. યાદ રાખો: 'ધ્રુવ' તારો આકાશમાં અને 'રાન' (જંગલ) ધરતી પર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) રાનમાં કાવ્યનો પ્રકાર (2) ધ્રુવ ભટ્ટનું જન્મસ્થળ<br>વિભાગ 'બ': (A) નવલકથા (B) પ્રકૃતિગીત (C) નિંગાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ 'પ્રકૃતિ' માં આવે એટલે પ્રકૃતિગીત. કવિ 'નિંગાળા' ના વતની છે - 'ધ્રુવ' તારો 'નિ'રાંતે જુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યોગ્ય શબ્દાર્થ જોડો:<br>વિભાગ 'અ': (1) રાન (2) વાછંટ<br>વિભાગ 'બ': (A) પવનથી ઉડતા વરસાદના છાંટા (B) જંગલ (C) નદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન = જંગલ (રાનમાં મંગલ). વાછંટ = વરસાદના છાંટા (વાછંટ માં 'છ' અને 'છાંટા' માં પણ 'છ').</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "યોગ્ય શબ્દાર્થ જોડો:<br>વિભાગ 'અ': (1) ગહેકવું (2) નેવાં<br>વિભાગ 'બ': (A) છાપરાના છેડા ઉપરના નળિયા (B) પક્ષીનું જોરથી બોલવું (C) આકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર 'ગહેકે' એટલે કે આનંદમાં બોલે. 'નેવાં' એટલે જ્યાંથી પાણી 'નીચે' (નેવાં) પડે તે નળિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) વાદળ (2) પાન<br>વિભાગ 'બ': (A) પર્ણ (B) મેઘ (C) પવન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળ = મેઘ (મેઘરાજા વાદળમાંથી આવે). પાન = પર્ણ (બંને 'પ' થી શરૂ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) આકાશ (2) ઉતરવું<br>વિભાગ 'બ': (A) ચડવું (B) ધરતી (C) પાતાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ ઉપર હોય, ધરતી નીચે. સીડી ઉતરાય અને સીડી ચડાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કાવ્યપંક્તિના આધારે જોડો:<br>વિભાગ 'અ': (1) વાડ પર સૂતેલી (2) ઊંચેથી આરપાર સરતું<br>વિભાગ 'બ': (A) આકાશ (B) લીલાશ (C) મેદાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડ લીલી હોય એટલે 'લીલાશ'. આકાશ ઊંચે હોય એટલે 'ઊંચેથી સરતું આકાશ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદ સાથે કોને શું થશે?<br>વિભાગ 'અ': (1) આપણને (2) વાદળને<br>વિભાગ 'બ': (A) ગર્જના (B) થાય કે ચાલ આપણે પણ વરસીએ (C) ચોમાસું બેઠું છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં છે: 'તમને ય થાય... કે ચાલ ટહુકો થઈ જાઉં'. વાદળ તો ગર્જના જ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દ અને તેના પર્યાય જોડો:<br>વિભાગ 'અ': (1) ડુંગર (2) પક્ષી<br>વિભાગ 'બ': (A) પંખી (B) પર્વત (C) પથ્થર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુંગર એટલે પર્વત (ગિરિ). પક્ષી એટલે પંખી (ખગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્યમાં આવતા શબ્દોના અર્થ જોડો:<br>વિભાગ 'અ': (1) દળદળતું (2) ચોમાસું<br>વિભાગ 'બ': (A) વર્ષાઋતુ (B) પાણી પડવાનો અવાજ (C) ગરમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોમાસું એટલે વરસાદની ઋતુ. દળદળતું એટલે પાણીનો ધોધમાર અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કવિની અન્ય કૃતિઓ જોડો (પુસ્તક મુજબ):<br>વિભાગ 'અ': (1) કર્ણલોક (2) તત્વમસી<br>વિભાગ 'બ': (A) કવિતા (B) નવલકથા (C) વાર્તા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુવ ભટ્ટે 'તત્વમસી' અને 'કર્ણલોક' જેવી પ્રખ્યાત 'નવલકથાઓ' આપી છે. બંને નવલકથા જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્થળ અને ઘટના જોડો:<br>વિભાગ 'અ': (1) વાડ પરની લીલાશ (2) ઘેઘૂર વાદળ<br>વિભાગ 'બ': (A) મેદાનમાં ઉતરશે (B) આકાશમાં ગાજશે (C) નદીમાં વહેશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ યાદ કરો: 'વાડ પરે સૂતેલી સઘળી લીલાશ હવે ઉતરશે મેદાનમાં'.</p></div>"
+    }
+  ]
+}
