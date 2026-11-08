@@ -738,3 +738,71 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' અને વિભાગ 'બ' ના યોગ્ય જોડકાં જોડો: <br> (૧) અખબારી નોંધના લેખક <br> (૨) અખબારી નોંધનો સાહિત્ય પ્રકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) અખબારી નોંધના લેખક - ડૉ. ચંદ્રકાંત મહેતા <br>(૨) અખબારી નોંધનો સાહિત્ય પ્રકાર - માહિતીપ્રદ આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ્ર' જેવો પ્રકાશ 'અખબાર' આપે એટલે લેખક 'ચંદ્રકાંત' અને તે 'માહિતી' આપે એટલે પ્રકાર 'માહિતીપ્રદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (શબ્દ) અને વિભાગ 'બ' (તેનો અર્થ) ના જોડકાં જોડો: <br> (૧) અખબાર <br> (૨) સમાચાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) અખબાર - અરબી શબ્દ 'ખબર'નું બહુવચન <br>(૨) સમાચાર - સંસ્કૃત શબ્દ 'સમ + આચાર'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અખબાર 'અ' પરથી 'અરબી' અને સમાચાર 'સ' પરથી 'સંસ્કૃત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અંગ્રેજી શબ્દ અને તેના અર્થના યોગ્ય જોડકાં જોડો: <br> (૧) News <br> (૨) Press Note",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) News - ઉત્તર, પૂર્વ, પશ્ચિમ, દક્ષિણ (દિશાઓ) <br>(૨) Press Note - અખબારી નોંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NEWS એટલે ચારેય દિશા (North, East, West, South) ના સમાચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' અને વિભાગ 'બ' (વ્યક્તિ/હોદ્દો) જોડો: <br> (૧) સમાચાર પત્રના વડા <br> (૨) સમાચાર મોકલનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) સમાચાર પત્રના વડા - તંત્રી (Editor) <br>(૨) સમાચાર મોકલનાર - સંવાદદાતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંત્ર સંભાળે તે 'તંત્રી' અને સંવાદ (વાત) આપે તે 'સંવાદદાતા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાચારના પ્રકાર અને તેના વિષયના જોડકાં જોડો: <br> (૧) સાહિત્યિક નોંધ <br> (૨) ધાર્મિક સમાચાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) સાહિત્યિક નોંધ - પુસ્તક વિમોચન / વ્યાખ્યાન <br>(૨) ધાર્મિક સમાચાર - સુંદરકાંડ પાઠ / ભજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક એ સાહિત્ય છે અને સુંદરકાંડ એ ધર્મ છે - સીધું જોડાણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અખબારી નોંધ મોકલતી વખતે જરૂરી વિગતો જોડો: <br> (૧) સમાચાર મોકલનારની <br> (૨) સમાચાર પત્રના તંત્રીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) સમાચાર મોકલનારની - સહી અને સરનામું <br>(૨) સમાચાર પત્રના તંત્રીને - સંબોધન પત્ર (વિનંતી પત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સત્તાવાર કાગળમાં 'સહી' વગર કિંમત નથી અને તંત્રીને 'વિનંતી' કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિવિધ સામાજિક નોંધના જોડકાં જોડો: <br> (૧) ઇનામ વિતરણ <br> (૨) અવસાન નોંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) ઇનામ વિતરણ - સિદ્ધિ મેળવનારનું સન્માન <br>(૨) અવસાન નોંધ - બેસણું અથવા શ્રદ્ધાંજલિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇનામ એટલે 'ખુશી' (સન્માન) અને અવસાન એટલે 'દુઃખ' (બેસણું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભાષાકીય પર્યાયી શબ્દો જોડો: <br> (૧) પૂર્તિ <br> (૨) જિજ્ઞાસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) પૂર્તિ - છાપા સાથે આવતો વધારાનો અંક <br>(૨) જિજ્ઞાસા - જાણવાની ઈચ્છા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવારે છાપામાં જે રંગીન આવે તે 'પૂર્તિ' અને નવું જાણવું એટલે 'જિજ્ઞાસા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમાચારના પાંચ 'W' પૈકી જોડો: <br> (૧) What <br> (૨) When",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) What - શું (ઘટના) <br>(૨) When - ક્યારે (સમય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: What = શુ? (ઘટના), When = ક્યારે? (W-hen માં 'hen' સમયસર ઊઠે તેમ યાદ રાખો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થળ અને કાર્યક્રમના જોડકાં જોડો: <br> (૧) વ્યાખ્યાન <br> (૨) વિમોચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) વ્યાખ્યાન - ભાષણ આપવું તે <br>(૨) વિમોચન - પુસ્તકને ખુલ્લું મૂકવું તે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ' થી વ્યાખ્યાન અને 'વ' થી વક્તાનું ભાષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચો ક્રમ અને વિગત જોડો: <br> (૧) અખબારી નોંધની તારીખ <br> (૨) અખબારી નોંધનો વિષય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) અખબારી નોંધની તારીખ - સમાચાર પ્રસિદ્ધ કરવાની તારીખ <br>(૨) અખબારી નોંધનો વિષય - સમાચાર કયા બાબતના છે તે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારીખ વગર સમાચાર જૂના અને વિષય વગર અખબાર નકામું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાચાર લેખનના 'H' અને 'W' જોડો: <br> (૧) Where <br> (૨) How",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(૧) Where - ક્યાં (સ્થળ) <br>(૨) How - કેવી રીતે (ઘટનાનો પ્રકાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Where (વેર) - ક્યાં? (સ્થળ શોધવા વેર ન રખાય!), How - કેવી રીતે?</p></div>"
+    }
+  ]
+}
