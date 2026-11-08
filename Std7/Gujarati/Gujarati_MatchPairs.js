@@ -655,3 +655,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) અખબારી નોંધના લેખક, (2) 'અખબાર' શબ્દનું મૂળ, (3) 'સમાચાર' શબ્દનો સંસ્કૃત સ્ત્રોત\nવિભાગ 'બ': (A) અરબી ભાષાનો 'ખબર' શબ્દ, (B) 'સમ્ + આચાર', (C) ડૉ. ચંદ્રકાંત મહેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અખબાર' અરબી છે અને 'સમાચાર' માં સંસ્કૃતની સંધિ (સમ્+આચાર) દેખાય છે. લેખક તો 'ચંદ્ર' જેવા તેજસ્વી મહેતા સાહેબ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય જોડકાં જોડો:\nવિભાગ 'અ': (1) અંગ્રેજીમાં સમાચારને શું કહેવાય?, (2) ન્યૂઝ (NEWS) શબ્દ કેટલા અક્ષરનો છે?, (3) સમાચારનો પર્યાય શબ્દ\nવિભાગ 'બ': (A) 4 (ચાર), (B) ન્યૂઝ (News), (C) વૃત્તાંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NEWS માં N-E-W-S ચાર દિશા છે એટલે અક્ષર પણ 4 જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અર્થ મુજબ જોડકાં જોડો:\nવિભાગ 'અ': (1) જિજ્ઞાસા, (2) વ્યુત્પત્તિ, (3) દૈનિક\nવિભાગ 'બ': (A) રોજ પ્રગટ થતું, (B) જાણવાની ઈચ્છા, (C) શબ્દની ઉત્પત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જિ' એટલે જાણવું, 'દૈનિક' એટલે 'દિન' (દિવસ) મુજબ રોજનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાચાર પત્રના વિભાગો મુજબ જોડો:\nવિભાગ 'અ': (1) શ્રદ્ધાંજલિ, (2) ઈનામ વિતરણ, (3) વ્યાખ્યાન\nવિભાગ 'બ': (A) શૈક્ષણિક/સાંસ્કૃતિક નોંધ, (B) મરણનોંધ, (C) વ્યાખ્યાન નોંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દો પકડો! 'વ્યાખ્યાન' સામે 'વ્યાખ્યાન' જ આવે, અને શ્રદ્ધાંજલિ હંમેશા મરણ વખતે અપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાચારના 'કકાર' (5 W + 1 H) મુજબ જોડો:\nવિભાગ 'અ': (1) શું?, (2) ક્યારે?, (3) ક્યાં?\nવિભાગ 'બ': (A) સમય (When), (B) સ્થળ (Where), (C) ઘટના (What)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્યારે' એટલે ઘડિયાળ (સમય) અને 'ક્યાં' એટલે નકશો (સ્થળ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પત્રકારત્વના શબ્દોના ગુજરાતી અર્થ જોડો:\nવિભાગ 'અ': (1) Editor, (2) Column, (3) Press Note\nવિભાગ 'બ': (A) કોલમ / કટાર, (B) અખબારી નોંધ, (C) તંત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડિટર એ જ આપણો તંત્રી, અને 'નોંધ' એટલે જ 'નોટ' (Note).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અખબારી નોંધ મોકલતી વખતે ધ્યાનમાં રાખવાની બાબતો જોડો:\nવિભાગ 'અ': (1) પ્રેષકનું નામ, (2) તંત્રીને સંબોધન, (3) નોંધ મોકલવાની તારીખ\nવિભાગ 'બ': (A) પત્ર મોકલનારની સહી, (B) વિનંતી પત્રમાં અનિવાર્ય, (C) સમાચાર ક્યારે છાપવા તે માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેષક એટલે મોકલનાર, એની સહી તો જોઈએ જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાચારના વિવિધ પ્રકારો જોડો:\nવિભાગ 'અ': (1) ધાર્મિક સમાચાર, (2) સાહિત્યિક સમાચાર, (3) વિવિધ સમાચાર\nવિભાગ 'બ': (A) પુસ્તક વિમોચન, (B) હવામાન / વરસાદ, (C) સુંદરકાંડ પાઠ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ એ ધર્મ છે, પુસ્તક એ સાહિત્ય છે અને વરસાદ એ તો કુદરતની વિવિધતા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડો:\nવિભાગ 'અ': (1) મૃત્યુ પછીની શ્રદ્ધાંજલિની નોંધ, (2) સમાચાર આપનારો લેટર, (3) સમાચાર પત્રનો મુખ્ય વડો\nવિભાગ 'બ': (A) વિનંતી પત્ર, (B) તંત્રી, (C) અવસાન નોંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃત્યુ = અવસાન, વડો = તંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અખબાર વિશેના તથ્યો જોડો:\nવિભાગ 'અ': (1) સમાચારની સાચી હકીકત, (2) અખબારી નોંધ ક્યાં છપાય છે?, (3) અખબારી નોંધ મોકલનાર વ્યક્તિ\nવિભાગ 'બ': (A) સમાચાર પત્રની ખાસ કટારમાં, (B) પ્રેષક, (C) પાંચ 'W' અને એક 'H'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હકીકત હંમેશા પ્રશ્નો (W) થી જ જાણી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દાર્થ અને વિરોધી ભાવ જોડો:\nવિભાગ 'અ': (1) આનંદ (પર્યાય), (2) સંતોષ (વિરોધી), (3) જિજ્ઞાસા (પર્યાય)\nવિભાગ 'બ': (A) અસંતોષ, (B) કુતૂહલ, (C) પ્રમોદ / હર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' લાગે એટલે વિરોધી બને (સંતોષ-અસંતોષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાચારના અંગ્રેજી 'W' ના સાચા અર્થ જોડો:\nવિભાગ 'અ': (1) Why, (2) Who, (3) How\nવિભાગ 'બ': (A) કોણ, (B) કેવી રીતે, (C) શા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Why = શા માટે (કારણ), Who = કોણ (વ્યક્તિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખન પદ્ધતિ મુજબ જોડો:\nવિભાગ 'અ': (1) અખબારી નોંધ કઈ ભાષામાં હોવી જોઈએ?, (2) સમાચારમાં સહી કોની હોવી જોઈએ?, (3) સમાચાર કયા પત્ર દ્વારા મોકલવા?\nવિભાગ 'બ': (A) પ્રેષકની, (B) વિનંતી પત્ર દ્વારા, (C) સરળ અને સ્પષ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાષા હંમેશા 'સરળ' જ સારી લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિષયવસ્તુ મુજબ જોડો:\nવિભાગ 'અ': (1) સર્વધર્મ સભા, (2) ઇનામ વિતરણ, (3) વ્યાખ્યાન\nવિભાગ 'બ': (A) શૈક્ષણિક સમાચાર, (B) સામાજિક/ધાર્મિક સમાચાર, (C) બૌદ્ધિક ચર્ચા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇનામ સ્કૂલ (શિક્ષણ) માં મળે, સભા ધાર્મિક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અખબારના સમાનાર્થી જોડો:\nવિભાગ 'અ': (1) ખબર, (2) સમાચાર, (3) અખબાર\nવિભાગ 'બ': (A) છાપું, (B) સમાચાર / માહિતી, (C) હકીકત / જાણકારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં બધા 'છાપું' બોલે, શહેરમાં 'અખબાર'.</p></div>"
+    }
+  ]
+}
