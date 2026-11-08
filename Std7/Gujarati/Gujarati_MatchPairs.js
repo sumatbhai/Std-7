@@ -806,3 +806,71 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) અખબાર, (2) સમાચાર<br>વિભાગ 'બ': (A) સંસ્કૃત શબ્દ 'સમ + આચાર', (B) અરબી શબ્દ 'ખબર' નું બહુવચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અખબાર અને 'અ' થી અરબી યાદ રાખવું. સમાચારમાં 'સમ' ઉપસર્ગ સંસ્કૃતનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) સમાચાર (અંગ્રેજીમાં), (2) અખબારી નોંધ (અંગ્રેજીમાં)<br>વિભાગ 'બ': (A) Press Note, (B) News",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર એટલે 'નવી' વાત એટલે News. 'નોંધ' એટલે Note પરથી 'Press Note' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિષય મુજબ જોડકાં જોડો:<br>વિભાગ 'અ': (1) સાહિત્યિક, (2) શૈક્ષણિક<br>વિભાગ 'બ': (A) ઈનામ વિતરણ, (B) પુસ્તક વિમોચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પુસ્તક' સાહિત્યમાં આવે અને 'ઈનામ/પરીક્ષા' શિક્ષણ (શૈક્ષણિક) માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દના અર્થના આધારે જોડો:<br>વિભાગ 'અ': (1) જિજ્ઞાસા, (2) સંવાદદાતા<br>વિભાગ 'બ': (A) સમાચાર આપનાર પ્રતિનિધિ, (B) જાણવાની ઈચ્છા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જિજ્ઞાસુ' હંમેશા 'જાણવા' માંગતો હોય. 'સંવાદ' કરનાર એટલે રિપોર્ટર/પ્રતિનિધિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દો જોડો:<br>વિભાગ 'અ': (1) તંત્રી, (2) આનંદ<br>વિભાગ 'બ': (A) હર્ષ/મોદ, (B) સંપાદક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર પત્રનું 'તંત્ર' સંભાળે તે 'તંત્રી' એટલે કે 'Editor' (સંપાદક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાચારના પાંચ 'W' મુજબ જોડો:<br>વિભાગ 'અ': (1) ક્યાં?, (2) ક્યારે?<br>વિભાગ 'બ': (A) સમય (When), (B) સ્થળ (Where)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્યાં' એટલે જગા (સ્થળ) અને 'ક્યારે' એટલે ઘડિયાળ (સમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યોગ્ય જોડકાં બનાવો:<br>વિભાગ 'અ': (1) અવસાન નોંધ, (2) ધાર્મિક સમાચાર<br>વિભાગ 'બ': (A) સુંદરકાંડ/ભજન, (B) બેસણું/શ્રદ્ધાંજલિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસાન પછી 'બેસણું' હોય અને ભગવાનના કામ એટલે 'ધાર્મિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દસમૂહ માટેના એક શબ્દ મુજબ જોડો:<br>વિભાગ 'અ': (1) મૃત્યુ પામેલ વ્યક્તિને આપેલી શ્રદ્ધાપૂર્વકની અંજલિ, (2) કોઈ બાબતની જાહેરાત કે ખબર<br>વિભાગ 'બ': (A) સમાચાર, (B) શ્રદ્ધાંજલિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંજલિ' શબ્દ પ્રશ્નમાં જ જવાબ છુપાવીને બેઠો છે (શ્રદ્ધાંજલિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરુદ્ધાર્થી શબ્દ જોડો:<br>વિભાગ 'અ': (1) સંતોષ, (2) આનંદ<br>વિભાગ 'બ': (A) શોક, (B) અસંતોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતોષની આગળ 'અ' લગાડવાથી વિરોધી બને. આનંદનું વિરોધી દુઃખ કે શોક થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠના સંદર્ભે જોડો:<br>વિભાગ 'અ': (1) અખબારી નોંધ પાઠના લેખક, (2) લેખકની પદવી<br>વિભાગ 'બ': (A) ડૉક્ટર (Dr.), (B) ડૉ. ચંદ્રકાંત મહેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ્ર' જેવું 'તેજ' ધરાવતા મહેતા સાહેબે અખબારી નોંધ લખી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પારિભાષિક શબ્દો જોડો:<br>વિભાગ 'અ': (1) નિધન, (2) વિમોચન<br>વિભાગ 'બ': (A) ખુલ્લું મૂકવું (પુસ્તક વગેરે), (B) મૃત્યુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિધન' એટલે ધન વિનાનું નહીં પણ મૃત્યુ. પુસ્તકને પહેલીવાર બહાર પાડવું એટલે 'વિમોચન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' (કાર્ય) અને વિભાગ 'બ' (હેતુ) જોડો:<br>વિભાગ 'અ': (1) તંત્રીને વિનંતી પત્ર, (2) સૌજન્ય<br>વિભાગ 'બ': (A) જે તે સંસ્થા દ્વારા, (B) સમાચાર છાપવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંત્રીને પત્ર કેમ લખાય? સમાચાર છાપવા. સમાચાર કોણે આપ્યા? તે 'સૌજન્ય' થી ખબર પડે.</p></div>"
+    }
+  ]
+}
