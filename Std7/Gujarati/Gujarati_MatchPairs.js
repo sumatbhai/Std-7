@@ -572,3 +572,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "બાનો વાડો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પ્રવીણસિંહ ચાવડા, (2) 'બાનો વાડો' સાહિત્ય પ્રકાર<br>વિભાગ 'બ': (A) નિબંધ, (B) લેખક, (C) કવિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) લેખક, (2) - (A) નિબંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાવડા' સાહેબે 'નિબંધ' લખ્યો અને 'બા' ને અમર કરી દીધા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (છોડ) ને વિભાગ 'બ' (પ્રકાર) સાથે જોડો:<br>વિભાગ 'અ': (1) તુલસી, અરડૂસી, ખરસાણી (2) મોગરો, જાસૂદ, રાતરાણી<br>વિભાગ 'બ': (A) ફૂલો, (B) ઔષધિય છોડ, (C) ફળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ઔષધિય છોડ, (2) - (A) ફૂલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરદી થાય તો તુલસી-અરડૂસી (દવા/ઔષધ) અને સુગંધ માટે ફૂલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (ફળો) ને વિભાગ 'બ' (છોડ/વૃક્ષ) સાથે જોડો:<br>વિભાગ 'અ': (1) પપૈયાં, જામફળ, સીતાફળ (2) રીંગણાં, ભીંડા, ગવાર<br>વિભાગ 'બ': (A) શાકભાજી, (B) ફળો, (C) અનાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ફળો, (2) - (A) શાકભાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફળ' નામે જ ફળ છે, અને રીંગણ-ભીંડા મમ્મી રસોઈમાં (શાક) બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' (શબ્દ) ને વિભાગ 'બ' (અર્થ) સાથે જોડો:<br>વિભાગ 'અ': (1) જાજરમાન, (2) તડકી-છાંયડી<br>વિભાગ 'બ': (A) સુખ અને દુઃખ, (B) પ્રભાવશાળી વ્યક્તિત્વ, (C) ગરીબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) પ્રભાવશાળી વ્યક્તિત્વ, (2) - (A) સુખ અને દુઃખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાજરમાન' એટલે જેનું માન હોય તેવું વ્યક્તિત્વ, અને તડકો-છાંયો એટલે જીવનના સુખ-દુઃખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' (વિરોધી શબ્દ) સાથે જોડો:<br>વિભાગ 'અ': (1) પ્રસન્ન, (2) ઉદ્યમી<br>વિભાગ 'બ': (A) આળસુ, (B) નારાજ/અપ્રસન્ન, (C) મહેનતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) નારાજ/અપ્રસન્ન, (2) - (A) આળસુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉદ્યમ એટલે મહેનત, તેનો ઉલટો આળસુ; પ્રસન્નનો ઉલટો અપ્રસન્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' (રૂઢિપ્રયોગ) ને વિભાગ 'બ' (અર્થ) સાથે જોડો:<br>વિભાગ 'અ': (1) ધાડો મારવી, (2) ટક ટક જોયા કરવું<br>વિભાગ 'બ': (A) એકધારી રીતે જોવું, (B) મોટું કામ કરી નાખવું, (C) ચોરી કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) મોટું કામ કરી નાખવું, (2) - (A) એકધારી રીતે જોવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાડો મારી એટલે જાણે બહુ મોટું પરાક્રમ કર્યું હોય! અને આંખના પલકારા વગર જોવું એટલે ટક ટક જોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) બાનો સાચો રુદ્રાવતાર, (2) બાનું અખૂટ શસ્ત્ર<br>વિભાગ 'બ': (A) કોઈ પશુ વાડામાં પેસી જાય ત્યારે, (B) નિરંતર ઉદ્યોગ, (C) આરામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) કોઈ પશુ વાડામાં પેસી જાય ત્યારે, (2) - (B) નિરંતર ઉદ્યોગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડામાં ગાય-ભેંસ પેસે તો બા ગુસ્સે થાય (રુદ્રાવતાર) અને બા ક્યારેય નવરા ન બેસે (ઉદ્યોગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (વિશેષણ) ને વિભાગ 'બ' (નામ) સાથે જોડો:<br>વિભાગ 'અ': (1) લીલોછમ, (2) સાત દાયકા<br>વિભાગ 'બ': (A) બાની ઉંમર, (B) વાડો, (C) ઘર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) વાડો, (2) - (A) બાની ઉંમર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડો હંમેશા લીલોછમ હોય અને બાની ઉંમર 70 વર્ષ (સાત દાયકા) ઉપર હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) બાની નજર, (2) બાનો સ્વભાવ<br>વિભાગ 'બ': (A) ઉદાર અને પ્રેમાળ, (B) ચકોર (ઝીણું જોનારી), (C) કઠોર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ચકોર, (2) - (A) ઉદાર અને પ્રેમાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાની નજર 'ચકોર' પક્ષી જેવી તેજ હતી અને તે બધાને ફળ-ફૂલ વહેંચતા (ઉદાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' (શબ્દસમૂહ) ને વિભાગ 'બ' (શબ્દ) સાથે જોડો:<br>વિભાગ 'અ': (1) દસ વર્ષનો સમયગાળો, (2) ઘરની બાજુની ખુલ્લી જગા<br>વિભાગ 'બ': (A) વાડો, (B) દાયકો, (C) મહોલ્લો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) દાયકો, (2) - (A) વાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 વર્ષ = 1 દાયકો. બાનો પ્રેમ = ઘરનો વાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' (સામગ્રી) ને વિભાગ 'બ' (ઉપયોગ) સાથે જોડો:<br>વિભાગ 'અ': (1) લીંબુ, (2) ફૂલો<br>વિભાગ 'બ': (A) મંદિરમાં પૂજા માટે, (B) છાશ કે શરબત માટે, (C) સુશોભન માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) છાશ કે શરબત માટે, (2) - (A) મંદિરમાં પૂજા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉનાળામાં લીંબુની છાશ અને સવારે ભગવાનની પૂજા માટે ફૂલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' (ક્રિયા) ને વિભાગ 'બ' (પાત્ર) સાથે જોડો:<br>વિભાગ 'અ': (1) વાડામાં સતત કામ કરવું, (2) બાના કામની પ્રશંસા કરવી<br>વિભાગ 'બ': (A) લેખક, (B) બા, (C) પાડોશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) બા, (2) - (A) લેખક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા પાઠમાં કામ કરનાર 'બા' છે અને તેમના વિશે લખનાર/વખાણ કરનાર 'લેખક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (પર્યાયી શબ્દ) ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) નેત્ર, (2) કાચા સોના જેવી<br>વિભાગ 'બ': (A) પપૈયાની છાલ, (B) આંખ, (C) તડકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) આંખ, (2) - (A) પપૈયાની છાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નેત્ર એટલે લોચન/આંખ, અને પપૈયાનો રંગ કાચા સોના જેવો લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' (સ્થળ) ને વિભાગ 'બ' (વિશેષતા) સાથે જોડો:<br>વિભાગ 'અ': (1) બાનો વાડો, (2) લેખકનું વતન<br>વિભાગ 'બ': (A) બાના જીવનનું સ્ત્રોત, (B) શહેર, (C) ગામડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) બાના જીવનનું સ્ત્રોત, (2) - (C) ગામડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા વાડા વગર રહી ન શકે (સ્ત્રોત) અને આ આખી વાર્તા ગામડાની પૃષ્ઠભૂમિ પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (બાની સ્થિતિ) ને વિભાગ 'બ' (ઘટના) સાથે જોડો:<br>વિભાગ 'અ': (1) બા એકલા પડી ગયા, (2) બા આનંદમાં આવી જતા<br>વિભાગ 'બ': (A) જ્યારે વાડો ખીલેલો જુએ, (B) બાપાજીના મૃત્યુ પછી, (C) જ્યારે મહેમાન આવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) બાપાજીના મૃત્યુ પછી, (2) - (A) જ્યારે વાડો ખીલેલો જુએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથી જાય તો એકલતા આવે (બાપાજી) અને મહેનત રંગ લાવે તો આનંદ (વાડો).</p></div>"
+    }
+  ]
+}
