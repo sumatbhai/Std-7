@@ -874,3 +874,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) લેખક, (2) સાહિત્ય પ્રકાર \nવિભાગ B: (A) પ્રવાસલેખ, (B) ચંદ્રવદન ચી. મહેતા, (C) નવલકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ્ર' જેવો પ્રકાશ 'દક્ષિણ'માં 'પ્રવાસ' દરમિયાન ફેલાયો. (ચંદ્રવદન - દક્ષિણ ભણી - પ્રવાસલેખ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) તાપી, (2) નર્મદા \nવિભાગ B: (A) રેવા, (B) સૂર્યપુત્રી, (C) ગંગા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત' થી તાપી અને 'ત' થી પુત્રી (સૂર્યપુત્રી). નર્મદા હંમેશા 'રેવા' (રહેવા) માટે શ્રેષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બારડોલી, (2) સુરત \nવિભાગ B: (A) સોનાની મુરત, (B) ભારતનું થર્મોપોલી, (C) હીરાનગરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારડોલી એ ભારતની 'પોલી' (થર્મોપોલી) છે અને સુરત તો સોના જેવું ચોખ્ખું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ડભોઈ, (2) રાંદેર \nવિભાગ B: (A) પ્રાચીન નગર, (B) જૂનું બંદર, (C) અરબના વેપારીઓનું મથક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રા' થી રાંદેર અને 'અ' થી અરબ - રા-અ ની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કવિ નર્મદ, (2) કવિ નવલરામ \nવિભાગ B: (A) સુરતના વિવેચક, (B) મક્કાનું પ્રવેશદ્વાર, (C) 'દાંડિયો' સામયિકના કર્તા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદ 'દાંડિયો' વગાડે અને નવલરામ વિવેચન (નવલકથા જેવું વિવેચન) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હજીરા, (2) ભીમપોર \nવિભાગ B: (A) તીથલનો દરિયો, (B) દીવાદાંડી, (C) હનુમાનજીનું મંદિર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હજીરામાં 'દીવો' (દીવાદાંડી) છે અને ભીમ જેવા હનુમાનજી ભીમપોરમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (શબ્દાર્થ): \nવિભાગ A: (1) ઘેરો, (2) ઓવારો \nવિભાગ B: (A) નદીનો કિનારો, (B) ચારે બાજુથી ઘેરી લેવું તે, (C) કિલ્લો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘેરો એટલે ઘેરાબંધી અને ઓવારો એટલે કિનારો (O - Ocean - કિનારો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (વિશેષતા): \nવિભાગ A: (1) અશ્વિનીકુમાર, (2) કતારગામ \nવિભાગ B: (A) સ્મશાન, (B) જૂનાં થાણાં, (C) મહેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુમાર' સ્મશાનમાં શાંતિ શોધે અને 'કતાર'માં થાણાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મુઘલ બાદશાહ અકબર, (2) શિવાજી મહારાજ \nવિભાગ B: (A) સુરત લૂંટ્યું હતું, (B) તાપી કિનારે પડાવ નાખ્યો હતો, (C) ભીમપોરમાં રહ્યા હતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરનો 'પડાવ' અને શિવાજીની 'લૂંટ' (ઇતિહાસ પ્રસિદ્ધ ઘટના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ડુમસ, (2) ઉભરાટ \nવિભાગ B: (A) હવાખાવાનું સ્થળ, (B) દરિયા કિનારો, (C) ગરમ પાણીના કુંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુમસનો 'દ' અને દરિયાનો 'દ'. ઉભરાટમાં હવા 'ઉભરાય' (હવાખાવાનું સ્થળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ફિરંગીઓ, (2) ડચ \nવિભાગ B: (A) વલંદા, (B) પોર્ટુગીઝ, (C) અંગ્રેજો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિરંગી = પોર્ટુગીઝ (ફ-પો) અને ડચ = વલંદા (ડ-વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (કાવ્ય પંક્તિ): \nવિભાગ A: (1) નર્મદ, (2) ગુજરાતી લોકો \nવિભાગ B: (A) મોજીલા અને લડાયક, (B) 'આ તે શા તુજ હાલ?', (C) શાંતિપ્રિય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદ રડ્યો હતો (હાલ જોઈને) અને સુરતીઓ મોજીલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સોનગઢ, (2) માંડવી \nવિભાગ B: (A) તાપી કિનારે વસેલું શહેર, (B) જંગલ અને કિલ્લો, (C) રણ પ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનગઢમાં 'ગઢ' (કિલ્લો) હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (વિરુદ્ધાર્થી): \nવિભાગ A: (1) અંધકાર, (2) આશા \nવિભાગ B: (A) નિરાશા, (B) ઉજાસ, (C) પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારું હોય તો પ્રકાશ જોઈએ, આશા હોય તો નિરાશા પણ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કઠોર, (2) પારડી \nવિભાગ B: (A) ઘાસના મેદાનો, (B) લડાયક લોકો, (C) મીઠાના અગરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠોર લોકો જ લડાયક હોઈ શકે!</p></div>"
+    }
+  ]
+}
