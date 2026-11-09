@@ -957,3 +957,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "આવ ભાણા, આવ!",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. લેખકનું નામ<br>2. સાહિત્ય પ્રકાર<br>3. કૃતિનું શીર્ષક<br><br>વિભાગ 'બ':<br>A. આવ ભાણા, આવ!<br>B. શાહબુદ્દીન રાઠોડ<br>C. હાસ્યકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (લેખક: શાહબુદ્દીન રાઠોડ)</p><p>2 - C (પ્રકાર: હાસ્યકથા)</p><p>3 - A (કૃતિ: આવ ભાણા, આવ!)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ પ્રખ્યાત હાસ્ય કલાકાર છે, એટલે પાઠનો પ્રકાર 'હાસ્યકથા' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાત્ર અને તેની ઓળખના આધારે જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. દુદા મામા<br>2. જેઠાભાઈ<br>3. અફઝલ<br><br>વિભાગ 'બ':<br>A. લેખકના પિતા<br>B. લેખકનો પુત્ર<br>C. મોચી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - C (દુદા મામા - મોચી)</p><p>2 - A (જેઠાભાઈ - લેખકના પિતા)</p><p>3 - B (અફઝલ - લેખકનો પુત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બૂટ' બનાવનાર હંમેશા મોચી (દુદા મામા) જ હોય અને 'અફઝલ' એ નવી પેઢીનો દીકરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દાર્થ (સમાનાર્થી) ના આધારે જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. પરમાણું<br>2. પગરખાં<br>3. વાધરી<br><br>વિભાગ 'બ':<br>A. ચામડાની દોરી<br>B. માપ<br>C. જોડા અથવા બૂટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (પરમાણું - માપ)</p><p>2 - C (પગરખાં - જોડા/બૂટ)</p><p>3 - A (વાધરી - ચામડાની દોરી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણું એટલે વિજ્ઞાનનો અણુ નહીં, પણ મોચીનું 'માપ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાઠમાં આવતા પ્રસંગો અને સમયના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. બૂટ સીવવાની પરવાનગી મળી<br>2. દુદા મામાએ આપેલા વાયદા<br>3. લેખકની ઉંમર<br><br>વિભાગ 'બ':<br>A. અગણિત<br>B. જેઠ મહિનાની બપોરે<br>C. ૧૨-૧૩ વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (પરવાનગી જેઠની બપોરે મળી)</p><p>2 - A (વાયદા તો અગણિત હતા)</p><p>3 - C (બાલ્યકાળની ઉંમર ૧૨-૧૩ વર્ષ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામાના વાયદા એટલે 'અનંત' - ક્યારેય પૂરા ન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. ઉત્સાહ<br>2. સ્મૃતિ<br>3. સધ્ધર<br><br>વિભાગ 'બ':<br>A. વિસ્મૃતિ<br>B. નિરુત્સાહ<br>C. નબળું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (ઉત્સાહ × નિરુત્સાહ)</p><p>2 - A (સ્મૃતિ × વિસ્મૃતિ)</p><p>3 - C (સધ્ધર × નબળું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે શબ્દની આગળ 'નિ' કે 'વિ' લાગે તે ઘણીવાર વિરોધી બની જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. બૂટમાં નાખવાનું લાકડાનું બીબું<br>2. ચામડું સાફ કરવાનું સાધન<br>3. પગનું રક્ષણ કરનાર<br><br>વિભાગ 'બ':<br>A. પગરખાં<br>B. ઓઠું<br>C. અડોતરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (લાકડાનું બીબું - ઓઠું)</p><p>2 - C (સાફ કરવાનું સાધન - અડોતરો)</p><p>3 - A (પગનું રક્ષણ - પગરખાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓઠું' એટલે બૂટનો આકાર જાળવી રાખતો લાકડાનો 'ઓથ' (ટેકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. ધરમધક્કા ખાવા<br>2. છાતી ગજગજ ફૂલવી<br>3. હૃદય દ્રવી ઊઠવું<br><br>વિભાગ 'બ':<br>A. ખૂબ ગર્વ થવો<br>B. ખૂબ દયા આવવી<br>C. નિરર્થક ફેરા ખાવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - C (ધરમધક્કા - નિરર્થક ફેરા)</p><p>2 - A (છાતી ફૂલવી - ગર્વ થવો)</p><p>3 - B (હૃદય દ્રવવું - દયા આવવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામાએ લેખકને બૂટ માટે ઘણા 'ધરમધક્કા' ખવડાવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાત્રના વિશિષ્ટ લક્ષણોના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. લેખક (બાળપણમાં)<br>2. દુદા મામા<br>3. વડીલો<br><br>વિભાગ 'બ':<br>A. મંજૂરી આપનાર સત્તા<br>B. બૂટ માટે અધીરા<br>C. વાયદાબજારના રાજા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (લેખક બૂટ માટે ખૂબ અધીરા હતા)</p><p>2 - C (દુદા મામા વાયદા કરવામાં એક્સપર્ટ હતા)</p><p>3 - A (વડીલો બૂટની મંજૂરી આપતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અધીરાઈ' બાળકોમાં હોય અને 'વાયદા' કામચોર કે ઢીલા માણસમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બૂટ બનાવવાની પ્રક્રિયાના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. લાલ ચામડું<br>2. સોય-દોરો<br>3. બૂટમાં લેસ (દોરી)<br><br>વિભાગ 'બ':<br>A. વાધરી<br>B. રંગની પસંદગી<br>C. સાંધવાની ક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (લાલ ચામડું - રંગની પસંદગી)</p><p>2 - C (સોય-દોરો - સાંધવું)</p><p>3 - A (બૂટની દોરી - વાધરી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં લેખકને 'લાલ' બૂટ સીવડાવવાની ભારે હોંશ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠના સંવાદો કોણ બોલે છે તેના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. 'આવ ભાણા, આવ!'<br>2. 'મારે બૂટ સીવડાવવા છે.'<br>3. 'નવા બૂટની શું જરૂર છે?'<br><br>વિભાગ 'બ':<br>A. વડીલો/પરિવાર<br>B. દુદા મામા<br>C. લેખક (શાહબુદ્દીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>1 - B (દુદા મામા હંમેશા આ વાક્યથી સ્વાગત કરતા)</p><p>2 - C (લેખકની આ મુખ્ય માંગણી હતી)</p><p>3 - A (ઘરના વડીલો આવું કહેતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ દુદા મામાનો મુખ્ય સંવાદ છે!</p></div>"
+    }
+  ]
+}
