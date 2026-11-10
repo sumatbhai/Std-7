@@ -1015,3 +1015,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આવ ભાણા આવ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) 'આવ ભાણા આવ' ના લેખક, (2) 'આવ ભાણા આવ' નો પ્રકાર.\nવિભાગ 'બ': (અ) હાસ્યકથા, (બ) શાહબુદ્દીન રાઠોડ, (ક) નવલકથા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન હંમેશા હસાવે છે, એટલે પ્રકાર 'હાસ્યકથા' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દાર્થ મુજબ યોગ્ય જોડકાં બનાવો:\nવિભાગ 'અ': (1) પરમાણું, (2) ઓઠું.\nવિભાગ 'બ': (અ) બૂટની અંદર નાખવાનું છૂટું પડ, (બ) માપ, (ક) આડું રાખવાનું લાકડું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરમાણું' એટલે વિજ્ઞાનમાં નાનો કણ પણ અહીં બૂટનું 'માપ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાત્ર અને તેની વિશેષતા જોડો:\nવિભાગ 'અ': (1) દૂદૂ મામા, (2) અફઝલ.\nવિભાગ 'બ': (અ) લેખકનો પુત્ર, (બ) મોચી, (ક) લેખકના કાકા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂદૂ મામા એટલે ધીરે-ધીરે બૂટ સીવનારા મોચી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દના જોડકાં જોડો:\nવિભાગ 'અ': (1) બૂટની અંદરનું પડ, (2) જેઠાબાપાના પુત્ર.\nવિભાગ 'બ': (અ) ખાયા, (બ) રમેશ, (ક) લાલજી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (અ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ અંદરથી 'ખાયા' (ખાઈ) જેવું ઊંડું હોય એટલે ખાયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાઠના ઘટનાક્રમ મુજબ જોડો:\nવિભાગ 'અ': (1) નવા બૂટ માટેની મંજૂરી, (2) બૂટ માટે માપ લેવું.\nવિભાગ 'બ': (અ) દૂદૂ મામાની દુકાન, (બ) વડીલોની મિટિંગ, (ક) અફઝલની જીદ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા 'મિટિંગ' થાય પછી જ 'માપ' લેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાચા પર્યાયવાચી શબ્દો જોડો:\nવિભાગ 'અ': (1) અનિવાર્ય, (2) તપશ્ચર્યા.\nવિભાગ 'બ': (અ) તપસ્યા, (બ) ચોક્કસ, (ક) અતિ જરૂરી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ક), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નિવારી ન શકાય તે અનિવાર્ય (અતિ જરૂરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બૂટના પ્રકાર અને લેખકની ઈચ્છા જોડો:\nવિભાગ 'અ': (1) સોમાણી બૂટ, (2) અંગૂઠા પાસે અણી.\nવિભાગ 'બ': (અ) લેખકની ડિઝાઇન, (બ) કંપનીનું નામ, (ક) અફઝલની પસંદ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમાણી એટલે બ્રાન્ડ (કંપની) અને અણી એટલે લેખકની ફેશન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રૂઢિપ્રયોગના અર્થ જોડો:\nવિભાગ 'અ': (1) અવાજ ફાટી જવો, (2) નામું નાખવું.\nવિભાગ 'બ': (અ) હિસાબ કરવો, (બ) ગળગળા થઈ જવું, (ક) હિંમત હારી જવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવુક થઈએ ત્યારે જ અવાજ ફાટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દો જોડો:\nવિભાગ 'અ': (1) સ્મરણ, (2) ઉત્સાહ.\nવિભાગ 'બ': (અ) નિરુત્સાહ, (બ) વિસ્મરણ, (ક) આળસ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્મરણ' ની આગળ 'વિ' લગાવો એટલે વિરોધી બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થળ અને પાત્ર જોડો:\nવિભાગ 'અ': (1) દુકાન, (2) સ્ટેશન રોડ.\nવિભાગ 'બ': (અ) મેળો, (બ) દૂદૂ મામા, (ક) અફઝલની સ્કૂલ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં દુકાન તો દૂદૂ મામાની જ ફેમસ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તળપદા શબ્દોના શિષ્ટ રૂપ જોડો:\nવિભાગ 'અ': (1) વેણ, (2) ભીડ.\nવિભાગ 'બ': (અ) મુશ્કેલી, (બ) વચન, (ક) ગિરદી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વેણ' એટલે મોઢામાંથી નીકળેલું વચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંબંધિત વસ્તુઓ જોડો:\nવિભાગ 'અ': (1) પેન્સિલ, (2) મીણ.\nવિભાગ 'બ': (અ) બૂટ સાફ કરવા, (બ) માપ લેવા માટે કાગળ પર લીટી દોરવા, (ક) દોરો મજબૂત કરવા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂદૂ મામા પેન્સિલથી માપ લેતા અને મીણથી દોરો ઘસતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાત્ર અને સંવાદ જોડો:\nવિભાગ 'અ': (1) \"આવ ભાણા આવ\", (2) \"બૂટનું શું થયું?\".\nવિભાગ 'બ': (અ) લેખક, (બ) દૂદૂ મામા, (ક) બાપુજી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવકાર હંમેશા મામા (દૂદૂ મામા) આપે અને પ્રશ્ન હંમેશા લેખક પૂછે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "તારીખ અને દિવસના જોડકાં જોડો:\nવિભાગ 'અ': (1) શનિવાર, (2) સોમવાર.\nવિભાગ 'બ': (અ) બૂટ આપવાનો વાયદો, (બ) નવો વાયદો, (ક) શાળાની રજા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (અ), (2) - (બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયદા પર વાયદા - શનિવારથી સોમવાર સુધીની સફર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકની મનઃસ્થિતિ જોડો:\nવિભાગ 'અ': (1) બૂટ મળવાની આશા, (2) બૂટ ન મળતા હતાશા.\nવિભાગ 'બ': (અ) શિખર સર કરવા જેવો આનંદ, (બ) ધરમધક્કા, (ક) ઊંઘ ન આવવી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (અ), (2) - (બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ મળે તો 'શિખર' જેવો આનંદ, ના મળે તો 'ધરમધક્કા'!</p></div>"
+    }
+  ]
+}
