@@ -580,3 +580,161 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં (પ્રકૃતિગીત)",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘રાનમાં’ કાવ્યના કવિનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘રાનમાં’ કાવ્યના કવિનું નામ ધ્રુવ ભટ્ટ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાન' (જંગલ) માં 'ધ્રુવ' તારો ચમકે છે એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘રાન’ શબ્દનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘રાન’ શબ્દનો અર્થ ‘જંગલ’ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન = જંગલ (બંનેમાં 'ન' આવે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ક્યાંક ચોમાસું ગાજે છે એમ કવિ ક્યાં કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્યાંક ચોમાસું રાનમાં (જંગલમાં) ગાજે છે એમ કવિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાજતું ચોમાસું હંમેશા રાનમાં (જંગલમાં) પહેલા સંભળાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાડ પર સૂતેલી સઘળી લીલાશ ક્યાં ઉતરશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાડ પર સૂતેલી સઘળી લીલાશ હવે મેદાનમાં ઉતરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડ → મેદાન (વરસાદ આવે એટલે હરિયાળી મેદાનમાં ફેલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આકાશ હવે કેવી રીતે નીચે ઉતરશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચેથી ઘેરાયેલું આકાશ હવે વરસાદના રૂપે ધોધમાર નીચે ઉતરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશ વરસાદ બનીને 'હેઠું' (નીચે) ઉતરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીંજાતા વાયરાઓ કયો સંદેશો વહેતા કરશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીંજાતા વાયરાઓ સંદેશો વહેશે કે ચોમાસું ધારધાર બેઠું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરો (પવન) = સંદેશવાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કાલ સુધી મકાનમાં કોણ રહેતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાલ સુધી મકાનમાં ‘આપણે’ (માણસો) રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાલ સુધી આપણે, આજથી વાછંટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદ આવવાથી હવે મકાનમાં કોણ રહેશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ આવવાથી હવે મકાનમાં વાછંટો રહેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ પછી મકાનનો નવો મહેમાન = વાછંટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વરસાદ પડવાથી કોને કોને આનંદ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ પડવાથી વાદળને, ઝરણાને, ઘાસને, ડુંગરને અને આખા ગામને આનંદ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતના દરેક અંગ (વાદળ, ઝરણું, ઘાસ) ને આનંદ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વરસાદમાં તરબતર થયા પછી કવિને શું થવાનું મન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદમાં તરબતર થયા પછી કવિને ટહુકો થઈને ઝાડ નીચે ગહેકવાનું મન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિ = ટહુકો (મોરની જેમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘નેવાં’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાપરાના છેડા ઉપરના નળિયા, જેમાંથી વરસાદનું પાણી નીચે પડે છે તેને ‘નેવાં’ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નેવાં = પાણીનો નિકાલ કરતા નળિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વરસાદમાં કયો પક્ષી ગહેકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદમાં મોર (ટહુકો કરીને) ગહેકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ + મોર = ગહેકવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘ગહેકવું’ શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘ગહેકવું’ એટલે પક્ષીઓનું આનંદમાં આવીને બોલવું (ખાસ કરીને મોરનું ટહુકવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગહેકવું = હર્ષનાદ / ટહુકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાવ્યમાં ‘દડદડવું’ શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં ‘દડદડવું’ શબ્દ નેવેથી પડતા વરસાદના પાણી માટે વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનો અવાજ = દડદડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચોમાસું ક્યાં બેઠું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોમાસું ધારધાર બેઠું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારદાર વરસાદ એટલે 'ધારધાર' બેઠું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘રાનમાં’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘રાનમાં’ કાવ્યનો સાહિત્ય પ્રકાર ‘પ્રકૃતિગીત’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ અને વરસાદ એટલે કુદરત (પ્રકૃતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ધ્રુવ ભટ્ટનો જન્મ કયા જિલ્લામાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્રુવ ભટ્ટનો જન્મ ભાવનગર જિલ્લાના નિંગાળા ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવનગરનો 'ધ્રુવ' તારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ધ્રુવ ભટ્ટની કોઈપણ એક જાણીતી નવલકથાનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘અકૂપાર’ અથવા ‘સમુદ્રાન્તિકે’ ધ્રુવ ભટ્ટની જાણીતી નવલકથાઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકૂપાર (સમુદ્ર વિશેની કથા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘વાછંટ’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવનની ગતિ સાથે આવતા વરસાદના છાંટાને ‘વાછંટ’ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વા (પવન) + છંટ (છાંટા) = વાછંટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વરસાદમાં કોણ કોણ ભીંજાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદમાં વાયરા, વાદળ, ઝરણા, ઘાસ, ડુંગર અને આખું ગામ ભીંજાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૃષ્ટિના તમામ અંગો વરસાદમાં તરબતર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આકાશ હેઠું ઉતરશે એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાશ હેઠું ઉતરશે એટલે કે આકાશમાં રહેલા વાદળો વરસાદ બનીને જમીન પર વરસશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશનું જમીન પર આવવું = વરસાદ પડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘ધારધાર’ શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘ધારધાર’ એટલે કે પુષ્કળ અથવા મોટી ધારામાં પડતો વરસાદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાર-ધાર = ધોધમાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગામને આનંદ કેમ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેવેથી દડદડતા વરસાદના પાણીને જોઈને આખા ગામને આનંદ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ = ગામની ખુશાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘સંદેશા’ શબ્દનો પર્યાય શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘સંદેશા’ શબ્દનો પર્યાય શબ્દ ‘સમાચાર’ અથવા ‘ખબર’ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંદેશ = મેસેજ/ખબર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઝાડ નીચે ગહેકવાનું મન કોને થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદમાં ભીંજાયા પછી કવિને (અને દરેક કુદરતપ્રેમીને) ઝાડ નીચે ગહેકવાનું મન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આનંદમાં પક્ષીની જેમ બોલવાનું મન થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘સઘળી’ શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘સઘળી’ એટલે બધી જ અથવા તમામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સઘળી = બધી (Everything).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "લીલાશ ક્યાં સૂતેલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલાશ વાડ પર સૂતેલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડ પર લીલા વેલા હોય એટલે ત્યાં 'લીલાશ' સૂતી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ધ્રુવ ભટ્ટે કયા ક્ષેત્રમાં એન્જિનિયર તરીકે કામ કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્રુવ ભટ્ટે ઓદ્યોગિક એકમમાં એન્જિનિયર તરીકે કામ કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિનિયર હોવા છતાં કુદરતના કવિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘હેઠું’ શબ્દનો વિરોધી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘હેઠું’ શબ્દનો વિરોધી શબ્દ ‘ઊંચું’ અથવા ‘ઉપર’ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેઠું (નીચે) ↔ ઊંચું (ઉપર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાવ્યમાં ‘આપણને’ એટલે કોની વાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં ‘આપણને’ એટલે વરસાદનો આનંદ માણતા મનુષ્યોની વાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણને = માનવજાત.</p></div>"
+    }
+  ]
+}
