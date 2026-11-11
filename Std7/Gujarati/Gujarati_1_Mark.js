@@ -264,3 +264,211 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'પરીક્ષા' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'પરીક્ષા' પાઠના લેખક પન્નાલાલ પટેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' પરથી પરીક્ષા અને 'પ' પરથી પન્નાલાલ - બંને યાદ રાખવા સરળ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'પરીક્ષા' પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'પરીક્ષા' પાઠનો સાહિત્ય પ્રકાર 'બોધકથા' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાંથી કંઈક શીખવા મળે એ 'બોધ', એટલે પરીક્ષા એ બોધકથા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સવારનો તડકો કેવો દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારનો તડકો સોના જેવો એટલે કે સોનેરી અને મનોહર દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારનો પીળો તડકો = સોનું (Gold).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખેતરમાં કયો પાક લહેરાઈ રહ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતરમાં ઘઉં અને ચણાનો પાક લહેરાઈ રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘઉં-ચણા'ની જોડી યાદ રાખો, જે શિયાળુ પાક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પરીક્ષા આપવા જતાં ચાર છોકરાઓમાં મુખ્ય પાત્ર કોણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાર છોકરાઓમાં મુખ્ય પાત્ર 'મહાદેવ' હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેવોમાં મહાદેવ મોટા, તેમ આ પાઠમાં મહાદેવ મુખ્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શિષ્યવૃત્તિની પરીક્ષામાં પ્રથમ આવનારને કેટલા રૂપિયા મળવાના હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ આવનારને દર મહિને પંદર રૂપિયા મળવાના હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1-નંબર = 15 રૂપિયા (1 અને 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બીજા નંબરે આવનાર વિદ્યાર્થીને કેટલા રૂપિયા શિષ્યવૃત્તિ મળવાની હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજા નંબરે આવનારને દર મહિને દસ રૂપિયા મળવાના હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2-નંબર = 10 રૂપિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ત્રીજા નંબરે આવનારને કેટલી શિષ્યવૃત્તિ મળવાની હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રીજા નંબરે આવનારને દર મહિને પાંચ રૂપિયા મળવાના હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15, 10 અને 5 - પાંચ-પાંચના અંતરે ઘટાડો થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મહાદેવને કયો વિશ્વાસ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવને વિશ્વાસ હતો કે શિષ્યવૃત્તિની પરીક્ષામાં તે પહેલો નંબર લાવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આત્મવિશ્વાસ = મહાદેવનો પહેલો નંબર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મહાદેવે ખેતરમાં શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવે ખેતરમાં એક ગાયને લહેરાતા પાકમાં ચરતી જોઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં વિલન કોણ? 'ગાય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાય કોના ખેતરમાં સૌથી પહેલા પેઠી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાય સૌથી પહેલા મહાદેવના માસીના ખેતરમાં પેઠી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત 'માસી'થી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાયને કાઢવા જતાં મહાદેવને શાની ચિંતા થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવને પરીક્ષામાં મોડા પડવાની ચિંતા થઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય પાક ખાય છે અને સમય પરીક્ષા ખાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માસીના ખેતર પછી ગાય કોના ખેતરમાં ગઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માસીના ખેતર પછી ગાય કાકાના ખેતરમાં ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસી પછી કાકા (ક્રમ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મહાદેવના કાકા કેવા સ્વભાવના હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવના કાકા સ્વભાવે થોડા 'ખારીલા' (ચીડિયા) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાકા = ખારીલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાકાના ખેતર પછી ગાય કોના ખેતરમાં ગઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાકાના ખેતર પછી ગાય નારજીકાકાના ખેતરમાં ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસી -> કાકા -> નારજીકાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખુશાલભાઈના ખેતરમાંથી ગાયને કેમ કાઢી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે ખુશાલભાઈ ગરીબ હતા અને એમને બીજું કોઈ ખેતર નહોતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબનું નુકસાન ન કરાય, એ મહાદેવની દયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાયને હાંકવા માટે મહાદેવને શું મળ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાયને હાંકવા માટે મહાદેવને એક સૂકું લાકડું (સોટી) મળ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હથિયાર તરીકે 'લાકડું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શાળાએ પહોંચતા મહાદેવ કેમ રડવા જેવો થઈ ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળાએ પહોંચતા મોડું થઈ ગયું હતું અને પોતે ગંદો થયો હતો તેથી મહાદેવ રડવા જેવો થઈ ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોડું થવું + પસીનો + ગંદકી = રડમસ ચહેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પરીક્ષા લેનાર ઇન્સ્પેક્ટરે મહાદેવની આંખમાં શું જોયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્સ્પેક્ટરે મહાદેવની આંખમાં આંસુને બદલે માનવતાની સરવાણી જોઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખમાં 'આંસુ' નહીં, 'માનવતા' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઇન્સ્પેક્ટરે મહાદેવને પરીક્ષામાં બેસવા દેવા માટે શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્સ્પેક્ટરે કહ્યું, 'આપ એને પેપર, એ પાસ છે'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવતામાં પાસ તો પરીક્ષામાં પણ પાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહાદેવે ગાયને કોના ખેતરમાં છેલ્લે મૂકી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવે ગાયને શંકાના (પોતાના મિત્રના) ખેતરમાંથી બહાર કાઢી છેલ્લે રસ્તા પર મૂકી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોસ્તના ખેતરમાં પણ નુકસાન ન થવા દીધું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મહાદેવની ઇમાનદારીની પરીક્ષા કોણે લીધી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવની ઇમાનદારીની પરીક્ષા કુદરતે અને ઇન્સ્પેક્ટરે લીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચી પરીક્ષા શાળાની બહાર પણ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'સૂરજની ગતિ શાળા તરફ વધતી જતી હતી' - આ વાક્યનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાક્યનો અર્થ એ થાય કે સમય વીતી રહ્યો હતો અને શાળાનો સમય નજીક આવી રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ વધે = સમય વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મહાદેવે પોતાની સોટી કોને આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવે પોતાના દફતરની સાથે પોતાની સોટી કે સામાન મિત્ર શંકાને આપ્યો નહોતો, પણ પોતાનું દફતર શંકાને આપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દફતર શંકાને આપી મહાદેવ ગાય પાછળ દોડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાય માટે પાઠમાં કયો શબ્દ વપરાયો છે જે તેના શારીરિક દેખાવનું વર્ણન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાય માટે 'હષ્ટ-પુષ્ટ' શબ્દ વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાજી-માજી ગાય = હષ્ટ-પુષ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઇન્સ્પેક્ટરને મહાદેવ મોડો આવવાનું કારણ પૂછ્યું ત્યારે મહાદેવે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવે રડતા રડતા બધી જ હકીકત જણાવી દીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચું બોલવું એ જ મોટી જીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મહાદેવના મતે ગાયને ખેતરમાં રાખવી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવના મતે ગાયને ખેતરમાં રાખવી એટલે કોઈના પાકનો સોથ વાળવો (નાશ કરવો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય ખેતરમાં = પાક સાફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "'લોઢાના ચણા ચાવવા' રૂઢિપ્રયોગનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'લોઢાના ચણા ચાવવા' એટલે અત્યંત મુશ્કેલ કામ કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોઢું ચાવવું અઘરું હોય, એટલે મુશ્કેલ કાર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મહાદેવને ગાયમાં શું દેખાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવને ગાયમાં હરાયું અને ચરબી ભરેલું જનાવર દેખાતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબી ભરેલું = તોફાની અને તાજું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પાઠમાં 'વાયરો' શબ્દનો શો અર્થ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'વાયરો' શબ્દનો અર્થ પવન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરો = વાયુ = પવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "મહાદેવ મોડો પડ્યો છતાં કેમ ખુશ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવને ઇન્સ્પેક્ટરે પરીક્ષામાં બેસવા દીધો અને તેની ઇમાનદારીની કદર કરી તેથી તે ખુશ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સેક્ટરે પેપર આપ્યું એટલે ખુશી આવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગાયે કોનું ખેતર બાકી રાખ્યું નહોતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાયે ગામના લગભગ બધા જ લોકોના ખેતરમાં ફરી વળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયે લાઈન લગાવી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શાળાએ જતાં છોકરાઓ શાની વાતો કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળાએ જતાં છોકરાઓ પરીક્ષા અને શિષ્યવૃત્તિ વિશે વાતો કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યાર્થીઓ = પરીક્ષાની ચર્ચા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મહાદેવે ગાયને મારવા માટે લાકડું કેમ ન લીધું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવે ગાયને જોરથી મારવા માટે લાકડું લીધું હતું પણ પછી તેને દયા આવી કે ગાય બિચારી કોઈનું તો નુકસાન નથી કરતી (માત્ર ખાતી જ હતી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવના મનમાં દયા અને ગુસ્સો બંને હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મહાદેવ કયા વર્ગમાં ભણતો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠના સંદર્ભ મુજબ મહાદેવ પ્રાથમિક શાળાના ઉપલા ધોરણમાં (સાતમા-આઠમા) ભણતો હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્યવૃત્તિની પરીક્ષા સામાન્ય રીતે 7-8 ધોરણમાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લેખક પન્નાલાલ પટેલને કયો સર્વોચ્ચ એવોર્ડ મળ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક પન્નાલાલ પટેલને ભારતીય સાહિત્યનો સર્વોચ્ચ 'જ્ઞાનપીઠ પુરસ્કાર' મળ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પન્નાલાલ = જ્ઞાનના પન્ના (જ્ઞાનપીઠ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મહાદેવના પિતાનું નામ પાઠમાં શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠમાં મહાદેવના પિતાના નામનો સ્પષ્ટ ઉલ્લેખ નથી, પરંતુ તેને હરાયા ઢોર જેવી ગાય કાઢવા બદલ ગૌરવ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખ્ય પાત્ર પર ધ્યાન આપો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "'ખાલી ઘોડા દોડાવવા' રૂઢિપ્રયોગનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ખાલી ઘોડા દોડાવવા' એટલે નકામા વિચારો કરવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડા દોડે પણ કામ ન થાય = ફોગટ વિચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઇન્સ્પેક્ટરની માનવતાનું શું પરિણામ આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્સ્પેક્ટરની માનવતાને કારણે મહાદેવ પરીક્ષા આપી શક્યો અને અન્યાય થતો અટક્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દયા + ન્યાય = સાચું પરિણામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "આ પાઠમાંથી આપણને શું શીખ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠમાંથી શીખ મળે છે કે જીવનમાં ગમે તેવી મુશ્કેલી આવે તો પણ ઇમાનદારી અને માનવતા છોડવી જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇમાનદારી જ સર્વોચ્ચ છે.</p></div>"
+    }
+  ]
+}
