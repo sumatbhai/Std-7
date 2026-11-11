@@ -472,3 +472,111 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'બે ખાનાનો પરિગ્રહ' પાઠના લેખિકા કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બે ખાનાનો પરિગ્રહ' પાઠના લેખિકા મનુબહેન ગાંધી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેન ગાંધી એ ગાંધીજીના પૌત્રી (ભાઈના પૌત્રી) હતા, તેથી તેમણે જ આ પ્રસંગ લખ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'બે ખાનાનો પરિગ્રહ' પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠનો સાહિત્ય પ્રકાર 'પ્રસંગ લેખ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનમાં બનેલી સાચી ઘટનાનું વર્ણન એટલે 'પ્રસંગ લેખ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીને મળવા માટે કોણે બોલાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને મળવા માટે વાઈસરોય લોર્ડ માઉન્ટબેટને બોલાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદી સમયે 'માઉન્ટબેટન' ભારતના છેલ્લા વાઈસરોય હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીએ વાઈસરોયને મળવા જવા માટે કયા વાહનનો ઇનકાર કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ વાઈસરોયને મળવા જવા માટે વિમાન (એરોપ્લેન) નો ઇનકાર કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુની સાદગી: 'જેમાં કરોડો ગરીબો મુસાફરી ન કરી શકે, તેમાં હું કેવી રીતે બેસું?'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મનુબહેને ટ્રેનના ડબ્બાના કેટલા ખાના રાખ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેને ટ્રેનના ડબ્બાના બે ખાના રાખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ 'બે ખાનાનો પરિગ્રહ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મનુબહેને બે ખાના કેમ રાખ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ખાનામાં સામાન રાખવા માટે અને બીજા ખાનામાં પૂજ્ય બાપુજીને સુવા-બેસવા તેમજ લખવા માટે રાખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામની વહેંચણી: એક ખાનું રસોઈ/સામાન માટે + એક ખાનું બાપુ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગાંધીજીએ મનુબહેનને શા માટે ઠપકો આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેને ગાંધીજીની સગવડ માટે ટ્રેનના ડબ્બાના બે ખાના રોક્યા હતા, જે ગાંધીજીને ખપ (જરૂરિયાત) કરતા વધારે લાગ્યું, તેથી ઠપકો આપ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત કરતા વધારે વાપરવું એ બાપુના મતે એક પ્રકારની હિંસા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ટ્રેનમાં મુસાફરી કરતી વખતે ગાંધીજી કયું કામ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રેનમાં મુસાફરી કરતી વખતે ગાંધીજી લખવાનું, કાંતવાનું અને ભણવાનું કામ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુ ક્યારેય સમયનો બગાડ નહોતા કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્ટેશન માસ્તરે ગાંધીજીને શું વિનંતી કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેશન માસ્તરે ગાંધીજીને બીજું ખાનું (ડબ્બો) વાપરવા દેવા માટે આજીજી અને વિનંતી કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશન માસ્તર બાપુની સગવડ સાચવવા માંગતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીએ સ્ટેશન માસ્તરને કયો આગ્રહ રાખ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ સ્ટેશન માસ્તરને આગ્રહ કર્યો કે વધારાનું ખાનું ખાલી કરી દીધું છે, તેનો ઉપયોગ બહાર લટકતા મુસાફરો માટે કરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરોપકારની ભાવના: પોતાનું સુખ છોડી બીજાનું દુઃખ દૂર કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'પરિગ્રહ' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'પરિગ્રહ' એટલે જરૂરી ન હોય તેવું વાપરવા માટે ભેગું કરવું તે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગ્રહવૃત્તિ = પરિગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બાપુએ કયા યજ્ઞમાં ઝંપલાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાપુએ 'નોઆખલી' ના યજ્ઞમાં (શાંતિ સ્થાપવા માટે) ઝંપલાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નોઆખલી' એ બંગાળમાં આવેલું સ્થળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીના મતે 'ચોરી' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીના મતે જે વસ્તુની આપણને જરૂર નથી છતાં તેનો ઉપયોગ કરવો તે એક પ્રકારની ચોરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણખપનું (વગર જરૂરનું) વાપરવું એટલે ચોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મનુબહેન ગાંધીજીના શું થતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેન ગાંધીજીના પિતરાઈ ભાઈ ખુશાલચંદના પૌત્રી થતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌત્રી (Granddaughter).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટ્રેન કયા સ્ટેશનથી ઉપડતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રેન પટણાથી દિલ્હી જવા માટે ઉપડતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટણા (બિહાર) થી દિલ્હીની મુસાફરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બાપુએ મનુબહેનને ક્યાં જઈને વધારાનો સામાન ખસેડવા કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાપુએ મનુબહેનને પટણાના સ્ટેશન પર જઈને વધારાનો સામાન બીજા ખાનામાં ખસેડવા અને તે ખાનું ખાલી કરવા કહ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશન આવે ત્યારે જ સામાન ફેરવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાંધીજીએ કઈ વાતને 'અસહ્ય' ગણાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકો ટ્રેનના ડબ્બાની બહાર લટકીને મુસાફરી કરે અને પોતે બે ખાના રોકે તે વાતને ગાંધીજીએ 'અસહ્ય' ગણાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજાના દુઃખ સામે પોતાનું સુખ અસહ્ય લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મનુબહેને પોતાની ભૂલનો સ્વીકાર કેવી રીતે કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેને ગાંધીજીના ઠપકાને શિરોધાર્ય માનીને બીજું ખાનું ખાલી કરી દીધું અને પોતાની ભૂલ સમજી લીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડીલોની શીખ સ્વીકારવી એ જ સાચો સુધારો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આ પાઠ દ્વારા આપણને કયો બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠ દ્વારા આપણને 'અપરિગ્રહ' એટલે કે ખપ કરતા વધારે વસ્તુઓનો સંગ્રહ ન કરવાનો બોધ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદી રહેણીકરણી અને જરૂર પૂરતો જ ઉપયોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સ્ટેશન માસ્તર શા માટે ઝંખવાણા પડી ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ સ્ટેશન માસ્તરની સગવડ આપવાની દરખાસ્તનો અસ્વીકાર કર્યો અને તેમને ઉમદા આદર્શ સમજાવ્યો, તેથી તેઓ ઝંખવાણા પડી ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીની નિઃસ્વાર્થવૃત્તિ જોઈ સ્ટેશન માસ્તર નિરુત્તર થઈ ગયા.</p></div>"
+    }
+  ]
+}
