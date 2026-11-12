@@ -738,3 +738,111 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભીખુ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ભીખુ’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘ભીખુ’ પાઠના લેખકનું નામ ગૌરીશંકર ગોવર્ધનરામ જોશી (ધૂમકેતુ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગૌરી'ના લાલ 'ધૂમકેતુ' જેવા તેજસ્વી - ગૌરીશંકર જોશી (ધૂમકેતુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ભીખુ’ પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘ભીખુ’ પાઠનો સાહિત્ય પ્રકાર ‘સંવેદનકથા’ (બોધકથા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુની વાર્તા દિલમાં 'સંવેદના' જગાડે તેવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખક કયા શહેરના દરવાજા પાસેથી પસાર થઈ રહ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક અમદાવાદ શહેરના ‘ત્રણ દરવાજા’ પાસેથી પસાર થઈ રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ દરવાજા = અમદાવાદની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકે ફૂટપાથ પર કોને સૂતેલી જોઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે ફૂટપાથ પર એક કંગાલ સ્ત્રીને તેનાં બાળકો સાથે સૂતેલી જોઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંગાલ હાલત + ફૂટપાથ = ગરીબ પરિવાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કંગાલ સ્ત્રીના મોઢામાંથી કયા શબ્દો નીકળતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંગાલ સ્ત્રીના મોઢામાંથી ‘એક કંગાલ પર ઇતની રહમ કરો’ એવા શબ્દો નીકળતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહમ (દયા) માંગતી કંગાલ સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીખુની ઉંમર આશરે કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુની ઉંમર આશરે દસ-બાર વર્ષની હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ એટલે ૧૦-૧૨ વર્ષનો નાનો કિશોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભીખુએ પૈસામાંથી શું ખરીદ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ પૈસામાંથી ‘દાળિયા’ ખરીદ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખ લાગી ત્યારે 'દાળિયા' સસ્તા અને પેટ ભરે તેવા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભીખુ શા માટે દાળિયા ખાતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ દાળિયા ખાતો નથી કારણ કે તે દાળિયા તેને તેના ભૂખ્યા ભાઈ-ભાંડુઓ માટે લઈ જવા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુનો ત્યાગ = ભાઈઓ માટે ભૂખ સહન કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભીખુ તેની મા પાસે જઈને કયું જૂઠું બોલ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ તેની મા પાસે જઈને જૂઠું બોલ્યો કે, ‘મા, મેં તો ધરાઈને ખાધું છે.’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘પવિત્ર જૂઠ’ - માં-ભાઈઓ ખાઈ શકે તે માટે પોતે ધરાઈ ગયાનું નાટક કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખકે ભીખુને શું પૂછ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે ભીખુને પૂછ્યું, ‘તેં અત્યારે શું ખાધું?’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકની જિજ્ઞાસા - છોકરાની સચ્ચાઈ જાણવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભીખુના કુટુંબમાં કુલ કેટલા સભ્યો હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુના કુટુંબમાં ભીખુ, તેની માં અને તેના ત્રણ ભાઈઓ એમ કુલ પાંચ સભ્યો હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ ભાઈ + ૧ માં + ૧ ભીખુ = ૫ કંગાલ આત્માઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મીઠાઈની દુકાને ભીખુ શું જોઈ રહ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠાઈની દુકાને ભીખુ દુકાનદારને મીઠાઈના થાળ ગોઠવતા જોઈ રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લલચાયેલી નજર, પણ ખિસ્સામાં પૈસા નહોતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખકે ભીખુને કેટલા પૈસા આપ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે ભીખુને ત્રણ પૈસા આપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 પૈસાની મૂડી = ભીખુ માટે મોટી રકમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્ત્રીએ ભીખુને ક્યાં જઈને બેસવાનું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીએ ભીખુને ઓટલા પર જઈને બેસવાનું કહ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓટલો = ભીખુનું ખાવાનું સ્થાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભીખુ પાઠમાં ‘જલેબી’ શબ્દ કોની માટે લાલચ જેવો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘જલેબી’ શબ્દ ભીખુ માટે લાલચ જેવો હતો, પણ તે તેની મર્યાદા જાણતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલેબી જોઈને મોઢામાં પાણી, પણ મનમાં ભાઈઓનો વિચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખક ક્યાં જવા માટે ઉતાવળા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક સિનેમા જોવા જવા માટે ઉતાવળા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિનેમાની ટિકિટ અને ભીખુની ગરીબાઈ વચ્ચે લેખકનું હૃદય પરિવર્તન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘કંગાલ’ શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘કંગાલ’ શબ્દનો અર્થ ‘અતિશય ગરીબ’ અથવા ‘દરિદ્ર’ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંગાલ = જેની પાસે કશું જ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બાળકોને શું વહેંચી દેવામાં આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ લાવેલા દાળિયા બાળકોને વહેંચી દેવામાં આવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુનો સાચો પ્રેમ = દાળિયાની વહેંચણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભીખુને જોઈ લેખકના મનમાં શો ભાવ જાગ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુને જોઈ લેખકના મનમાં કરુણા અને આદરનો ભાવ જાગ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની ઉંમરે મોટો ત્યાગ જોઈ લેખક પીગળી ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ધૂમકેતુનું વતન કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક ધૂમકેતુનું વતન સૌરાષ્ટ્રનું વીરપુર ગામ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીરપુરના 'વીર' લેખક એટલે ધૂમકેતુ.</p></div>"
+    }
+  ]
+}
