@@ -1004,3 +1004,161 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર (લોકગીત)",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'માલમ હલેસાં માર' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'માલમ હલેસાં માર' કાવ્યનો સાહિત્ય પ્રકાર લોકગીત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકો દ્વારા ગવાયેલું ગીત એટલે લોકગીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લોકગીતના રચયિતા કોણ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકગીત એ લોકસમૂહ દ્વારા રચાય છે, તેના કોઈ એક ચોક્કસ રચયિતા હોતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીત = લોકો દ્વારા, લોકો માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દિયરને મેણું કોણે માર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયરને તેની ભાભીએ મેણું માર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિયરની પ્રગતિ માટે ભાભીનું 'મેણું' જરૂરી બન્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભાભીએ દિયરને કેવો કહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાભીએ દિયરને આળસુનો સરદાર (ગલઢેરો) કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આળસુ = ગલઢેરો (સ્થાનિક તળપદો શબ્દ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દિયરને શા માટે મેણું મારવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર આળસુ હતો અને કમાતો નહોતો, તેથી ભાભીએ તેને મેણું માર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામચોરી એ મેણાનું મુખ્ય કારણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દિયર કમાઈને આવે તો ભાભીને શું લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર કમાઈને આવે તો ભાભીને લાગે છે કે તેના જીવ્યાનું સાર્થક થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમાણી = જીવ્યાનું સુફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દિયર કમાવા માટે ક્યાં જવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર કમાવા માટે જાવા બંદરે જવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાવા = કમાવા માટેનું સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જાવા બંદરે જવાથી શું ફાયદો થાય તેમ કહેવાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાવા બંદરે જવાથી પુષ્કળ લક્ષ્મી (ધન) પ્રાપ્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાવા ગયા તે પાછા ન આવે, આવે તો લક્ષ્મી લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દિયર પદ્મિણી નારને પરણવા કયા દેશ જવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર સિંહલ દ્વીપ (શ્રીલંકા) પદ્મિણી નારને પરણવા જવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહલ દ્વીપ = સુંદર પત્ની (પદ્મિણી નાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દિયર માલમને શું વિનંતી કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર માલમને જલ્દીથી હલેસાં મારીને વહાણ હંકારવાની વિનંતી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલમ એટલે વહાણ ચલાવનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાવ્યમાં 'મેણું' શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં 'મેણું' શબ્દ ભાભીએ દિયરને કહેલા કડવા અને હિતકારી વેણ માટે વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું = કડવા વેણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દિયર પોતાની ભાભીને કેવી કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર તેની ભાભીને 'કેસરભીની' કહીને સંબોધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેસરભીની ભાભી એટલે ગુણવાન ભાભી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દિયરને શા માટે પરણવું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયરને પોતાની ભાભીનું મેણું ભાંગવા માટે અને જીવનમાં સફળ થવા પદ્મિણી નારને પરણવું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું ભાંગવા માટે સફળતા જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાવ્યમાં કયા દ્વીપની વાત કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં સિંહલ દ્વીપ (હાલનું શ્રીલંકા) ની વાત કરવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહલ દ્વીપ = શ્રીલંકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દિયરને કોની ખોટ સાલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયરને પોતાની કમાણી અને પત્નીની ખોટ સાલે છે, જે તે ભાભીના મેણા પછી દૂર કરવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આત્મસન્માનની ખોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'ગલઢેરો' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ગલઢેરો' શબ્દનો અર્થ આળસુ અથવા કામચોર માણસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગલઢેરો = બેઠાડુ માણસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દિયર કોના ભરોસે બેસી રહ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર તેના મોટા ભાઈની કમાણીના ભરોસે બેસી રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા ભાઈની કમાણી = દિયરની આળસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભાભીએ દિયરની કઈ ઇન્દ્રિય જાગૃત કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાભીએ કડવા વેણ કહીને દિયરની બુદ્ધિ અથવા આત્મસન્માનની જીભ (મતિ) જાગૃત કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું એ બુદ્ધિ જગાડવાનું સાધન બન્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'માલમ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'માલમ' એટલે વહાણ ચલાવનાર નાવિક કે ખલાસી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દિશા બતાવે અને વહાણ હંકારે તે માલમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દિયર વહાણ કઈ દિશામાં હંકારવા કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર વહાણ મધદરિયે એટલે કે જાવા બંદર અને સિંહલ દ્વીપ તરફ હંકારવા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લક્ષ્ય તરફ પ્રયાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દિયર અને ભાભી વચ્ચે કેવો સંબંધ કાવ્યમાં દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર અને ભાભી વચ્ચે મધુર ઠપકાનો અને નિર્મળ પ્રેમનો સંબંધ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેણું એ સુધારાનો રસ્તો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'સોળ શણગાર' સજેલી કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં સિંહલ દ્વીપની પદ્મિણી નાર સોળ શણગાર સજેલી છે તેમ કહેવાયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ્મિણી નાર = સંપૂર્ણ સુંદર સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દિયરને કોની જીભ સુધારવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયરને તેની ભાભીની જીભ (બોલવાની રીત) સુધારવી નથી, પણ તેની અપેક્ષા પૂરી કરીને તેને સંતોષ આપવો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભીના વેણ સફળતાથી જ બદલાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'જીવ્યામાં સાર નથી' - આ વાક્ય કોણ બોલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાક્ય ભાભી દિયરને ઉદ્દેશીને બોલે છે (તેના મેણાના સ્વરૂપમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આળસુ માણસનું જીવતર નકામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દિયર ઘરે પાછા ફરીને ભાભીને શું કહેવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર ઘરે પાછા ફરીને પોતે મેળવેલી સફળતા અને કમાણી બતાવીને ભાભીનો ગર્વ વધારવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વળતો જવાબ કાર્યથી આપવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "'ભેદ્યા' શબ્દનો અર્થ કાવ્યના સંદર્ભમાં શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ભેદ્યા' એટલે હૃદયમાં વાગવું અથવા અસર થવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેણ હૃદયને ભેદી ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "આ લોકગીતમાંથી શું બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ લોકગીતમાંથી બોધ મળે છે કે વડીલોના કડવા વેણ પણ આપણા હિત માટે હોય છે અને આપણે આળસ છોડી પુરુષાર્થ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેનત જ સફળતાની ચાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "દિયર કઈ રીતે પોતાની ભાભીનો આભાર માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર ભાભીને 'કેસરભીની' કહીને અને તેની આંખો ખોલવા બદલ આડકતરી રીતે આભાર માને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચી વાત સમજાઈ એટલે આભાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દિયર કોના જેવો અવતાર ગણે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર આળસુ બનીને ભાઈની કમાણી પર જીવવું તેને એળે ગયેલો અવતાર ગણે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એળે જવું = નકામું જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાવ્યમાં 'લક્ષ્મી' શબ્દ માટે કયો શબ્દ વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં 'લક્ષ્મી' શબ્દ માટે 'લખમી' શબ્દ વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળપદી ભાષામાં લક્ષ્મી = લખમી.</p></div>"
+    }
+  ]
+}
