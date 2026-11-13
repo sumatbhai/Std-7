@@ -1636,3 +1636,136 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "હાઈસ્કૂલમાં",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'હાઈસ્કૂલમાં' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'હાઈસ્કૂલમાં' પાઠના લેખક ગાંધીજી (મોહનદાસ કરમચંદ ગાંધી) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાઈસ્કૂલ' માં 'ગાંધીજી' ભણતા હતા - એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'હાઈસ્કૂલમાં' પાઠ ગાંધીજીની કઈ આત્મકથામાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠ ગાંધીજીની આત્મકથા 'સત્યના પ્રયોગો' માંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = સત્યના પ્રયોગો (દરેક પાઠનો સ્ત્રોત આ જ હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીએ હાઈસ્કૂલના હેડમાસ્ટર વિશે શું જણાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેડમાસ્ટર ગીમી સાહેબ શિસ્તપ્રિય, નિયમ જાળવનારા અને પદ્ધતિસર કામ કરનારા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીમી સાહેબ = શિસ્તના આગ્રહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીને કયા વિષયમાં વધારે રસ નહોતો પડતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને કસરત અને ક્રિકેટમાં બિલકુલ રસ નહોતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી 'શરમાળ' હતા એટલે રમતમાં પાછા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગાંધીજી કસરતના ક્લાસમાં શા માટે મોડા પડ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાશમાં વાદળાં હોવાથી સમયનો અંદાજ ન રહ્યો અને તેમની પાસે ઘડિયાળ નહોતી, તેથી તેઓ મોડા પડ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળાં = સમયની છેતરામણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કસરત માટે મોડા પહોંચવા બદલ ગાંધીજીને શું સજા થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને એક કે બે આના (તે સમયનું ચલણ) દંડ થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોડા આવ્યા = 'આના' નો દંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખોટા દંડ થવાથી ગાંધીજીને શું દુઃખ થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને દંડના પૈસાનું દુઃખ નહોતું, પણ પોતે જૂઠા ઠર્યા તેનું ખૂબ દુઃખ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્યવાદી ગાંધીજી = જૂઠા ઠરવાનો ડર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજીના મતે અક્ષરો વિશે કયો ખ્યાલ ખોટો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભણતરમાં સારા અક્ષરની જરૂર નથી, એવો ખોટો ખ્યાલ ગાંધીજીના મનમાં હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદેશ ગયા પછી ખબર પડી કે 'અક્ષર એ જ ઘરેણું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગાંધીજીએ ખરાબ અક્ષરોને શાની નિશાની ગણાવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ ખરાબ અક્ષરોને 'અધૂરી કેળવણીની નિશાની' ગણાવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ અક્ષર = કાચું ભણતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીના મતે અક્ષરો સુધારવા માટે શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અક્ષરો સુધારવા માટે બાળકે ચિત્રકળા શીખવી જોઈએ જેથી તે મરોડદાર અક્ષર લખી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્રકળા = સુંદર અક્ષરની ચાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાંધીજીને કયા વિષયમાં સૌથી વધુ મુશ્કેલી પડતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને સંસ્કૃત શીખવામાં ઘણી મુશ્કેલી પડતી હતી, કારણ કે તેમાં બધું ગોખવું પડતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃત = ગોખણપટ્ટીનો ભય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંસ્કૃત શિક્ષક અને ફારસી શિક્ષક વચ્ચે શું તફાવત હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્કૃત શિક્ષક કડક હતા, જ્યારે ફારસી શિક્ષક નરમ દિલના અને વિદ્યાર્થીઓને મદદ કરનારા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃત કડક - ફારસી નરમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંસ્કૃત શિક્ષકે ગાંધીજીને શું સમજાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ષકે સમજાવ્યું કે તું કોનો દીકરો છે તે તો જો, તારા ધર્મની ભાષા તારે શીખવી જ જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધર્મની ભાષા = સંસ્કૃત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગાંધીજીએ કયા શિક્ષકનો ઉપકાર માન્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ તેમના સંસ્કૃત શિક્ષક કૃષ્ણશંકર માસ્તરનો ઉપકાર માન્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણશંકર માસ્તર = સંસ્કૃત ના ગુરુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગાંધીજીને હાઈસ્કૂલમાં કઈ વાતનું પ્રમાણપત્ર મળતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને દર વર્ષે તેમના અભ્યાસ અને વર્તન વિશેનું પ્રમાણપત્ર મળતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અભ્યાસ + વર્તન = સર્ટિફિકેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાંધીજીએ કઈ ભૂલ બદલ જીવનભર પસ્તાવો કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ નાનપણમાં કરેલા ખરાબ અક્ષરો બદલ જીવનભર પસ્તાવો કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખરાબ અક્ષર = જીવનભરનો વસવસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાંધીજી કયા ધોરણમાં હતા ત્યારે તેમના લગ્ન થયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી જ્યારે હાઈસ્કૂલના સાતમા ધોરણમાં હતા ત્યારે તેમના લગ્ન થયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતમું ધોરણ = બાળલગ્નનો બોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીને કઈ શિષ્યવૃત્તિ મળી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને પાંચમા ધોરણમાં 4 રૂપિયા અને છઠ્ઠા ધોરણમાં 10 રૂપિયાની શિષ્યવૃત્તિ મળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 માં 4, 6 માં 10 - યાદ રાખજો બસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગાંધીજીના મતે ભણતરમાં કઈ બાબત અનિવાર્ય હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીના મતે માનસિક કેળવણીની જેમ શારીરિક કેળવણી (કસરત) પણ અનિવાર્ય હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તન તંદુરસ્ત તો મન તંદુરસ્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાંધીજીએ સત્ય બોલનારા માટે કઈ શરત જણાવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ જણાવ્યું છે કે સત્ય બોલનારે અને સત્ય કરનારે સાવધાન રહેવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્ય = સાવધાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગાંધીજીને કસરતમાંથી મુક્તિ મેળવવાની ઈચ્છા કેમ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને શાળા છૂટ્યા પછી તેમના પિતાની સેવા કરવાની તીવ્ર ઈચ્છા હતી, તેથી તેઓ કસરતમાંથી મુક્તિ ઈચ્છતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાની સેવા > કસરત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ભૂમિતિ વિષય ગાંધીજીને કયા ધોરણથી શીખવવામાં આવતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂમિતિ વિષય ચોથા ધોરણથી શરૂ થતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 નંબરે ભૂમિતિ (Geometry).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગાંધીજીના મતે ભૂમિતિ ક્યારે સહેલો વિષય બની ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે યુક્લિડનો તેરમો પ્રમેય આવ્યો, ત્યારે ગાંધીજીને સમજાયું કે ભૂમિતિ તો કેવળ બુદ્ધિનો સીધો અને સરળ પ્રયોગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુદ્ધિનો પ્રયોગ = ભૂમિતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગાંધીજીએ કઈ ભાષાને 'સંસ્કૃતની મોટી બહેન' જેવી ગણાવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીના મતે ગુજરાતી, હિન્દી અને બંગાળી જેવી ભાષાઓ સંસ્કૃતમાંથી જ ઉતરી આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃત = બધી ભાષાઓની જનની (માતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાંધીજીએ શા માટે કહ્યું કે 'મારી ભૂલને માટે હું રડ્યો'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તેઓ કસરતમાં મોડા પડ્યા અને શિક્ષકે તેમને જૂઠા માન્યા, ત્યારે નિર્દોષ હોવા છતાં જૂઠા ઠરવા બદલ તેઓ રડ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂઠનો આરોપ = ગાંધીજીના આંસુ.</p></div>"
+    }
+  ]
+}
