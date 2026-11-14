@@ -1927,3 +1927,111 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "આવ ભાણા, આવ!",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આવ ભાણા, આવ!’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘આવ ભાણા, આવ!’ પાઠના લેખક શાહબુદ્દીન રાઠોડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીનભાઈ હંમેશા 'આવ ભાણા' કહીને હસાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘આવ ભાણા, આવ!’ પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠનો સાહિત્ય પ્રકાર ‘હાસ્યકથા’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ માટેના ધક્કા વાંચીને 'હાસ્ય' આવે એટલે હાસ્યકથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખકને બાળપણમાં કઈ વસ્તુ મેળવવા માટે ખૂબ સંઘર્ષ કરવો પડતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને બાળપણમાં નવા બૂટ મેળવવા માટે ખૂબ સંઘર્ષ કરવો પડતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા પાઠનો હીરો 'બૂટ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખક નવા બૂટ માટે પ્રથમ કોની પાસે પરવાનગી માંગતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક નવા બૂટ માટે પ્રથમ તેમના બાપુજી પાસે પરવાનગી માંગતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરના વડા એટલે 'બાપુજી' પાસે જ અરજી કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બૂટ બનાવવા માટે કેટલા રૂપિયા નક્કી કરવામાં આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૂટ બનાવવા માટે સવા બે રૂપિયા (૨.૨૫) નક્કી કરવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનાના સસ્તા બૂટ = સવા બે રૂપિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકને બૂટ સીવડાવવા કોની પાસે મોકલવામાં આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને મોચી ભગત દુદા મામા પાસે બૂટ સીવડાવવા મોકલવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોચીનું નામ 'દુદા મામા' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દુદા મામાએ લેખકનું માપ શેના પર લીધું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામાએ લેખકનું માપ જૂના છાપાના ટુકડા પર લીધું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેપ નહોતી, એટલે 'છાપા' પર માપ લીધું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુદા મામા લેખકને હંમેશા કયું વાક્ય કહીને આવકારતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામા લેખકને હંમેશા 'આવ ભાણા, આવ!' કહીને આવકારતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ દુદા મામાનું આવકાર વાક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકને બૂટ સીવડાવવા માટે કયા કયા તહેવારોની રાહ જોવી પડતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને નવરાત્રિ, દિવાળી અને મોહરમ જેવા તહેવારોમાં નવા બૂટની આશા રહેતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તહેવારોમાં જ નવા કપડાં-બૂટ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પરિવારની મીટિંગમાં લેખકના બૂટ બાબતે શો નિર્ણય લેવાતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘણીવાર બૂટ રીપેર કરાવી લેવાનો અથવા સાંધા મરાવી લેવાનો નિર્ણય લેવાતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવું લેવા કરતા 'રીપેરિંગ' પર ભાર મુકાતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુદા મામા બૂટ આપવા માટે કયો વાર નક્કી કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામા અવારનવાર શનિવારનો વાર નક્કી કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શનિવાર એટલે દુદા મામાનો વાયદાનો વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખક કયા લેખકના પુસ્તકોના પાત્રોની જેમ દુદા મામા પાસે જતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક રવીન્દ્રનાથ ટાગોરના પાત્રો જેવી ગંભીરતા રાખીને દુદા મામા પાસે જતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાગોર જેવી ગંભીરતા = બૂટનો ઉત્સાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુદા મામાએ ભાણાને બૂટ માટેના ચામડા બાબતે શું બહાનું કાઢ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામાએ કહ્યું કે સારું ચામડું મેળવવામાં અને તેને યોગ્ય રીતે તૈયાર કરવામાં વાર લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાનાની શરૂઆત 'ચામડા' થી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દુદા મામાને ત્યાં કઈ વસ્તુઓનો ઢગલો રહેતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામાને ત્યાં સીવવા માટે આવેલા અને રીપેર કરવા માટે આવેલા જૂના જોડાનો ઢગલો રહેતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોચીની દુકાન એટલે 'જોડા' નો ઢગલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભાણાએ બૂટનો કલર કેવો પસંદ કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાણાએ લાલ ચળકતા બૂટ પસંદ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કલર = ભાણાનો ફેવરિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખકને અંતે બૂટ ક્યારે મળ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને બૂટ ઘણા મહિનાઓના ધક્કા ખાધા પછી અને અનેક વાયદાઓ પૂરા થયા પછી મળ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધૈર્યની કસોટી પછી જ બૂટ મળ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાઠમાં ‘પાંચ-આઠ-તેર’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘પાંચ-આઠ-તેર’ એ દુદા મામા દ્વારા ભાણાને અપાતા ખોટા વાયદાઓ માટે વપરાયેલું સૂચક પદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડાકીય ગૂંચવણ એટલે જ દુદા મામાનો વાયદો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અફઝલ કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અફઝલ એ લેખકનો પુત્ર છે, જે પાઠની શરૂઆતમાં બૂટ લેવાની જીદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકનો પુત્ર = અફઝલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લેખક દુદા મામાને ત્યાં ધક્કા ખાઈને કંટાળતા ત્યારે શું કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક ગુસ્સે થતા અને દુદા મામાને બૂટ જલદી આપી દેવા માટે આજીજી કરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકનો ગુસ્સો અને આજીજી બંને બૂટ માટે હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ પાઠમાંથી કયો મુખ્ય ભાવ પ્રગટ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠમાંથી નિર્દોષ બાળપણના સંઘર્ષો અને જૂના સમયની રમૂજી જીવનશૈલીનો ભાવ પ્રગટ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની યાદો + હાસ્ય = આવ ભાણા, આવ!</p></div>"
+    }
+  ]
+}
