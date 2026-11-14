@@ -8,28 +8,28 @@ with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
 
 if tracker.get('status') == "completed":
-    print("🎉 ધોરણ 7 નું સંપૂર્ણ ઓટોમેશન પૂરું થઈ ગયું છે!", flush=True)
+    print("🎉 ધોરણ 8 નું સંપૂર્ણ ઓટોમેશન પૂરું થઈ ગયું છે!", flush=True)
     exit(0)
 
 # ---------------------------------------------------------
-# સિલેબસ ડેટાબેઝ (માત્ર ધોરણ 7 ના તમામ વિષયો)
+# સિલેબસ ડેટાબેઝ (માત્ર ધોરણ 8 ના તમામ વિષયો અને ચેપ્ટરની સંખ્યા)
 # ---------------------------------------------------------
 syllabus = {
-    7: [
-        {"name": "Maths", "guj_name": "ગણિત", "chapters": 13},
-        {"name": "Science", "guj_name": "વિજ્ઞાન", "chapters": 13},
+    8: [
+        {"name": "Maths", "guj_name": "ગણિત", "chapters": 16},
+        {"name": "Science", "guj_name": "વિજ્ઞાન", "chapters": 18},
         {"name": "SS", "guj_name": "સામાજિક વિજ્ઞાન", "chapters": 18},
-        {"name": "Gujarati", "guj_name": "ગુજરાતી", "chapters": 15},
+        {"name": "Gujarati", "guj_name": "ગુજરાતી", "chapters": 20},
         {"name": "English", "guj_name": "અંગ્રેજી", "chapters": 10},
-        {"name": "Hindi", "guj_name": "હિન્દી", "chapters": 10},
-        {"name": "Sanskrit", "guj_name": "સંસ્કૃત", "chapters": 10}
+        {"name": "Hindi", "guj_name": "હિન્દી", "chapters": 18},
+        {"name": "Sanskrit", "guj_name": "સંસ્કૃત", "chapters": 12}
     ]
 }
 
-standards = [7]
+standards = [8]
 
 # ---------------------------------------------------------
-# પ્રશ્નોના પ્રકાર અને ટાર્ગેટ (નાના પ્રશ્નો 60+, મોટા 10+)
+# પ્રશ્નોના પ્રકાર અને ટાર્ગેટ
 # ---------------------------------------------------------
 question_types = [
     {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQs)", "marks": 1, "target_count": 60},
@@ -66,7 +66,6 @@ elif current_q_type['id'] == "TrueFalse":
 elif current_q_type['id'] == "MatchPairs":
     type_specific_rules = "વિભાગ A અને વિભાગ B ના જોડકાં આપવા અને જવાબમાં સાચી જોડ આપવી."
 
-# 🔴 નવો પ્રોમ્પ્ટ: વિષયની શુદ્ધતા અને ફ્લેક્સિબલ કાઉન્ટ સાથે
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 ધ્યાન આપો: અત્યારે તમે માત્ર અને માત્ર **ધોરણ {current_std} ના વિષય: '{current_subject['guj_name']}'** નું પેપર સેટ કરી રહ્યા છો. તમારે પ્રકરણ {ch_num} ના નવા NCERT સિલેબસ મુજબ પ્રશ્નો બનાવવાના છે.
@@ -74,8 +73,8 @@ prompt = f"""
 પ્રશ્નનો પ્રકાર: {current_q_type['name']} ({current_q_type['marks']} માર્ક)
 
 અત્યંત કડક નિયમો (QUALITY OVER QUANTITY & STRICT ISOLATION):
-1. 🛑 વિષયની 100% શુદ્ધતા (ZERO MIXING): આ ફાઈલ માત્ર '{current_subject['guj_name']}' ના પ્રકરણ {ch_num} માટે જ છે. તેમાં ભૂલથી પણ બીજા કોઈ વિષય (જેમ કે ગણિત, વિજ્ઞાન, પર્યાવરણ કે ગુજરાતી) ના પ્રશ્નો ન આવવા જોઈએ! 
-2. પ્રશ્નોની સંખ્યા (FLEXIBLE TARGET): તમારો લક્ષ્યાંક {current_q_type['target_count']} પ્રશ્નો બનાવવાનો છે. પરંતુ જો પ્રકરણ ખૂબ નાનું હોય અને આટલા બધા પ્રશ્નો બની શકતા ન હોય, તો જેટલા મેક્સિમમ પ્રશ્નો બની શકે તેટલા જ બનાવવા. 60 નો આંકડો પૂરો કરવા માટે ક્યારેય બીજા વિષય કે બીજા પ્રકરણના પ્રશ્નો ઉમેરવા નહિ.
+1. 🛑 વિષયની 100% શુદ્ધતા (ZERO MIXING): આ ફાઈલ માત્ર '{current_subject['guj_name']}' ના પ્રકરણ {ch_num} માટે જ છે. તેમાં ભૂલથી પણ બીજા કોઈ વિષયના પ્રશ્નો ન આવવા જોઈએ! 
+2. પ્રશ્નોની સંખ્યા (FLEXIBLE TARGET): તમારો લક્ષ્યાંક {current_q_type['target_count']} પ્રશ્નો બનાવવાનો છે. પરંતુ જો પ્રકરણ ખૂબ નાનું હોય અને આટલા બધા પ્રશ્નો બની શકતા ન હોય, તો જેટલા મેક્સિમમ પ્રશ્નો બની શકે તેટલા જ બનાવવા.
 3. પ્રકાર મુજબ શરત: {type_specific_rules}
 4. નો-રીપીટેશન અને એક્ઝેક્ટ લેવલ: {current_q_type['marks']} ગુણના પ્રશ્નોનું લેવલ બરાબર તેટલા જ માર્કસનું હોવું જોઈએ. 
 5. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
@@ -107,12 +106,16 @@ try:
 except Exception as e:
     print(f"Error fetching models: {e}", flush=True)
 
+# મોડલ શોર્ટિંગ જેથી ફ્લેશ કે સ્ટેબલ મોડલ પહેલા પ્રાયોરિટી પર રહે
 valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
 output_data = ""
 
-for m in valid_models[:3]:
+# ---------------------------------------------------------
+# ઓટોમેટિક ફેલઓવર (Fallback) લોજીક: એક મોડલ બંધ થાય તો બીજા પર શિફ્ટ થશે
+# ---------------------------------------------------------
+for m in valid_models:
     try:
-        print(f"⏳ Pending: {m} મોડલ દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
+        print(f"⏳ Trying model: {m}...", flush=True)
         response = client.models.generate_content(model=m, contents=prompt)
         raw_output = response.text.strip()
         
@@ -120,16 +123,16 @@ for m in valid_models[:3]:
             raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
             
         output_data = raw_output.strip()
-        print(f"✅ Success! ડેટા બની ગયો છે.", flush=True)
+        print(f"✅ Success with model {m}!", flush=True)
         break
     except Exception as e:
-        print(f"❌ Failed with {m}. Error: {e}", flush=True)
+        print(f"❌ Failed with {m}. Switching to next available model... Error: {e}", flush=True)
 
 if not output_data:
-    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
+    print("Error: ઉપલબ્ધ બધા જ મોડલ્સ નિષ્ફળ ગયા છે.", flush=True)
     exit(1)
 
-# ફોલ્ડર સ્ટ્રક્ચર: Std7/Maths/
+# ફોલ્ડર સ્ટ્રક્ચર: Std8/Maths/
 folder_path = f"Std{current_std}/{current_subject['name']}"
 os.makedirs(folder_path, exist_ok=True)
 
@@ -145,7 +148,7 @@ with open(file_path, mode, encoding='utf-8') as f:
         f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
 # ---------------------------------------------------------
-# ટ્રાન્ઝિશન લોજીક (હોરીઝોન્ટલ સ્કેનિંગ: પ્રકરણ -> પ્રશ્ન પ્રકાર -> વિષય -> ધોરણ)
+# ટ્રાન્ઝિશન લોજીક (પ્રકરણ -> પ્રશ્ન પ્રકાર -> વિષય -> ધોરણ)
 # ---------------------------------------------------------
 tracker['current_chapter'] += 1
 
@@ -163,9 +166,9 @@ if tracker['current_chapter'] > max_chapters:
             
             if tracker['current_std_index'] >= len(standards):
                 tracker['status'] = "completed"
-                tracker['current_std_index'] -= 1 # એરર અટકાવવા
+                tracker['current_std_index'] -= 1
 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Std 7 Setup Complete.", flush=True)
+print("Task Completed Successfully! Std 8 Setup Complete.", flush=True)
