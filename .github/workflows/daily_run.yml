@@ -1,4 +1,4 @@
-name: Std 7 Data Generator
+name: Std 8 Data Generator
 
 on:
   schedule:
@@ -20,15 +20,15 @@ jobs:
       - name: Install AI Libraries
         run: pip install google-genai
 
-      - name: Run Std 7 AI Script
+      - name: Run Std 8 AI Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python generate_qa.py
 
       - name: Save Generated Data to Database
         run: |
-          git config --global user.name "Std7-AI-Bot"
-          git config --global user.email "bot@std7data"
+          git config --global user.name "Std8-AI-Bot"
+          git config --global user.email "bot@std8data"
           git add .
-          git commit -m "Auto-generated daily data" || echo "No changes to commit"
+          git commit -m "Auto-generated daily data for Std 8" || echo "No changes to commit"
           git push
