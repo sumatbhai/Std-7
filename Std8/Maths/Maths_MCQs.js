@@ -514,3 +514,211 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ચતુષ્કોણની સમજ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈપણ બહુકોણના બધા જ બહિષ્કોણના માપનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 360°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકૃતિ ગમે તેટલી બાજુવાળી હોય (ત્રિકોણ, ચતુષ્કોણ કે પંચકોણ), બહારના ખૂણા (બહિષ્કોણ) હંમેશા આખું ચક્ર પૂરું કરે એટલે કે 360° જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચતુષ્કોણના અંદરના ચારેય ખૂણાઓના માપનો સરવાળો કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 360°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચતુષ્કોણમાં બે ત્રિકોણ બને. એક ત્રિકોણના 180°, તો બે ત્રિકોણના 180 + 180 = 360°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જે બહુકોણની બધી જ બાજુઓ અને બધા જ ખૂણા સમાન હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) નિયમિત બહુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિયમિત' એટલે બધું જ સરખું (Equal sides + Equal angles).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પંચકોણના અંદરના બધા જ ખૂણાઓના માપનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 540°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર વાપરો: (n - 2) × 180°. પંચકોણ માટે (5 - 2) × 180 = 3 × 180 = 540°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ત્રિકોણના વિકર્ણોની સંખ્યા કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમાં પાસપાસેની ન હોય તેવી કોઈ બાજુ જ નથી, એટલે વિકર્ણ બને જ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નિયમિત ષટ્કોણમાં વિકર્ણોની સંખ્યા કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકર્ણ શોધવાનું જાદુઈ સૂત્ર: n(n-3)/2. ષટ્કોણ માટે n=6, તેથી 6(6-3)/2 = 6×3/2 = 9.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાંતરબાજુ ચતુષ્કોણમાં સામસામેના ખૂણા કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ ચતુષ્કોણમાં 'સામસામે સમાન' અને 'પાસપાસે પૂરક (180°)' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાંતરબાજુ ચતુષ્કોણના પાસપાસેના ખૂણાઓ કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પૂરક (180°)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસપાસેના ખૂણા છેદિકાની એક જ બાજુના અંત:કોણ બનાવે છે, તેથી તેમનો સરવાળો હંમેશા 180° થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જે ચતુષ્કોણમાં સામસામેની બાજુની માત્ર એક જ જોડ સમાંતર હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સમલંબ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર 'એક જ જોડ' સમાંતર હોય તો તે 'ટ્રેપેઝિયમ' એટલે કે 'સમલંબ' ચતુષ્કોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમબાજુ ચતુષ્કોણના વિકર્ણો પરસ્પર કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટખૂણે દુભાગે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમબાજુ (Rhombus) માં 'કાટખૂણો' અને 'દુભાગે' - આ બંને ગુણધર્મો યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કયા ચતુષ્કોણમાં વિકર્ણોના માપ સમાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લંબચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસ અને ચોરસ - આ બંનેમાં વિકર્ણોની લંબાઈ હંમેશા સરખી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચતુષ્કોણના ત્રણ ખૂણાના માપ અનુક્રમે 70°, 110° અને 80° છે, તો ચોથા ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 100°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 માંથી આપેલા ત્રણેયનો સરવાળો બાદ કરો: 360 - (70+110+80) = 360 - 260 = 100°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જે બહુકોણનો એક પણ ખૂણો 180° થી વધુ હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અંતર્મુખ બહુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર્મુખ' એટલે જેનું મોઢું અંદરની તરફ ખૂલે (ગુફા જેવું) - તેનો એક ખૂણો હંમેશા 180° થી મોટો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નિયમિત નવકોણ (n=9) ના દરેક બહિષ્કોણનું માપ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 40°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક બહિષ્કોણ = 360 / બાજુઓની સંખ્યા. 360 / 9 = 40°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો નિયમિત બહુકોણના એક બહિષ્કોણનું માપ 45° હોય, તો તે બહુકોણની બાજુઓની સંખ્યા કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજુની સંખ્યા = 360 / બહિષ્કોણનું માપ. 360 / 45 = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિયમિત બહુકોણમાં ઓછામાં ઓછું અંદરના ખૂણાનું માપ કેટલું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નાનો બહુકોણ સમબાજુ ત્રિકોણ છે, જેના દરેક ખૂણાનું માપ 60° હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નિયમિત બહુકોણમાં વધુમાં વધુ બહિષ્કોણનું માપ કેટલું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 120°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરનો ખૂણો સૌથી નાનો (60°) હોય ત્યારે બહિષ્કોણ સૌથી મોટો (180-60=120°) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીચેનામાંથી કયો ચતુષ્કોણ 'નિયમિત બહુકોણ' છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસમાં બધી બાજુ સમાન (Equal sides) અને બધા ખૂણા 90° (Equal angles) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચતુષ્કોણ ABCD માં જો ∠A = 100°, ∠B = 80°, ∠C = 100° હોય તો ∠D શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 80°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો 360 થવો જોઈએ. 100+80+100 = 280. હવે 360-280 = 80°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમાંતરબાજુ ચતુષ્કોણમાં એક ખૂણાનું માપ 70° હોય તો તેની પાસપાસેના ખૂણાનું માપ કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 110°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુમાં પાસપાસેના ખૂણાનો સરવાળો 180° થાય. 180 - 70 = 110°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પતંગાકાર ચતુષ્કોણમાં વિકર્ણો એકબીજાને કેટલાના ખૂણે છેદે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગ (Kite) ના વિકર્ણો હંમેશા કાટખૂણે (Perpendicular) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કયો ચતુષ્કોણ સમાંતરબાજુ ચતુષ્કોણ નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સમલંબ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસ, ચોરસ અને સમબાજુ - આ ત્રણેય સમાંતરબાજુના ખાસ પ્રકાર છે, પણ સમલંબમાં માત્ર એક જ જોડ સમાંતર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અષ્ટકોણના અંદરના બધા ખૂણાનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1080°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n=8, (8-2) × 180 = 6 × 180 = 1080°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એક ચતુષ્કોણના ચારેય ખૂણા સમાન છે, તો દરેક ખૂણાનું માપ કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 / 4 = 90°. આવો ચતુષ્કોણ લંબચોરસ કે ચોરસ હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બહિર્મુખ ચતુષ્કોણમાં વિકર્ણો ક્યાં આવેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અંદરના ભાગમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહિર્મુખ' એટલે જે બહારની બાજુ ફૂલેલો હોય, તેના બધા જ વિકર્ણો અંદરના ભાગમાં (Interior) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ષટ્કોણના બધા જ બહિષ્કોણનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 360°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્ન વાંચતા પહેલા યાદ રાખજો - કોઈ પણ બહુકોણ હોય, બહિષ્કોણનો સરવાળો હંમેશા 360° જ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ચતુષ્કોણના કેટલા અંગો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 બાજુઓ + 4 ખૂણા + 2 વિકર્ણ = કુલ 10 અંગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જે સમાંતરબાજુ ચતુષ્કોણની બધી જ બાજુઓ સમાન હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમબાજુ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે, 'સમબાજુ' એટલે સરખી બાજુઓ વાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચતુષ્કોણના ખૂણાઓનો ગુણોત્તર 1:2:3:4 છે, તો સૌથી મોટા ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 144°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરનો સરવાળો = 1+2+3+4 = 10. સૌથી મોટો ભાગ 4 છે. તેથી (4/10) × 360 = 4 × 36 = 144°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમાંતરબાજુ ચતુષ્કોણ ABCD માં ∠A = x અને ∠B = 2x હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસપાસેના ખૂણા (x + 2x) = 180. એટલે કે 3x = 180, તો x = 180 / 3 = 60°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નિયમિત પંચકોણના દરેક અંદરના ખૂણાનું માપ કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 108°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ સરવાળો 540 / 5 = 108°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ચોરસ એ કેવા પ્રકારનો ચતુષ્કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ એ લંબચોરસ પણ છે, સમબાજુ પણ છે અને સમાંતરબાજુ પણ છે! તે 'ઓલ-ઈન-વન' ચતુષ્કોણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જે બહુકોણના વિકર્ણનો કોઈ ભાગ બહુકોણની બહાર હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અંતર્મુખ બહુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આકૃતિમાં 'ખાડો' દેખાય અને વિકર્ણ દોરતા તે ખાડા (બહાર) માં જાય, તો તે અંતર્મુખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક નિયમિત બહુકોણને 15 બાજુઓ છે, તો તેના દરેક બહિષ્કોણનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 24°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 / 15 = 24°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ચતુષ્કોણના સામસામેના શિરોબિંદુઓને જોડતા રેખાખંડને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિકર્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિરોબિંદુઓ જોડો પણ પાસપાસેના નહીં, તો જે લીટી બને તે 'વિકર્ણ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "નીચેનામાંથી કયા ચતુષ્કોણમાં વિકર્ણો પરસ્પર દુભાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સમાંતરબાજુ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુભાગવું એટલે બે સરખા ભાગ કરવા. સમાંતરબાજુના બધા જ પ્રકારોમાં આ ગુણધર્મ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શું 22° એ કોઈ નિયમિત બહુકોણના બહિષ્કોણનું માપ હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ને 22 વડે નિ:શેષ ભાગી શકાય નહીં. બાજુઓની સંખ્યા હંમેશા પૂર્ણાંક હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સમાંતરબાજુ ચતુષ્કોણની પરિમિતિ શોધવાનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2 (લંબાઈ + પહોળાઈ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ અને લંબચોરસ બંને માટે પરિમિતિનું સૂત્ર સમાન છે કારણ કે સામસામેની બાજુઓ સરખી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જે ચતુષ્કોણના વિકર્ણો સમાન હોય અને કાટખૂણે દુભાગે તે કયો ચતુષ્કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાન' + 'કાટખૂણે દુભાગે' = આ ડબલ પાવર માત્ર 'ચોરસ' પાસે જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "n બાજુવાળા બહુકોણના વિકર્ણોની સંખ્યા શોધવાનું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n(n-3)/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સૂત્ર પાકું કરી લેજો, કોઈ પણ બહુકોણ માટે કામ લાગશે!</p></div>"
+    }
+  ]
+}
