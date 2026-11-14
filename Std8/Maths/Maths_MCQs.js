@@ -206,3 +206,311 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "એક ચલ રેખીય સમીકરણ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જે સમીકરણમાં ઉપયોગમાં આવેલ ચલની મહત્તમ ઘાત 1 હોય, તેને કેવું સમીકરણ કહેવાય? \n A) દ્વિઘાત સમીકરણ \n B) સુરેખ સમીકરણ \n C) ત્રિઘાત સમીકરણ \n D) એકઘાત બહુપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સુરેખ સમીકરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રેખીય' અથવા 'સુરેખ' એટલે ચલની માથે કાંઈ ન હોય ત્યારે 1 ઘાત સમજવી. 1 ઘાત = સુરેખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમીકરણ x - 2 = 7 માં x ની કિંમત કેટલી થાય? \n A) 5 \n B) -5 \n C) 9 \n D) -9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરાબરની ડાબી બાજુથી '-' સંખ્યા જમણી બાજુ જાય તો '+' થઈ જાય. 7 + 2 = 9.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "y + 3 = 10 સમીકરણનો ઉકેલ શોધો. \n A) 13 \n B) 7 \n C) -7 \n D) 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '+' સંખ્યા સામે જાય તો '-' થાય. 10 - 3 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "6z = 12 માં z ની કિંમત કેટલી? \n A) 18 \n B) 6 \n C) 2 \n D) 72",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગુણાકારમાં હોય તે સામે જાય તો છેદમાં (ભાગાકારમાં) જાય. 12 / 6 = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "t / 5 = 10 માં t ની કિંમત શોધો. \n A) 2 \n B) 5 \n C) 15 \n D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદની સંખ્યા સામે જાય તો અંશ સાથે ગુણાય. 10 × 5 = 50.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમીકરણ 2x - 3 = 7 નો ઉકેલ શું છે? \n A) 5 \n B) 2 \n C) 10 \n D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલા -3 ને સામે મોકલો (7+3=10), પછી 2 વડે ભાગો (10/2=5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેનામાંથી કયું એક ચલ રેખીય સમીકરણ છે? \n A) x + y = 5 \n B) x² + 2 = 6 \n C) 2x + 1 = 11 \n D) x³ = 27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 2x + 1 = 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક ચલ' એટલે માત્ર એક જ અંગ્રેજી મૂળાક્ષર (x) હોવો જોઈએ અને તેની ઘાત 1 હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1.6 = y / 1.5 હોય તો y = ____ \n A) 2.4 \n B) 2.1 \n C) 3.1 \n D) 0.1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 2.4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1.6 × 1.5 કરો. (16 × 15 = 240, બે દશાંશ સ્થળ કાપતા 2.40).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમીકરણ 17 + 6p = 9 માં p ની કિંમત શું મળે? \n A) 4/3 \n B) -4/3 \n C) 8/6 \n D) -1.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) -4/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6p = 9 - 17 = -8. તેથી p = -8/6, છેદ ઉડાડતા -4/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "x/3 + 1 = 7/15 નો ઉકેલ શોધો. \n A) -8/5 \n B) 8/5 \n C) -3/5 \n D) 3/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) -8/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x/3 = 7/15 - 1 = -8/15. હવે 3 ને સામે ગુણાકારમાં લઈ જાવ, 3 × (-8/15) = -8/5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બે સંખ્યાઓનો સરવાળો 95 છે. એક સંખ્યા બીજી સંખ્યા કરતા 15 વધારે હોય તો મોટી સંખ્યા કઈ? \n A) 40 \n B) 55 \n C) 50 \n D) 60",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 55</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (સરવાળો + તફાવત) / 2 = મોટી સંખ્યા. (95 + 15) / 2 = 110 / 2 = 55.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બે સંખ્યાઓનો ગુણોત્તર 5 : 3 છે. જો તેમનો તફાવત 18 હોય તો તે સંખ્યાઓ કઈ? \n A) 45 અને 27 \n B) 50 અને 32 \n C) 40 અને 22 \n D) 60 અને 42",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 45 અને 27</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરનો તફાવત 5-3 = 2. હવે 18/2 = 9. સંખ્યાઓ = 9×5 = 45 અને 9×3 = 27.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ત્રણ ક્રમિક પૂર્ણાંક સંખ્યાઓનો સરવાળો 51 હોય તો તે સંખ્યાઓ શોધો. \n A) 15, 16, 17 \n B) 16, 17, 18 \n C) 17, 18, 19 \n D) 20, 21, 22",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 16, 17, 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળાને 3 વડે ભાગો એટલે વચ્ચેની સંખ્યા મળે. 51 / 3 = 17. તો આગળની 16 અને પાછળની 18.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "8 ના ત્રણ ક્રમિક ગુણિતનો સરવાળો 888 છે. સૌથી નાનો ગુણિત કયો? \n A) 288 \n B) 296 \n C) 304 \n D) 280",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 288</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 888 / 3 = 296 (વચ્ચેની સંખ્યા). તેમાંથી 8 બાદ કરો એટલે નાની સંખ્યા 288 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાહુલ અને હારુનની હાલની ઉંમરનો ગુણોત્તર 5:7 છે. 4 વર્ષ પછી તેમની ઉંમરનો સરવાળો 56 થાય તો રાહુલની હાલની ઉંમર શોધો. \n A) 20 વર્ષ \n B) 28 વર્ષ \n C) 15 વર્ષ \n D) 25 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 20 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 વર્ષ પછી સરવાળો 56 છે, તો અત્યારે 56 - (4+4) = 48. 5x + 7x = 48 => 12x = 48 => x = 4. રાહુલ = 5 × 4 = 20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમીકરણ 5x + 9 = 5 + 3x નો ઉકેલ શોધો. \n A) 2 \n B) -2 \n C) 4 \n D) -4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) -2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x વાળા પદો એક બાજુ: 5x - 3x = 2x. અચળ પદો બીજી બાજુ: 5 - 9 = -4. 2x = -4 તો x = -2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સમીકરણ 8x + 4 = 3(x - 1) + 7 નો ઉકેલ શું થાય? \n A) 0 \n B) 1 \n C) -1 \n D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ છોડો: 3x - 3 + 7 = 3x + 4. હવે 8x + 4 = 3x + 4. 4 સામ-સામે ઉડી જશે, 5x = 0 એટલે x = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "x = 4/5 (x + 10) હોય તો x ની કિંમત શોધો. \n A) 40 \n B) 20 \n C) 10 \n D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદના 5 ને x સાથે ગુણો: 5x = 4(x + 10) => 5x = 4x + 40 => x = 40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "2y + 5/3 = 26/3 - y માં y ની કિંમત કેટલી? \n A) 3 \n B) 7/3 \n C) 7 \n D) 21",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 7/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -y ડાબી બાજુ લાવતા 3y થાય. 26/3 - 5/3 = 21/3 = 7. તો 3y = 7 એટલે y = 7/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "3m = 5m - 8/5 સમીકરણનો ઉકેલ શોધો. \n A) 4/5 \n B) 3/5 \n C) 1 \n D) 2/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 4/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8/5 = 5m - 3m => 8/5 = 2m. હવે 2 ને છેદમાં મોકલો, m = 8/(5×2) = 4/5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો (x - 5) / 3 = (x - 3) / 5 હોય તો x શોધો. \n A) 8 \n B) 2 \n C) 4 \n D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકડી ગુણાકાર કરો: 5(x-5) = 3(x-3) => 5x - 25 = 3x - 9 => 2x = 16 => x = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કોઈ સંખ્યાના 1/4 ભાગમાંથી 4 બાદ કરતા 4 મળે તો તે સંખ્યા કઈ? \n A) 16 \n B) 32 \n C) 8 \n D) 64",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંધી પ્રોસેસ કરો: 4 મળ્યા + 4 બાદ કર્યા હતા એટલે 8 થયા. 1/4 ભાગ 8 હોય તો આખી સંખ્યા 8 × 4 = 32!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમીકરણમાં 'ચલ' કોને કહેવાય? \n A) જેની કિંમત નિશ્ચિત હોય \n B) જેની કિંમત બદલાતી હોય \n C) માત્ર શૂન્ય \n D) માત્ર ધન સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) જેની કિંમત બદલાતી હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચલ' એટલે જે 'ચાલતું' રહે (બદલાય), જેમ કે x, y, z.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "0.25(4f - 3) = 0.05(10f - 9) માં f ની કિંમત શોધો. \n A) 0.6 \n B) 0.5 \n C) 0.75 \n D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 0.6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને બાજુ 100 થી ગુણી દશાંશ કાઢી નાખો: 25(4f-3) = 5(10f-9). સાદું રૂપ આપતા 0.6 મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લંબચોરસની પરિમિતિ 13 સેમી અને પહોળાઈ 2(3/4) સેમી હોય તો લંબાઈ શોધો. \n A) 3.5 સેમી \n B) 3.75 સેમી \n C) 4.25 સેમી \n D) 2.5 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 3.75 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિના અડધા (13/2 = 6.5) માંથી પહોળાઈ (2.75) બાદ કરો. 6.5 - 2.75 = 3.75.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બંસી પાસે 2 રૂપિયાના અને 5 રૂપિયાના સિક્કા છે. 2 ના સિક્કા 5 ના સિક્કા કરતા ત્રણ ગણા છે. કુલ રકમ 77 હોય તો 5 ના સિક્કા કેટલા? \n A) 7 \n B) 21 \n C) 10 \n D) 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારો કે 5 ના x સિક્કા. 2 ના 3x સિક્કા. કુલ: 5(x) + 2(3x) = 11x. 11x = 77 તો x = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "x / 2 - 1 / 5 = x / 3 + 1 / 4 નો ઉકેલ શોધો. \n A) 27/10 \n B) 10/27 \n C) 2.7 \n D) 27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) 27</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસાઅ 20 લઈને અથવા પદોની અદલાબદલી કરીને સાદું રૂપ આપો. જવાબ 27 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો 3x = 2x + 18 હોય તો x = ? \n A) 9 \n B) 18 \n C) 36 \n D) -18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2x ને ડાબી બાજુ લાવો, 3x - 2x = x. તો x = 18. સીધો જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક ચલ રેખીય સમીકરણમાં વધુમાં વધુ કેટલા ચલ હોય? \n A) 1 \n B) 2 \n C) 3 \n D) અસંખ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે 'એક ચલ' એટલે 1 જ ચલ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમીકરણ 7x - 9 = 16 માં x ની કિંમત શોધો. \n A) 25/7 \n B) 7/25 \n C) 1 \n D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 25/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7x = 16 + 9 = 25. તો x = 25/7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કઈ સંખ્યાના 6 ગણામાં 5 ઉમેરતા 35 મળે? \n A) 4 \n B) 5 \n C) 6 \n D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંધી ગણતરી: 35 - 5 = 30. હવે 30 / 6 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો 15/4 - 7x = 9 હોય તો x શોધો. \n A) -3/4 \n B) 3/4 \n C) 4/3 \n D) -4/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) -3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -7x = 9 - 15/4 => -7x = (36-15)/4 = 21/4. x = 21 / (4 × -7) = -3/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સમીકરણમાં 'બરાબર' (=) ની ચિહ્નની બંને બાજુની કિંમત કેવી હોવી જોઈએ? \n A) અલગ અલગ \n B) સરખી \n C) ડાબી બાજુ મોટી \n D) જમણી બાજુ મોટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સરખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમીકરણ એટલે ત્રાજવું! બેય પલ્લાં સરખાં હોવાં જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બે અંકોની એક સંખ્યાના અંકોનો સરવાળો 9 છે. જો અંકોની અદલાબદલી કરીએ તો મળતી નવી સંખ્યા મૂળ સંખ્યા કરતા 27 વધારે હોય તો મૂળ સંખ્યા શોધો. \n A) 36 \n B) 63 \n C) 27 \n D) 72",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 36</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપ્શન ચેક કરો! 36 ના ઉંધા 63. 63 - 36 = 27. સેટ થઈ ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પિતાની ઉંમર પુત્રની ઉંમરના 3 ગણાથી 5 વર્ષ વધારે છે. જો પિતા 44 વર્ષના હોય તો પુત્રની ઉંમર કેટલી? \n A) 10 વર્ષ \n B) 15 વર્ષ \n C) 13 વર્ષ \n D) 12 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 13 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 44 - 5 = 39. હવે 39 / 3 = 13. સિમ્પલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "x / 3 = 5 / 2 માં x ની કિંમત કેટલી? \n A) 7.5 \n B) 15 \n C) 10 \n D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 7.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x = (5 × 3) / 2 = 15 / 2 = 7.5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સમીકરણ 5x - 2 = 3x + 8 નો ઉકેલ શોધો. \n A) 5 \n B) 3 \n C) 10 \n D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5x - 3x = 8 + 2 => 2x = 10 => x = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નીચેનામાંથી કયું સુરેખ પદાવલિ નથી? \n A) 2x + 5 \n B) 3y - 2 \n C) x² + 1 \n D) z + 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) x² + 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 1 થી વધુ (જેમ કે x²) હોય તો તે સુરેખ ન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સમીકરણમાં પદાવલિઓની વચ્ચે કયું ચિહ્ન હોવું અનિવાર્ય છે? \n A) > \n B) < \n C) = \n D) ≠",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) =</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમીકરણ' શબ્દ જ 'સમાન' (Equal) પરથી આવ્યો છે. '=' વગર સમીકરણ ન બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો 10x - 20 = 50 હોય તો x ની કિંમત શોધો. \n A) 3 \n B) 7 \n C) 5 \n D) 70",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 + 20 = 70. 70 / 10 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "બે સંખ્યાઓનો સરવાળો 11 અને તફાવત 3 હોય તો તે સંખ્યાઓ કઈ? \n A) 8, 3 \n B) 7, 4 \n C) 6, 5 \n D) 9, 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 7, 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપ્શનનો સરવાળો અને બાદબાકી ચેક કરો. 7+4=11 અને 7-4=3. એકદમ ઈઝી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પરિમિતિ 20 સેમી ધરાવતા ચોરસની એક બાજુની લંબાઈ x હોય, તો x શોધો. \n A) 10 \n B) 4 \n C) 5 \n D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસની 4 બાજુ સરખી હોય. 20 / 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સમીકરણ 3x = 5x - 12/5 નો ઉકેલ શોધો. \n A) 6/5 \n B) 12/5 \n C) 3/5 \n D) 2/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 6/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12/5 = 2x. તો x = 12 / (5 × 2) = 6/5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કોઈ સંખ્યા x ના 3 ગણા અને 11 નો સરવાળો 32 છે. આને સમીકરણ સ્વરૂપે લખો. \n A) 3x - 11 = 32 \n B) 11x + 3 = 32 \n C) 3x + 11 = 32 \n D) x + 3 + 11 = 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) 3x + 11 = 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણા એટલે ગુણાકાર (3x) અને સરવાળો એટલે +11.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "x / 2 + x / 3 = 10 હોય તો x શોધો. \n A) 12 \n B) 6 \n C) 5 \n D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસાઅ 6 લો. (3x + 2x) / 6 = 10 => 5x = 60 => x = 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "0.16(5x - 2) = 0.4x + 7 માં x ની કિંમત શોધો. \n A) 15 \n B) 18.3 \n C) 20 \n D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 18.3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ સંખ્યા આવે ત્યારે પહેલા સાદું રૂપ આપી અચળ પદો અલગ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો m - (m-1)/2 = 1 - (m-2)/3 હોય તો m = ____ \n A) 7/5 \n B) 5/7 \n C) 1 \n D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 7/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા સમીકરણને લસાઅ 6 વડે ગુણી નાખો, અપૂર્ણાંક નીકળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "બે ક્રમિક એકી સંખ્યાઓનો સરવાળો 40 છે, તો નાની સંખ્યા કઈ? \n A) 17 \n B) 19 \n C) 21 \n D) 23",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 19</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (સરવાળો - 2) / 2 = નાની સંખ્યા. (40 - 2) / 2 = 38 / 2 = 19.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "એક સંખ્યાના ચોથા ભાગમાં 5 ઉમેરતા 15 મળે, તો તે સંખ્યા કઈ? \n A) 40 \n B) 60 \n C) 20 \n D) 80",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 - 5 = 10. હવે 10 × 4 = 40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પિતા અને પુત્રની ઉંમરનો સરવાળો 50 વર્ષ છે. 5 વર્ષ પહેલા તેમની ઉંમરનો સરવાળો કેટલો હશે? \n A) 45 \n B) 40 \n C) 35 \n D) 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 વર્ષ પહેલા એટલે પિતાના પણ 5 ઘટે અને પુત્રના પણ 5 ઘટે. કુલ 10 ઘટાડવા. 50 - 10 = 40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જો 2x/3 + 1 = 7x/15 + 3 હોય તો x શોધો. \n A) 10 \n B) 5 \n C) 15 \n D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા સમીકરણને છેદના લસાઅ 15 વડે ગુણતા: 10x + 15 = 7x + 45 => 3x = 30 => x = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "સમીકરણ 3(t - 3) = 5(2t + 1) નો ઉકેલ શોધો. \n A) -2 \n B) 2 \n C) -14/7 \n D) -2/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) -2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3t - 9 = 10t + 5 => -9 - 5 = 10t - 3t => -14 = 7t => t = -2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જો કોઈ સંખ્યાના અડધામાંથી 1/4 બાદ કરતા 1/8 મળે તો તે સંખ્યા કઈ? \n A) 3/4 \n B) 1/4 \n C) 1/2 \n D) 3/8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x/2 - 1/4 = 1/8. x/2 = 1/8 + 2/8 = 3/8. x = 3/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "સમીકરણ 15(y - 4) - 2(y - 9) + 5(y + 6) = 0 નો ઉકેલ શોધો. \n A) 2/3 \n B) 3/2 \n C) 1 \n D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 2/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા કૌંસ છોડી y વાળા પદો ભેગા કરો. 18y - 12 = 0 => y = 12/18 = 2/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "એક લંબચોરસની લંબાઈ તેની પહોળાઈ કરતા 2 સેમી વધારે છે. પરિમિતિ 20 સેમી હોય તો પહોળાઈ કેટલી? \n A) 4 સેમી \n B) 6 સેમી \n C) 5 સેમી \n D) 8 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 4 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધી પરિમિતિ = 10. હવે એવી બે સંખ્યા શોધો જેમનો સરવાળો 10 અને તફાવત 2 હોય. તે 6 અને 4 છે. પહોળાઈ નાની હોય એટલે 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "સમીકરણ x / 2 = 7 માં x / 2 ને શું કહેવાય? \n A) ડાબી બાજુ (LHS) \n B) જમણી બાજુ (RHS) \n C) અચળ પદ \n D) ઘાતાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ડાબી બાજુ (LHS)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરાબરની ડાબી બાજુ હોય તેને LHS (Left Hand Side) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "બે સંખ્યાઓનો તફાવત 50 છે. તેમનો ગુણોત્તર 7:2 હોય તો સંખ્યાઓ શોધો. \n A) 70, 20 \n B) 50, 0 \n C) 100, 50 \n D) 14, 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 70, 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરનો તફાવત 7 - 2 = 5. સંખ્યાનો તફાવત 50. તો 50 / 5 = 10. સંખ્યાઓ: 10×7=70 અને 10×2=20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો 8x = 40 હોય, તો x / 5 ની કિંમત કેટલી? \n A) 5 \n B) 1 \n C) 8 \n D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલા x શોધો: 40 / 8 = 5. હવે x/5 એટલે 5 / 5 = 1. ઉતાવળમાં 5 ના લખતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "સમીકરણ 2x - 1 = 14 - x નો ઉકેલ શોધો. \n A) 5 \n B) 15 \n C) 13 \n D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2x + x = 14 + 1 => 3x = 15 => x = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "x / 3 + 5 / 2 = -3 / 2 હોય તો x = ____ \n A) -12 \n B) -4 \n C) 12 \n D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) -12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x/3 = -3/2 - 5/2 = -8/2 = -4. x = -4 × 3 = -12.</p></div>"
+    }
+  ]
+}
