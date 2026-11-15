@@ -722,3 +722,311 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "માહિતીનું નિયમન (Data Handling)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કયા પ્રકારના આલેખમાં માહિતીને ચિત્રો દ્વારા દર્શાવવામાં આવે છે?\n(A) સ્તંભાલેખ\n(B) ચિત્ર આલેખ\n(C) વર્તુળ આલેખ\n(D) રેખા આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચિત્ર આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્ર પરથી માહિતી એટલે 'ચિત્ર આલેખ'. પ્રશ્નમાં જ જવાબ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વર્ગ 20-30 માં '20' ને શું કહેવામાં આવે છે?\n(A) ઉર્ધ્વ સીમા\n(B) વર્ગ લંબાઈ\n(C) અધ: સીમા\n(D) મધ્ય કિંમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અધ: સીમા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુની નાની સંખ્યા એટલે 'અધ:' (નીચેની) સીમા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વર્તુળ આલેખ (Pie Chart) માં બધા જ વૃત્તાંશના ખૂણાઓનો સરવાળો કેટલો થાય છે?\n(A) 90°\n(B) 180°\n(C) 270°\n(D) 360°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 360°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું વર્તુળ એટલે હંમેશા 360 ડિગ્રીનો લાડવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સિક્કાને એકવાર ઉછાળતા 'છાપ' (Head) મળવાની સંભાવના કેટલી?\n(A) 1\n(B) 1/2\n(C) 0\n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કાની બે બાજુ, જેમાંથી એક પૂછી છે, એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વર્ગ 40-50 ની વર્ગ લંબાઈ કેટલી થાય?\n(A) 40\n(B) 50\n(C) 10\n(D) 90",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ = મોટી સંખ્યા - નાની સંખ્યા (50 - 40 = 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ચોક્કસ ઘટનાની સંભાવના હંમેશા કેટલી હોય છે?\n(A) 0\n(B) 0.5\n(C) 1\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાકું થવાનું જ છે, તેનું રિઝલ્ટ 100% એટલે કે 1 હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાસાને ફેંકતા તેના પર અંક '7' આવવાની સંભાવના કેટલી?\n(A) 1/6\n(B) 7/6\n(C) 1\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લુડોના પાસા પર 7 હોય જ નહીં, અશક્ય વાત એટલે 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "માહિતીમાં આવતા અવલોકનોની સંખ્યાને શું કહે છે?\n(A) વર્ગ\n(B) અધ:સીમા\n(C) આવૃત્તિ\n(D) વિસ્તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટલી વાર 'આવ્યું' તેને કહેવાય 'આવૃત્તિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાય-ચાર્ટમાં 25% ને વૃત્તાંશ કોણ તરીકે દર્શાવવા કેટલા ડિગ્રીનો ખૂણો લેવો પડે?\n(A) 25°\n(B) 90°\n(C) 100°\n(D) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25% એટલે ચોથો ભાગ. 360 નો ચોથો ભાગ = 90.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક થેલીમાં 5 લાલ અને 3 સફેદ દડા છે. એક દડો યાદચ્છિક રીતે પસંદ કરતા તે લાલ હોય તેની સંભાવના કેટલી?\n(A) 5/3\n(B) 3/8\n(C) 5/8\n(D) 1/8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જોઈએ તે ઉપર, કુલ નીચે. (5 લાલ / 8 કુલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આવૃત્તિ ચિન્હ '||||' (ચાર ઉભી લીટી અને એક આડી લીટી) કઈ સંખ્યા દર્શાવે છે?\n(A) 4\n(B) 5\n(C) 6\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર લીટીને પાંચમી આડી લીટી બાંધે એટલે 5 નું બંડલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કોઈપણ ઘટનાની સંભાવના ક્યારેય ______ ન હોઈ શકે.\n(A) શૂન્ય\n(B) એક\n(C) ઋણ\n(D) અપૂર્ણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઋણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંભાવના હંમેશા 0 થી 1 ની વચ્ચે જ હોય, માઈનસમાં ક્યારેય ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વર્ગ 10-20 ની મધ્ય કિંમત શું થાય?\n(A) 10\n(B) 20\n(C) 30\n(D) 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય કિંમત એટલે વચ્ચેનો અંક. 10 અને 20 ની બરાબર વચ્ચે 15 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બે સિક્કા એકસાથે ઉછાળતા મળતા કુલ પરિણામોની સંખ્યા કેટલી?\n(A) 2\n(B) 4\n(C) 6\n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક સિક્કાની 2 બાજુ, બે સિક્કા એટલે 2 × 2 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વૃત્તાંશ આલેખમાં 'અડધો ભાગ' કેટલી ટકાવારી દર્શાવે છે?\n(A) 25%\n(B) 50%\n(C) 75%\n(D) 100%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું એટલે 100 ના અડધા 50%!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માહિતીના સૌથી મોટા અને સૌથી નાના અવલોકનના તફાવતને શું કહે છે?\n(A) મધ્યક\n(B) બહુલક\n(C) વિસ્તાર\n(D) આવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિસ્તાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માહિતી કેટલી 'વિસ્તરેલી' છે તે એટલે વિસ્તાર (Max - Min).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક પાસાને ફેંકતા તેના પર 'બેકી સંખ્યા' મળવાની સંભાવના કેટલી?\n(A) 1/6\n(B) 1/3\n(C) 1/2\n(D) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસા પર 3 એકી અને 3 બેકી સંખ્યા હોય. અડધી બેકી એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્તંભાલેખમાં બે સ્તંભો વચ્ચેની જગ્યા કેટલી હોય છે?\n(A) 1 એકમ\n(B) 2 એકમ\n(C) જગ્યા હોતી નથી\n(D) મરજી મુજબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જગ્યા હોતી નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સતત વર્ગો વાળા સ્તંભાલેખમાં સ્તંભો હંમેશા અડીને (જોડાયેલા) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વર્ગ 0-10, 10-20, 20-30 માં '10' કયા વર્ગમાં ગણવામાં આવશે?\n(A) 0-10\n(B) 10-20\n(C) બંનેમાં\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10-20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા હંમેશા તેના પછીના (જ્યાં તે અધ:સીમા હોય) વર્ગમાં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો કુલ 60 વિદ્યાર્થીઓ હોય અને તેમાંથી 1/6 ભાગને ગણિત ગમે છે, તો પાય-ચાર્ટમાં ગણિત માટેનો ખૂણો કેટલો હશે?\n(A) 60°\n(B) 10°\n(C) 36°\n(D) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ ખૂણો 360°. તેનો 1/6 ભાગ = 360/6 = 60°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૂર્ય પશ્ચિમમાં ઉગે તે ઘટનાની સંભાવના કેટલી?\n(A) 1\n(B) 0.5\n(C) 0\n(D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય હંમેશા પૂર્વમાં જ ઉગે, પશ્ચિમમાં ઉગવું અશક્ય છે એટલે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વર્ગ 100-150 ની ઉર્ધ્વ સીમા કઈ છે?\n(A) 100\n(B) 150\n(C) 50\n(D) 125",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 150</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્ધ્વ એટલે ઉપરની (જમણી બાજુની મોટી) સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "માહિતીના વ્યવસ્થિત ગોઠવણને શું કહેવાય?\n(A) વર્ગીકરણ\n(B) સંભાવના\n(C) વિસ્તાર\n(D) પ્રયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વર્ગીકરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રુપ બનાવવા એટલે વર્ગીકરણ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વર્તુળ આલેખમાં 90° નો ખૂણો કુલ માહિતીનો કેટલામો ભાગ દર્શાવે છે?\n(A) 1/2\n(B) 1/3\n(C) 1/4\n(D) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90 / 360 = 1/4. ચોથો ભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાસો ફેંકતા 6 થી નાનો અંક મળવાના પરિણામો કેટલા?\n(A) 6\n(B) 5\n(C) 4\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 થી નાના એટલે 1, 2, 3, 4, 5. કુલ 5 અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કયો આલેખ બે પ્રકારની માહિતીની સરખામણી માટે વપરાય છે?\n(A) સ્તંભાલેખ\n(B) દ્વિ-સ્તંભાલેખ\n(C) પાય-ચાર્ટ\n(D) ચિત્ર આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દ્વિ-સ્તંભાલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે માહિતી = દ્વિ (Double) સ્તંભાલેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "52 પત્તાના ઢગલામાંથી એક પત્તું લાલ રંગનું હોય તેની સંભાવના કેટલી?\n(A) 1/4\n(B) 1/2\n(C) 1/13\n(D) 1/52",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 52 માંથી અડધા પત્તા (26) લાલ રંગના હોય, એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વર્ગ 25-35 ની મધ્ય કિંમત શોધો.\n(A) 25\n(B) 35\n(C) 30\n(D) 60",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (25 + 35) / 2 = 60 / 2 = 30.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો કોઈ ઘટના ઘટવાની શક્યતા 75% હોય, તો તેને અપૂર્ણાંકમાં શું લખાય?\n(A) 1/4\n(B) 1/2\n(C) 3/4\n(D) 1/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 75/100. 25 ના ઘડિયા માં 25*3=75 અને 25*4=100. એટલે 3/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સ્તંભાલેખમાં દરેક સ્તંભની પહોળાઈ શું દર્શાવે છે?\n(A) આવૃત્તિ\n(B) વર્ગ લંબાઈ\n(C) મધ્ય કિંમત\n(D) કશું જ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વર્ગ લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તંભ કેટલો જાડો (પહોળો) છે તે 'વર્ગ લંબાઈ' પર આધાર રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક પાસાને ઉછાળતા 5 થી મોટી સંખ્યા મળવાની સંભાવના કેટલી?\n(A) 1/6\n(B) 2/6\n(C) 5/6\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 થી મોટી માત્ર એક જ સંખ્યા છે '6'. એટલે 1 ના છેદમાં 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ચિત્ર આલેખમાં જો એક 🍎 = 10 સફરજન હોય, તો 45 સફરજન દર્શાવવા કેટલા ચિત્ર જોઈશે?\n(A) 4\n(B) 5\n(C) સાડા ચાર (4.5)\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સાડા ચાર (4.5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 45 / 10 = 4.5. એટલે કે 4 આખા અને 1 અડધું સફરજન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "અશક્ય ઘટનાની સંભાવના કેટલી હોય છે?\n(A) 1\n(B) -1\n(C) 0\n(D) 0.1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ક્યારેય થવાનું જ નથી, તેનો સ્કોર ઝીરો (0) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વર્ગ 5-10 માં 5 નો સમાવેશ કયા વર્ગમાં થશે?\n(A) 0-5\n(B) 5-10\n(C) 10-15\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5-10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા હંમેશા તેના 'શરુઆત' વાળા (અધ:સીમા) વર્ગમાં જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "માહિતી મેળવવા માટેના પ્રયત્નને શું કહેવાય?\n(A) પરિણામ\n(B) પ્રયોગ\n(C) ઘટના\n(D) નિષ્ફળતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રયોગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કો ઉછાળવો કે પાસો ફેંકવો એ એક 'પ્રયોગ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વર્તુળ આલેખમાં 180° નો ખૂણો આખા વર્તુળનો કેટલામો ભાગ છે?\n(A) ચોથો\n(B) ત્રીજો\n(C) અડધો\n(D) આખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અડધો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ના અડધા 180 થાય. એટલે અડધો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો એક સિક્કાને 100 વાર ઉછાળવામાં આવે અને 60 વાર છાપ આવે, તો કાંટો (Tail) આવવાની સંભાવના કેટલી?\n(A) 60/100\n(B) 40/100\n(C) 100/60\n(D) 1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40/100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 - 60 = 40 વાર કાંટો આવ્યો હોય. કુલ નીચે મૂકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "આલેખમાં Y-અક્ષ પર શું દર્શાવવામાં આવે છે?\n(A) વર્ગ\n(B) આવૃત્તિ\n(C) નામ\n(D) સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y-અક્ષ ઉભી હોય, એટલે સંખ્યા (આવૃત્તિ) ઉભી લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વર્ગ 30-40 માટે આવૃત્તિ ચિન્હ |||| ||| હોય, તો આવૃત્તિ કેટલી હશે?\n(A) 5\n(B) 7\n(C) 8\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 નું બંડલ + 3 છૂટી લીટી = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "એક પાસાને ફેંકતા 'અવિભાજ્ય સંખ્યા' મળવાની સંભાવના કેટલી?\n(A) 1/2\n(B) 1/3\n(C) 1/6\n(D) 5/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવિભાજ્ય સંખ્યાઓ 2, 3, 5 છે. કુલ 3 એટલે 3/6 = 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કઈ માહિતીને 'કાચી માહિતી' (Raw Data) કહેવાય?\n(A) જે ગોઠવેલી હોય\n(B) જે સીધી પ્રયોગ દ્વારા મેળવી હોય\n(C) જેનો આલેખ દોર્યો હોય\n(D) જે કોષ્ટકમાં હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જે સીધી પ્રયોગ દ્વારા મેળવી હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાંથી સીધું આવે એ કાચું, પ્રોસેસ થાય પછી પાકું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વૃત્તાંશ આલેખમાં 10% ભાગ દર્શાવવા કેટલા ડિગ્રીનો ખૂણો જોઈશે?\n(A) 10°\n(B) 36°\n(C) 100°\n(D) 72°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 36°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 ના 10% એટલે એક મીંડું ઉડાડો = 36.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો માહિતીનો વિસ્તાર 50 હોય અને સૌથી નાનું અવલોકન 10 હોય, તો સૌથી મોટું અવલોકન કયું હશે?\n(A) 40\n(B) 60\n(C) 50\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 60</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું = નાનું + વિસ્તાર (10 + 50 = 60).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "સંભાવનાનું મૂલ્ય કઈ બે સંખ્યાઓની વચ્ચે હોય છે?\n(A) -1 અને 1\n(B) 0 અને 100\n(C) 0 અને 1\n(D) 1 અને 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0 અને 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝીરો એટલે ના થાય અને એક એટલે પાક્કું થાય. વચ્ચે બધું શક્યતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વર્ગ 0-20, 20-40, 40-60 માં વર્ગ લંબાઈ કેટલી છે?\n(A) 0\n(B) 10\n(C) 20\n(D) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેપ કેટલો છે? 20 નો ગેપ એટલે લંબાઈ 20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પાસો ફેંકતા 'વિભાજ્ય સંખ્યા' (Composite Number) મળવાની સંભાવના કેટલી?\n(A) 2/6\n(B) 3/6\n(C) 4/6\n(D) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભાજ્ય સંખ્યાઓ માત્ર 4 અને 6 છે. એટલે 2/6 = 1/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વર્તુળ આલેખમાં કઈ માહિતી કેન્દ્ર પાસે 120° નો ખૂણો બનાવશે?\n(A) 1/4 ભાગ\n(B) 1/3 ભાગ\n(C) 1/2 ભાગ\n(D) 1/6 ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/3 ભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360 / 120 = 3. એટલે ત્રીજો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એક થેલીમાં 4 વાદળી અને 6 કાળા દડા છે. એક દડો કાળો હોય તેની સંભાવના કેટલી?\n(A) 0.6\n(B) 0.4\n(C) 1.0\n(D) 6.0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0.6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6/10 = 0.6. જે જોઈએ તે ઉપર, કુલ નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ચિત્ર આલેખમાં 'અડધું ચિત્ર' શું સૂચવે છે?\n(A) પૂરી કિંમત\n(B) અડધી કિંમત\n(C) શૂન્ય કિંમત\n(D) બમણી કિંમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અડધી કિંમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્ર જેવું દેખાય તેવું કામ કરે. અડધું એટલે અડધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "માહિતીના અલેખન માટે વપરાતી 'વર્ગીકૃત આવૃત્તિ વિતરણ' માં દરેક ગ્રુપને શું કહે છે?\n(A) વિસ્તાર\n(B) વર્ગ\n(C) પદ\n(D) ચલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ શાળામાં બાળકોના ગ્રુપ એટલે 'ક્લાસ' (વર્ગ), તેમ ગણિતમાં પણ 'વર્ગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "પાસો ફેંકતા '10' અંક આવવાની સંભાવના કેટલી?\n(A) 1\n(B) 0\n(C) 1/6\n(D) 10/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસો 6 એ પૂરો થઈ જાય, 10 ક્યાંથી લાવશો? અશક્ય એટલે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પાય-ચાર્ટમાં 3/4 ભાગ કેટલા ટકા દર્શાવે છે?\n(A) 25%\n(B) 50%\n(C) 75%\n(D) 100%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 75%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોણો ભાગ એટલે 100 માંથી 75%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જો 10 વિદ્યાર્થીઓના વજન કિલોમાં હોય: 40, 42, 40, 35, 40, 45, 40, 38, 40, 41. તો 40 ની આવૃત્તિ કેટલી?\n(A) 1\n(B) 3\n(C) 5\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણી લો કેટલી વાર 40 દેખાય છે? 5 વાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પાસા પર 'એકી સંખ્યા' મળે તેના શક્ય પરિણામો કેટલા?\n(A) 1\n(B) 2\n(C) 3\n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી સંખ્યાઓ: 1, 3, 5. એટલે કુલ 3 પરિણામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "સ્તંભાલેખમાં ઉભા સ્તંભોની ઊંચાઈ શું દર્શાવે છે?\n(A) વર્ગ લંબાઈ\n(B) આવૃત્તિ\n(C) ઉર્ધ્વ સીમા\n(D) વિસ્તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વધુ સંખ્યા, તેટલો ઊંચો થાંભલો (સ્તંભ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "શક્ય તમામ પરિણામોનો સરવાળો સંભાવનામાં હંમેશા કેટલો થાય?\n(A) 0\n(B) 0.5\n(C) 1\n(D) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ શક્યતાઓ ભેગી કરો એટલે 100% એટલે કે 1 જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વર્ગ 70-80 ની વર્ગ લંબાઈ જણાવો.\n(A) 70\n(B) 80\n(C) 10\n(D) 150",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 80 માંથી 70 કાઢો, વધ્યા 10!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પાંચ લીટીના આવૃત્તિ ચિન્હમાં પાંચમી લીટી કેવી રીતે દોરવામાં આવે છે?\n(A) ઉભી\n(B) આડી અથવા ત્રાસી\n(C) નીચે\n(D) દોરવામાં આવતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આડી અથવા ત્રાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ઉભી અને 1 આડી/ત્રાસી એટલે 'પંજો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વર્ગ 10-20 અને 20-30 કેવા પ્રકારના વર્ગો છે?\n(A) અસતત\n(B) સતત\n(C) મિશ્ર\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સતત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં એક વર્ગ પૂરો થાય ત્યાં જ બીજો શરૂ થાય, એટલે તે 'સતત' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "સિક્કાને ઉછાળતા છાપ અથવા કાંટો મળે તેને શું કહે છે?\n(A) ઘટના\n(B) સંભાવના\n(C) વિસ્તાર\n(D) આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઘટના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રયોગનું જે પરિણામ મળે તેને ગણિતની ભાષામાં 'ઘટના' કહેવાય.</p></div>"
+    }
+  ]
+}
