@@ -1030,3 +1030,261 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "વર્ગ અને વર્ગમૂળ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "8 નો વર્ગ કેટલો થાય? \n(A) 16 \n(B) 64 \n(C) 81 \n(D) 56",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 64</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો વર્ગ એટલે તે સંખ્યાનો તેની જ સાથે ગુણાકાર. 8 × 8 = 64.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કયો અંક પૂર્ણવર્ગ સંખ્યાનો એકમનો અંક ક્યારેય ન હોઈ શકે? \n(A) 1 \n(B) 5 \n(C) 2 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો '2, 3, 7, 8' - જો એકમનો અંક આ ચારમાંથી કોઈ હોય, તો તે સંખ્યા ક્યારેય પૂર્ણવર્ગ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંખ્યા 23 ના વર્ગનો એકમનો અંક શું હશે? \n(A) 3 \n(B) 6 \n(C) 9 \n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી સંખ્યાનો વર્ગ કરવાની જરૂર નથી! ફક્ત એકમનો અંક 3 છે, તો 3² = 9. તેથી જવાબ 9 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "12² અને 13² ની વચ્ચે કેટલી પ્રાકૃતિક સંખ્યાઓ આવેલી છે? \n(A) 24 \n(B) 25 \n(C) 26 \n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n² અને (n+1)² ની વચ્ચે 2n સંખ્યાઓ હોય. અહીં n=12, તેથી 2 × 12 = 24.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રથમ પાંચ એકી પ્રાકૃતિક સંખ્યાઓનો સરવાળો કેટલો થાય? \n(A) 15 \n(B) 20 \n(C) 25 \n(D) 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ n એકી સંખ્યાનો સરવાળો = n². અહીં n=5, એટલે 5² = 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "625 નું વર્ગમૂળ શું થાય? \n(A) 15 \n(B) 25 \n(C) 35 \n(D) 45",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો એકમનો અંક 5 હોય તેવી સંખ્યાનો વર્ગ કરવો સહેલો છે. 2 પછી 3 આવે, 2×3=6 અને પાછળ 25 લગાવો = 625.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાયથાગોરિયન ત્રિપુટીમાં જો એક સંખ્યા 6 હોય, તો બીજી બે સંખ્યાઓ કઈ હશે? \n(A) 8, 10 \n(B) 7, 9 \n(C) 5, 7 \n(D) 10, 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 8, 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2m = 6 લો, તો m = 3. હવે m²-1 = 9-1=8 અને m²+1 = 9+1=10. ત્રિપુટી: 6, 8, 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેનામાંથી કઈ સંખ્યા પૂર્ણવર્ગ સંખ્યા છે? \n(A) 1000 \n(B) 400 \n(C) 150 \n(D) 200",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 400</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણવર્ગ સંખ્યાની પાછળ શૂન્યોની સંખ્યા હંમેશા બેકી (2, 4, 6...) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "1.44 નું વર્ગમૂળ શું થાય? \n(A) 0.12 \n(B) 1.2 \n(C) 12 \n(D) 0.012",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1.2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 144 નું વર્ગમૂળ 12 છે. દશાંશ ચિહ્ન પછી 2 અંક છે, તો વર્ગમૂળમાં દશાંશ પછી 1 અંક રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંખ્યા 81 એ કોનો વર્ગ છે? \n(A) 7 \n(B) 8 \n(C) 9 \n(D) 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 × 9 = 81. ઘડિયા પાકા કરવાથી આ પ્રશ્નો ચપટીમાં ઉકેલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો એક ચોરસનું ક્ષેત્રફળ 144 ચો.સેમી હોય, તો તેની બાજુની લંબાઈ કેટલી? \n(A) 10 સેમી \n(B) 11 સેમી \n(C) 12 સેમી \n(D) 14 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 12 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસનું ક્ષેત્રફળ = બાજુ². તેથી બાજુ = √144 = 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેનામાંથી કઈ સંખ્યાનો વર્ગ એકી સંખ્યા હશે? \n(A) 42 \n(B) 28 \n(C) 127 \n(D) 56",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 127</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી સંખ્યાનો વર્ગ હંમેશા એકી હોય અને બેકી સંખ્યાનો વર્ગ હંમેશા બેકી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "48 ને કઈ નાનામાં નાની સંખ્યા વડે ગુણવાથી તે પૂર્ણવર્ગ બને? \n(A) 2 \n(B) 3 \n(C) 4 \n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 48 = 16 × 3. અહીં 16 પૂર્ણવર્ગ છે પણ 3 ની જોડી ખૂટે છે, એટલે 3 વડે ગુણવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "900 નું વર્ગમૂળ કેટલું થાય? \n(A) 3 \n(B) 30 \n(C) 300 \n(D) 90",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 નું વર્ગમૂળ 3 અને બે શૂન્યનું એક શૂન્ય. જવાબ 30.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "1 થી 100 વચ્ચે કેટલી પૂર્ણવર્ગ સંખ્યાઓ આવેલી છે? \n(A) 8 \n(B) 9 \n(C) 10 \n(D) 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1² થી 10² સુધીની બધી સંખ્યાઓ (1, 4, 9, ..., 100) ગણી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંખ્યા 121 નું વર્ગમૂળ શું છે? \n(A) 10 \n(B) 11 \n(C) 12 \n(D) 21",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11 × 11 = 121. 1 થી 20 ના વર્ગ મોઢે હોવા જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કયા અંકોની જોડ પૂર્ણવર્ગ સંખ્યાના એકમના અંકમાં હોઈ શકે? \n(A) 2, 3 \n(B) 7, 8 \n(C) 0, 1, 4, 5, 6, 9 \n(D) માત્ર 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0, 1, 4, 5, 6, 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો વર્ગ કરો, એકમમાં આ સિવાય બીજું કંઈ નહીં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સંખ્યા 7921 નું વર્ગમૂળ શોધવા માટે એકમનો અંક શું હોઈ શકે? \n(A) 1 અથવા 9 \n(B) 2 અથવા 8 \n(C) 3 અથવા 7 \n(D) 4 અથવા 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1 અથવા 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો વર્ગ કરવાથી 1 આવે તેવા અંકો 1 (1²=1) અને 9 (9²=81) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સૌથી નાની પૂર્ણવર્ગ સંખ્યા કઈ છે? \n(A) 0 \n(B) 1 \n(C) 2 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાકૃતિક સંખ્યાઓમાં સૌથી નાની પૂર્ણવર્ગ સંખ્યા 1 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "4² - 3² ની કિંમત કેટલી? \n(A) 1 \n(B) 7 \n(C) 12 \n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ક્રમિક સંખ્યાના વર્ગોનો તફાવત તે બે સંખ્યાઓના સરવાળા જેટલો હોય છે. 4 + 3 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "2500 નું વર્ગમૂળ કેટલું થાય? \n(A) 40 \n(B) 50 \n(C) 60 \n(D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √25 = 5 અને શૂન્યોની જોડ માટે એક શૂન્ય. એટલે 50.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો કોઈ સંખ્યાના એકમનો અંક 5 હોય, તો તેના વર્ગનો એકમનો અંક કયો હશે? \n(A) 0 \n(B) 2 \n(C) 5 \n(D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો એકમ 5 હોય તેના વર્ગનો એકમ હંમેશા 5 જ હોય (અને છેલ્લે 25 આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "64000 પૂર્ણવર્ગ સંખ્યા છે? \n(A) હા \n(B) ના \n(C) કહી શકાય નહીં \n(D) કોઈ પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં શૂન્યોની સંખ્યા 3 (એકી) છે. પૂર્ણવર્ગ માટે શૂન્યો હંમેશા બેકી સંખ્યામાં હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "13² = ? \n(A) 139 \n(B) 169 \n(C) 196 \n(D) 159",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 169</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 13 અને 14 ના વર્ગમાં ઘણીવાર ભૂલ થાય છે. યાદ રાખો: 13²=169 અને 14²=196.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "50 ને કઈ સંખ્યા વડે ભાગવાથી તે પૂર્ણવર્ગ બને? \n(A) 2 \n(B) 5 \n(C) 10 \n(D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 ÷ 2 = 25. 25 એ 5 નો વર્ગ છે. જે સંખ્યાની જોડી ન બનતી હોય તેના વડે જ ભાગાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાયથાગોરિયન ત્રિપુટી (8, 15, x) માં x ની કિંમત શું હશે? \n(A) 16 \n(B) 17 \n(C) 19 \n(D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 17</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8² + 15² = 64 + 225 = 289. √289 = 17.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "√0.09 = ? \n(A) 0.3 \n(B) 0.03 \n(C) 3 \n(D) 0.003",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0.3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √9 = 3. પોઈન્ટ પછી બે અંક છે, તો જવાબમાં પોઈન્ટ પછી એક અંક આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કઈ સંખ્યા પૂર્ણવર્ગ નથી? \n(A) 121 \n(B) 225 \n(C) 32 \n(D) 441",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 32 ના એકમમાં 2 છે, આપણે અગાઉ જોયું કે 2, 3, 7, 8 એકમમાં હોય તો તે પૂર્ણવર્ગ ન જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સંખ્યા 40 ના વર્ગમાં કેટલા શૂન્યો હશે? \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યામાં જેટલા શૂન્યો હોય, તેના વર્ગમાં તેનાથી બમણા શૂન્યો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "1 થી 10 સુધીની સંખ્યાઓના વર્ગમાં કેટલી સંખ્યાઓનો એકમનો અંક 1 છે? \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 નો વર્ગ (1) અને 9 નો વર્ગ (81). કુલ 2 સંખ્યાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કઈ સંખ્યાનું વર્ગમૂળ 15 થાય? \n(A) 30 \n(B) 225 \n(C) 125 \n(D) 625",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 225</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15² = 15 × 15 = 225.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "√1764 ની કિંમત શું છે? \n(A) 32 \n(B) 42 \n(C) 52 \n(D) 62",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 42</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 40² = 1600 અને 50² = 2500. જવાબ 40 અને 50 ની વચ્ચે છે. એકમમાં 4 છે, તો 42² હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "એક અંકની મોટામાં મોટી પૂર્ણવર્ગ સંખ્યા કઈ છે? \n(A) 1 \n(B) 4 \n(C) 9 \n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1²=1, 2²=4, 3²=9. 4²=16 (બે અંક થઈ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો x² = 16/25 હોય, તો x = ? \n(A) 4/5 \n(B) 8/5 \n(C) 2/5 \n(D) 4/25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદ બંનેનું અલગથી વર્ગમૂળ કાઢો. √16=4 અને √25=5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કોઈપણ પૂર્ણવર્ગ સંખ્યાનો એકમનો અંક જો 6 હોય, તો તે સંખ્યાના વર્ગમૂળનો એકમનો અંક શું હશે? \n(A) 4 અથવા 6 \n(B) 2 અથવા 8 \n(C) 1 અથવા 9 \n(D) માત્ર 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4 અથવા 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4²=16 (એકમ 6) અને 6²=36 (એકમ 6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સંખ્યા 21² અને 22² વચ્ચે કેટલી અ-પૂર્ણવર્ગ સંખ્યાઓ આવે? \n(A) 40 \n(B) 42 \n(C) 44 \n(D) 21",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 42</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2n સૂત્ર મુજબ, 2 × 21 = 42.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ત્રણ અંકની નાનામાં નાની પૂર્ણવર્ગ સંખ્યા કઈ? \n(A) 100 \n(B) 121 \n(C) 144 \n(D) 999",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 નો વર્ગ 100 છે, જે ત્રણ અંકની સૌથી નાની સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વર્ગમૂળને કયા સંકેત દ્વારા દર્શાવાય છે? \n(A) ² \n(B) √ \n(C) ³ \n(D) %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) √</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √ એટલે સ્ક્વેર રૂટ (Square Root) નો સિમ્બોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "√16 + √9 ની કિંમત કેટલી? \n(A) √25 \n(B) 7 \n(C) 5 \n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √16 = 4 અને √9 = 3. હવે 4 + 3 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો સંખ્યાના એકમનો અંક 0 હોય, તો તેના વર્ગમાં છેલ્લે ઓછામાં ઓછા કેટલા શૂન્યો હશે? \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક 0 નો વર્ગ કરવાથી બે 0 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કઈ સંખ્યાનો વર્ગ 0.04 થાય? \n(A) 0.2 \n(B) 0.02 \n(C) 2 \n(D) 0.4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0.2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.2 × 0.2 = 0.04. દશાંશ સ્થળ બમણા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નીચેનામાંથી કઈ પાયથાગોરિયન ત્રિપુટી છે? \n(A) 1, 2, 3 \n(B) 3, 4, 5 \n(C) 5, 6, 7 \n(D) 2, 3, 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3, 4, 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3² + 4² = 9 + 16 = 25 = 5². આ સૌથી પ્રખ્યાત ત્રિપુટી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "બે અંકની મોટામાં મોટી પૂર્ણવર્ગ સંખ્યા કઈ? \n(A) 99 \n(B) 81 \n(C) 64 \n(D) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 81</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9²=81 અને 10²=100 (ત્રણ અંક). એટલે 81 જવાબ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "√6400 = ? \n(A) 8 \n(B) 80 \n(C) 800 \n(D) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 80</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √64 = 8 અને બે શૂન્યનું એક શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સંખ્યા 20 અને 30 ના વર્ગો વચ્ચે કેટલી સંખ્યાઓ આવેલી છે? \n(A) 10 \n(B) 500 \n(C) 40 \n(D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 30² - 20² - 1 = 900 - 400 - 1 = 499 (અથવા અંદાજિત 500).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો n એ પ્રાકૃતિક સંખ્યા હોય, તો n² હંમેશા કેવી સંખ્યા હોય? \n(A) પૂર્ણવર્ગ \n(B) અવિભાજ્ય \n(C) એકી \n(D) ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પૂર્ણવર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાના વર્ગને પૂર્ણવર્ગ સંખ્યા જ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "સંખ્યા 1111111 નો વર્ગ કેટલા અંકનો હશે? \n(A) 7 \n(B) 13 \n(C) 14 \n(D) 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11..1 ના વર્ગની પેટર્ન યાદ કરો: 1234567654321. અંકો ગણી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "441 એ કોનો વર્ગ છે? \n(A) 21 \n(B) 31 \n(C) 11 \n(D) 41",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 21</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20²=400, તેથી તેની નજીકની સંખ્યા 21 નો વર્ગ 441 જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સંખ્યા 1000 ના વર્ગમાં કેટલા શૂન્યો હશે? \n(A) 3 \n(B) 4 \n(C) 6 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 શૂન્યો છે, વર્ગ કરવાથી તેના બમણા એટલે કે 6 શૂન્યો મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પુનરાવર્તિત બાદબાકીની રીતે 9 નું વર્ગમૂળ શોધતા કેટલા સ્ટેપ થશે? \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9-1=8, 8-3=5, 5-5=0. કુલ 3 વખત એકી સંખ્યા બાદ કરવી પડી!</p></div>"
+    }
+  ]
+}
