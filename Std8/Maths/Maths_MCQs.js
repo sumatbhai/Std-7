@@ -1446,3 +1446,211 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના (Comparing Quantities)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "5 કિમી અને 500 મીટરનો ગુણોત્તર કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10 : 1. (5 કિમી = 5000 મીટર. ગુણોત્તર = 5000/500 = 10/1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર શોધતા પહેલા હંમેશા એકમો સમાન કરો (કિમીને મીટરમાં ફેરવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "3 : 4 ને ટકાવારીમાં ફેરવતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 75%. (3/4 × 100 = 75%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/4 એટલે 25%, તો 3/4 એટલે 25 × 3 = 75% થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "25 વિદ્યાર્થીઓમાંથી 72% વિદ્યાર્થીઓ ગણિતમાં રસ ધરાવે છે, તો કેટલા વિદ્યાર્થીઓ ગણિતમાં રસ ધરાવતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7 વિદ્યાર્થીઓ. (100% - 72% = 28%. 25 ના 28% = 25 × 28/100 = 7)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતમાં રસ ન ધરાવતા ટકા શોધી લો (100 - 72 = 28%) અને પછી તેની સંખ્યા શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક વસ્તુની છાપેલી કિંમત ₹900 છે અને તેના પર 10% વળતર મળે છે, તો વળતરની રકમ કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ₹90. (900 ના 10% = 900 × 10/100 = 90)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાના 10% એટલે પાછળથી એક મીંડું કાઢી નાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો નફો 20% હોય અને ખરીદ કિંમત ₹500 હોય, તો વેચાણ કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹600. (નફો = 500 ના 20% = 100. વે.કિં = 500 + 100 = 600)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20% નફો એટલે મૂળ કિંમતના 120% (500 × 1.2 = 600).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "GST નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Goods and Services Tax. (વસ્તુ અને સેવા કર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GST એ વસ્તુ (Goods) અને સેવા (Service) પર લાગતો ટેક્સ (Tax) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચક્રવૃદ્ધિ વ્યાજ શોધવાનું સૂત્ર A = P(1 + r/100)ⁿ માં 'n' શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમયગાળો (વર્ષની સંખ્યા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n એટલે 'Number of years' - યાદ રાખો n = વર્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જ્યારે વ્યાજ અર્ધવાર્ષિક રીતે ગણવામાં આવે ત્યારે વ્યાજનો દર (r) કેવો લેવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અડધો. (વ્યાજ અર્ધવાર્ષિક હોય તો દર અડધો અને સમય બમણો થાય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધવાર્ષિક = દર અડધો (r/2) અને સમય ડબલ (2n)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "₹10,000 પર 10% લેખે 1 વર્ષનું સાદું વ્યાજ કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ₹1,000. (I = PRN/100 = 10000×10×1/100 = 1000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10% માટે છેલ્લેથી એક શૂન્ય દૂર કરો, સીધો જવાબ મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક શહેરની વસ્તી 20,000 છે, તેમાં દર વર્ષે 5% નો વધારો થાય છે, તો એક વર્ષ પછી વસ્તી કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 21,000. (20,000 ના 5% = 1,000. વસ્તી = 20,000 + 1,000 = 21,000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તી વધારો એ ચક્રવૃદ્ધિ વ્યાજ જેવી જ ગણતરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "0.05 ને ટકામાં ફેરવતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5%. (0.05 × 100 = 5%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્ન ને બે ડગલાં જમણી બાજુ ખસેડો એટલે ટકા મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એક ટીવી ₹20,000 માં ખરીદી ₹18,000 માં વેચતા કેટલા ટકા ખોટ જાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10%. (ખોટ = 2000. ટકા = 2000/20000 × 100 = 10%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોટ કે નફો હંમેશા મૂળ કિંમત (ખરીદ કિંમત) પર જ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વળતર કઈ કિંમત પર આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) છાપેલી કિંમત. (Discount is always on Marked Price)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુકાનદાર જે કિંમત 'છાપેલી' હોય તેના પર જ ડિસ્કાઉન્ટ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો 15 પેનની કિંમત ₹150 હોય, તો 1 પેનની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ₹10. (150 ÷ 15 = 10)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ દીઠ કિંમત શોધવા માટે કુલ કિંમતને સંખ્યા વડે ભાગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "2/5 ને ટકામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40%. (2/5 × 100 = 40%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/5 એટલે 20%, તો 2/5 એટલે 20 × 2 = 40%!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વસ્તુની કિંમતમાં 10% વધારો અને પછી 10% ઘટાડો કરવામાં આવે, તો અંતે શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1% ઘટાડો. (100 -> 110 -> 99)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સમાન ટકાવારી વધે અને ઘટે ત્યારે હંમેશા ઘટાડો જ થાય (x²/100).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "₹500 ની વસ્તુ પર 18% GST લાગે તો GST ની રકમ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ₹90. (500 × 18/100 = 90)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 18 પંચા 90! સીધો ગુણાકાર કરો (18 × 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોઈ સંખ્યાના 25% એટલે ₹50 થાય, તો તે સંખ્યા કઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ₹200. (25% = 1/4 ભાગ. 50 × 4 = 200)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25% એટલે ચોથો ભાગ, તો આખી સંખ્યા માટે 4 વડે ગુણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચક્રવૃદ્ધિ વ્યાજ (CI) હંમેશા સાદા વ્યાજ (SI) કરતા કેવું હોય છે? (બીજા વર્ષથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વધારે. (વ્યાજનું પણ વ્યાજ ઉમેરાય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્રવૃદ્ધિ વ્યાજ એટલે 'વ્યાજ પર વ્યાજ', એટલે તે હંમેશા વધે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "₹8,000 નું 5% લેખે 2 વર્ષનું ચક્રવૃદ્ધિ વ્યાજ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹820. (1લા વર્ષનું 400, 2જા વર્ષનું 400 + 20 = 820)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 વર્ષ માટે 2:1 ની ટ્રીક વાપરો! (400×2 + 20×1 = 820).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "12.5% ને અપૂર્ણાંકમાં ફેરવતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/8. (12.5/100 = 125/1000 = 1/8)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 25% = 1/4 તો તેનું અડધું 12.5% = 1/8 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખર્ચમાં કયા પ્રકારના ખર્ચનો સમાવેશ ખરીદ કિંમતમાં કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ (મજૂરી, ભાડું, સમારકામ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડતર કિંમત = ખરીદ કિંમત + ખરાજાત (ઉપરના વધારાના ખર્ચ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વેચાણ કિંમત (S.P.) = છાપેલી કિંમત (M.P.) - ______",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વળતર (Discount).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાપેલી કિંમતમાંથી વળતર બાદ કરો એટલે છેલ્લે જે ચૂકવવાના હોય તે કિંમત મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "80 ના 40% અને 40 ના 80% માં કઈ કિંમત મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બંને સમાન છે. (80×40/100 = 32 અને 40×80/100 = 32)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x% of y = y% of x. ગુણાકારનો ક્રમ બદલાવાથી જવાબ બદલાતો નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કપડાં પર 5% GST લેવામાં આવે છે, જો એક શર્ટ ₹500 નું હોય તો બિલની રકમ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ₹525. (500 ના 5% = 25. કુલ = 500 + 25 = 525)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેક્સ હંમેશા કિંમતમાં ઉમેરાય, વળતર બાદ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રથમ વર્ષ માટે સાદું વ્યાજ અને ચક્રવૃદ્ધિ વ્યાજ વચ્ચેનો તફાવત કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શૂન્ય (0). (પ્રથમ વર્ષે બંને સમાન હોય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 વર્ષ માટે SI = CI, આ નિયમ ક્યારેય ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો એક વસ્તુની વેચાણ કિંમત ₹240 હોય અને નફો 20% હોય, તો મૂળ કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹200. (120% = 240, તો 100% = 200)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નફો 20% એટલે કિંમત 1.2 ગણી થઈ, તો 240 ÷ 1.2 = 200.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "150% ને અપૂર્ણાંકમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3/2. (150/100 = 15/10 = 3/2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100% = 1 અને 50% = 1/2. તો 1 + 1/2 = 3/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વ્યાજમુદલ શોધવાનું સૂત્ર કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વ્યાજમુદલ = મુદ્દલ + વ્યાજ. (A = P + I)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુદલ' એટલે તમે લીધેલા પૈસા અને 'વ્યાજ' એટલે વધારાના પૈસા. બંનેનો સરવાળો એટલે વ્યાજમુદલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "25% વળતર એટલે વસ્તુની કિંમતનો કયો ભાગ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોથો ભાગ. (25/100 = 1/4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25, 50, 75, 100 આ અંક યાદ રાખો - 1/4, 2/4, 3/4, 4/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જો ગુણોત્તર 2:3 હોય, તો તેનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5. (2 + 3 = 5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરના પદોનો સરવાળો કુલ ભાગ દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "1 કિલોગ્રામ ના 250 ગ્રામ એટલે કેટલા ટકા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 25%. (250/1000 × 100 = 25%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 ના 250 એ ચોથો ભાગ છે, એટલે 25%!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "એક યંત્રની કિંમત ₹10,000 છે, તેનો ઘસારો 10% છે, તો 1 વર્ષ પછી કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ₹9,000. (10,000 - 1,000 = 9,000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘસારો એટલે કિંમતમાં ઘટાડો, ટકાવારી રકમ બાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ચક્રવૃદ્ધિ વ્યાજની ગણતરીમાં જ્યારે વ્યાજ 'ત્રિમાસિક' ગણાય ત્યારે n ની કિંમત કેટલી લેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 4n. (વર્ષમાં 4 ત્રણ મહિનાના ગાળા હોય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધવાર્ષિક માં 2, તો ત્રિમાસિક માં 4 (કારણકે 12 ÷ 3 = 4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નફો કે ખોટ હંમેશા કઈ કિંમત પર ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પડતર કિંમત અથવા ખરીદ કિંમત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે જેટલામાં વસ્તુ 'લાવ્યા' હોવ તેના પર જ નફો કે ખોટ નક્કી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "0.75 ને ટકામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 75%. (0.75 × 100 = 75)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે આંકડા હોય તો તે પોતે જ ટકાવારી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "એક ડઝન કેળાની કિંમત ₹48 હોય, તો 5 કેળાની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ₹20. (1 કેળાના 48/12 = 4. 5 કેળાના 4 × 5 = 20)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા એકની કિંમત શોધો (યુનિટરી મેથડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જો દર વર્ષે વ્યાજનો દર 10% હોય, તો વ્યાજમુદલ 2 વર્ષમાં કેટલા ગણું થાય (ચક્રવૃદ્ધિ વ્યાજે)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1.21 ગણું. (1.1 × 1.1 = 1.21)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11 નો વર્ગ 121 થાય, એટલે 1.1 નો વર્ગ 1.21!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "3/10 ને ટકામાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 30%. (3/10 × 100 = 30%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં 10 હોય તો અંશને 10 વડે ગુણી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વેચાણ કિંમત (S.P.) એ ખરીદ કિંમત (C.P.) કરતા ઓછી હોય ત્યારે શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખોટ (Loss).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેચ્યું 'ઓછામાં' તો ગઈ 'ખોટ'!</p></div>"
+    }
+  ]
+}
