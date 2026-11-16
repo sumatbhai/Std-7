@@ -1654,3 +1654,211 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "બેઝિક પદાવલિઓ અને નિત્યસમ (Algebraic Expressions and Identities)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાવલિ 5x² - 3xy માં પદ -3xy નો સહગુણક શું છે? <br> (A) 3 <br> (B) -3 <br> (C) 5 <br> (D) xy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) -3</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> સહગુણક એટલે પદની આગળ રહેલી નિશાની સાથેની સંખ્યા. અહીં xy ની આગળ -3 છે, તેથી જવાબ -3 આવે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કઈ પદાવલિ 'દ્વિપદી' (Binomial) છે? <br> (A) 5x²yz <br> (B) x + y + z <br> (C) a + b <br> (D) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) a + b</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જે પદાવલિમાં માત્ર બે પદો હોય (વત્તા કે ઓછાથી જોડાયેલા), તેને દ્વિપદી કહેવાય. 'a' અને 'b' એમ બે પદ છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પદાવલિ 7x - 5y + 3 માં કેટલા પદો છે? <br> (A) 1 <br> (B) 2 <br> (C) 3 <br> (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 3</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પદોને + અથવા - ની નિશાની અલગ પાડે છે. અહીં 7x, -5y અને 3 એમ કુલ 3 પદો છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેનામાંથી કઈ જોડ 'સજાતીય પદો' (Like Terms) ની છે? <br> (A) 7x, 7y <br> (B) 5x, 5x² <br> (C) 12x, -25x <br> (D) 3ab, 3bc",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 12x, -25x</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ચલ (Variable) અને તેની ઘાત (Power) બંને સરખા હોવા જોઈએ. અહીં બંનેમાં 'x' ની 1 ઘાત છે. સંખ્યા ગમે તે હોય તેનાથી ફેર પડતો નથી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પદાવલિ (x + y) અને (x - y) નો સરવાળો શું થાય? <br> (A) 2x <br> (B) 2y <br> (C) 2x + 2y <br> (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) 2x</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> (x + y) + (x - y) = x + y + x - y. અહીં +y અને -y ઉડી જશે, વધશે x + x = 2x.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "4p અને 0 નો ગુણાકાર કેટલો થાય? <br> (A) 4p <br> (B) 0 <br> (C) 4 <br> (D) p",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 0</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ગણિતનો સનાતન નિયમ: કોઈપણ સંખ્યા કે પદનો 'શૂન્ય' સાથે ગુણાકાર હંમેશા 'શૂન્ય' જ થાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "3x, 4x² અને 5x³ નો ગુણાકાર શું થાય? <br> (A) 12x⁶ <br> (B) 60x⁶ <br> (C) 60x³ <br> (D) 12x³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 60x⁶</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> સંખ્યાનો ગુણાકાર (3×4×5=60) કરો અને ઘાતાંકનો સરવાળો (1+2+3=6) કરો. તેથી 60x⁶.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લંબચોરસનું ક્ષેત્રફળ શોધવાનું સૂત્ર પદાવલિના સંદર્ભમાં શું છે? <br> (A) લંબાઈ + પહોળાઈ <br> (B) 2 × (લંબાઈ + પહોળાઈ) <br> (C) લંબાઈ × પહોળાઈ <br> (D) લંબાઈ - પહોળાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) લંબાઈ × પહોળાઈ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ક્ષેત્રફળ એટલે બે પરિમાણોનો ગુણાકાર. (Area = l × b)</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "a(b - c) નું સાદું રૂપ શું છે? <br> (A) ab - c <br> (B) ab - ac <br> (C) abc <br> (D) a - b - c",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) ab - ac</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કૌંસની બહારની સંખ્યા કૌંસના દરેક પદ સાથે ગુણાય. વિભાજનનો ગુણધર્મ: a × b - a × c.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "(x + 3)(x + 3) ને કઈ રીતે લખી શકાય? <br> (A) x² + 9 <br> (B) (x + 3)² <br> (C) 2x + 6 <br> (D) x² + 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) (x + 3)²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> એક સમાન પદાવલિનો બે વાર ગુણાકાર એટલે તેનો વર્ગ (Square).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નિત્યસમ (a + b)² = ________ <br> (A) a² + b² <br> (B) a² - 2ab + b² <br> (C) a² + 2ab + b² <br> (D) a² + ab + b²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) a² + 2ab + b²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> યાદ રાખવાની રીત: પહેલાનો વર્ગ + 2 × પહેલું × બીજું + બીજાનો વર્ગ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નિત્યસમ (a - b)² = ________ <br> (A) a² - b² <br> (B) a² - 2ab + b² <br> (C) a² + 2ab + b² <br> (D) a² - 2ab - b²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) a² - 2ab + b²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જો વચ્ચે માઈનસ (-) હોય, તો માત્ર મધ્યમ પદ (2ab) ની આગળ જ માઈનસ આવે, છેલ્લા પદમાં તો હંમેશા પ્લસ (+) જ રહે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "(x + a)(x + b) નું વિસ્તરણ શું થાય? <br> (A) x² + (a + b)x + ab <br> (B) x² + abx + (a+b) <br> (C) x² + ax + b <br> (D) x² + ab",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) x² + (a + b)x + ab</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> વચ્ચેના પદમાં સંખ્યાઓનો સરવાળો અને છેલ્લા પદમાં સંખ્યાઓનો ગુણાકાર.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "(a + b)(a - b) = ________ <br> (A) (a - b)² <br> (B) a² + b² <br> (C) a² - b² <br> (D) 2a - 2b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) a² - b²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> એક વાર વત્તા અને એક વાર ઓછા (ચલ સરખા હોય ત્યારે) = પહેલા પદનો વર્ગ ઓછા બીજા પદનો વર્ગ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પદાવલિ 100² - 99² ની કિંમત શોધો. <br> (A) 1 <br> (B) 199 <br> (C) 100 <br> (D) 19900",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 199</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> a² - b² = (a-b)(a+b) મુજબ, (100-99)(100+99) = 1 × 199 = 199. ક્રમિક સંખ્યાના વર્ગોનો તફાવત એટલે તે બે સંખ્યાનો સરવાળો!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "(2x + 5y)² માં મધ્યમ પદ કયું હશે? <br> (A) 10xy <br> (B) 20xy <br> (C) 7xy <br> (D) 25y²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 20xy</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> મધ્યમ પદ = 2 × (પહેલું પદ) × (બીજું પદ) = 2 × 2x × 5y = 20xy.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો x = 2 હોય, તો 3x² - 5 ની કિંમત શું થાય? <br> (A) 1 <br> (B) 7 <br> (C) 31 <br> (D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 7</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> x ની જગ્યાએ 2 મૂકો: 3(2)² - 5 = 3(4) - 5 = 12 - 5 = 7.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "(-4p) × (7pq) નો જવાબ શું આવે? <br> (A) 28p²q <br> (B) -28pq <br> (C) -28p²q <br> (D) -11p²q",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) -28p²q</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> માઈનસ પ્લસ માઈનસ થાય. 4 × 7 = 28. p × p = p². તેથી -28p²q.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પદાવલિ (a + b + c) માં પદોની સંખ્યા મુજબ તેને શું કહેવાય? <br> (A) એકપદી <br> (B) દ્વિપદી <br> (C) ત્રિપદી <br> (D) શૂન્યપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) ત્રિપદી</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ત્રણ પદ એટલે ત્રિપદી (Trinomial).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "(x - 4)(x + 4) = ________ <br> (A) x² + 16 <br> (B) x² - 16 <br> (C) x² - 8 <br> (D) x² + 8x + 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) x² - 16</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> (a-b)(a+b) = a² - b². અહીં x² - 4² = x² - 16.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "9xy² માં ચલ (Variable) કયા છે? <br> (A) 9 <br> (B) x અને y <br> (C) 9, x, y <br> (D) y²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) x અને y</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ચલ એટલે અંગ્રેજી મૂળાક્ષરો (a, b, x, y, z વગેરે). 9 એ અચલ છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પદાવલિ -x - y માંથી -1 સામાન્ય લેતા શું વધે? <br> (A) x - y <br> (B) - (x + y) <br> (C) x + y <br> (D) y - x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) x + y</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જ્યારે માઈનસ નિશાની કૌંસની બહાર કાઢીએ, ત્યારે અંદરના બધા પદોની નિશાની બદલાઈ જાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નિત્યસમનો ઉપયોગ કરી 103² શોધો. <br> (A) 10609 <br> (B) 10009 <br> (C) 10906 <br> (D) 10606",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) 10609</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> (100+3)² = 100² + 2(100)(3) + 3² = 10000 + 600 + 9 = 10609.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "3x²y અને -5xy² નો સરવાળો શું થાય? <br> (A) -2x²y² <br> (B) -15x³y³ <br> (C) સરવાળો ન થઈ શકે (વિજાતીય પદો છે) <br> (D) 8x²y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) સરવાળો ન થઈ શકે (વિજાતીય પદો છે)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> સરવાળો માત્ર 'સજાતીય પદો' નો જ થાય. અહીં પહેલામાં x નો વર્ગ છે અને બીજામાં y નો વર્ગ છે, તેથી આ વિજાતીય પદો છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક ચોરસની બાજુનું માપ 3a છે, તો તેનું ક્ષેત્રફળ શોધો. <br> (A) 6a <br> (B) 9a <br> (C) 9a² <br> (D) 12a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 9a²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ચોરસનું ક્ષેત્રફળ = (બાજુ)² = (3a)² = 9a².</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પદાવલિ (2a - 3b)(2a + 3b) ની કિંમત શું થાય? <br> (A) 4a² - 9b² <br> (B) 4a² + 9b² <br> (C) 2a² - 3b² <br> (D) 4a - 9b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) 4a² - 9b²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> (x-y)(x+y) = x² - y². અહીં (2a)² - (3b)² = 4a² - 9b².</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો a + b = 5 અને ab = 6 હોય, તો a² + b² શોધો. <br> (A) 25 <br> (B) 13 <br> (C) 19 <br> (D) 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 13</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> a² + b² = (a+b)² - 2ab. એટલે કે 5² - 2(6) = 25 - 12 = 13.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "99² ને કયા નિત્યસમની મદદથી સરળતાથી ગણી શકાય? <br> (A) (100 + 1)² <br> (B) (100 - 1)² <br> (C) (90 + 9)² <br> (D) (99 + 0)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) (100 - 1)²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> શૂન્યવાળી સંખ્યા (10, 100, 1000) ની નજીક જવાથી ગણતરી ઝડપી બને.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "(x + 5)(x + 2) માં છેલ્લું પદ કયું આવશે? <br> (A) 7 <br> (B) 10 <br> (C) 2x <br> (D) 5x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 10</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> (x+a)(x+b) માં છેલ્લું પદ 'ab' (સંખ્યાઓનો ગુણાકાર) હોય. 5 × 2 = 10.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "5x²y²z² માં સહગુણક અને ચલના ઘાતાંકનો સરવાળો કેટલો થાય? <br> (A) 5 <br> (B) 6 <br> (C) 11 <br> (D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 11</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> સહગુણક 5 છે. ઘાતાંકોનો સરવાળો = 2+2+2 = 6. કુલ 5 + 6 = 11. (નોંધ: પ્રશ્ન બરાબર વાંચવો!)</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "-(x - y) બરાબર શું થાય? <br> (A) -x - y <br> (B) x + y <br> (C) y - x <br> (D) -x + y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) y - x</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> -(x - y) = -x + y, જેને ક્રમ બદલીને y - x પણ લખાય. માઈનસ અંદર જાય તો બધું ઉલટાવી નાખે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "1.1m × 1.1m = ________ <br> (A) 1.21m <br> (B) 12.1m² <br> (C) 1.21m² <br> (D) 121m²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 1.21m²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> 11 નો વર્ગ 121 થાય. દશાંશ ચિહ્ન પછી એક આંકડો છે, તો વર્ગમાં બે આંકડા પછી પોઈન્ટ આવે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પદાવલિમાં 'ચલ' ની કિંમત કેવી હોય છે? <br> (A) હંમેશા સ્થિર <br> (B) બદલાતી રહેતી <br> (C) શૂન્ય <br> (D) એક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) બદલાતી રહેતી</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> નામ જ 'ચલ' છે, જે ચાલે (બદલાય) તે ચલ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "(2/3)x × (3/2)y = ________ <br> (A) xy <br> (B) (6/6)x <br> (C) (4/9)xy <br> (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) xy</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> અંશ અને છેદ ઉડી જશે (2 થી 2 અને 3 થી 3), વધશે માત્ર x અને y નો ગુણાકાર.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પદાવલિ (4x - 3y)² ના વિસ્તરણમાં કેટલા પદો મળે? <br> (A) 2 <br> (B) 3 <br> (C) 4 <br> (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 3</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કોઈપણ દ્વિપદીના વર્ગનું વિસ્તરણ હંમેશા 'ત્રિપદી' જ હોય. (a² ± 2ab + b²)</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "(a + b)² અને (a - b)² નો તફાવત શું થાય? <br> (A) 2a² + 2b² <br> (B) 0 <br> (C) 4ab <br> (D) 2ab",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 4ab</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> (a²+2ab+b²) - (a²-2ab+b²) = 2ab + 2ab = 4ab. યાદ રાખવા જેવું પરિણામ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "78 × 82 ની કિંમત કયા નિત્યસમથી સહેલી પડે? <br> (A) (80-2)(80+2) <br> (B) (70+8)(80+2) <br> (C) (78+0)(82+0) <br> (D) (80-2)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) (80-2)(80+2)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જ્યારે બે સંખ્યાઓ કોઈ એક રાઉન્ડ ફિગર (80) થી સમાન અંતરે હોય, ત્યારે (a-b)(a+b) નિત્યસમ વાપરવો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "xy, yz અને zx નો ગુણાકાર શું થાય? <br> (A) xyz <br> (B) x²y²z² <br> (C) 3xyz <br> (D) x+y+z",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) x²y²z²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ગુણાકારમાં સમાન ચલની ઘાતનો સરવાળો થાય. દરેક ચલ (x, y, z) બે વાર આવે છે, તેથી બધાની 2 ઘાત થશે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પદાવલિ 4x² - 9 ના અવયવ કયા છે? <br> (A) (2x-3)(2x-3) <br> (B) (2x+3)(2x+3) <br> (C) (2x-3)(2x+3) <br> (D) (4x-9)(4x+9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) (2x-3)(2x+3)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> a² - b² = (a-b)(a+b). અહીં (2x)² - (3)².</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો લંબઘનનું માપ 2x, 3x અને 4x હોય, તો તેનું ઘનફળ શોધો. <br> (A) 9x <br> (B) 24x³ <br> (C) 24x <br> (D) 12x²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 24x³</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ઘનફળ = લંબાઈ × પહોળાઈ × ઊંચાઈ = 2x × 3x × 4x = 24x³.</div>"
+    }
+  ]
+}
