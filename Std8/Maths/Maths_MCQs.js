@@ -2228,3 +2228,161 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "સમપ્રમાણ અને વ્યસ્ત પ્રમાણ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો x અને y સમપ્રમાણમાં હોય, તો નીચેનામાંથી કયો સંબંધ સાચો છે? \n(A) x + y = k \n(B) x - y = k \n(C) x/y = k \n(D) x * y = k",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) x/y = k</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમપ્રમાણ એટલે 'ભાગાકાર' અચળ રહે (S-B: સમપ્રમાણ-ભાગાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો x અને y વ્યસ્ત પ્રમાણમાં હોય, તો નીચેનામાંથી કયો સંબંધ સાચો છે? \n(A) x/y = k \n(B) x * y = k \n(C) x + y = k \n(D) x - y = k",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x * y = k</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ એટલે 'ગુણાકાર' અચળ રહે (V-G: વ્યસ્ત-ગુણાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "10 પેનની કિંમત 50 રૂપિયા હોય, તો 15 પેનની કિંમત કેટલી થાય? \n(A) 60 રૂ. \n(B) 75 રૂ. \n(C) 100 રૂ. \n(D) 150 રૂ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 75 રૂ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 પેન = 50 (5 ગણા), તો 15 પેન = 15 × 5 = 75!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક ગાડી 60 કિમી/કલાકની ઝડપે એક અંતર 2 કલાકમાં કાપે છે. જો ઝડપ 80 કિમી/કલાક કરવામાં આવે, તો તે જ અંતર કાપતા કેટલો સમય લાગે? \n(A) 1.5 કલાક \n(B) 2.5 કલાક \n(C) 3 કલાક \n(D) 1 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1.5 કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ વધે તો સમય ઘટે (વ્યસ્ત પ્રમાણ). 60 × 2 = 120, હવે 120 / 80 = 1.5!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો 20 મજૂરો એક કામ 10 દિવસમાં પૂરું કરે, તો તે જ કામ 5 દિવસમાં પૂરું કરવા કેટલા મજૂરો જોઈએ? \n(A) 10 \n(B) 30 \n(C) 40 \n(D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસો અડધા (10 થી 5), તો મજૂરો બમણા (20 થી 40). વ્યસ્ત સંબંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નકશામાં 1 સેમી = 100 કિમી પ્રમાણમાપ છે. જો બે શહેર વચ્ચેનું વાસ્તવિક અંતર 550 કિમી હોય, તો નકશામાં તે કેટલું હશે? \n(A) 5 સેમી \n(B) 5.5 સેમી \n(C) 6 સેમી \n(D) 0.55 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5.5 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 કિમી એ 1 સેમી, તો 550 કિમી એ 550/100 = 5.5 સેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક શિબિરમાં 100 માણસોને 20 દિવસ ચાલે તેટલું અનાજ છે. જો 25 માણસો વધે, તો અનાજ કેટલા દિવસ ચાલશે? \n(A) 15 દિવસ \n(B) 16 દિવસ \n(C) 25 દિવસ \n(D) 10 દિવસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 16 દિવસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ: 100 × 20 = 125 × x => x = 2000/125 = 16.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો x અને y સમપ્રમાણમાં હોય અને જ્યારે x=5 હોય ત્યારે y=20 હોય, તો જ્યારે x=10 હોય ત્યારે y ની કિંમત કેટલી? \n(A) 30 \n(B) 40 \n(C) 10 \n(D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x બમણો થયો (5 થી 10), તો y પણ બમણો થાય (20 થી 40).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કયું ઉદાહરણ વ્યસ્ત પ્રમાણનું છે? \n(A) વસ્તુની સંખ્યા અને તેની કુલ કિંમત \n(B) કાપેલું અંતર અને વપરાયેલ પેટ્રોલ \n(C) મજૂરોની સંખ્યા અને કામ પૂરું કરવા લાગતો સમય \n(D) ત્રિજ્યા અને વર્તુળનું ક્ષેત્રફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મજૂરોની સંખ્યા અને કામ પૂરું કરવા લાગતો સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસો વધે તો સમય ઘટે, એટલે કે 'ઉલટું' ચાલ્યું, માટે વ્યસ્ત પ્રમાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો x અને y વ્યસ્ત પ્રમાણમાં હોય, અને x=4 હોય ત્યારે y=6 હોય, તો x=3 હોય ત્યારે y=? \n(A) 4.5 \n(B) 8 \n(C) 2 \n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર સરખો રહે: 4 × 6 = 24. હવે, 3 × ? = 24, તો ? = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એક મશીન 6 કલાકમાં 840 બોટલ ભરે છે. તો તે 5 કલાકમાં કેટલી બોટલ ભરશે? \n(A) 700 \n(B) 720 \n(C) 600 \n(D) 750",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 700</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કલાકમાં 840/6 = 140 બોટલ. તો 5 કલાકમાં 140 × 5 = 700.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો 15 પાઈપ એક ટાંકી 60 મિનિટમાં ભરે, તો 20 પાઈપ તે ટાંકી કેટલા સમયમાં ભરશે? \n(A) 80 મિનિટ \n(B) 40 મિનિટ \n(C) 45 મિનિટ \n(D) 30 મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 45 મિનિટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ: 15 × 60 = 900. હવે 900 / 20 = 45 મિનિટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ચાલવાની ઝડપ અને તે માટે લાગતો સમય કયા પ્રમાણમાં હોય છે? \n(A) સમપ્રમાણ \n(B) વ્યસ્ત પ્રમાણ \n(C) બંને \n(D) એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વ્યસ્ત પ્રમાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપથી ચાલો તો ટાઈમ ઓછો લાગે! એક વધ્યું બીજું ઘટ્યું એટલે વ્યસ્ત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો 5 કિલો ઘઉંની કિંમત 120 રૂ. હોય, તો 8 કિલો ઘઉંની કિંમત કેટલી? \n(A) 192 રૂ. \n(B) 200 રૂ. \n(C) 180 રૂ. \n(D) 210 રૂ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 192 રૂ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિલો ના 120/5 = 24 રૂ. તો 8 કિલો ના 8 × 24 = 192 રૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક થાંભલાની ઊંચાઈ 14 મીટર અને તેના પડછાયાની લંબાઈ 10 મીટર છે. તે જ સમયે એક વૃક્ષના પડછાયાની લંબાઈ 15 મીટર હોય તો વૃક્ષની ઊંચાઈ કેટલી? \n(A) 20 મીટર \n(B) 21 મીટર \n(C) 22 મીટર \n(D) 25 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 21 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમપ્રમાણ: 14/10 = x/15. ચોકડી ગુણાકાર: 14 × 15 / 10 = 21!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો x અને y વ્યસ્ત પ્રમાણમાં હોય, તો x1 * y1 = ______ \n(A) x2 * y2 \n(B) x2 / y2 \n(C) y2 / x2 \n(D) x1 / y1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) x2 * y2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણમાં ગુણાકાર હંમેશા સરખો રહે (V-G).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક ચોપડીના 60 પાના વાંચતા 3 કલાક લાગે, તો 100 પાના વાંચતા કેટલો સમય લાગે? \n(A) 4 કલાક \n(B) 5 કલાક \n(C) 6 કલાક \n(D) 4.5 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 પાના માટે 1 કલાક, તો 100 પાના માટે 100/20 = 5 કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો 6 મશીન 10 મિનિટમાં 420 છાપાં છાપે, તો 1 મશીન 1 મિનિટમાં કેટલા છાપાં છાપશે? \n(A) 7 \n(B) 42 \n(C) 70 \n(D) 60",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 મશીન 10 મિનિટમાં 420, એટલે 60 મશીન-મિનિટમાં 420. તો 1 માટે 420/60 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એક કાર 25 લિટર પેટ્રોલમાં 400 કિમી અંતર કાપે છે. જો કારમાં 15 લિટર પેટ્રોલ હોય, તો તે કેટલા કિમી અંતર કાપશે? \n(A) 240 કિમી \n(B) 250 કિમી \n(C) 300 કિમી \n(D) 200 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 240 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 લિટરમાં 400/25 = 16 કિમી. તો 15 લિટરમાં 15 × 16 = 240 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો x/y = 5 હોય, તો x અને y વચ્ચે કયું પ્રમાણ છે? \n(A) વ્યસ્ત પ્રમાણ \n(B) સમપ્રમાણ \n(C) અચળ પ્રમાણ \n(D) કોઈ સંબંધ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમપ્રમાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર અચળ (5) છે, માટે તે સમપ્રમાણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એક ખેડૂત પાસે 20 પશુઓને 6 દિવસ ચાલે તેટલો ઘાસચારો છે. જો તે બીજા 10 પશુઓ ખરીદે, તો ઘાસચારો કેટલા દિવસ ચાલશે? \n(A) 3 દિવસ \n(B) 4 દિવસ \n(C) 5 દિવસ \n(D) 2 દિવસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4 દિવસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ: 20 × 6 = 120. હવે પશુઓ 20+10=30 થયા. 120/30 = 4 દિવસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો 12 માણસો એક દીવાલ 8 દિવસમાં બાંધે, તો 16 માણસો તે દીવાલ કેટલા દિવસમાં બાંધશે? \n(A) 4 દિવસ \n(B) 6 દિવસ \n(C) 10 દિવસ \n(D) 5 દિવસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6 દિવસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ: 12 × 8 = 96. હવે 96 / 16 = 6 દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "80 કિમી/કલાકની ઝડપે જતી ટ્રેન 400 કિમી અંતર કાપવા કેટલો સમય લેશે? \n(A) 4 કલાક \n(B) 5 કલાક \n(C) 6 કલાક \n(D) 8 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય = અંતર / ઝડપ = 400 / 80 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો 2 કિલો ખાંડમાં 9 × 10^6 સ્ફટિકો હોય, તો 5 કિલો ખાંડમાં કેટલા સ્ફટિકો હોય? \n(A) 2.25 × 10^7 \n(B) 1.25 × 10^7 \n(C) 4.5 × 10^6 \n(D) 2.5 × 10^7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2.25 × 10^7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમપ્રમાણ: (9/2) × 5 = 22.5. ઘાતાંકમાં સેટ કરતા 2.25 × 10^7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ખાલી જગ્યા પૂરો: જો 'x' વધે અને 'y' પણ તેટલા જ પ્રમાણમાં વધે, તો તે ______ પ્રમાણ કહેવાય. \n(A) વ્યસ્ત \n(B) સમ \n(C) શૂન્ય \n(D) મિશ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખે-સરખું વધે એટલે 'સમ'પ્રમાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો 7 મીટર કાપડની કિંમત 1470 રૂ. હોય, તો 5 મીટર કાપડની કિંમત કેટલી? \n(A) 1000 રૂ. \n(B) 1050 રૂ. \n(C) 1100 રૂ. \n(D) 950 રૂ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1050 રૂ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 1470/7 = 210 રૂ. તો 5 મીટર = 210 × 5 = 1050 રૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "24 સ્ત્રીઓ એક કામ 15 દિવસમાં કરે છે, તો કેટલી સ્ત્રીઓ તે કામ 10 દિવસમાં કરી શકે? \n(A) 36 \n(B) 30 \n(C) 40 \n(D) 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 36</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ: 24 × 15 = 360. હવે 360 / 10 = 36 સ્ત્રીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કઈ જોડી સમપ્રમાણમાં હોઈ શકે? \n(A) વાહનની ઝડપ અને સમય \n(B) વસ્તુની સંખ્યા અને કિંમત \n(C) કામદારો અને કામના દિવસો \n(D) વસ્તી અને માથાદીઠ જમીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વસ્તુની સંખ્યા અને કિંમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વસ્તુ તો વધુ કિંમત - બંને વધે એટલે સમપ્રમાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક રિક્ષા 1 કલાકમાં 15 કિમી અંતર કાપે છે, તો 20 મિનિટમાં તે કેટલું અંતર કાપશે? \n(A) 10 કિમી \n(B) 5 કિમી \n(C) 3 કિમી \n(D) 7 કિમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કલાક = 60 મિનિટ. 20 મિનિટ એ 60 નો ત્રીજો ભાગ છે. તો અંતર પણ ત્રીજો ભાગ: 15 / 3 = 5 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો 14 મીટર લાંબા કાપડમાંથી 10 શર્ટ બને, તો 21 મીટર કાપડમાંથી કેટલા શર્ટ બને? \n(A) 12 \n(B) 15 \n(C) 18 \n(D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 મીટર -> 10 શર્ટ (7 ના ઘડિયામાં જુઓ). 7 મીટરે 5 શર્ટ, તો 21 મીટરે (7×3) એટલે 5×3 = 15 શર્ટ!</p></div>"
+    }
+  ]
+}
