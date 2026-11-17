@@ -2020,3 +2020,211 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "$2^{-3}$ ની કિંમત નીચેનામાંથી કઈ છે?\n(A) -8\n(B) 1/8\n(C) 8\n(D) -1/8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત જ્યારે માઇનસ (-) હોય ત્યારે સંખ્યાને છેદમાં લઈ જવી. એટલે કે 2³ = 8, તો 2⁻³ = 1/8. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "$(-4)^{-2}$ ની કિંમત જણાવો.\n(A) 16\n(B) -16\n(C) 1/16\n(D) -1/16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘાત બેકી (Even) હોય, તો જવાબ હંમેશા ધન (+) જ આવે. (-4)² = 16, તો (-4)⁻² = 1/16. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "$(\frac{1}{2})^{-5}$ ની કિંમત શું થાય?\n(A) 32\n(B) -32\n(C) 1/32\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકની ઘાત માઇનસ હોય ત્યારે અંશ અને છેદ ઉલટાવી નાખો અને ઘાત પ્લસ કરી દો. (1/2)⁻⁵ = (2/1)⁵ = 32. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "$a^m \times a^n$ બરાબર શું થાય?\n(A) $a^{m-n}$\n(B) $a^{mn}$\n(C) $a^{m+n}$\n(D) $a^{m/n}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) a^{m+n}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધાર સરખો અને ગુણાકાર હોય તો ઘાતનો સરવાળો થાય. 'ગુણાકાર = સરવાળો'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "$3^5 \div 3^{-2}$ નું સાદું રૂપ શું થાય?\n(A) $3^3$\n(B) $3^7$\n(C) $3^{-7}$\n(D) $3^{-10}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3^7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં ઘાતની બાદબાકી થાય: 5 - (-2) = 5 + 2 = 7. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કોઈપણ શૂન્યતર સંખ્યા $a$ માટે $a^0$ ની કિંમત કેટલી થાય?\n(A) 0\n(B) a\n(C) -1\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેટલી મોટી સંખ્યા હોય, જો તેની ઘાત 0 હોય તો જવાબ હંમેશા 1 જ આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "0.000007 ને પ્રમાણિત સ્વરૂપમાં કેવી રીતે લખાય?\n(A) $7 \times 10^{-6}$\n(B) $7 \times 10^{-5}$\n(C) $7 \times 10^6$\n(D) $0.7 \times 10^{-5}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7 \times 10^{-6}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટને જમણી બાજુ જેટલા ડગલાં ખસેડો તેટલી ઘાત માઇનસ (-) માં આવે. અહીં 6 ડગલાં ખસેડ્યા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1230000 નું પ્રમાણિત સ્વરૂપ જણાવો.\n(A) $1.23 \times 10^5$\n(B) $1.23 \times 10^6$\n(C) $12.3 \times 10^5$\n(D) $1.23 \times 10^{-6}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1.23 \times 10^6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી સંખ્યામાં પોઈન્ટ છેલ્લે હોય, તેને ડાબી બાજુ ખસેડો તો ઘાત પ્લસ (+) આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "$(2^0 + 3^0 + 4^0)$ ની કિંમત શું થાય?\n(A) 0\n(B) 1\n(C) 3\n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2⁰=1, 3⁰=1, 4⁰=1. તેથી 1 + 1 + 1 = 3. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$(\frac{2}{3})^2$ ની વ્યસ્ત સંખ્યા કઈ છે?\n(A) $(\frac{2}{3})^{-2}$\n(B) $(\frac{3}{2})^2$\n(C) $A$ અને $B$ બંને\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) A અને B બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત કરવા માટે ઘાતની નિશાની બદલી શકાય અથવા અંશ-છેદ ઉલટાવી શકાય. બંને રીત સાચી છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "$5^m \div 5^{-3} = 5^5$ હોય, તો $m$ ની કિંમત શોધો.\n(A) 2\n(B) 8\n(C) -2\n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર એટલે ઘાતની બાદબાકી: m - (-3) = 5 => m + 3 = 5 => m = 2. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$(2^5 \div 2^8)^5 \times 2^{-5}$ નું સાદું રૂપ શું થાય?\n(A) $2^{-20}$\n(B) $2^{20}$\n(C) $2^{10}$\n(D) $2^{-10}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2^{-20}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા કૌંસ છોડો: 2⁵⁻⁸ = 2⁻³. પછી (2⁻³)⁵ = 2⁻¹⁵. છેલ્લે 2⁻¹⁵ ⁻ ⁵ = 2⁻²⁰. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "$(-1)^{50}$ ની કિંમત કેટલી?\n(A) -1\n(B) 1\n(C) 50\n(D) -50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર -1 હોય અને ઘાત બેકી હોય, તો જવાબ +1 આવે. જો ઘાત એકી હોય, તો જવાબ -1 આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$3^2 \times 3^3 \times 3^{-5}$ ની કિંમત શોધો.\n(A) 3\n(B) 0\n(C) 1\n(D) 27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતનો સરવાળો કરો: 2 + 3 + (-5) = 5 - 5 = 0. અને કોઈપણની 0 ઘાત એટલે 1. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "$1 \mu m$ (માઈક્રોમીટર) બરાબર કેટલા મીટર થાય?\n(A) $10^{-6}$ મીટર\n(B) $10^6$ મીટર\n(C) $10^{-3}$ મીટર\n(D) $10^{-9}$ મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 10^{-6} મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈક્રો એટલે દસ લાખમો ભાગ, એટલે કે 1/1,000,000 = 10⁻⁶. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$(\frac{a}{b})^{-m} = \dots$\n(A) $(\frac{b}{a})^m$\n(B) $(\frac{a}{b})^m$\n(C) $\frac{a^{-m}}{b^m}$\n(D) $a^m \cdot b^m$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (b/a)^m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતની નિશાની બદલાય તો અંદરની સંખ્યા ઉલટાઈ જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "$3.5 \times 10^{-5}$ ને સામાન્ય સ્વરૂપમાં ફેરવો.\n(A) 0.00035\n(B) 0.000035\n(C) 350000\n(D) 0.0000035",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.000035</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત -5 છે, તો પોઈન્ટને ડાબી બાજુ 5 સ્થાન ખસેડો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$(-1)^{101}$ ની કિંમત કેટલી?\n(A) 1\n(B) -1\n(C) 101\n(D) -101",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 101 એ 'એકી' (Odd) સંખ્યા છે, તેથી -1 ની એકી ઘાત હંમેશા -1 જ રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$x^m \div x^n$ જ્યારે $n > m$ હોય ત્યારે નીચેનું કયું સાચું છે?\n(A) $x^{m-n}$\n(B) $1 / x^{n-m}$\n(C) $x^{n-m}$\n(D) A અને B બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A અને B બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x^{m-n} અને 1/x^{n-m} બંને સરખા જ છે, ખાલી લખવાની રીત અલગ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "$7^{-2}$ નો વ્યસ્ત શું થાય?\n(A) 49\n(B) 1/49\n(C) -49\n(D) -1/49",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 49</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7⁻² પોતે 1/49 છે, તો તેનો વ્યસ્ત ઉલટાવીને 49 થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો $x = 2$ અને $y = -2$ હોય, તો $x^y$ ની કિંમત કેટલી?\n(A) 4\n(B) -4\n(C) 1/4\n(D) -1/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x^y = 2⁻² = 1/2² = 1/4. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બેક્ટેરિયાનું કદ $0.0000005$ મીટર છે. તેને પ્રમાણિત સ્વરૂપમાં દર્શાવો.\n(A) $5 \times 10^7$\n(B) $5 \times 10^{-7}$\n(C) $5 \times 10^{-6}$\n(D) $0.5 \times 10^{-6}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 \times 10^{-7}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી 7 ડગલાં જમણી બાજુ ખસવું પડે છે, તેથી 10⁻⁷ આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "$(3^{-1} \times 4^{-1})^{-1}$ ની કિંમત શોધો.\n(A) 12\n(B) 1/12\n(C) 7\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (1/3 × 1/4)⁻¹ = (1/12)⁻¹ = 12. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેનામાંથી કયું $10^2$ ની બરાબર નથી?\n(A) $100$\n(B) $10^5 \div 10^3$\n(C) $(10^{-1})^{-2}$\n(D) $10^{-2}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 10^{-2}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10² એટલે 100 થાય, જ્યારે 10⁻² એટલે 1/100 થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો $(-3)^{m+1} \times (-3)^5 = (-3)^7$ હોય, તો $m = \dots$\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુ ઘાતનો સરવાળો: (m+1) + 5 = 7 => m + 6 = 7 => m = 1. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પૃથ્વીનું દળ $5.97 \times 10^{24}$ kg છે. અહીં ઘાતાંક શું છે?\n(A) 10\n(B) 5.97\n(C) 24\n(D) kg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની ઉપર જે સંખ્યા લખેલી હોય તેને 'ઘાતાંક' કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "$\frac{1}{3^{-2}}$ ની કિંમત કેટલી?\n(A) 9\n(B) 1/9\n(C) -9\n(D) -1/9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં રહેલી માઇનસ ઘાત અંશમાં જાય ત્યારે પ્લસ થઈ જાય. 3² = 9. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "$2^2 \times 3^2$ ને કેવી રીતે લખાય?\n(A) $5^2$\n(B) $6^2$\n(C) $6^4$\n(D) $5^4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6^2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘાત સરખી હોય અને આધાર અલગ હોય, તો આધારનો ગુણાકાર કરો. (2×3)² = 6². (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "$0.00001$ ને 10 ના ઘાતાંક સ્વરૂપે લખો.\n(A) $10^{-4}$\n(B) $10^{-5}$\n(C) $10^{-6}$\n(D) $10^5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10^{-5}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી જેટલા આંકડા હોય તેટલી માઇનસ ઘાત મૂકો. અહીં 5 આંકડા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "$(\frac{1}{2})^{-2} + (\frac{1}{3})^{-2} + (\frac{1}{4})^{-2}$ ની કિંમત શોધો.\n(A) 29\n(B) 1/29\n(C) 61\n(D) 13",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 29</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2² + 3² + 4² = 4 + 9 + 16 = 29. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "$(2^{-1} + 3^{-1} + 4^{-1})^0 = \dots$\n(A) 1\n(B) 0\n(C) 9/12\n(D) 12/9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસમાં ભલે ગમે તે હોય, આખા કૌંસની ઉપર 0 ઘાત હોય એટલે જવાબ આંખો બંધ કરીને 1 લખી દેવો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "$(-4)^5 \div (-4)^8$ નું મૂલ્ય જણાવો.\n(A) $(-4)^3$\n(B) $1/(-4)^3$\n(C) $(-4)^{-13}$\n(D) 64",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/(-4)^3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં બાદબાકી: 5 - 8 = -3. તો (-4)⁻³ = 1/(-4)³. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "$2^x = 1$ હોય, તો $x$ ની કિંમત શું હશે?\n(A) 1\n(B) 2\n(C) 0\n(D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાની 0 ઘાત જ 1 થાય, માટે x = 0. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સૂર્ય અને પૃથ્વી વચ્ચેનું અંતર આશરે $1.5 \times 10^{11}$ મીટર છે. આ સંખ્યામાં કેટલા શૂન્ય આવશે (પોઈન્ટ દૂર કર્યા પછી)?\n(A) 11\n(B) 10\n(C) 12\n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1.5 છે, એટલે એક 10 વપરાઈ જશે પોઈન્ટ કાઢવામાં, વધશે 10 શૂન્ય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "$(\frac{5}{8})^{-7} \times (\frac{8}{5})^{-4}$ નું સાદું રૂપ...\n(A) $(\frac{5}{8})^{-3}$\n(B) $(\frac{8}{5})^3$\n(C) $(\frac{5}{8})^{11}$\n(D) $(\frac{5}{8})^3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (5/8)^3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (8/5)⁻⁴ ને ઉલટાવી (5/8)⁴ કરો. હવે આધાર સરખો, ગુણાકાર એટલે ઘાતનો સરવાળો: -7 + 4 = -3. (5/8)⁻³ = (8/5)³. ઓપ્શનમાં જોતા (5/8)³ સાચું સેટ થશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "નીચેનામાંથી કયું વિધાન સાચું છે?\n(A) $2^3 > 3^2$\n(B) $2^3 < 3^2$\n(C) $2^3 = 3^2$\n(D) $2^3 = 6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2^3 < 3^2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2³ = 8 અને 3² = 9. તેથી 8 < 9. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો $a = -1, b = 2$ હોય, તો $a^b + b^a$ ની કિંમત કેટલી?\n(A) 1.5\n(B) 0.5\n(C) 1\n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (-1)² + 2⁻¹ = 1 + 1/2 = 1.5. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "$(10^{10})^{0}$ ની કિંમત શું થાય?\n(A) $10^{10}$\n(B) 10\n(C) 1\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતની ઉપર ઘાત હોય તો ગુણાકાર થાય: 10 × 0 = 0. અને 10⁰ = 1. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "0.0000000000085 નું પ્રમાણિત સ્વરૂપ જણાવો.\n(A) $8.5 \times 10^{-12}$\n(B) $8.5 \times 10^{-11}$\n(C) $8.5 \times 10^{-10}$\n(D) $85 \times 10^{-12}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 8.5 \times 10^{-12}</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટને 8 અને 5 ની વચ્ચે લાવવા 12 ડગલાં જમણી બાજુ ખસવું પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો $5^x = 125$ હોય, તો $x$ શોધો.\n(A) 2\n(B) 3\n(C) 4\n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 × 5 × 5 = 125, એટલે કે 5³ = 125. તેથી x = 3. (NJ Classes)</p></div>"
+    }
+  ]
+}
