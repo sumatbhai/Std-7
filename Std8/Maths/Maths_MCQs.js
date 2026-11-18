@@ -2594,3 +2594,191 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આલેખનો પરિચય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આલેખપત્ર પર દોરેલી આડી રેખાને શું કહેવામાં આવે છે?",
+      "options": "(A) Y-ધરી (B) X-ધરી (C) ઉગમબિંદુ (D) લંબ-રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) X-ધરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' થી આડી અને 'X' થી ક્ષિતિજ - આડી રેખા એટલે X-ધરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આલેખપત્ર પર દોરેલી ઊભી રેખાને શું કહેવામાં આવે છે?",
+      "options": "(A) X-ધરી (B) ઉગમબિંદુ (C) Y-ધરી (D) ક્ષિતિજ રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Y-ધરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊભી લાકડી જેવો 'Y', એટલે ઊભી રેખા તે Y-ધરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "X-ધરી અને Y-ધરીના છેદબિંદુને શું કહે છે?",
+      "options": "(A) કેન્દ્રબિંદુ (B) અંત્યબિંદુ (C) મધ્યબિંદુ (D) ઉગમબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉગમબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી બધું 'ઉગ્યું' એટલે કે શરૂ થયું, તે ઉગમબિંદુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉગમબિંદુના યામ હંમેશા શું હોય છે?",
+      "options": "(A) (1, 1) (B) (0, 1) (C) (0, 0) (D) (1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (0, 0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત હંમેશા ઝીરો (0) થી જ થાય, એટલે (0, 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બિંદુ (4, 3) માં x-યામ કયો છે?",
+      "options": "(A) 3 (B) 4 (C) 7 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x, y) ની જોડીમાં પહેલો હંમેશા 'x' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બિંદુ (5, 2) માં y-યામ કયો છે?",
+      "options": "(A) 5 (B) 7 (C) 2 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x, y) ની જોડીમાં બીજો હંમેશા 'y' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો કોઈ બિંદુનો y-યામ 0 હોય, તો તે બિંદુ ક્યાં આવેલું હોય?",
+      "options": "(A) Y-ધરી પર (B) ઉગમબિંદુ પર (C) X-ધરી પર (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) X-ધરી પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે શૂન્ય હોય તેની વિરુદ્ધ ધરી પર બિંદુ હોય. y=0 તો X-ધરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બિંદુ (0, 6) આલેખમાં ક્યાં જોવા મળશે?",
+      "options": "(A) X-ધરી પર (B) Y-ધરી પર (C) ઉગમબિંદુ પર (D) બીજા ચરણમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Y-ધરી પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં x=0 છે, એટલે બિંદુ Y-ધરી પર જ બેઠું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બિંદુ (3, 3), (4, 4), (5, 5) ને જોડતા કેવી રેખા મળે?",
+      "options": "(A) વક્ર રેખા (B) લંબ રેખા (C) સીધી રેખા (સુરેખા) (D) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સીધી રેખા (સુરેખા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે x અને y નો ગુણોત્તર સમાન વધતો હોય, ત્યારે હંમેશા સીધી રેખા જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા પ્રકારના આલેખમાં માહિતીને લંબચોરસ સ્તંભો દ્વારા દર્શાવવામાં આવે છે?",
+      "options": "(A) રેખીય આલેખ (B) સ્તંભાલેખ (C) વર્તુળ આલેખ (D) બિંદુ આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્તંભાલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાંભલા જેવા સ્તંભ એટલે સ્તંભાલેખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમય જતાં બદલાતી માહિતીને સતત રીતે દર્શાવવા માટે કયો આલેખ વધુ ઉપયોગી છે?",
+      "options": "(A) ચિત્ર આલેખ (B) સ્તંભાલેખ (C) રેખા આલેખ (D) વૃત્તાલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રેખા આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિકેટના સ્કોર જેવી 'સતત' બદલાતી વસ્તુ માટે 'રેખા' (Line) બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વર્તુળ આલેખને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "options": "(A) બાર ગ્રાફ (B) પાઈ ચાર્ટ (C) હિસ્ટોગ્રામ (D) લાઈન ગ્રાફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાઈ ચાર્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ-ગોળ પાઈ (Pie) જેવો આલેખ એટલે પાઈ ચાર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બિંદુ (7, 0) કઈ ધરી પર આવેલું છે?",
+      "options": "(A) Y-ધરી (B) X-ધરી (C) બંને ધરી પર (D) ઉગમબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) X-ધરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y = 0 છે, એટલે બિંદુ X નો સાથ છોડશે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેખીય આલેખમાં x-અક્ષ પર સામાન્ય રીતે કેવી વિગત લેવામાં આવે છે?",
+      "options": "(A) સ્વતંત્ર ચલ (જેમ કે સમય) (B) પરતંત્ર ચલ (C) કિંમત (D) ઉકેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સ્વતંત્ર ચલ (જેમ કે સમય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય કોઈની રાહ નથી જોતો, તે સ્વતંત્ર છે, એટલે તે નીચે (X-ધરી) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો આલેખ એક જ સીધી રેખામાં હોય, તો તેને કેવો આલેખ કહેવાય?",
+      "options": "(A) વક્ર આલેખ (B) સ્તંભ આલેખ (C) રેખીય આલેખ (D) બિંદુ આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રેખીય આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી 'રેખા' માં એટલે 'રેખીય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બિંદુ (2, 5) અને (5, 2) શું એક જ બિંદુ દર્શાવે છે?",
+      "options": "(A) હા (B) ના (C) કહી શકાય નહીં (D) ઉગમબિંદુ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાન બદલાય તો બિંદુ બદલાય. (2,5) અને (5,2) ના સરનામાં અલગ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "X-યામને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "options": "(A) કોટિ (B) ભુજ (C) ક્ષિતિજ (D) લંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભુજ (Abscissa)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X-યામ એટલે 'ભુજ' અને Y-યામ એટલે 'કોટિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Y-યામને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "options": "(A) ભુજ (B) કોટિ (C) રેખા (D) અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કોટિ (Ordinate)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y ઊંચો હોય એટલે તેની 'કોટિ' (Status) ઊંચી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બિંદુ (0, 0) ક્યાં આવેલું છે?",
+      "options": "(A) X-ધરી પર (B) Y-ધરી પર (C) ઉગમબિંદુ પર (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉગમબિંદુ એ બંને ધરીઓનું મિલન સ્થાન છે, એટલે તે બંને પર ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચોરસની બાજુ અને તેની પરિમિતિ વચ્ચેનો આલેખ કેવો હોય?",
+      "options": "(A) વક્ર રેખા (B) રેખીય (C) વર્તુળ (D) ઝિગ-ઝેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રેખીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ = 4 × બાજુ. આ સમપ્રમાણ છે, માટે આલેખ સીધી રેખા જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કયા આલેખમાં માહિતીના ભાગોને આખા ભાગ (વર્તુળ) સાથે સરખાવવામાં આવે છે?",
+      "options": "(A) સ્તંભાલેખ (B) વૃત્તાલેખ (C) રેખા આલેખ (D) લંબ આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વૃત્તાલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વૃત્ત' એટલે વર્તુળ. આખા વર્તુળના ભાગ એટલે વૃત્તાલેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો આલેખમાં રેખા X-ધરીને સમાંતર હોય, તો તેના કયા યામ સમાન હશે?",
+      "options": "(A) X-યામ (B) Y-યામ (C) બંને (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Y-યામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ધરીને સમાંતર હોય, તેનાથી ઉલટો યામ સમાન રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બિંદુ (3, 8) એ Y-ધરીથી કેટલા એકમ દૂર છે?",
+      "options": "(A) 8 એકમ (B) 3 એકમ (C) 11 એકમ (D) 5 એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3 એકમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y થી અંતર એટલે x-યામ, અને X થી અંતર એટલે y-યામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બિંદુ (5, 9) એ X-ધરીથી કેટલા એકમ દૂર છે?",
+      "options": "(A) 5 (B) 14 (C) 9 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X થી કેટલા ઉપર ગયા? જેટલો Y-યામ હોય તેટલા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીચેનામાંથી કયું બિંદુ X-ધરી પર આવેલું છે?",
+      "options": "(A) (0, 5) (B) (2, 3) (C) (5, 0) (D) (3, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (5, 0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X-ધરી પર રહેવું હોય તો Y ને '0' કરવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બિંદુ (0, 4) ક્યાં આવેલું છે?",
+      "options": "(A) X-ધરી પર (B) Y-ધરી પર (C) ઉગમબિંદુ પર (D) પ્રથમ ચરણમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Y-ધરી પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x = 0 તો બિંદુ Y-ધરી પર મજા કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "આલેખમાં સ્વતંત્ર ચલ કઈ ધરી પર દર્શાવવામાં આવે છે?",
+      "options": "(A) X-ધરી (B) Y-ધરી (C) બંને ધરી પર (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) X-ધરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સ્વતંત્ર છે (જેમ કે સમય) તે હંમેશા પાયામાં (X-ધરી) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આલેખમાં પરતંત્ર ચલ કઈ ધરી પર દર્શાવવામાં આવે છે?",
+      "options": "(A) X-ધરી (B) Y-ધરી (C) ઉગમબિંદુ (D) Z-ધરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Y-ધરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બીજા પર આધાર રાખે (પરતંત્ર), તે Y-ધરી પર ઉપર-નીચે થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દરેક બિંદુને દર્શાવવા માટે કેટલા યામની જરૂર પડે છે?",
+      "options": "(A) 1 (B) 2 (C) 3 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિંદુ એટલે (x, y) - બે યામની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બે ચલ વચ્ચેના સંબંધને ચિત્રાત્મક રીતે રજૂ કરવાની રીત એટલે...",
+      "options": "(A) સમીકરણ (B) આલેખ (C) કોષ્ટક (D) અવલોકન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિત્ર જેવું દેખાય અને માહિતી આપે, એ જ આલેખ!</p></div>"
+    }
+  ]
+}
