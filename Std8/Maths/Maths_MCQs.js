@@ -2782,3 +2782,161 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "અવયવીકરણ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "12x અને 36 નો સૌથી મોટો સામાન્ય અવયવ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 12</p><hr><p>12x = 2 × 2 × 3 × x અને 36 = 2 × 2 × 3 × 3. સામાન્ય અવયવ = 2 × 2 × 3 = 12.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે સંખ્યાઓ હોય ત્યારે ઘડીયો યાદ કરો, 12 ના ઘડિયામાં 36 આવે છે, તેથી 12 એ સામાન્ય અવયવ ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "2y અને 22xy નો સામાન્ય અવયવ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2y</p><hr><p>2y = 2 × y અને 22xy = 2 × 11 × x × y. સામાન્ય પદ 2 અને y છે.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચલ (Variables) માં જે નાની ઘાત હોય તેને સામાન્ય લેવી. અહીં y બંનેમાં છે, તેથી y સામાન્ય આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "7x - 42 ના અવયવો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 7(x - 6)</p><hr><p>7x - 42 માંથી 7 સામાન્ય લેતા: 7(x - 6).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 7 ના ઘડિયામાં 42 ક્યારે આવે? 7 × 6 = 42. બસ, 7 બહાર કાઢો અને 6 અંદર રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "x² + 8x + 16 એ કઈ દ્વિપદીનો પૂર્ણવર્ગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (x + 4)²</p><hr><p>x² + 2(x)(4) + 4² = (x + 4)²</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેલ્લું પદ 16 છે, તેનું વર્ગમૂળ 4 થાય. જો મધ્યમ પદ ધન હોય તો (x+4)² અને ઋણ હોય તો (x-4)²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "49p² - 36 ના અવયવો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (7p - 6)(7p + 6)</p><hr><p>a² - b² = (a - b)(a + b) મુજબ, (7p)² - (6)² = (7p - 6)(7p + 6).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે પદ વચ્ચે માઈનસ હોય અને બંને પૂર્ણવર્ગ હોય ત્યારે: (એક વાર ઓછા, એક વાર વત્તા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "x² - 10x + 25 ના અવયવો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (x - 5)²</p><hr><p>x² - 2(x)(5) + 5² = (x - 5)²</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યમ પદ માઈનસ (-) હોય તો જવાબમાં પણ માઈનસ આવશે. 25 નું વર્ગમૂળ 5, એટલે (x-5)²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "10ab ÷ 2a ની કિંમત શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5b</p><hr><p>10ab / 2a = (10/2) * (a/a) * b = 5 * 1 * b = 5b.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંશ અને છેદમાં જે સરખું હોય તેને ઉડાડી દો! 'a' ઉડી જશે, 10/2 = 5, વધ્યું b!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પદાવલિ ax + bx + ay + by ના અવયવો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (x + y)(a + b)</p><hr><p>x(a + b) + y(a + b) = (a + b)(x + y).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બબ્બેની જોડી બનાવો! પહેલા બે માંથી x અને બીજા બે માંથી y સામાન્ય લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "z² - 4z - 12 ના અવયવીકરણમાં મધ્યમ પદના ભાગ કયા પડશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -6z અને +2z</p><hr><p>ગુણાકાર -12 અને સરવાળો -4 જોઈએ. તેથી -6 × 2 = -12 અને -6 + 2 = -4.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો છેલ્લું પદ માઈનસ હોય, તો મોટા ભાગની નિશાની મધ્યમ પદ જેવી રાખવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "24(x²yz + xy²z + xyz²) ને 8xyz વડે ભાગતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 3(x + y + z)</p><hr><p>24xyz(x + y + z) / 8xyz = 3(x + y + z).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસમાંથી xyz સામાન્ય કાઢી લો, પછી 24/8 = 3 વધશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "p² + 6p + 8 ના અવયવો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (p + 4)(p + 2)</p><hr><p>ગુણાકાર 8 અને સરવાળો 6: 4 × 2 = 8, 4 + 2 = 6.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એવી બે સંખ્યા શોધો જેનો ગુણાકાર છેલ્લું પદ અને સરવાળો મધ્યમ પદ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેનામાંથી કયું વિધાન સાચું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3(x - 4) = 3x - 12</p><hr><p>કૌંસની બહારની સંખ્યા અંદરના દરેક પદ સાથે ગુણાય.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિભાજનનો ગુણધર્મ યાદ રાખો, બહારનો મહેમાન અંદરના બધા સભ્યોને મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "x² - 9 ના અવયવો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (x - 3)(x + 3)</p><hr><p>x² - 3² = (x - 3)(x + 3)</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 9 એટલે 3 નો વર્ગ. તફાવતની રીત વાપરો: (x-3)(x+3)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "14pq અને 28p²q² નો સામાન્ય અવયવ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 14pq</p><hr><p>14 એ 28 નો અવયવ છે અને pq બંનેમાં છે.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાની સંખ્યા અને નાની ઘાત હંમેશા સામાન્ય નીકળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "m² - 256 ના અવયવો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (m - 16)(m + 16)</p><hr><p>256 એ 16 નો વર્ગ છે. m² - 16² = (m - 16)(m + 16).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 થી 20 સુધીના વર્ગ મોઢે કરો, ગણતરી સેકન્ડોમાં થશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "6xy - 4y + 6 - 9x ના અવયવો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (3x - 2)(2y - 3)</p><hr><p>પદોની ગોઠવણી: 6xy - 9x - 4y + 6 = 3x(2y - 3) - 2(2y - 3) = (3x - 2)(2y - 3).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો સીધા અવયવ ન નીકળે તો પદોની અદલાબદલી (Regrouping) કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "4y² - 12y + 9 એ કોનો પૂર્ણવર્ગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (2y - 3)²</p><hr><p>(2y)² - 2(2y)(3) + 3² = (2y - 3)².</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રથમ પદનું વર્ગમૂળ 2y અને છેલ્લાનું 3, વચ્ચે - છે એટલે (2y - 3)²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "63a²b²c² ÷ 7abc = ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 9abc</p><hr><p>63/7 = 9. ઘાતાંકના નિયમ મુજબ ઘાતની બાદબાકી: a²-¹, b²-¹, c²-¹.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યાનો ભાગાકાર કરો અને ચલની ઘાત ઓછી કરી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "x² + 5x + 6 ના અવયવો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (x + 3)(x + 2)</p><hr><p>3 + 2 = 5 (મધ્યમ પદ) અને 3 × 2 = 6 (છેલ્લું પદ).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બધું વત્તા (+) હોય તો જવાબમાં પણ બધા પદ વત્તા (+) જ આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "y² - 7y + 10 ના અવયવો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (y - 5)(y - 2)</p><hr><p>-5 - 2 = -7 અને -5 × -2 = 10.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેલ્લું પદ વત્તા હોય અને મધ્યમ પદ ઓછા હોય, તો બંને અવયવ માઈનસ આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "3x² + 6x²y માંથી શું સામાન્ય નીકળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3x²</p><hr><p>3x²(1 + 2y). અહીં 3x² બંને પદમાં છે.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખું પદ (3x²) જ્યારે સામાન્ય નીકળે ત્યારે અંદર 1 લખવાનું ભૂલવું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "(-4a² + 4ab - 4ca) નો સામાન્ય અવયવ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 4a</p><hr><p>દરેક પદમાં 4 અને a આવેલા છે.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દરેક પદમાં જે દેખાતું હોય તેને પકડો, તે જ તમારો સામાન્ય અવયવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "x² + xy + 8x + 8y ના અવયવ શું થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (x + y)(x + 8)</p><hr><p>x(x + y) + 8(x + y) = (x + y)(x + 8).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 4 પદ હોય એટલે 2-2 ની જોડી બનાવીને 'કોમન' કાઢો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "5x²y / x²y ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p>x²y થી x²y ઉડી જશે, માત્ર 5 વધશે.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપર-નીચે સરખું દેખાય તો ચેકો મારી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "(a + b)² - (a - b)² નું સાદું રૂપ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4ab</p><hr><p>(a² + 2ab + b²) - (a² - 2ab + b²) = 4ab.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ સૂત્ર યાદ જ રાખી લેવું, સ્પર્ધાત્મક પરીક્ષામાં પણ ખૂબ કામ લાગે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "15xy - 6x + 5y - 2 ના અવયવો કયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (3x + 1)(5y - 2)</p><hr><p>3x(5y - 2) + 1(5y - 2) = (3x + 1)(5y - 2).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે બીજા કૌંસમાં કંઈ સામાન્ય ન નીકળે ત્યારે '1' સામાન્ય લેવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "121b² - 81c² ના અવયવો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (11b - 9c)(11b + 9c)</p><hr><p>(11b)² - (9c)² = (11b - 9c)(11b + 9c).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 121 નું વર્ગમૂળ 11 અને 81 નું 9. બસ, તફાવતની રીત લગાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "44(x⁴ - 5x³ - 24x²) ÷ 11x(x - 8) = ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4x(x + 3)</p><hr><p>44x²(x² - 5x - 24) / 11x(x - 8) = 4x(x - 8)(x + 3) / (x - 8) = 4x(x + 3).</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા x² સામાન્ય કાઢો, પછી અંદરના ભાગ પાડો. છેલ્લે જે ઉડે તે ઉડાડી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "x² + 14x + 49 માં મધ્યમ પદ કઈ રીતે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2 * (x) * (7)</p><hr><p>પૂર્ણવર્ગ પદાવલિમાં મધ્યમ પદ = ±2 × √પ્રથમ પદ × √અંતિમ પદ.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બમણું, પહેલું, બીજું' - આ મંત્ર યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અવયવીકરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પદાવલિને તેના અવયવોના ગુણાકાર સ્વરૂપે લખવી</p><hr><p>અવયવીકરણ એ ગુણાકારની ઉંધી પ્રક્રિયા છે.</p><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભેગું કરવું એટલે ગુણાકાર, અને છૂટું પાડવું એટલે અવયવીકરણ!</p></div>"
+    }
+  ]
+}
