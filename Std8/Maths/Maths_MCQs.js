@@ -3073,3 +3073,161 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "સંખ્યા સાથે રમત",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે અંકોની સંખ્યા ab નું વ્યાપક સ્વરૂપ નીચેનામાંથી કયું છે? \n(A) a + b \n(B) 10a + b \n(C) 10b + a \n(D) 10ab",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 10a + b</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અંક દશકના સ્થાને હોય તેને 10 વડે ગુણવા. અહીં 'a' દશક પર છે, તેથી 10a + b (એકમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ત્રણ અંકોની સંખ્યા abc નું વિસ્તૃત સ્વરૂપ શું થાય? \n(A) 100a + 10b + c \n(B) 100c + 10b + a \n(C) a + b + c \n(D) 100abc",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) 100a + 10b + c</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાન કિંમત યાદ રાખો: શતક = 100, દશક = 10, એકમ = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો કોઈ સંખ્યાનો એકમનો અંક 0 હોય, તો તે સંખ્યાને કઈ સંખ્યા વડે નિઃશેષ ભાગી શકાય? \n(A) માત્ર 2 \n(B) માત્ર 5 \n(C) 2, 5 અને 10 ત્રણેય વડે \n(D) માત્ર 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 2, 5 અને 10 ત્રણેય વડે</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો છેલ્લો અંક 'મીંડું' (0) હોય, તે 2, 5 અને 10 ના ટેબલમાં આવે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સંખ્યા 100c + 10a + b ને અંકોના કયા ક્રમમાં લખી શકાય? \n(A) abc \n(B) bca \n(C) cab \n(D) acb",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) cab</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 સાથે જે હોય તે પહેલો અંક, 10 સાથે હોય તે બીજો અને એકલો હોય તે ત્રીજો. (c-a-b)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો સંખ્યા 24x એ 9 નો ગુણિત હોય, તો x ની કિંમત શું હશે? \n(A) 1 \n(B) 3 \n(C) 4 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 3</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ની ચાવી: અંકોનો સરવાળો 9 ના ઘડિયામાં આવવો જોઈએ. 2+4+x = 6+x. જો x=3 મૂકીએ તો 6+3=9 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કઈ સંખ્યાને 3 વડે નિઃશેષ ભાગી શકાય? \n(A) 123 \n(B) 124 \n(C) 125 \n(D) 127",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) 123</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકોનો સરવાળો કરો: 1+2+3 = 6. 6 ને 3 વડે ભાગી શકાય એટલે આખી સંખ્યાને ભાગી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો 31z5 એ 9 નો ગુણિત હોય, તો z ની શક્ય કિંમત શોધો. \n(A) 0 \n(B) 9 \n(C) 0 અથવા 9 \n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 0 અથવા 9</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3+1+z+5 = 9+z. જો z=0 લો તો 9 અને z=9 લો તો 18. બંને 9 ના ઘડિયામાં છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો A + A + A = BA હોય, તો A ની કિંમત શું હશે? \n(A) 2 \n(B) 5 \n(C) 0 \n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 5</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 + 5 + 5 = 15. અહીં છેલ્લો અંક પણ 5 છે અને જવાબ BA એટલે કે 15. A=5 સેટ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંખ્યા 356 ને 10 વડે ભાગતા કેટલી શેષ વધે? \n(A) 3 \n(B) 5 \n(C) 6 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 6</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાને 10 વડે ભાગતા તેનો 'એકમનો અંક' જ હંમેશા શેષ તરીકે વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો 1A × A = 9A હોય, તો A = ? \n(A) 1 \n(B) 6 \n(C) 5 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 6</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકલ્પો પરથી ચેક કરો: 16 × 6 = 96. અહીં A=6 મૂકતા જવાબ 9A એટલે કે 96 મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બે અંકોની સંખ્યાના અંકોની અદલાબદલી કરતા મળતી સંખ્યા અને મૂળ સંખ્યાનો સરવાળો હંમેશા કોના વડે વિભાજ્ય હોય? \n(A) 9 \n(B) 10 \n(C) 11 \n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 11</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (10a+b) + (10b+a) = 11a + 11b = 11(a+b). સરવાળો હોય તો 11, બાદબાકી હોય તો 9!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બે અંકોની સંખ્યાના અંકોની અદલાબદલી કરતા મળતી સંખ્યા અને મૂળ સંખ્યાનો તફાવત હંમેશા કોના વડે વિભાજ્ય હોય? \n(A) 11 \n(B) 9 \n(C) 5 \n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 9</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તફાવત હંમેશા 9 વડે ભાગી શકાય. ઉદાહરણ: 52 - 25 = 27 (9 × 3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો 21y5 એ 3 નો ગુણિત હોય, તો y ની નાનામાં નાની કિંમત કઈ? \n(A) 0 \n(B) 1 \n(C) 2 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 1</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2+1+y+5 = 8+y. 8 પછી 3 ના ઘડિયામાં 9 આવે, તો y = 1 (9-8=1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સંખ્યા N ને 5 વડે ભાગતા શેષ 3 વધે છે, તો N નો એકમનો અંક શું હોઈ શકે? \n(A) માત્ર 3 \n(B) માત્ર 8 \n(C) 3 અથવા 8 \n(D) 1 અથવા 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 3 અથવા 8</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 ની શેષ માટે 0+3=3 અથવા 5+3=8. આ બેમાંથી જ એકમનો અંક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંખ્યા N ને 2 વડે ભાગતા શેષ 1 વધે છે, તો N નો એકમનો અંક નીચેનામાંથી કયો હોઈ શકે? \n(A) 0 \n(B) 2 \n(C) 5 \n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 5</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 વડે ભાગતા શેષ 1 વધે તેનો અર્થ છે કે સંખ્યા એકી (Odd) છે. અહીં વિકલ્પમાં માત્ર 5 એકી સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "9 ની વિભાજ્યતાની ચાવી કઈ છે? \n(A) છેલ્લો અંક 9 હોય \n(B) અંકોનો સરવાળો 9 વડે ભાગી શકાય \n(C) સંખ્યા એકી હોય \n(D) સંખ્યા બેકી હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) અંકોનો સરવાળો 9 વડે ભાગી શકાય</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 અને 9 બંને 'સરવાળા' ના પ્રેમી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કઈ સંખ્યા 10 વડે વિભાજ્ય છે? \n(A) 1005 \n(B) 1050 \n(C) 1505 \n(D) 5551",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 1050</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો 'પૂંછડો' (છેલ્લો અંક) 0 હોય તે જ 10 નો પાકો મિત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો AB × 3 = CAB હોય, તો A અને B ની કિંમત શોધો. \n(A) A=5, B=0 \n(B) A=0, B=5 \n(C) A=2, B=5 \n(D) A=1, B=0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) A=5, B=0</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 × 3 = 150. અહીં AB=50 અને CAB=150. બરાબર મેચ થાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કોઈ સંખ્યાનો એકમનો અંક 3 છે, તો તેને 5 વડે ભાગતા શેષ કેટલી વધે? \n(A) 0 \n(B) 1 \n(C) 3 \n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 3</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો એકમનો અંક 5 કરતા નાનો હોય, તો તે પોતે જ શેષ છે. જો મોટો હોય તો તેમાંથી 5 બાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કઈ સંખ્યા 2 અને 5 બંને વડે વિભાજ્ય છે? \n(A) 22 \n(B) 25 \n(C) 30 \n(D) 33",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 30</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 અને 5 બંને વડે ભાગવું હોય તો સંખ્યા 10 વડે ભાગી શકાય તેવી હોવી જોઈએ (એકમનો અંક 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો 4x1 એ 9 નો ગુણિત હોય, તો x શોધો. \n(A) 4 \n(B) 5 \n(C) 1 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) 4</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 + x + 1 = 5 + x. 9 બનાવવા માટે x = 4 જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "abc - cba એ હંમેશા કોના વડે વિભાજ્ય છે? \n(A) 9 \n(B) 11 \n(C) 99 \n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 99</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 અંકોની સંખ્યા અને ઉલટાવેલી સંખ્યાનો તફાવત હંમેશા 99 વડે વિભાજ્ય હોય. (100a+10b+c - (100c+10b+a) = 99a-99c)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો 12x એ 3 નો ગુણિત હોય, તો x ની શક્ય કિંમતો કેટલી? \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (D) 4</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1+2+x = 3+x. x ની કિંમત 0, 3, 6, અથવા 9 હોઈ શકે. કુલ 4 કિંમતો શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો A + 3 = 8 અને B + A = 12 હોય, તો B = ? \n(A) 5 \n(B) 7 \n(C) 8 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 7</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A + 3 = 8 ⇒ A = 5. હવે B + 5 = 12 ⇒ B = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીચેનામાંથી કઈ સંખ્યા 5 વડે વિભાજ્ય નથી? \n(A) 550 \n(B) 505 \n(C) 152 \n(D) 200",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 152</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 વડે ભાગવા માટે છેલ્લે 0 અથવા 5 જોઈએ. 152 માં છેલ્લે 2 છે, એટલે ન ભાગી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બે અંકોની એક સંખ્યા 'ab' છે. તેના અંકોનો સરવાળો 9 છે. જો a = 4 હોય, તો સંખ્યા કઈ? \n(A) 49 \n(B) 45 \n(C) 54 \n(D) 44",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 45</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a + b = 9. જો a = 4, તો b = 9 - 4 = 5. સંખ્યા ab = 45.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંખ્યા 999 પછી તરત આવતી સંખ્યાને 10 વડે ભાગતા શેષ કેટલી મળે? \n(A) 9 \n(B) 1 \n(C) 0 \n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 0</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 999 પછી 1000 આવે. 1000 નો એકમનો અંક 0 હોવાથી શેષ 0 જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો 24x એ 3 વડે વિભાજ્ય છે, જ્યાં x એક અંક છે, તો x ની કઈ કિંમત શક્ય નથી? \n(A) 0 \n(B) 3 \n(C) 5 \n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (C) 5</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2+4+5 = 11. 11 ને 3 વડે ન ભાગી શકાય, એટલે x=5 શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો 3A + 25 = B2 હોય, તો A = ? \n(A) 2 \n(B) 7 \n(C) 5 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (B) 7</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લો અંક જુઓ: A + 5 = ...2. એટલે A = 7 હોવો જોઈએ (7+5=12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સંખ્યા 123123... (પુનરાવર્તિત) ને 3 વડે ભાગી શકાય? \n(A) હા \n(B) ના \n(C) કહી શકાય નહીં \n(D) માત્ર જો સંખ્યા મોટી હોય તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ: (A) હા</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકોનો એક સેટ 1+2+3 = 6 છે, જે 3 વડે વિભાજ્ય છે. આવા ગમે તેટલા સેટ હોય, આખી સંખ્યા 3 વડે વિભાજ્ય થાય જ!</p></div>"
+    }
+  ]
+}
