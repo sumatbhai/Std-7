@@ -2940,3 +2940,136 @@ var Std8_Maths_MCQs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આલેખનો પરિચય (Introduction to Graphs)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આલેખપત્ર પર દોરેલી આડી રેખાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) X-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો: 'આડી' રેખા એટલે 'X' અક્ષ (Sleeping line is X). જમીન પર સૂતેલી રેખા એટલે X-અક્ષ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આલેખપત્ર પર દોરેલી ઊભી રેખાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Y-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો: 'ઊભી' રેખા એટલે 'Y' અક્ષ (Standing line is Y). 'Y' નો આકાર ઉપરથી ઉભો હોય છે તેમ યાદ રાખવું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "X-અક્ષ અને Y-અક્ષના છેદબિંદુને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉગમબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જ્યાંથી આલેખની શરૂઆત થાય (ઉગમ પામે) તેને 'ઉગમબિંદુ' (Origin) કહેવાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉગમબિંદુના યામ કયા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (0, 0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>શરૂઆત હંમેશા શૂન્ય (0) થી જ થાય, એટલે ઉગમબિંદુ એટલે (0, 0).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બિંદુ (4, 3) માં x-યામ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કોઈપણ જોડી (x, y) માં પહેલો નંબર હંમેશા 'X' હોય અને બીજો 'Y'. ક્રમ ક્યારેય બદલાય નહીં!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બિંદુ (5, 8) માં y-યામ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો 'Y' એટલે બીજો નંબર. (5, 8) માં બીજો નંબર 8 છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો કોઈ બિંદુનો y-યામ શૂન્ય હોય, તો તે બિંદુ કયા અક્ષ પર આવેલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) X-અક્ષ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જે શૂન્ય હોય તેની વિરુદ્ધ અક્ષ પર બિંદુ હોય. y=0 તો X-અક્ષ પર, અને જો x=0 તો Y-અક્ષ પર!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બિંદુ (0, 7) કયા અક્ષ પર આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Y-અક્ષ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>અહીં x-યામ 0 છે, એટલે બિંદુ Y-અક્ષની મુસાફરી કરી રહ્યું છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બિંદુ (4, 0) કયા અક્ષ પર આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) X-અક્ષ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>અહીં y-યામ 0 છે, એટલે આ બિંદુ માત્ર X-અક્ષ પર જ બેઠેલું છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્તંભ આલેખમાં દરેક સ્તંભની પહોળાઈ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આલેખ સુંદર અને સાચો ત્યારે જ લાગે જ્યારે બધા સ્તંભની પહોળાઈ એકસરખી હોય. ઉંચાઈ બદલાઈ શકે, પહોળાઈ નહીં.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વર્તુળ આલેખને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાઈ ચાર્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>વર્તુળ ગોળ હોય અને 'Pie' (ખાવાની વસ્તુ) પણ ગોળ હોય, એટલે વર્તુળ આલેખ = પાઈ ચાર્ટ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રેખીય આલેખમાં બિંદુઓ જોડતા કયા પ્રકારની રેખા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સીધી રેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'રેખીય' શબ્દમાં જ 'રેખા' (Line) છુપાયેલી છે, જે હંમેશા સીધી હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બિંદુ (2, 2), (3, 3), (4, 4) માંથી પસાર થતી રેખા ઉગમબિંદુમાંથી પસાર થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જો x અને y યામ સમાન હોય (x=y), તો તે રેખા હંમેશા (0,0) માંથી પસાર થાય જ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બિંદુ (x, y) માં 'x' ને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કોટિ (Abscissa)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>X-યામ ને ગુજરાતીમાં 'કોટિ' પણ કહેવાય છે. ક્રમ: (ભુજ, કોટિ) - યાદ રાખવા માટે: X પહેલા આવે એટલે તે પાયો છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બિંદુ (3, 5) અને (5, 3) શું એક જ બિંદુ દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યામ પદ્ધતિમાં 'ક્રમ' ખૂબ મહત્વનો છે. (3, 5) એ 3 ડગલાં જમણે અને 5 ઉપર છે, જ્યારે (5, 3) એ 5 ડગલાં જમણે અને 3 ઉપર છે. સ્થાન અલગ તો બિંદુ અલગ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમય-તાપમાનના આલેખમાં સમય સામાન્ય રીતે કયા અક્ષ પર લેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) X-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સ્વતંત્ર ચલ (જેમ કે સમય) હંમેશા X-અક્ષ પર લેવામાં આવે છે. સમય કોઈની રાહ નથી જોતો, તે પાયો છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક ચોરસની બાજુની લંબાઈ અને તેની પરિમિતિ વચ્ચેનો આલેખ કેવો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રેખીય આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પરિમિતિ = 4 × બાજુ. અહીં સંબંધ સીધો છે, એટલે આલેખ હંમેશા સીધી રેખા જ મળે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આલેખમાં કિંમતો દર્શાવવા માટે વપરાતા ચોક્કસ માપને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પ્રમાણમાપ (Scale)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>મોટી સંખ્યાઓને નાની જગ્યામાં સમાવવા માટે જે 'સેટિંગ' કરીએ તેને પ્રમાણમાપ કહેવાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો પ્રમાણમાપ 1 એકમ = 5 કિમી હોય, તો 20 કિમી માટે કેટલા એકમ લેવા પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4 એકમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કુલ અંતર ÷ એકમની કિંમત = 20 / 5 = 4. એકદમ સરળ ભાગાકાર!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કયું બિંદુ Y-અક્ષ પર આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (0, 9)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>Y-અક્ષ પર હોવા માટે X-યામ ફરજિયાત '0' હોવો જોઈએ. વિકલ્પ C માં x=0 છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બિંદુ (6, 6) એ X-અક્ષ અને Y-અક્ષથી કેટલા અંતરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમાન અંતરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જ્યારે x અને y યામ સરખા હોય, ત્યારે બિંદુ બંને અક્ષોથી એકસરખું દૂર હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આલેખમાં કઈ માહિતીની સરખામણી કરવા માટે સ્તંભ આલેખ શ્રેષ્ઠ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અસતત (Discrete)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જુદી જુદી વસ્તુઓ (જેમ કે સફરજન, કેળા) ની સરખામણી માટે સ્તંભ (બાર) બેસ્ટ છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રેખા પરના દરેક બિંદુના યામ (x, y) એ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બિંદુનું સ્થાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યામ એટલે તમારું 'Address'. જેમ ઘરનું એડ્રેસ હોય તેમ બિંદુનું એડ્રેસ એટલે તેના યામ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો x=0 અને y=0 હોય, તો તે બિંદુ ક્યાં હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉગમબિંદુ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>બધું જ ઝીરો એટલે સેન્ટર પોઈન્ટ, એટલે કે ઉગમબિંદુ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આલેખપત્રમાં કુલ કેટલા ચરણ (Quadrants) હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>X અને Y અક્ષ આખા પ્લેન ને 4 ભાગમાં વહેંચે છે, જેને ચરણ કહેવાય. (ધોરણ 8 માં આપણે મુખ્યત્વે 1લા ચરણનો અભ્યાસ કરીએ છીએ).</div>"
+    }
+  ]
+}
