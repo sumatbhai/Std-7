@@ -1288,3 +1288,261 @@ var Std8_Maths_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "વર્ગ અને વર્ગમૂળ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "6 નો વર્ગ ____ થાય. (12, 36, 64)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 36</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ગ એટલે તે સંખ્યાનો તેની જ સાથે ગુણાકાર (6 × 6 = 36).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંખ્યા 23 ના વર્ગનો એકમનો અંક ____ હશે. (3, 6, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખી સંખ્યાનો વર્ગ ન કરો, ફક્ત એકમના અંક 3 નો વર્ગ કરો (3 × 3 = 9).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જે સંખ્યાનો એકમનો અંક 2 હોય, તેના વર્ગનો એકમનો અંક ____ હોય. (4, 8, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકમમાં 2 હોય તો 2 × 2 = 4 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પૂર્ણવર્ગ સંખ્યાનો એકમનો અંક ક્યારેય ____ ન હોઈ શકે. (1, 5, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો '2, 3, 7, 8' - આ ચાર અંકો ક્યારેય પૂર્ણવર્ગના એકમમાં ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બેકી સંખ્યાનો વર્ગ હંમેશા ____ સંખ્યા જ હોય. (એકી, બેકી, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેકીનો વર્ગ બેકી (2²=4, 4²=16) અને એકીનો વર્ગ એકી (3²=9).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંખ્યા 100 ના વર્ગમાં શૂન્યની સંખ્યા ____ હોય. (2, 3, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ગ કરવાથી શૂન્યની સંખ્યા બમણી થઈ જાય. અહીં 2 શૂન્ય છે તો વર્ગમાં 4 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પ્રથમ 5 ક્રમિક એકી સંખ્યાઓનો સરવાળો ____ થાય. (20, 25, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રથમ 'n' એકી સંખ્યાનો સરવાળો = n². અહીં 5 સંખ્યા છે, તો 5² = 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "12 ના વર્ગ અને 13 ના વર્ગની વચ્ચે ____ પ્રાકૃતિક સંખ્યાઓ આવેલી છે. (24, 25, 26)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે ક્રમિક વર્ગ સંખ્યાઓ n² અને (n+1)² વચ્ચે '2n' સંખ્યા હોય. એટલે કે 2 × 12 = 24.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાયથાગોરિયન ત્રિપુટી (6, 8, ____) છે. (9, 10, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 6² + 8² = 36 + 64 = 100, જે 10 નો વર્ગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વર્ગમૂળ દર્શાવવા માટે વપરાતો સંકેત ____ છે. (√, ^, %)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> √</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ગમૂળ એટલે 'Root', જેને √ ચિહ્નથી દર્શાવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "625 નું વર્ગમૂળ ____ થાય. (15, 25, 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેનો એકમનો અંક 5 હોય તેનો વર્ગ કરવાથી છેલ્લે 25 આવે (2 × 3 = 6, અને પાછળ 25).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "0.04 નું વર્ગમૂળ ____ થાય. (0.2, 0.02, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ગમૂળમાં દશાંશ સ્થળ અડધા થઈ જાય. 2 સ્થળ (0.04) ના 1 સ્થળ (0.2) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંખ્યા 400 ના વર્ગમૂળમાં શૂન્યની સંખ્યા ____ હોય. (1, 2, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ગમૂળ કાઢતી વખતે શૂન્યની સંખ્યા અડધી થઈ જાય. 2 શૂન્ય ના 1 શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એકી સંખ્યાનો વર્ગ હંમેશા ____ સંખ્યા જ હોય. (બેકી, એકી, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ કે 7 (એકી) નો વર્ગ 49 (એકી) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "1.21 નું વર્ગમૂળ ____ થાય. (1.1, 0.11, 11)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 121 નું વર્ગમૂળ 11 છે, તો 1.21 નું 1.1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જે સંખ્યાનો એકમનો અંક 7 હોય તે સંખ્યા ____ ન જ હોય. (વિભાજ્ય, પૂર્ણવર્ગ, એકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્ણવર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો એકમમાં 2, 3, 7 કે 8 હોય તો તે ક્યારેય પૂર્ણવર્ગ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "900 એ ____ નું વર્ગમૂળ છે. (30, 8100, 300)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3² = 9 અને એક શૂન્ય ના વર્ગમાં બે શૂન્ય આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સંખ્યા 49 ને પ્રથમ 7 ક્રમિક ____ સંખ્યાઓના સરવાળા તરીકે દર્શાવી શકાય. (બેકી, અવિભાજ્ય, એકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1+3+5+7+9+11+13 = 49 (7 સંખ્યાઓ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "1 થી 100 વચ્ચે કુલ ____ પૂર્ણવર્ગ સંખ્યાઓ આવેલી છે. (9, 10, 11)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 થી 10 સુધીના વર્ગ ગણી લો (1, 4, 9, ..., 100).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "25 ના વર્ગનો એકમનો અંક ____ હશે. (2, 5, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે સંખ્યાના એકમમાં 5 હોય તેના વર્ગમાં પણ હંમેશા 5 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૌથી નાની પૂર્ણવર્ગ સંખ્યા ____ છે. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાકૃતિક સંખ્યાઓમાં શરૂઆત 1 થી થાય અને 1² = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "81 નું વર્ગમૂળ ____ છે. (9, 7, 18)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કઈ સંખ્યાને તે જ સંખ્યા સાથે ગુણવાથી 81 મળે? 9 × 9 = 81.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "√64 + √36 = ____. (10, 14, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): √64 = 8 અને √36 = 6. હવે 8 + 6 = 14.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સંખ્યા 121 એ ____ નો વર્ગ છે. (11, 12, 21)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 11 થી 20 ના વર્ગ મોઢે રાખવા પરીક્ષામાં ખૂબ ઉપયોગી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંખ્યાના અંતે શૂન્યની સંખ્યા એકી હોય, તો તે સંખ્યા ____ ન હોય. (પૂર્ણવર્ગ, વિભાજ્ય, બેકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્ણવર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂર્ણવર્ગ સંખ્યામાં શૂન્ય હંમેશા જોડીમાં (બેકી સંખ્યામાં) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "√x = 8 હોય તો x = ____. (16, 64, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 64</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંને બાજુ વર્ગ કરો. 8 નો વર્ગ 64 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાયથાગોરિયન ત્રિપુટી માટેનું વ્યાપક સ્વરૂપ 2m, m²-1 અને ____ છે. (m²+1, m², 2m+1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> m²+1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ ત્રણ સૂત્રો યાદ રાખો: 2m, m²-1 અને m²+1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "9² અને 10² ની વચ્ચે કુલ કેટલી સંખ્યાઓ આવે? (18, 19, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાની સંખ્યાને 2 વડે ગુણો. (9 × 2 = 18).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જે સંખ્યાનો એકમનો અંક 9 હોય તેના વર્ગનો એકમનો અંક ____ થાય. (1, 9, 81)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 9 × 9 = 81, એટલે એકમમાં 1 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "√225 = ____. (15, 25, 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 15 × 15 = 225 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ચોરસનું ક્ષેત્રફળ 100 ચો.સેમી હોય તો તેની બાજુ ____ સેમી થાય. (10, 20, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસનું ક્ષેત્રફળ = બાજુ², માટે બાજુ = √ક્ષેત્રફળ = √100 = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "32² નું મૂલ્ય ____ છે. (1024, 964, 1044)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1024</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 30 નો વર્ગ 900 છે, તો 32 નો વર્ગ તેનાથી થોડો વધુ 1024 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સંખ્યા 2 ને નાનામાં નાની કઈ સંખ્યા વડે ગુણવાથી પૂર્ણવર્ગ બને? (1, 2, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ સંખ્યાને પોતાની સાથે ગુણવાથી તે પૂર્ણવર્ગ બની જાય (2 × 2 = 4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "169 નું વર્ગમૂળ ____ છે. (13, 14, 17)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 13² = 169. એકમમાં 3 છે એટલે વર્ગમાં 9 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "144 ના વર્ગમૂળનો એકમનો અંક ____ હોઈ શકે. (2, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 144 નું વર્ગમૂળ 12 છે, જેનો એકમનો અંક 2 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "0.16 નું વર્ગમૂળ ____ થાય. (0.4, 0.04, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 16 નું 4 થાય અને બે દશાંશ સ્થળનું એક સ્થળ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સંખ્યા 20 નો વર્ગ ____ થાય. (40, 400, 200)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 400</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 નો વર્ગ 4 અને 1 શૂન્ય ના 2 શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "15² = ____. (225, 235, 125)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 225</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકમમાં 5 હોય તો પાછળ 25 મૂકો અને આગળની સંખ્યાને તેના પછીની સંખ્યા સાથે ગુણો (1 × 2 = 2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "√1 = ____. (1, 0, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 એક એવી સંખ્યા છે જેનો વર્ગ અને વર્ગમૂળ બંને 1 જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "√0 = ____. (0, 1, વ્યાખ્યાયિત નથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્યનો વર્ગ પણ શૂન્ય અને વર્ગમૂળ પણ શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "484 નું વર્ગમૂળ ____ છે. (22, 28, 32)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 22</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેલ્લે 4 છે, એટલે જવાબનો એકમનો અંક 2 કે 8 હશે. 20² = 400 ની નજીક હોવાથી 22 સાચો જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સંખ્યા 1.44 નું વર્ગમૂળ ____ છે. (1.2, 0.12, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 144 નું વર્ગમૂળ 12 છે, દશાંશ ચિહ્ન મુજબ 1.2 થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "1+3+5+7+9 = ____. (5², 9², 25²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલી એકી સંખ્યાઓ હોય, તેનો વર્ગ જ સરવાળો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જે સંખ્યાનો એકમનો અંક 1 કે 9 હોય, તેના વર્ગનો એકમનો અંક ____ હોય. (1, 9, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1²=1 અને 9²=81 (એકમમાં 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "8 ના વર્ગમાં એકમનો અંક ____ હોય. (4, 8, 64)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 8 × 8 = 64, માટે એકમનો અંક 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "6 ના વર્ગમાં એકમનો અંક ____ હોય. (6, 2, 36)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 6 ના વર્ગમાં હંમેશા 6 જ આવે (6, 36, 216...).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "1000 એ પૂર્ણવર્ગ સંખ્યા ____. (છે, નથી, કહી શકાય નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કારણ કે તેમાં શૂન્યની સંખ્યા 3 (એકી) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "900 નું વર્ગમૂળ શોધવા માટે તેના એકમના અંકોની જોડ બનાવતા ____ જોડ બનશે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જમણી બાજુથી બબ્બેની જોડ બનાવો: (00) અને (9).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "4² + 3² = ____. (5², 7², 12²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 16 + 9 = 25, જે 5 નો વર્ગ છે. (3, 4, 5 એ પાયથાગોરિયન ત્રિપુટી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "2500 નું વર્ગમૂળ ____ થાય. (50, 500, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 25 નું વર્ગમૂળ 5 અને બે શૂન્ય નું એક શૂન્ય.</p></div>"
+    }
+  ]
+}
