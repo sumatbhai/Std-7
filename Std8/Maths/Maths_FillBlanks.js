@@ -2112,3 +2112,311 @@ var Std8_Maths_FillBlanks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "માપન",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જે ચતુષ્કોણમાં સામસામેની બાજુઓની ફક્ત એક જ જોડ સમાંતર હોય તેને ________ કહેવાય. (સમાંતરબાજુ ચતુષ્કોણ, સમલંબ ચતુષ્કોણ, લંબચોરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમલંબ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખજો કે 'સમલંબ' માં માત્ર 'એક જ જોડ' સમાંતર હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમલંબ ચતુષ્કોણનું ક્ષેત્રફળ = 1/2 × (સમાંતર બાજુઓનો સરવાળો) × ________. (પાયો, વેધ, લંબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેધ (અથવા લંબઅંતર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ = 1/2 × (a + b) × h, જ્યાં h એ લંબઅંતર એટલે કે વેધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમબાજુ ચતુષ્કોણનું ક્ષેત્રફળ = 1/2 × ________. (બે બાજુઓનો ગુણાકાર, બે વિકર્ણોનો ગુણાકાર, બાજુનો વર્ગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે વિકર્ણોનો ગુણાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમબાજુ માટે 'વિકર્ણો' ને પકડી લો - 1/2 × d1 × d2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જે ઘન આકારની બધી જ સપાટીઓ ચોરસ હોય તેને ________ કહે છે. (લંબઘન, સમઘન, નળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સમાન અને 'ઘન' એટલે 3D આકાર. ચોરસ જેવો ઘન એટલે સમઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લંબઘનનું કુલ પૃષ્ઠફળ = 2 (lb + bh + ________ ). (lh, lbh, l+b+h)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> hl (અથવા lh)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: l-b-h-l સાયકલ યાદ રાખો. (lb, bh, hl)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નળાકારની વક્રસપાટીનું ક્ષેત્રફળ = ________ . (πr²h, 2πrh, 2πr(r+h))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2πrh</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિઘ (2πr) ને ઊંચાઈ (h) વડે ગુણો એટલે વક્રસપાટી મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમઘનનું કુલ પૃષ્ઠફળ શોધવાનું સૂત્ર ________ છે. (4l², 6l², l³)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6l²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમઘનને 6 સપાટી હોય, એકનું l² તો છનું 6l²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1 લિટર = ________ ઘન સેમી. (100, 1000, 10000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 10x10x10 સેમીનો ડબ્બો એટલે 1 લિટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઘનફળનો એકમ હંમેશા ________ માં હોય છે. (ચોરસ એકમ, ઘન એકમ, મીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન એકમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે 2D (Square), ઘનફળ એટલે 3D (Cube)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નળાકારનું ઘનફળ = ________ . (πr²h, 2πrh, 1/3πr²h)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> πr²h</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયાનું ક્ષેત્રફળ (πr²) × ઊંચાઈ (h) = ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લંબઘનનું ઘનફળ = ________. (l+b+h, l×b×h, 2(lb+bh+hl))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> l × b × h</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ, પહોળાઈ અને ઊંચાઈનો સીધો ગુણાકાર એટલે લંબઘનનું ઘનફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "1 m³ = ________ લિટર. (10, 100, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર લાંબી-પહોળી-ઊંચી ટાંકીમાં 1000 લિટર પાણી સમાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમઘનનું ઘનફળ શોધવાનું સૂત્ર ________ છે. (l², l³, 6l²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> l³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન માટે ઘાત પણ '3' (ઘન) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો નળાકારની ત્રિજ્યા r અને ઊંચાઈ h હોય, તો તેનું કુલ પૃષ્ઠફળ ________ થાય. (2πrh, πr²h, 2πr(r+h))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2πr(r+h)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વક્રસપાટી (2πrh) + બે વર્તુળ (2πr²) = 2πr(h+r)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક સમઘનની બાજુ 2 સેમી હોય, તો તેનું ઘનફળ ________ સેમી³ થાય. (4, 8, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 નો ઘન (2 × 2 × 2) = 8!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચતુષ્કોણનું ક્ષેત્રફળ = 1/2 × વિકર્ણ × ________ . (વિકર્ણનો વર્ગ, વિકર્ણ પરના લંબનો સરવાળો, બાજુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિકર્ણ પરના લંબનો સરવાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 × d × (h1 + h2) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જે લંબઘનની લંબાઈ, પહોળાઈ અને ઊંચાઈ સમાન હોય તેને ________ કહેવાય. (સમઘન, ગોલક, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું સરખું એટલે 'સમ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "1 m² = ________ cm². (100, 1000, 10000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1m = 100cm, તો 1m² = 100 × 100 = 10000!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નળાકારનો પાયો ________ આકારનો હોય છે. (ચોરસ, વર્તુળ, ત્રિકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળાકાર (પાઈપ) ને નીચેથી જુઓ, કેવો દેખાશે? વર્તુળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વસ્તુએ અવકાશમાં રોકેલી જગ્યાને તેનું ________ કહે છે. (ક્ષેત્રફળ, પૃષ્ઠફળ, ઘનફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનફળ (Volume)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી પરની જગ્યા એટલે ક્ષેત્રફળ, અંદરની જગ્યા એટલે ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એક લંબઘનની લંબાઈ 5 cm, પહોળાઈ 2 cm અને ઊંચાઈ 1 cm હોય, તો તેનું ઘનફળ ________ cm³ થાય. (10, 8, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 × 2 × 1 = 10. ઘનફળમાં સીધો ગુણાકાર કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમઘનની પાર્શ્વ સપાટીઓનું ક્ષેત્રફળ ________ છે. (4l², 6l², l³)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4l²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાર્શ્વ સપાટી એટલે ચારેય બાજુની દીવાલો (તળિયું અને છત બાદ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "1 cm³ = ________ મિલી. (1, 10, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 cc (Cubic Centimeter) = 1 mL. આ વિજ્ઞાનમાં પણ કામ લાગશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમબાજુ ચતુષ્કોણના વિકર્ણો 10 cm અને 12 cm હોય, તો તેનું ક્ષેત્રફળ ________ cm² થાય. (120, 60, 22)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 60</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 × 10 × 12 = 5 × 12 = 60!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો નળાકારની ત્રિજ્યા બમણી કરવામાં આવે, તો તેના પાયાનું ક્ષેત્રફળ ________ ગણું થાય. (2, 4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં r નો વર્ગ હોય, તેથી 2 નો વર્ગ = 4 ગણું થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નળાકારની ઊંચાઈ અને ત્રિજ્યા સમાન હોય તો તેની વક્રસપાટીનું ક્ષેત્રફળ ________ થાય. (2πr², πr², 4πr²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2πr²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2πrh માં h=r મૂકો, એટલે 2πr(r) = 2πr²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "લંબઘનની પાર્શ્વ સપાટીનું ક્ષેત્રફળ = ________. (2h(l+b), lbh, 2(lb+bh+hl))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2h(l+b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયાની પરિમિતિ (2(l+b)) × ઊંચાઈ (h) = પાર્શ્વ સપાટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જેના વિકર્ણો પરસ્પર કાટખૂણે દુભાગે તેવા સમાંતરબાજુ ચતુષ્કોણને ________ કહેવાય. (સમલંબ, લંબચોરસ, સમબાજુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમબાજુ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટખૂણે દુભાગે એટલે સમબાજુ (Rhombus) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "એક સમઘનનું પૃષ્ઠફળ 600 cm² હોય, તો તેની બાજુની લંબાઈ ________ cm હોય. (10, 100, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6l² = 600 => l² = 100 => l = 10!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "1000 મિલી લિટર = ________ લિટર. (1, 10, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિલી એટલે હજારમો ભાગ, તો 1000 મિલી એટલે આખું 1 લિટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સમલંબ ચતુષ્કોણની બે સમાંતર બાજુઓ 4 cm અને 6 cm છે તથા ઊંચાઈ 5 cm હોય, તો ક્ષેત્રફળ ________ cm² થાય. (25, 50, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 × (4+6) × 5 = 1/2 × 10 × 5 = 25!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નળાકારની ત્રિજ્યા 7 cm અને ઊંચાઈ 10 cm હોય, તો વક્રસપાટીનું ક્ષેત્રફળ ________ cm² થાય. (440, 220, 154)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 440</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 22/7 × 7 × 10. 7-7 ઉડી ગયા, 44 × 10 = 440!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જેની બધી જ બાજુઓ સમાન હોય તેવા બહુકોણને ________ બહુકોણ કહે છે. (નિયમિત, અનિયમિત, સરળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું સરખું એટલે 'નિયમિત' (Regular)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ત્રિકોણનું ક્ષેત્રફળ = 1/2 × પાયો × ________. (બાજુ, વેધ, પરિમિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયો અને વેધની જોડી હંમેશા ક્ષેત્રફળ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નળાકાર ટાંકીમાં કેટલું પાણી સમાશે તે જાણવા માટે તેનું ________ શોધવું પડે. (પૃષ્ઠફળ, વક્રસપાટીનું ક્ષેત્રફળ, ઘનફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષમતા કે ગુંજાશ એટલે હંમેશા ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એક લંબઘન ડબ્બાના પાયાનું ક્ષેત્રફળ 20 cm² છે અને ઊંચાઈ 5 cm હોય, તો ઘનફળ ________ cm³ થાય. (100, 25, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનફળ = પાયાનું ક્ષેત્રફળ × ઊંચાઈ. 20 × 5 = 100!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સમઘનની બાજુ બમણી કરતાં તેનું ઘનફળ ________ ગણું થાય. (2, 4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનફળમાં l³ હોય, એટલે 2³ = 8 ગણું થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નળાકારની પાયાની ત્રિજ્યા 7 cm હોય, તો પાયાનું ક્ષેત્રફળ ________ cm² થાય. (154, 44, 144)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 154</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખજો: જો r=7 હોય, તો ક્ષેત્રફળ હંમેશા 154 જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ચતુષ્કોણના બધા જ ખૂણાઓના માપનો સરવાળો ________ થાય છે. (180°, 360°, 540°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 360°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણ 180°, ચતુષ્કોણ એના ડબલ 360°!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "કૂવો ખોદતા નીકળેલી માટીનું માપ કાઢવા માટે ________ શોધવામાં આવે છે. (વક્રસપાટી, પૃષ્ઠફળ, ઘનફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટી એ જથ્થો છે, અને જથ્થો એટલે ઘનફળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સમઘનની બાજુ 1 મીટર હોય તો તેનું ઘનફળ ________ લિટર થાય. (1, 100, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 m³ = 1000 લિટર એ પાકું યાદ કરી લેજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વર્તુળનું ક્ષેત્રફળ શોધવાનું સૂત્ર ________ છે. (2πr, πr², 2πr²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> πr²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળમાં હંમેશા r ની '2' ઘાત હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ = પાયો × ________. (વેધ, બાજુ, 1/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુમાં 1/2 આવતું નથી, માત્ર b × h!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × ________. (પહોળાઈ, ઊંચાઈ, વેધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પહોળાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો સૌથી સહેલું! l × b!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "એક ચોરસની બાજુ 10 cm હોય તો તેનું ક્ષેત્રફળ ________ cm² થાય. (40, 100, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસનું ક્ષેત્રફળ એટલે બાજુનો વર્ગ: 10² = 100!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "નળાકારની ત્રિજ્યા 14 cm અને ઊંચાઈ 5 cm હોય, તો પાયાનો પરિઘ ________ cm થાય. (44, 88, 154)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 88</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિઘ = 2πr = 2 × 22/7 × 14 = 2 × 22 × 2 = 88!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "લંબઘનનું પૃષ્ઠફળ શોધતી વખતે ________ સપાટીઓ ધ્યાને લેવાય છે. (4, 6, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ રૂમ (લંબઘન) ને ચાર દીવાલ, એક છત અને એક ભોંયતળિયું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "પંચકોણના બધા ખૂણાના માપનો સરવાળો ________ થાય. (360°, 540°, 720°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 540°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર: (n-2) × 180°. પંચકોણ માટે (5-2) × 180 = 3 × 180 = 540!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જો એક સમઘનની બાજુ 3 cm હોય, તો તેનું પૃષ્ઠફળ ________ cm² થાય. (27, 54, 36)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 54</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6l² = 6 × (3)² = 6 × 9 = 54!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "નળાકારની ત્રિજ્યા અડધી કરતાં તેનું ઘનફળ ________ માં ભાગનું થાય. (બીજા, ચોથા, આઠમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનફળમાં r² છે, તો (1/2)² = 1/4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "નિયમિત ષટ્કોણને ________ સમાન બાજુઓ હોય છે. (4, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ષટ્કોણ એટલે 'છ' (Six)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "1 m³ = ________ cm³. (1000, 10000, 1000000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000000 (દસ લાખ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 × 100 × 100 કરો, એટલે 1 ની પાછળ 6 મીંડા આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વક્રસપાટી એટલે બંધ આકારની ________ સપાટીનું ક્ષેત્રફળ. (ઉપરની, નીચેની, આજુબાજુની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આજુબાજુની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વક્રસપાટીમાં ટોપ અને બોટમ ગણવામાં આવતા નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "નળાકારની ત્રિજ્યા 10 cm અને ઊંચાઈ 7 cm હોય તો તેનું ઘનફળ ________ cm³ થાય. (2200, 700, 1540)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: πr²h = 22/7 × 10 × 10 × 7. 7-7 ઉડી ગયા, 22 × 100 = 2200!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "એક ચતુષ્કોણના વિકર્ણની લંબાઈ 10 cm છે અને તેના પરના લંબ 3 cm અને 5 cm છે, તો ક્ષેત્રફળ ________ cm² થાય. (40, 80, 15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 × 10 × (3+5) = 5 × 8 = 40!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "રોડ રોલરના પૈડાનો આકાર ________ હોય છે. (ગોલક, નળાકાર, શંકુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળાકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોલર આડું પડેલું નળાકાર છે જે જમીન સપાટ કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ત્રિ-પરિમાણીય (3D) આકારમાં ________ હોય છે. (માત્ર લંબાઈ, લંબાઈ અને પહોળાઈ, લંબાઈ-પહોળાઈ-ઊંચાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબાઈ, પહોળાઈ અને ઊંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D એટલે 3 પરિમાણ (Dimensions)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો નળાકારની ત્રિજ્યા 7 cm અને ઊંચાઈ 3 cm હોય, તો વક્રસપાટીનું ક્ષેત્રફળ ________ cm² થાય. (132, 66, 154)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 132</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 22/7 × 7 × 3 = 44 × 3 = 132!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "1 મિલિલીટર = ________ ઘન સેમી. (1, 10, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સંબંધ હંમેશા યાદ રાખવો: 1 mL = 1 cm³.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વર્તુળનો પરિઘ = ________. (πr², 2πr, πd²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2πr</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિઘ એટલે વર્તુળની કિનારીની લંબાઈ, જે 2πr થાય!</p></div>"
+    }
+  ]
+}
