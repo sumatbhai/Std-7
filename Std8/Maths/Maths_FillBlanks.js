@@ -2420,3 +2420,211 @@ var Std8_Maths_FillBlanks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "2⁻³ ની કિંમત ________ થાય. (1/8, -8, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ઘાત માઇનસ (-) હોય ત્યારે સંખ્યાને છેદમાં લઈ જઈને ઘાત પ્લસ (+) કરી દેવી. એટલે કે 1 / 2³ = 1/8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "(-1)⁵⁰ ની કિંમત ________ છે. (1, -1, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર માઇનસ હોય અને ઘાત 'બેકી' (Even) હોય, તો જવાબ હંમેશા 'ધન' (+) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોઈપણ શૂન્યતર સંખ્યા 'a' માટે a⁰ = ________. (0, a, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેટલી મોટી સંખ્યા હોય, જો તેની માથે 0 ઘાત બેઠી હોય તો જવાબ આંખો બંધ કરીને '1' લખવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "5² × 5⁴ = ________. (5⁶, 5⁸, 25⁶)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5⁶</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર સરખો હોય અને વચ્ચે ગુણાકાર હોય, તો ઘાતનો સરવાળો (2 + 4 = 6) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "3⁷ ÷ 3³ = ________. (3¹⁰, 3⁴, 3²¹)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3⁴</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં આધાર સરખો હોય તો ઘાતની બાદબાકી (7 - 3 = 4) કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "(2³)⁴ = ________. (2⁷, 2¹², 2³⁴)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2¹²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતની ઘાત હોય ત્યારે બંને ઘાતનો ગુણાકાર (3 × 4 = 12) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "0.000007 ને પ્રમાણિત સ્વરૂપમાં ________ લખાય. (7 × 10⁶, 7 × 10⁻⁶, 0.7 × 10⁻⁵)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 × 10⁻⁶</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટને 'જમણી' બાજુ ખસેડો તો ઘાત 'માઇનસ' (-) થાય. અહીં પોઈન્ટ 6 ડગલાં જમણી બાજુ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "30,00,000 ને પ્રમાણિત સ્વરૂપમાં ________ લખાય. (3 × 10⁶, 3 × 10⁻⁶, 30 × 10⁵)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 × 10⁶</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી સંખ્યામાં પોઈન્ટ છેલ્લે હોય, તેને 'ડાબી' બાજુ ખસેડો તો ઘાત 'પ્લસ' (+) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "1 / 3⁻² ની કિંમત ________ છે. (1/9, 9, -9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેદમાં ઘાત માઇનસ હોય, તો સંખ્યાને અંશમાં લાવતા ઘાત પ્લસ થઈ જાય. 3² = 9.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "(2/3)⁻² ને ધન ઘાતાંક સ્વરૂપે ________ લખાય. ((3/2)², (2/3)², (3/2)⁻²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (3/2)²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકને ઉલટાવી દો (અંશનો છેદ અને છેદનો અંશ), એટલે માઇનસ ઘાત પ્લસ થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "(-4)⁻³ માં આધાર ________ છે. (-4, 4, -3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નીચે હોય તે 'આધાર' (Base) અને જે માથે બેઠું હોય તે 'ઘાતાંક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "10⁻¹ એટલે ________. (1/10, 10, -10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની -1 ઘાત એટલે દશાંશ પદ્ધતિમાં દશાંશ ભાગ (0.1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "(-1)¹⁰¹ ની કિંમત ________ છે. (1, -1, 101)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર માઇનસ હોય અને ઘાત 'એકી' (Odd) હોય, તો જવાબ હંમેશા 'ઋણ' (-) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "5⁻² × 5⁻³ = ________. (5⁻⁵, 5⁵, 5⁶)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5⁻⁵</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં ઘાતનો સરવાળો થાય: (-2) + (-3) = -5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "3.5 × 10⁴ નું સામાન્ય સ્વરૂપ ________ છે. (3500, 35000, 0.00035)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 35000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધન (+) ઘાત હોય તો પોઈન્ટને જમણી બાજુ એટલા ડગલાં ખસેડવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "(1/2)⁻⁵ ની કિંમત ________ થાય. (32, 1/32, -32)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (1/2) ને ઉલટાવો એટલે 2 થઈ જાય, અને 2⁵ = 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "(-2)⁴ ની કિંમત ________ છે. (16, -16, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધાર ભલે માઇનસ હોય, 4 ઘાત 'બેકી' હોવાથી જવાબ પ્લસ જ આવશે: 2x2x2x2 = 16.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોઈપણ સંખ્યાનો વ્યસ્ત લેતા તેના ઘાતાંકનું ચિહ્ન ________. (બદલાય છે, બદલાતું નથી, શૂન્ય થાય છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદલાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત એટલે પ્લસનું માઇનસ અને માઇનસનું પ્લસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "2⁻³ માં ઘાતાંક ________ છે. (2, -3, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોપી હંમેશા ઉપર હોય, તેમ ઘાતાંક હંમેશા ઉપર હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "8¹ ÷ 8⁻² = ________. (8⁻¹, 8³, 8⁻³)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકીના નિયમ મુજબ: 1 - (-2) = 1 + 2 = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "125 ને 5 ના ઘાત સ્વરૂપે ________ લખાય. (5², 5³, 5⁴)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 x 5 x 5 = 125, માટે 5 ની 3 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "0.0000123 ને પ્રમાણિત સ્વરૂપમાં ફેરવતા 1.23 × 10^________ મળે. (-5, -4, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટને 1 અને 2 ની વચ્ચે લાવવા 5 ડગલાં 'જમણી' બાજુ જવું પડે, એટલે -5 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "(a/b)ⁿ = ________. (aⁿ/bⁿ, aⁿ/b, a/bⁿ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> aⁿ/bⁿ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની બહારની ઘાત અંશ અને છેદ બંનેને સરખી રીતે લાગુ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "100⁰ + 20⁰ = ________. (120, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100⁰ = 1 અને 20⁰ = 1. હવે 1 + 1 = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "3⁻¹ + 4⁻¹ ની કિંમત શોધવા પહેલા તેમને ________ માં ફેરવવા પડે. (પૂર્ણાંક, ધન ઘાતાંક, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન ઘાતાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતરી કરતા પહેલા માઇનસ ઘાતને પ્લસ (1/3 + 1/4) કરવી જ પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "(-2)⁻³ ની કિંમત ________ છે. (1/8, -1/8, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 3 (એકી) છે એટલે માઇનસનું માઇનસ રહેશે, અને 2³ = 8 છેદમાં જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પ્રમાણિત સ્વરૂપમાં સંખ્યા હંમેશા ________ ની વચ્ચે હોય છે. (1 થી 10, 0 થી 1, 10 થી 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 થી 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્નની ડાબી બાજુ માત્ર એક જ શૂન્યતર અંક હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "5³ ÷ 5³ = ________. (5, 0, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખી સંખ્યાનો સરખી સંખ્યા સાથે ભાગાકાર હંમેશા 1 આવે. (ઘાતની રીતે 3-3=0, અને 5⁰=1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "2⁻² ની વ્યસ્ત સંખ્યા ________ છે. (2², 2⁻², 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત કરવા માટે ઘાતનું ચિહ્ન બદલી નાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો 2^x = 8 હોય, તો x = ________. (2, 3, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 એટલે 2 ની કેટલી ઘાત? 2x2x2 = 8, માટે x = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "10⁻³ ને દશાંશ સ્વરૂપમાં ________ લખાય. (0.01, 0.001, 0.0001)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.001</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની જેટલી માઇનસ ઘાત હોય, એટલા પોઈન્ટ પછી આંકડા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "(-1)⁴ × (-1)³ = ________. (1, -1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધાર સરખો હોવાથી ઘાતનો સરવાળો: 4 + 3 = 7. ઘાત એકી હોવાથી જવાબ -1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "7⁻² ને 1/7^x લખાય તો x = ________. (2, -2, 1/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં લઈ જવાથી ઘાતનું ચિહ્ન પલટાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "0.0004 ને પ્રમાણિત સ્વરૂપમાં લખતા 4 × 10^k મળે, તો k = ________. (-4, 4, -3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી 4 આંકડા છે એટલે 10 ની -4 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "(3⁴)⁰ ની કિંમત ________ છે. (81, 1, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની બહાર '0' ઘાત દેખાય એટલે અંદર ગમે તે હોય, જવાબ 1 જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "2³ + 2² = ________. (2⁵, 12, 32)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્યાન રાખો! સરવાળામાં ઘાતના નિયમો લાગુ પડતા નથી. અલગ અલગ કિંમત શોધી સરવાળો કરવો: 8 + 4 = 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પૃથ્વીનું વજન જેવી ખૂબ મોટી સંખ્યાઓને દર્શાવવા ________ સ્વરૂપ ઉપયોગી છે. (સામાન્ય, પ્રમાણિત, વિસ્તૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાયન્ટિફિક નોટેશન' એટલે જ પ્રમાણિત સ્વરૂપ, જે અઘરી ગણતરી સહેલી બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "(-5)⁻² ની કિંમત ________ છે. (25, -25, 1/25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર 'બેકી' છે એટલે જવાબ ધન આવશે, અને ઘાત માઇનસ હોવાથી છેદમાં જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "1 મિલીમીટર = 10^________ મીટર. (-3, 3, -2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 1000 મિમી, તેથી ઉલટું કરીએ ત્યારે 1/1000 = 10⁻³.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "2⁵ ÷ 2⁸ = ________. (2³, 2⁻³, 2¹³)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2⁻³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની ઘાતમાંથી મોટી ઘાત બાદ થાય ત્યારે જવાબ માઇનસમાં આવે (5 - 8 = -3).</p></div>"
+    }
+  ]
+}
