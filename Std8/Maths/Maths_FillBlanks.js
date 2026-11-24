@@ -3102,3 +3102,61 @@ var Std8_Maths_FillBlanks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "અવયવીકરણ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાવલી 5x + 10 માં સામાન્ય અવયવ ........... છે. (વિકલ્પો: 5, 2, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની સંખ્યા જુઓ, શું તે બીજી સંખ્યાને ભાગી શકે છે? હા, તો એ જ સામાન્ય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "x² - 9 ના અવયવ ........... થાય. (વિકલ્પો: (x-3)(x+3), (x-3)(x-3), (x+3)(x+3))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (x-3)(x+3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a² - b² દેખાય એટલે એક વાર માઇનસ અને એક વાર પ્લસ લખી દેવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "(x + 3)² નું વિસ્તરણ ........... થાય. (વિકલ્પો: x²+9, x²+6x+9, x²+3x+9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x²+6x+9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (a+b)² એટલે પહેલાનો વર્ગ + 2 ગુણ્યા બંનેનો ગુણાકાર + બીજાનો વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પદાવલી x² + 5x + 6 ના અવયવ ........... થાય. (વિકલ્પો: (x+2)(x+3), (x+1)(x+6), (x-2)(x-3))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (x+2)(x+3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એવી બે સંખ્યા શોધો જેનો ગુણાકાર 6 અને સરવાળો 5 થાય (2 અને 3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "a² + 2ab + b² = ........... (વિકલ્પો: (a+b)², (a-b)², a²+b²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (a+b)²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 'પ્લસ' હોય તો 'પ્લસ' વાળો કૌંસ જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "12a²b અને 15ab² નો ગુસાઅ (HCF) ........... છે. (વિકલ્પો: 3ab, 3a²b², 12ab)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3ab</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકમાં નાનો ભાગાકાર અને ચલમાં નાની ઘાત પસંદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "x² - 2x + 1 = ........... (વિકલ્પો: (x-1)², (x+1)², x²-1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (x-1)²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે માઇનસ હોય તો જવાબમાં માઇનસ વાળો કૌંસ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "4y² - 1 નો એક અવયવ (2y + 1) હોય, તો બીજો અવયવ ........... થાય. (વિકલ્પો: 2y-1, 2y+1, y-1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2y-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તફાવતની રીત (a²-b²) વાપરો: (2y)² - (1)² = (2y-1)(2y+1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ax + ay + bx + by નું અવયવીકરણ કરતા ........... મળે. (વિકલ્પો: (a+b)(x+y), (a+x)(b+y), (ab)(xy))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (a+b)(x+y)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બબ્બેની જોડી બનાવો અને સામાન્ય કાઢો, પછી કોમન કૌંસ બહાર લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "3x + 12 માંથી 3 સામાન્ય કાઢતા ........... વધે. (વિકલ્પો: x+4, x+12, 3x+4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x+4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય કાઢવો એટલે દરેક પદને તે સંખ્યા વડે ભાગવું!</p></div>"
+    }
+  ]
+}
