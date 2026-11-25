@@ -3160,3 +3160,261 @@ var Std8_Maths_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આલેખનો પરિચય",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આલેખપત્ર પર દોરવામાં આવતી આડી રેખાને ........ અક્ષ કહે છે. (X-અક્ષ, Y-અક્ષ, Z-અક્ષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' થી 'આડી' અને 'આ' થી 'X' (Horizontal always X).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આલેખપત્ર પર દોરવામાં આવતી ઊભી રેખાને ........ અક્ષ કહે છે. (X-અક્ષ, Y-અક્ષ, Z-અક્ષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊભી લાકડી જેવો 'Y' અક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "X-અક્ષ અને Y-અક્ષના છેદબિંદુને ........ કહે છે. (મધ્યબિંદુ, ઉગમબિંદુ, અંત્યબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી ગ્રાફનો 'ઉગમ' (શરૂઆત) થાય તેને ઉગમબિંદુ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉગમબિંદુના યામ હંમેશા ........ હોય છે. ((1,1), (0,1), (0,0))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (0,0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય થી શરૂઆત એટલે (0,0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બિંદુ (4, 5) માં x-યામ ........ છે. (4, 5, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x, y) માં પહેલો નંબર હંમેશા x હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બિંદુ (2, 7) માં y-યામ ........ છે. (2, 7, 9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x, y) માં બીજો નંબર હંમેશા y હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો બિંદુનો x-યામ 0 હોય, તો તે બિંદુ ........ અક્ષ પર આવેલું હોય. (X, Y, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે શૂન્ય હોય તેનાથી વિરુદ્ધ અક્ષ પર બિંદુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો બિંદુનો y-યામ 0 હોય, તો તે બિંદુ ........ અક્ષ પર આવેલું હોય. (X, Y, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y = 0 તો x-અક્ષ (યાદ રાખો: ઉલટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બિંદુ (5, 0) એ ........ અક્ષ પરનું બિંદુ છે. (X, Y, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં બીજો નંબર (y) ઝીરો છે, માટે તે X પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બિંદુ (0, 3) એ ........ અક્ષ પરનું બિંદુ છે. (X, Y, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં પહેલો નંબર (x) ઝીરો છે, માટે તે Y પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માહિતીને બિંદુઓ દ્વારા દર્શાવી રેખાખંડોથી જોડતા બનતા આલેખને ........ આલેખ કહે છે. (સ્તંભ, રેખીય, લંબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખાખંડો જોડાય એટલે 'રેખીય' આલેખ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આલેખમાં સ્વતંત્ર ચલને સામાન્ય રીતે ........ અક્ષ પર દર્શાવાય છે. (X, Y, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વતંત્ર ચલ (જેમ કે સમય) હંમેશા આડા (X) અક્ષ પર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પરતંત્ર ચલને આલેખમાં ........ અક્ષ પર દર્શાવાય છે. (X, Y, Z)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરતંત્ર ચલ (જેમ કે તાપમાન) ઊભા (Y) અક્ષ પર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બિંદુ (3, 3) એ x-અક્ષથી ........ એકમ અંતરે છે. (0, 3, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X-અક્ષથી અંતર એટલે 'y-યામ' ની કિંમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બિંદુ (4, 2) એ y-અક્ષથી ........ એકમ અંતરે છે. (4, 2, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y-અક્ષથી અંતર એટલે 'x-યામ' ની કિંમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો આલેખ એક અખંડિત સીધી રેખા હોય, તો તેને ........ આલેખ કહેવાય. (વર્તુળ, રૈખિક, સ્તંભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૈખિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી રેખા = રૈખિક (Linear).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તાપમાન વિરુદ્ધ સમયનો આલેખ એ ........ આલેખનું ઉદાહરણ છે. (રેખીય, વર્તુળ, સ્તંભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય સાથે બદલાતી વિગતો માટે રેખીય આલેખ શ્રેષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "યામ પદ્ધતિમાં પ્રથમ કિંમત હંમેશા ........ યામની હોય છે. (X, Y, Z)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABC માં X પહેલા આવે, પછી Y.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચતુષ્કોણના શિરોબિંદુઓ આલેખમાં દર્શાવવા માટે ઓછામાં ઓછા ........ બિંદુઓ જોઈએ. (2, 3, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચતુષ્કોણ એટલે 4 ખૂણા અને 4 બિંદુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બિંદુ (0, 0) ને ........ કહેવામાં આવે છે. (અંતિમબિંદુ, ઉગમબિંદુ, મધ્યબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રહ્માંડનું કેન્દ્ર જેમ શૂન્ય છે, તેમ ગ્રાફનું કેન્દ્ર (0,0) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમય અને અંતરનો આલેખ જો સીધી રેખા હોય, તો પદાર્થ ........ ઝડપે ગતિ કરે છે. (અચળ, અસમાન, વધતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી રેખા = સીધી (અચળ) ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બિંદુ (8, 0) કયા અક્ષ પર આવેલું છે? (X, Y, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની કિંમત આપી હોય તે અક્ષ (8 એ x ની કિંમત છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બિંદુ (0, 10) કયા અક્ષ પર આવેલું છે? (X, Y, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x=0 હોય તો તે હંમેશા Y-અક્ષ પર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આલેખમાં x-અક્ષ અને y-અક્ષ પરસ્પર ........ હોય છે. (સમાંતર, લંબ, ત્રાસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X અને Y અક્ષ વચ્ચે હંમેશા 90 ડિગ્રીનો ખૂણો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા પ્રકારના આલેખમાં માહિતીને વર્તુળના ભાગ રૂપે દર્શાવાય છે? (રેખા, સ્તંભ, પાઈ-ચાર્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઈ-ચાર્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ પાઈ (Pie) જેવો આલેખ એટલે પાઈ-ચાર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો એક બિંદુના યામ (3, 4) હોય, તો તે ઉગમબિંદુથી જમણી બાજુ ........ એકમ દૂર હશે. (3, 4, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણી કે ડાબી બાજુનું અંતર એટલે x-યામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો એક બિંદુના યામ (5, 6) હોય, તો તે ઉગમબિંદુથી ઉપરની તરફ ........ એકમ દૂર હશે. (5, 6, 11)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર કે નીચેનું અંતર એટલે y-યામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રેખીય આલેખમાં બે બિંદુઓને જોડતી રેખા જો આડી હોય, તો y-યામમાં થતો ફેરફાર ........ હોય. (0, 1, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આડી રેખામાં ઊંચાઈ (Y) બદલાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બિંદુ (x, y) માં 'x' ને ........ પણ કહેવામાં આવે છે. (કોટિ, ભુજ, કેન્દ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોટિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X = કોટિ (Abscissa), Y = ભુજ (Ordinate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બિંદુ (x, y) માં 'y' ને ........ પણ કહેવામાં આવે છે. (કોટિ, ભુજ, કેન્દ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભુજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y ની લાકડી ભુજ (હાથ) જેવી ઊભી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "આલેખ પર (2, 3) અને (3, 2) એ ........ બિંદુઓ છે. (સમાન, અલગ, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ બદલાય તો બિંદુ બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જુદા જુદા સમયે તાપમાન દર્શાવવા માટે કયો આલેખ વધુ યોગ્ય છે? (લંબ આલેખ, રેખા આલેખ, પાઈ ચાર્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખા આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય સાથે થતા સતત ફેરફાર માટે 'રેખા' બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બિંદુ (7, 7) એ x-અક્ષ અને y-અક્ષ બંનેથી ........ અંતરે છે. (સમાન, અલગ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો x અને y ના અંક સરખા હોય તો અંતર સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "યામ સમતલમાં કેટલા અક્ષ હોય છે? (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X અને Y - આ બે જ અક્ષ આપણા સિલેબસમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વસ્તુની સંખ્યા અને તેની કિંમતનો આલેખ હંમેશા ........ માંથી પસાર થાય છે. (ઉગમબિંદુ, Y-અક્ષ, X-અક્ષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 વસ્તુની કિંમત 0 જ હોય, એટલે શરૂઆત (0,0) થી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કયા આલેખમાં સ્તંભોની પહોળાઈ સમાન રાખવામાં આવે છે? (રેખા આલેખ, લંબ આલેખ, પાઈ ચાર્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબ આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તંભ (બાર) હંમેશા એકસરખા જાડા હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બિંદુ (4, 0) એ ........ રેખા પર છે. (X-અક્ષ, Y-અક્ષ, ત્રાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y શૂન્ય છે, એટલે ગાડી X પર જ ઉભી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક ચલ વધે ત્યારે બીજો ચલ પણ તેટલા જ પ્રમાણમાં વધે તો આલેખ ........ મળે. (સીધી રેખા, વક્ર રેખા, વર્તુળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીધી રેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમપ્રમાણ = સીધી રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "બિંદુ (1, 2), (2, 4), (3, 6) ને જોડતા મળતી રેખા ........ માંથી પસાર થશે. ((0,0), (1,1), (0,1))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (0,0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં y = 2x નો સંબંધ છે, એટલે 0 મુકતા 0 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "આલેખ દોરવા માટે વપરાતા ચોરસ ખાનાવાળા કાગળને ........ કહે છે. (પ્લેન પેપર, આલેખપત્ર, લાઇનિંગ પેપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલેખપત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખ દોરવાનું પત્ર એટલે આલેખપત્ર (Graph paper).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "બિંદુ (0, 5) એ ઉગમબિંદુથી ........ એકમ ઉપર છે. (0, 5, -5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y-યામ 5 છે, એટલે 5 ડગલાં ઉપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સ્તંભ આલેખમાં બે સ્તંભો વચ્ચેનું અંતર ........ હોવું જોઈએ. (અલગ અલગ, શૂન્ય, એકસમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકસમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાફ ચોખ્ખો દેખાય તે માટે જગ્યા સરખી રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો આલેખમાં x-અક્ષ પર વર્ષ અને y-અક્ષ પર વસ્તી હોય, તો તે ........ આલેખ કહેવાય. (સમય-શ્રેણી, લંબ, વર્તુળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમય-શ્રેણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય (વર્ષ) સાથે બદલાતી શ્રેણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "બિંદુ (2, 0) અને (5, 0) ને જોડતી રેખા ........ પર હોય છે. (X-અક્ષ, Y-અક્ષ, ઉગમબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેના Y શૂન્ય છે, એટલે બંને X પર જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "બિંદુ (0, 3) અને (0, 8) ને જોડતી રેખા ........ પર હોય છે. (X-અક્ષ, Y-અક્ષ, આડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y-અક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેના X શૂન્ય છે, એટલે બંને Y પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "આલેખમાં પ્રમાણમાપ લેવું ........ છે. (ફરજિયાત, મરજિયાત, બિનજરૂરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફરજિયાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માપ વગરનો ગ્રાફ, ખોટો પડે સાફ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "રૈખિક આલેખમાં જો રેખા X-અક્ષને સમાંતર હોય, તો કયા યામની કિંમત બદલાતી નથી? (X, Y, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X ને સમાંતર એટલે ઊંચાઈ (Y) ફિક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "રૈખિક આલેખમાં જો રેખા Y-અક્ષને સમાંતર હોય, તો કયા યામની કિંમત બદલાતી નથી? (X, Y, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y ને સમાંતર એટલે અંતર (X) ફિક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "યામ (2, 5) માં '5' એ બિંદુનું ........ અક્ષથી લંબ અંતર છે. (X, Y, Z)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y-યામની કિંમત એ X-અક્ષથી અંતર દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કયા બિંદુનો x-યામ અને y-યામ બંને સમાન અને શૂન્ય છે? (ઉગમબિંદુ, કેન્દ્રબિંદુ, અંત્યબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (0,0) એટલે ઉગમબિંદુ, જ્યાં બધું ઝીરો છે.</p></div>"
+    }
+  ]
+}
