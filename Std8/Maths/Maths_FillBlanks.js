@@ -3418,3 +3418,161 @@ var Std8_Maths_FillBlanks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "સંખ્યા સાથે રમત",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે અંકોની સંખ્યા $ab$ નું વ્યાપક સ્વરૂપ _________ છે. ($10a + b, 10b + a, a + b$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10a + b$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનકિંમત યાદ રાખો! દશકના અંકને 10 વડે અને એકમના અંકને 1 વડે ગુણીને સરવાળો કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ત્રણ અંકોની સંખ્યા $abc$ નું વ્યાપક સ્વરૂપ _________ છે. ($a+b+c, 100a+10b+c, 100c+10b+a$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $100a+10b+c$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'a' સોના સ્થાને છે એટલે 100, 'b' દશકના સ્થાને એટલે 10 અને 'c' એકમના સ્થાને એટલે 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો કોઈ સંખ્યાનો એકમનો અંક 0 હોય, તો તે સંખ્યા _________ વડે વિભાજ્ય હોય જ. ($2, 5, 10$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 નો ઘડિયો બોલો (10, 20, 30...) - બધામાં છેલ્લે 'મીંડું' (0) જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો કોઈ સંખ્યાનો એકમનો અંક 0 અથવા 5 હોય, તો તે સંખ્યા _________ વડે નિઃશેષ ભાગી શકાય. ($2, 3, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 ના ઘડિયામાં એકમમાં હંમેશા 5 અથવા 0 જ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંખ્યા 75 નું વ્યાપક સ્વરૂપ _________ થાય. ($10 \\times 7 + 5, 10 \\times 5 + 7, 7 + 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10 \\times 7 + 5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશકનો અંક '7' છે, માટે તેને 10 સાથે જોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો સંખ્યાના અંકોનો સરવાળો 9 વડે વિભાજ્ય હોય, તો તે સંખ્યા _________ વડે વિભાજ્ય હોય. ($3, 9, 6$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 અને 9 ની ચાવી સમાન છે: 'અંકોનો સરવાળો કરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંખ્યા 350 માં એકમનો અંક 0 હોવાથી તે _________ વડે વિભાજ્ય નથી. ($2, 3, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3+5+0 = 8. હવે 8 એ 3 ના ઘડિયામાં આવતા નથી, એટલે 350 ને 3 વડે ન ભાગી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો $21y5$ એ 9 નો ગુણિત હોય, તો $y$ ની કિંમત _________ હોય. ($1, 2, 3$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2+1+y+5 = 8+y$. 9 કરવા માટે $y$ માં કેટલા ઉમેરવા પડે? 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોઈપણ બે અંકની સંખ્યા $ab$ અને તેના અંકો ઉલટાવતા મળતી સંખ્યા $ba$ નો સરવાળો હંમેશા _________ વડે વિભાજ્ય હોય. ($9, 10, 11$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો કરો તો 11 વડે ભાગી શકાય અને બાદબાકી કરો તો 9 વડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંખ્યા 432 નું વ્યાપક સ્વરૂપ $100 \\times 4 + 10 \\times 3 +$ _________ છે. ($2, 20, 1$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લો અંક એકમનો છે, તેને એમનો એમ જ લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો $31z5$ એ 3 નો ગુણિત હોય, તો $z$ ની નાનામાં નાની કિંમત _________ હોઈ શકે. ($0, 1, 2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $3+1+z+5 = 9+z$. 9 પોતે 3 થી ભાગી શકાય છે, એટલે $z=0$ મૂકી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જે સંખ્યાનો એકમનો અંક 0, 2, 4, 6 કે 8 હોય તે સંખ્યા _________ વડે વિભાજ્ય હોય. ($2, 5, 10$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકી સંખ્યા હંમેશા 2 ના ટેબલમાં આવે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બે અંકની સંખ્યા $ab$ અને તેના અંકો ઉલટાવતા મળતી સંખ્યા $ba$ ની બાદબાકી (જ્યાં $a>b$) હંમેશા _________ વડે વિભાજ્ય હોય. ($11, 9, 2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(10a+b) - (10b+a) = 9a - 9b = 9(a-b)$. એટલે કે 9 નો ગુણિત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$A + A + A = BA$ માં $A$ ની કિંમત _________ હોય. ($0, 5, 2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $5+5+5 = 15$. અહીં એકમનો અંક $A=5$ જળવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંખ્યા $10b + a$ એ _________ અંકો વાળી સંખ્યાનું ઉલટું સ્વરૂપ છે. ($ab, ba, aa$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $ab$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ સંખ્યા $ab$ એટલે $10a+b$. અંકો ઉલટાવો એટલે $10b+a$ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો કોઈ સંખ્યાના અંકોનો સરવાળો 3 વડે વિભાજ્ય હોય, તો તે સંખ્યા _________ વડે વિભાજ્ય હોય. ($2, 3, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ની ચાવી = અંકોનો સરવાળો / 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંખ્યા 120 ને 2, 5 અને 10 ત્રણેય વડે ભાગી શકાય કારણ કે તેનો એકમનો અંક _________ છે. ($2, 5, 0$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 એ ઓલ-રાઉન્ડર છે! તે 2, 5 અને 10 ત્રણેયની શરત પૂરી કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો $1x5$ એ 9 વડે વિભાજ્ય હોય, તો $x$ ની કિંમત _________ થાય. ($3, 6, 9$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $1+x+5 = 6+x$. હવે 9 માંથી 6 બાદ કરો તો 3 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$AB \\times 3 = CAB$ માં જો $A=5, B=0$ હોય તો $C=$ _________. ($1, 2, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $50 \\times 3 = 150$. અહીં $CAB = 150$, એટલે $C=1$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બે અંકની મોટામાં મોટી સંખ્યા જે 5 વડે વિભાજ્ય હોય તે _________ છે. ($90, 95, 99$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 95</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 પહેલા કઈ સંખ્યામાં છેલ્લે 5 આવે? 95.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સંખ્યા 1000 નું વ્યાપક સ્વરૂપ _________ છે. ($10 \\times 100, 100 \\times 10, 1000 \\times 1 + 100 \\times 0 + 10 \\times 0 + 0$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1000 \\times 1 + 100 \\times 0 + 10 \\times 0 + 0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેટલી મોટી સંખ્યા હોય, દરેક સ્થાનની કિંમત મૂકતા જાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો $y + y + y = y$ હોય (સરવાળામાં), તો $y$ ની કિંમત _________ હોય. ($1, 0, 2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $0+0+0 = 0$ જ થાય. બીજી કોઈ સંખ્યામાં આવું શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સંખ્યા 81 એ 9 નો ગુણિત છે, તો તેના અંકોનો સરવાળો _________ વડે વિભાજ્ય થાય. ($2, 3, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સંખ્યા 9 વડે વિભાજ્ય હોય તે હંમેશા 3 વડે વિભાજ્ય હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કોઈ સંખ્યા $N$ ને 10 વડે ભાગતા શેષ 0 વધે, તો તેનો એકમનો અંક _________ જ હોય. ($0, 1, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેષ 0 એટલે કે નિઃશેષ ભાગાકાર, જે 10 માટે ફક્ત એકમમાં 0 હોય ત્યારે જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંખ્યા $100c + 10b + a$ માં એકમનો અંક _________ છે. ($c, b, a$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $a$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની સાથે કોઈ ગુણાકાર ન હોય (અથવા 1 હોય) તે જ એકમનો અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો $3A + 25 = B2$ હોય, તો $A =$ _________. ($7, 2, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $A+5$ માં છેલ્લે 2 આવવા જોઈએ. એટલે $7+5 = 12$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કોઈ સંખ્યાના અંકો ઉલટાવતા તે સંખ્યા બદલાતી નથી, તો તે _________ સંખ્યા કહેવાય. (યુગ્મ, સંમિત/પેલિન્ડ્રોમ, વિષમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેલિન્ડ્રોમ (સંમિત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ કે 121, 333. આગળથી વાંચો કે પાછળથી - બધું સરખું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો $24x$ એ 3 નો ગુણિત હોય, તો $x$ ની મહત્તમ કિંમત _________ હોઈ શકે. ($6, 9, 8$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2+4+x = 6+x$. હવે $x=9$ મૂકો તો $6+9=15$ થાય, જે 3 વડે વિભાજ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સંખ્યા 999 માં અંકોનો સરવાળો _________ છે. ($18, 27, 9$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 27</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $9 + 9 + 9 = 27$. (9 નો ઘડિયો 3 સુધી બોલો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સંખ્યા $N$ ને 5 વડે ભાગતા શેષ 3 વધે, તો તેનો એકમનો અંક _________ અથવા 8 હોઈ શકે. ($0, 3, 5$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 ની શરત 0 કે 5 છે. તેમાં 3 ઉમેરો: $0+3=3$ અને $5+3=8$.</p></div>"
+    }
+  ]
+}
