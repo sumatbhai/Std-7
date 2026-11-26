@@ -206,3 +206,136 @@ var Std8_Maths_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "એક ચલ રેખીય સમીકરણો",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રેખીય સમીકરણમાં ચલની મહત્તમ ઘાત 1 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રેખીય' શબ્દનો અર્થ જ એ છે કે જેની ઘાત માત્ર 1 હોય. જો ઘાત 2 થઈ જાય તો તેને દ્વિઘાત સમીકરણ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમીકરણ $x^2 + 5 = 10$ એ એક ચલ રેખીય સમીકરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે અહીં ચલ $x$ ની ઘાત 2 છે, જ્યારે રેખીય સમીકરણમાં ઘાત 1 હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલની ઉપર જો ટોપી (ઘાત) 1 થી મોટી દેખાય, તો તેને રેખીય સમીકરણ ના કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમીકરણમાં બરાબર (=) ની ચિન્હની બંને બાજુએ પદાવલિઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '=' એટલે ત્રાજવું. ડાબી બાજુ (LHS) અને જમણી બાજુ (RHS) બંને બાજુ પલ્લાં હોવા જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો $x + 3 = 10$ હોય, તો $x$ ની કિંમત 13 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે $+3$ જમણી બાજુ જાય તો $-3$ થાય, તેથી $x = 10 - 3 = 7$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો બોર્ડર (બરાબર) ક્રોસ કરે તો બાદબાકી બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમીકરણ $2x - 3 = 7$ નો ઉકેલ $x = 5$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $2x = 7 + 3 \\Rightarrow 2x = 10 \\Rightarrow x = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા બાદબાકીને પેલે પાર મોકલો (+), પછી ગુણાકારને છેદમાં (ભાગાકાર) મોકલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમીકરણમાં ચલ તરીકે હંમેશા માત્ર 'x' જ વાપરી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ચલ તરીકે a થી z સુધીનો કોઈપણ મૂળાક્ષર વાપરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચલ' એટલે જે બદલાય. તે x, y, z, m, n ગમે તે હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમીકરણ $\\frac{x}{3} = 5$ માં $x$ ની કિંમત $\\frac{5}{3}$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. છેદમાં રહેલી સંખ્યા (ભાગાકાર) સામે જાય તો ગુણાકાર થાય, એટલે $x = 5 \\times 3 = 15$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે બેઠેલો દુશ્મન (ભાગાકાર) બોર્ડર ક્રોસ કરે તો ઉપર (ગુણાકાર) આવી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક ચલ રેખીય સમીકરણમાં માત્ર એક જ ચલ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક ચલ' એટલે આખા સમીકરણમાં એક જ જાતનો અક્ષર (દા.ત. માત્ર x અથવા માત્ર y) હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમીકરણ $5x = 20$ માં $x$ નો સહગુણક 5 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલની સાથે જે સંખ્યા ફેવિકોલની જેમ ચોંટેલી (ગુણાકારમાં) હોય, તેને સહગુણક કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણની બંને બાજુએ સમાન સંખ્યા ઉમેરતા સમીકરણનું સંતુલન જળવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાજવાની બંને બાજુ સરખો વજન મૂકો તો પલ્લું નમે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમીકરણ $x - 8 = -3$ નો ઉકેલ $x = 5$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $x = -3 + 8 = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ નિશાનીની બાદબાકી કરો અને મોટા ભાઈ (મોટી સંખ્યા) નું માન રાખો (તેની નિશાની મૂકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમીકરણ $3x + 2 = 2x + 5$ માં $x = 3$ મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $3x - 2x = 5 - 2 \\Rightarrow x = 3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલ-ચલ એક બાજુ અને આંકડા-આંકડા બીજી બાજુ ભેગા કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શૂન્ય વડે ભાગાકાર વ્યાખ્યાયિત નથી, તેથી છેદમાં ચલવાળા પદ શૂન્ય ન હોવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતમાં છેદમાં ઝીરો એટલે 'ડેન્જર ઝોન'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$2y = 10 - y$ હોય તો $y = 10/3$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $2y + y = 10 \\Rightarrow 3y = 10 \\Rightarrow y = 10/3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ ચલ સામે જાય તો પ્લસ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બે અંકની એક સંખ્યાનો એકમનો અંક $x$ અને દશકનો અંક 5 હોય, તો તે સંખ્યા $5x$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સંખ્યા $10 \\times (દશક) + (એકમ)$ મુજબ $10(5) + x = 50 + x$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશકને 10 વડે ગુણવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$4x/5 = 12$ માં $x$ ની કિંમત 15 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $4x = 12 \\times 5 = 60 \\Rightarrow x = 60/4 = 15$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકડી ગુણાકારનો ઉપયોગ કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સમીકરણ $x + 2 = x + 3$ નો કોઈ ઉકેલ મળી શકે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. કારણ કે $x - x = 3 - 2 \\Rightarrow 0 = 1$ જે અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બંને બાજુ ચલ ઉડી જાય અને આંકડા અલગ વધે, તો ઉકેલ ન મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રેખીય પદાવલિમાં ચલની ઘાત હંમેશા ધન પૂર્ણાંક જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. રેખીય માટે ઘાત 1 હોવી જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત માઈનસ કે અપૂર્ણાંક હોય તો તેને રેખીય ના કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમીકરણ $3(x - 1) = 12$ નો ઉકેલ $x = 5$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $x - 1 = 12/3 = 4 \\Rightarrow x = 4 + 1 = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની બહારના ગુણાકારને પહેલા જમણી બાજુ ભાગાકારમાં મોકલી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોઈપણ સંખ્યા અને તેની વિરોધી સંખ્યાનો સરવાળો હંમેશા 1 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કોઈપણ સંખ્યા અને તેની વિરોધી સંખ્યાનો સરવાળો હંમેશા શૂન્ય (0) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $+5$ અને $-5$ ભેગા થાય તો લાડવો (0) જ બચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમીકરણ $x/2 + x/3 = 5$ નો ઉકેલ $x = 6$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. લ.સા.અ. 6 લેતા: $(3x + 2x)/6 = 5 \\Rightarrow 5x/6 = 5 \\Rightarrow x = 6$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક આવે ત્યારે લ.સા.અ. (LCM) કાઢવો ફરજિયાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એક સંખ્યાના બમણામાં 5 ઉમેરતા 15 મળે, તો તે સંખ્યા 10 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સમીકરણ: $2x + 5 = 15 \\Rightarrow 2x = 10 \\Rightarrow x = 5$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊલટી પ્રોસેસ કરો: 15 માંથી 5 બાદ કરો (10) અને તેના અડધા કરો (5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમીકરણમાં પદની બાજુ બદલાતા તેની નિશાની બદલાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષાંતર એટલે નિશાનીનું પરિવર્તન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમીકરણ $x + x + x = 30$ નો ઉકેલ $x = 10$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $3x = 30 \\Rightarrow x = 10$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન ચલનો સરવાળો થાય ત્યારે સહગુણકોનો સરવાળો કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "$0.5x = 10$ હોય તો $x = 20$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. $x = 10 / 0.5 = 100 / 5 = 20$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.5 એટલે અડધું. કોઈ સંખ્યાના અડધા 10 હોય, તો તે સંખ્યા આખી 20 જ હોય!</p></div>"
+    }
+  ]
+}
