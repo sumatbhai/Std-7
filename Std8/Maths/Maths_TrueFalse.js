@@ -1371,3 +1371,161 @@ var Std8_Maths_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "૫ કિમી અને ૫૦૦ મીટરનો ગુણોત્તર ૧ : ૧૦ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (૫ કિમી = ૫૦૦૦ મીટર, તેથી ૫૦૦૦ : ૫૦૦ = ૧૦ : ૧ થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર શોધતા પહેલા એકમો (Units) સમાન કરવા ફરજિયાત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "૨ : ૩ અને ૪ : ૬ એ સમાન ગુણોત્તર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (૪/૬ ના છેદ ઉડાડતા ૨/૩ મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અતિસંક્ષિપ્ત રૂપ સરખા હોય, તો ગુણોત્તર સમાન ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુણોત્તરને કોઈ એકમ હોતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર એ બે સંખ્યાઓની સરખામણી છે, એટલે એકમ ઊડી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "૩ : ૪ ને ટકામાં ૭૫% લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (૩/૪ × ૧૦૦ = ૩ × ૨૫ = ૭૫%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક કે ગુણોત્તરને ૧૦૦ વડે ગુણવાથી ટકાવારી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વળતર હંમેશા વેચાણ કિંમત પર આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વળતર હંમેશા 'છાપેલી કિંમત' પર ગણાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુકાનદાર 'છાપેલી કિંમત' (Tag) જોઈને જ વળતર આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વેચાણ કિંમત = છાપેલી કિંમત - વળતર.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહકને વળતર કાપ્યા પછી જે રકમ ચૂકવવી પડે તે જ વેચાણ કિંમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "GST એ વસ્તુની કિંમતમાં ઘટાડો કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (GST એ ટેક્સ છે જે કિંમતમાં ઉમેરાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકાર જે પણ ટેક્સ લે તે તમારી ખિસ્સામાંથી જાય, એટલે કિંમત વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નફો કે ખોટ હંમેશા ખરીદ કિંમત પર જ ગણવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયો હંમેશા ખરીદ કિંમત (CP) જ હોય, તેના વગર ફાયદો કે નુકસાન ન મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો વેચાણ કિંમત > ખરીદ કિંમત હોય, તો ખોટ જાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વેચાણ કિંમત વધારે હોય ત્યારે 'નફો' થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેચતા વધારે પૈસા મળે તો 'મોજ' (નફો), ઓછા મળે તો 'લોસ' (ખોટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચક્રવૃદ્ધિ વ્યાજ એ સાદા વ્યાજ કરતા હંમેશા ઓછું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચક્રવૃદ્ધિ વ્યાજમાં વ્યાજનું પણ વ્યાજ મળે એટલે તે સાદા વ્યાજથી વધુ હોય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્રવૃદ્ધિ = વ્યાજ પર વ્યાજ, એટલે કે રકમ હંમેશા મોટી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વસ્તુ પર થતો ખરાજાત ખરીદ કિંમતમાં ઉમેરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પણ વધારાનો ખર્ચ (ભાડું, રિપેરિંગ) થાય તે 'પડતર કિંમત' નો ભાગ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચક્રવૃદ્ધિ વ્યાજમાં દર વર્ષે મુદ્દલ (Principal) બદલાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (અગાઉના વર્ષનું વ્યાજ મુદ્દલમાં ઉમેરાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદું વ્યાજ - ફિક્સ મુદ્દલ; ચક્રવૃદ્ધિ વ્યાજ - વધતી જતી મુદ્દલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "૨૫ ના ૪% એટલે ૧૦૦ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (૨૫ × ૪/૧૦૦ = ૧ થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: % એટલે 'છેદમાં ૧૦૦' મૂકીને ગુણાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વ્યાજનું અર્ધવાર્ષિક સંયોજન કરવામાં આવે ત્યારે વર્ષમાં ૨ વખત વ્યાજ ગણાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધવાર્ષિક એટલે ૬ મહિના, તો ૧૨ મહિનામાં બે વાર ગણતરી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અર્ધવાર્ષિક વ્યાજની ગણતરી વખતે વ્યાજનો દર (R) બમણો કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વ્યાજનો દર 'અડધો' (R/2) કરવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય બમણો (2n) અને વ્યાજનો દર અડધો (R/2) - આ છે અર્ધવાર્ષિકનો મંત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "૫૦% એટલે અડધો ભાગ ગણાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (૫૦/૧૦૦ = ૧/૨)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦% એટલે આખું, તો ૫૦% એટલે અડધું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો નફો ૧૦% હોય, તો ખરીદ કિંમત ૧૦૦ હોય તો વેચાણ કિંમત ૧૧૦ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૦ ના પાયા પર ગણતરી કરવી હંમેશા સહેલી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "૧૦૦૦ નું ૧૦% લેખે ૧ વર્ષનું સાદું વ્યાજ અને ચક્રવૃદ્ધિ વ્યાજ સમાન હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (જ્યારે વ્યાજ વાર્ષિક ગણાય ત્યારે પ્રથમ વર્ષ માટે બંને સમાન હોય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા વર્ષે કોઈ 'વ્યાજ પર વ્યાજ' હોતું નથી, એટલે બંને સરખા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દશાંશ સંખ્યા ૦.૭૫ ને ટકામાં ૭.૫% કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (૦.૭૫ × ૧૦૦ = ૭૫%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકામાં ફેરવવા પોઈન્ટને બે ડગલાં જમણી બાજુ ખસેડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કિંમતમાં ૨૦% વધારો અને પછી ૨૦% ઘટાડો કરવાથી મૂળ કિંમત પાછી મળે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (હંમેશા ઘટાડો થાય. ૧૦૦ -> ૧૨૦ -> ૯૬. એટલે કે ૪% ઘટાડો થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન ટકાનો વધારો-ઘટાડો એટલે હંમેશા નુકસાન જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચક્રવૃદ્ધિ વ્યાજ શોધવાનું સૂત્ર A = P(1 + R/100)^n છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (જ્યાં A એ વ્યાજમુદ્દલ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, આ સૂત્ર સીધું 'વ્યાજમુદ્દલ' આપે છે, માત્ર વ્યાજ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "૫૦૦ રૂપિયાની વસ્તુ પર ૧૦% GST હોય તો ગ્રાહકે ૪૫૦ રૂપિયા ચૂકવવા પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (GST ઉમેરાય, એટલે ૫૦૦ + ૫૦ = ૫૫૦ ચૂકવવા પડે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GST એટલે પ્લસ (+), વળતર એટલે માઇનસ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો વળતર શૂન્ય હોય, તો વેચાણ કિંમત અને છાપેલી કિંમત સરખી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફિક્સ ભાવ' ની દુકાને છાપેલી કિંમતે જ વસ્તુ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નફાની ટકાવારી = (નફો / વેચાણ કિંમત) × ૧૦૦.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (છેદમાં હંમેશા 'ખરીદ કિંમત' આવે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં CP (ખરીદ કિંમત) જ હોવી જોઈએ, એ જ ગણિતનો નિયમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વ્યાજમુદ્દલ (A) = મુદ્દલ (P) + વ્યાજ (I).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુદ્દલ માં વ્યાજ ભળે ત્યારે જ રકમ મોટી બને (Amount).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "૮૦% ને અપૂર્ણાંકમાં ૪/૫ લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (૮૦/૧૦૦ = ૮/૧૦ = ૪/૫)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૦ નો ઘડિયો યાદ રાખો: ૨૦% = ૧/૫, તો ૮૦% = ૪/૫.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "૧૦૦૦ ના ૧૦% ના ૨૦% એટલે ૨૦ રૂપિયા થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (૧૦૦૦ ના ૧૦% = ૧૦૦; ૧૦૦ ના ૨૦% = ૨૦)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાના ટકા શોધવા હોય ત્યારે ક્રમશઃ ગણતરી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વેટ (VAT) એ સેલ્સ ટેક્સનું જ એક સ્વરૂપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (હવે તેનું સ્થાન GST એ લીધું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VAT એટલે Value Added Tax, જે વસ્તુની કિંમતમાં ઉમેરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રાશિઓની સરખામણી કરવા માટે તેમના એકમો જુદા જુદા હોવા જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સરખામણી માટે એકમો સમાન હોવા અનિવાર્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફરજનની સરખામણી સફરજન સાથે જ થાય, કેરી સાથે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "૫૦ પૈસા અને ૫ રૂપિયાનો ગુણોત્તર ૧ : ૧૦ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (૫ રૂપિયા = ૫૦૦ પૈસા, તેથી ૫૦ : ૫૦૦ = ૧ : ૧૦)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા મોટા એકમને નાનામાં ફેરવો, છેદ ઉડાડવા સહેલા પડશે.</p></div>"
+    }
+  ]
+}
