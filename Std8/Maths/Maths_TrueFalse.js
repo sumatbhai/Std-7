@@ -1213,3 +1213,161 @@ var Std8_Maths_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ઘન અને ઘનમૂળ",
+  "questionType": "ખરા ખોટા જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોઈપણ એકી સંખ્યાનો ઘન બેકી સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કોઈપણ એકી સંખ્યાનો ઘન હંમેશા એકી સંખ્યા જ હોય છે. દા.ત. 3³ = 27)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકીનો ઘન એકી અને બેકીનો ઘન બેકી જ હોય. (Odd³ = Odd, Even³ = Even)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૂર્ણઘન સંખ્યા બે શૂન્ય સાથે અંત ન પામી શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (પૂર્ણઘન સંખ્યાના અંતે હંમેશા 3, 6, 9... એમ 3 ના ગુણકમાં શૂન્ય હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન એટલે 'ત્રણ' ની જોડી. જો શૂન્ય 3 ના ગુણકમાં ન હોય, તો તે પૂર્ણઘન નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો કોઈ સંખ્યાનો વર્ગ 5 માં અંત પામે, તો તેનો ઘન 25 માં અંત પામે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (દા.ત. 15² = 225 જે 5 માં અંત પામે છે, પણ 15³ = 3375 જે 75 માં અંત પામે છે, 25 માં નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા નાના ઉદાહરણથી ચકાસણી કરો (જેમ કે 5 અને 15).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એવી કોઈ પૂર્ણઘન સંખ્યા નથી કે જેનો એકમનો અંક 8 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ કે 2 નો ઘન 8 થાય છે. 2³ = 8, 12³ = 1728)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 નો ઘન 8 થાય અને 8 નો ઘન કરો તો છેલ્લે 2 આવે. (2 ↔ 8 જોડી યાદ રાખો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બે અંકોની સંખ્યાનો ઘન કરતાં મળતી સંખ્યા ત્રણ અંકોની હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બે અંકની સૌથી નાની સંખ્યા 10 છે, તેનો ઘન 1000 થાય જે ચાર અંકોની સંખ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10³ = 1000 (લઘુત્તમ 4 અંક). બે અંકની સંખ્યાનો ઘન ક્યારેય 3 અંકનો ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બે અંકોની સંખ્યાનો ઘન સાત કે તેથી વધુ અંકોની સંખ્યા પણ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બે અંકની સૌથી મોટી સંખ્યા 99 છે, તેનો ઘન 970,299 થાય જે છ અંકોની સંખ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અંકની સંખ્યાનો ઘન વધુમાં વધુ 6 અંકનો જ હોય (99³ < 100³ = 1,000,000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક અંકની સંખ્યાનો ઘન કરવાથી એક અંકની સંખ્યા પણ મળી શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (દા.ત. 1³ = 1 અને 2³ = 8 જે એક અંકની સંખ્યાઓ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 અને 2 ના ઘન અપવાદરૂપે એક અંકના જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1729 એ સૌથી નાની હાર્ડી-રામાનુજન સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1729 ને બે રીતે બે સંખ્યાઓના ઘનના સરવાળા તરીકે દર્શાવી શકાય છે: 12³+1³ અને 10³+9³)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેક્સી કેબ નંબર = 1729 = રામાનુજન નંબર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંખ્યાના એકમનો અંક 3 હોય તો તેના ઘનનો એકમનો અંક 7 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (3³ = 27, તેથી એકમનો અંક 7 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ↔ 7 ની જોડી યાદ રાખવી. 3 હોય તો 7 આવે, 7 હોય તો 3 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કોઈપણ પૂર્ણઘન સંખ્યાનો એકમનો અંક 4 હોઈ શકે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ કે 4 નો ઘન 64 છે, જેનો એકમનો અંક 4 છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0, 1, 4, 5, 6, 9 સંખ્યાઓનો ઘન કરો તો એકમનો અંક તે પોતે જ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "8000 એ પૂર્ણઘન સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (8 નું ઘનમૂળ 2 અને ત્રણ શૂન્યનું એક શૂન્ય, એટલે કે 8000 = 20³)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંક પૂર્ણઘન હોય અને શૂન્ય 3 ના જૂથમાં હોય તો તે પૂર્ણઘન હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બધી જ બેકી સંખ્યાઓના ઘન એકી સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બેકી સંખ્યાનો ઘન હંમેશા બેકી જ હોય. દા.ત. 4³ = 64)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જેવો સંગ તેવો રંગ' - બેકીનો ઘન બેકી, એકીનો ઘન એકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "1000 નું ઘનમૂળ 10 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (10 × 10 × 10 = 1000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનમૂળમાં 3 શૂન્યના બદલે 1 શૂન્ય બહાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઋણ સંખ્યાનો ઘન હંમેશા ધન સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઋણ સંખ્યાનો ઘન હંમેશા ઋણ જ હોય. દા.ત. (-2)³ = -8)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 3 (એકી) હોય તો માઈનસની નિશાની રહે જ. (- × - × - = -)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "512 એ 8 નો ઘન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (8 × 8 × 8 = 512)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 10 ના ઘન મોઢે રાખવા પરીક્ષામાં ખૂબ કામ લાગશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો સંખ્યાનો એકમનો અંક 2 હોય, તો તેના ઘનનો એકમનો અંક 8 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (2³ = 8, 12³ = 1728)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 અને 8 એકબીજાના 'ઘનમિત્રો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "9 ના ઘનનો એકમનો અંક 1 હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (9 નો ઘન 729 છે, જેનો એકમનો અંક 9 છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 ના ઘનમાં 9 જ આવે (9³ = 729).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોઈ સંખ્યાના અવિભાજ્ય અવયવીકરણમાં દરેક અવયવ 3 વાર આવે તો તે પૂર્ણઘન હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (પૂર્ણઘન હોવા માટે અવયવોની 'ત્રિપુટી' (Triplets) હોવી અનિવાર્ય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણવર્ગમાં બબ્બેની જોડી, પૂર્ણઘનમાં ત્રણ-ત્રણની ટોળી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "0.1 નો ઘન 0.01 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (0.1³ = 0.1 × 0.1 × 0.1 = 0.001 થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ સ્થળ ઘનમાં 3 ગણા થઈ જાય. 1 સ્થળ હોય તો 3 સ્થળ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "216 નું ઘનમૂળ 6 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (6 × 6 × 6 = 216)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમનો અંક 6 હોય તો ઘનમૂળ પણ 6 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "100 એ પૂર્ણઘન સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (100 એ પૂર્ણવર્ગ છે પણ પૂર્ણઘન નથી. પૂર્ણઘન માટે 3 શૂન્ય જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 = 10², 1000 = 10³. યાદ રાખવું: શૂન્ય હંમેશા 3 ના પાડામાં હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંખ્યા 1331 એ 11 નો ઘન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (11 × 11 × 11 = 1331)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11 ના ઘનમાં 1-3-3-1 એવી સપ્રમાણ પેટર્ન જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઘનમૂળ શોધવાની સંકેત √ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઘનમૂળનો સંકેત ∛ છે. √ એ વર્ગમૂળનો સંકેત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન એટલે 3 ઘાત, એટલે વર્ગમૂળની નિશાનીના ખાંચામાં 3 લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સંખ્યા 5 ના ઘનનો એકમનો અંક 5 જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (5³ = 125, 15³ = 3375)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 નો કોઈપણ ઘાત કરો, છેલ્લે તો 5 જ આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જે સંખ્યાનો એકમનો અંક 7 હોય તેના ઘનનો એકમનો અંક 3 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (7³ = 343)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ છે ને? 3 અને 7 ની પાકી મિત્રતા (જોડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "125000 એ પૂર્ણઘન સંખ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (125 એ 5 નો ઘન છે અને ત્રણ શૂન્ય છે, એટલે કે 50³ = 125000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંક ચેક કરો (125=5³) અને શૂન્ય ચેક કરો (3 છે). બંને ઓકે એટલે પૂર્ણઘન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ક્રમિક એકી સંખ્યાઓના સરવાળાથી પૂર્ણઘન સંખ્યા મેળવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1=1³, 3+5=2³, 7+9+11=3³... આ એક પ્રખ્યાત પેટર્ન છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી સંખ્યાનો ઘન કરવો હોય એટલી ક્રમિક એકી સંખ્યા ઉમેરતા જાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સૌથી નાની પૂર્ણઘન પ્રાકૃતિક સંખ્યા 0 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સૌથી નાની 'પ્રાકૃતિક' સંખ્યા 1 છે, તેથી 1³ = 1 સૌથી નાની પૂર્ણઘન પ્રાકૃતિક સંખ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાકૃતિક સંખ્યા હંમેશા 1 થી શરૂ થાય, 0 થી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સંખ્યા 4 ના ઘનનો એકમનો અંક 4 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (4³ = 64)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 અને 6 અંકમાં ક્યારેય છેતરાવું નહીં. 4 નો ઘન 4 જ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "10³ + 9³ એ 1729 નો એક ઉકેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (1000 + 729 = 1729)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામાનુજન અંક 1729 ના બે ભાગ: (12,1) અને (10,9).</p></div>"
+    }
+  ]
+}
